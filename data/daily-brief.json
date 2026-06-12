@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T19:29:26.258193Z",
+  "generated_at": "2026-06-12T21:16:26.606379Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,14 +57,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8804,
-      "importance": 0.8804,
-      "importance_score": 0.8804,
+      "score": 0.8655,
+      "importance": 0.8655,
+      "importance_score": 0.8655,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8519,
+        "recency": 0.7776,
         "story_heat": 0.25
       },
       "category": "official",
@@ -119,14 +119,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8326,
-      "importance": 0.8326,
-      "importance_score": 0.8326,
+      "score": 0.8177,
+      "importance": 0.8177,
+      "importance_score": 0.8177,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.858,
+        "recency": 0.7837,
         "story_heat": 0.0
       },
       "category": "official",
@@ -199,14 +199,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8042,
-      "importance": 0.8042,
-      "importance_score": 0.8042,
+      "score": 0.7893,
+      "importance": 0.7893,
+      "importance_score": 0.7893,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.836,
+        "recency": 0.7617,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -260,14 +260,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.785,
-      "importance": 0.785,
-      "importance_score": 0.785,
+      "score": 0.7701,
+      "importance": 0.7701,
+      "importance_score": 0.7701,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.865,
+        "recency": 0.7907,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -320,14 +320,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7679,
-      "importance": 0.7679,
-      "importance_score": 0.7679,
+      "score": 0.753,
+      "importance": 0.753,
+      "importance_score": 0.753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7795,
+        "recency": 0.7052,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -399,21 +399,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
+      "score": 0.7472,
+      "importance": 0.7472,
+      "importance_score": 0.7472,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6254,
+        "recency": 0.5511,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-12T10:30:01Z",
       "latest_at": "2026-06-12T10:47:24.683000Z",
@@ -479,21 +478,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7579,
-      "importance": 0.7579,
-      "importance_score": 0.7579,
+      "score": 0.743,
+      "importance": 0.743,
+      "importance_score": 0.743,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6046,
+        "recency": 0.5302,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-12T10:00:00Z",
       "latest_at": "2026-06-12T10:00:00Z",
@@ -540,14 +538,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
+      "score": 0.7265,
+      "importance": 0.7265,
+      "importance_score": 0.7265,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6469,
+        "recency": 0.5726,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -599,14 +597,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7351,
-      "importance": 0.7351,
-      "importance_score": 0.7351,
+      "score": 0.7203,
+      "importance": 0.7203,
+      "importance_score": 0.7203,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6157,
+        "recency": 0.5414,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -658,14 +656,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
+      "score": 0.7265,
+      "importance": 0.7265,
+      "importance_score": 0.7265,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6469,
+        "recency": 0.5726,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -680,122 +678,6 @@
         "url": "https://www.aibase.com/news/28892",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_397f7cdf88e0",
-      "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器",
-      "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-      "primary_url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f477d3a9344bd037de644134f9ef815e5590d0c8",
-          "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器",
-          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T22:23:17Z"
-        },
-        {
-          "id": "7a0befc00623be120d658dbbea4fe5223b6ce434",
-          "title": "我们来玩个游戏吧？——在95%的模拟中，大型语言模型都会使用战术核武器",
-          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-          "source": "www.kennethpayne.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-11T22:23:17.154000Z"
-        },
-        {
-          "id": "a1e03371b6e48457831c4d57ca178ed9e7344d62",
-          "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器 / Shall we play a game? My AI nuclear simulation",
-          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-11T19:54:54Z"
-        },
-        {
-          "id": "dc27af65a8007267722a7b61bf2c8bbbff03b705",
-          "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器 / Shall we play a game? – LLMs use tactical nukes in 95% of simulations",
-          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-11T19:54:54Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.kennethpayne.uk"
-      ],
-      "items": [
-        {
-          "id": "f477d3a9344bd037de644134f9ef815e5590d0c8",
-          "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器",
-          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T22:23:17Z"
-        },
-        {
-          "id": "7a0befc00623be120d658dbbea4fe5223b6ce434",
-          "title": "我们来玩个游戏吧？——在95%的模拟中，大型语言模型都会使用战术核武器",
-          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-          "source": "www.kennethpayne.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-11T22:23:17.154000Z"
-        },
-        {
-          "id": "a1e03371b6e48457831c4d57ca178ed9e7344d62",
-          "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器 / Shall we play a game? My AI nuclear simulation",
-          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-11T19:54:54Z"
-        },
-        {
-          "id": "dc27af65a8007267722a7b61bf2c8bbbff03b705",
-          "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器 / Shall we play a game? – LLMs use tactical nukes in 95% of simulations",
-          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-11T19:54:54Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.7111,
-      "importance": 0.7111,
-      "importance_score": 0.7111,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.1207,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-11T19:54:54Z",
-      "latest_at": "2026-06-11T22:23:17.154000Z",
-      "primary_item": {
-        "id": "f477d3a9344bd037de644134f9ef815e5590d0c8",
-        "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器",
-        "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -833,14 +715,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
+      "score": 0.7265,
+      "importance": 0.7265,
+      "importance_score": 0.7265,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6469,
+        "recency": 0.5726,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -855,6 +737,85 @@
         "url": "https://www.aibase.com/news/28890",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_397f7cdf88e0",
+      "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器",
+      "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+      "primary_url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f477d3a9344bd037de644134f9ef815e5590d0c8",
+          "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器",
+          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-11T22:23:17Z"
+        },
+        {
+          "id": "7a0befc00623be120d658dbbea4fe5223b6ce434",
+          "title": "我们来玩个游戏吧？——在95%的模拟中，大型语言模型都会使用战术核武器",
+          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+          "source": "www.kennethpayne.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-11T22:23:17.154000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.kennethpayne.uk"
+      ],
+      "items": [
+        {
+          "id": "f477d3a9344bd037de644134f9ef815e5590d0c8",
+          "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器",
+          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-11T22:23:17Z"
+        },
+        {
+          "id": "7a0befc00623be120d658dbbea4fe5223b6ce434",
+          "title": "我们来玩个游戏吧？——在95%的模拟中，大型语言模型都会使用战术核武器",
+          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+          "source": "www.kennethpayne.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-11T22:23:17.154000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6463,
+      "importance": 0.6463,
+      "importance_score": 0.6463,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.0464,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-11T22:23:17Z",
+      "latest_at": "2026-06-11T22:23:17.154000Z",
+      "primary_item": {
+        "id": "f477d3a9344bd037de644134f9ef815e5590d0c8",
+        "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器",
+        "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -892,14 +853,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
+      "score": 0.7265,
+      "importance": 0.7265,
+      "importance_score": 0.7265,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6469,
+        "recency": 0.5726,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -951,14 +912,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
+      "score": 0.7265,
+      "importance": 0.7265,
+      "importance_score": 0.7265,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6469,
+        "recency": 0.5726,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1010,14 +971,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
+      "score": 0.7265,
+      "importance": 0.7265,
+      "importance_score": 0.7265,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6469,
+        "recency": 0.5726,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1032,6 +993,103 @@
         "url": "https://www.aibase.com/news/28884",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_06a13336d0cd",
+      "title": "“你直接上传到ChatGPT不就行了？”",
+      "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt",
+      "primary_url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt",
+      "source": "correresmidestino.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3c13cebc012f070b25e8549a41a4008f99c2c614",
+          "title": "“你直接上传到ChatGPT不就行了？”",
+          "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt",
+          "source": "correresmidestino.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-12T19:46:25.124000Z"
+        },
+        {
+          "id": "441d832f138a7493ebafed056fba615dd7fb1903",
+          "title": "“你不直接上传到ChatGPT吗？” / \"Don't You Just Upload It to ChatGPT?\"",
+          "url": "https://news.ycombinator.com/item?id=48507278",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-12T19:19:35.198000Z"
+        },
+        {
+          "id": "d7412cd4fd197c297bfd70b158baf014363358b1",
+          "title": "“你直接上传到ChatGPT不就行了？” / \"Don't You Just Upload It to ChatGPT?\"",
+          "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-12T17:52:46Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "correresmidestino.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "3c13cebc012f070b25e8549a41a4008f99c2c614",
+          "title": "“你直接上传到ChatGPT不就行了？”",
+          "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt",
+          "source": "correresmidestino.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-12T19:46:25.124000Z"
+        },
+        {
+          "id": "441d832f138a7493ebafed056fba615dd7fb1903",
+          "title": "“你不直接上传到ChatGPT吗？” / \"Don't You Just Upload It to ChatGPT?\"",
+          "url": "https://news.ycombinator.com/item?id=48507278",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-12T19:19:35.198000Z"
+        },
+        {
+          "id": "d7412cd4fd197c297bfd70b158baf014363358b1",
+          "title": "“你直接上传到ChatGPT不就行了？” / \"Don't You Just Upload It to ChatGPT?\"",
+          "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-12T17:52:46Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5605,
+      "importance": 0.5605,
+      "importance_score": 0.5605,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9375,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-12T17:52:46Z",
+      "latest_at": "2026-06-12T19:46:25.124000Z",
+      "primary_item": {
+        "id": "3c13cebc012f070b25e8549a41a4008f99c2c614",
+        "title": "“你直接上传到ChatGPT不就行了？”",
+        "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt",
+        "source": "correresmidestino.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1107,14 +1165,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5642,
-      "importance": 0.5642,
-      "importance_score": 0.5642,
+      "score": 0.5493,
+      "importance": 0.5493,
+      "importance_score": 0.5493,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.956,
+        "recency": 0.8817,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1166,14 +1224,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
+      "score": 0.7265,
+      "importance": 0.7265,
+      "importance_score": 0.7265,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6469,
+        "recency": 0.5726,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1191,81 +1249,81 @@
       }
     },
     {
-      "story_id": "story_06a13336d0cd",
-      "title": "“你不直接上传到ChatGPT吗？” / \"Don't You Just Upload It to ChatGPT?\"",
-      "url": "https://news.ycombinator.com/item?id=48507278",
-      "primary_url": "https://news.ycombinator.com/item?id=48507278",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_3860f2df3dea",
+      "title": "谷歌起诉中国利用 Gemini AI 发送诈骗短信的网络犯罪行为 / Google Sues Chinese Cybercrime Operation That Used Gemini AI To Send Scam Texts",
+      "url": "https://yro.slashdot.org/story/26/06/12/186250/google-sues-chinese-cybercrime-operation-that-used-gemini-ai-to-send-scam-texts",
+      "primary_url": "https://yro.slashdot.org/story/26/06/12/186250/google-sues-chinese-cybercrime-operation-that-used-gemini-ai-to-send-scam-texts",
+      "source": "Slashdot (科技资讯)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "441d832f138a7493ebafed056fba615dd7fb1903",
-          "title": "“你不直接上传到ChatGPT吗？” / \"Don't You Just Upload It to ChatGPT?\"",
-          "url": "https://news.ycombinator.com/item?id=48507278",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-12T19:19:35.198000Z"
+          "id": "90bc803c94c0d02ffdfcc8e2df0d8eb3877252ec",
+          "title": "谷歌起诉中国利用 Gemini AI 发送诈骗短信的网络犯罪行为 / Google Sues Chinese Cybercrime Operation That Used Gemini AI To Send Scam Texts",
+          "url": "https://yro.slashdot.org/story/26/06/12/186250/google-sues-chinese-cybercrime-operation-that-used-gemini-ai-to-send-scam-texts",
+          "source": "Slashdot (科技资讯)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-12T20:00:00Z"
         },
         {
-          "id": "d7412cd4fd197c297bfd70b158baf014363358b1",
-          "title": "“你不直接上传到ChatGPT吗？” / \"Don't You Just Upload It to ChatGPT?\"",
-          "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-12T17:52:46Z"
+          "id": "024011fde753eb61f834ffd2843605dcfb0dffb7",
+          "title": "谷歌起诉涉嫌使用人工智能发送诈骗短信的中国网络犯罪行为 / Google sues alleged Chinese cybercrime operation that used AI to send scam texts",
+          "url": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-12T17:26:08Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
+        "Slashdot (科技资讯)",
+        "TechCrunch"
       ],
       "items": [
         {
-          "id": "441d832f138a7493ebafed056fba615dd7fb1903",
-          "title": "“你不直接上传到ChatGPT吗？” / \"Don't You Just Upload It to ChatGPT?\"",
-          "url": "https://news.ycombinator.com/item?id=48507278",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-12T19:19:35.198000Z"
+          "id": "90bc803c94c0d02ffdfcc8e2df0d8eb3877252ec",
+          "title": "谷歌起诉中国利用 Gemini AI 发送诈骗短信的网络犯罪行为 / Google Sues Chinese Cybercrime Operation That Used Gemini AI To Send Scam Texts",
+          "url": "https://yro.slashdot.org/story/26/06/12/186250/google-sues-chinese-cybercrime-operation-that-used-gemini-ai-to-send-scam-texts",
+          "source": "Slashdot (科技资讯)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-12T20:00:00Z"
         },
         {
-          "id": "d7412cd4fd197c297bfd70b158baf014363358b1",
-          "title": "“你不直接上传到ChatGPT吗？” / \"Don't You Just Upload It to ChatGPT?\"",
-          "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-12T17:52:46Z"
+          "id": "024011fde753eb61f834ffd2843605dcfb0dffb7",
+          "title": "谷歌起诉涉嫌使用人工智能发送诈骗短信的中国网络犯罪行为 / Google sues alleged Chinese cybercrime operation that used AI to send scam texts",
+          "url": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-12T17:26:08Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5466,
-      "importance": 0.5466,
-      "importance_score": 0.5466,
+      "score": 0.5374,
+      "importance": 0.5374,
+      "importance_score": 0.5374,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9932,
+        "recency": 0.9469,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-12T17:52:46Z",
-      "latest_at": "2026-06-12T19:19:35.198000Z",
+      "earliest_at": "2026-06-12T17:26:08Z",
+      "latest_at": "2026-06-12T20:00:00Z",
       "primary_item": {
-        "id": "441d832f138a7493ebafed056fba615dd7fb1903",
-        "title": "“你不直接上传到ChatGPT吗？” / \"Don't You Just Upload It to ChatGPT?\"",
-        "url": "https://news.ycombinator.com/item?id=48507278",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "90bc803c94c0d02ffdfcc8e2df0d8eb3877252ec",
+        "title": "谷歌起诉中国利用 Gemini AI 发送诈骗短信的网络犯罪行为 / Google Sues Chinese Cybercrime Operation That Used Gemini AI To Send Scam Texts",
+        "url": "https://yro.slashdot.org/story/26/06/12/186250/google-sues-chinese-cybercrime-operation-that-used-gemini-ai-to-send-scam-texts",
+        "source": "Slashdot (科技资讯)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -1322,14 +1380,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5325,
-      "importance": 0.5325,
-      "importance_score": 0.5325,
+      "score": 0.5177,
+      "importance": 0.5177,
+      "importance_score": 0.5177,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9226,
+        "recency": 0.8483,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1344,65 +1402,6 @@
         "url": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket",
         "source": "arstechnica.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_db46da724f40",
-      "title": "讯飞医疗正式发布星火医疗大模型V3.5",
-      "url": "https://www.aibase.com/news/28893",
-      "primary_url": "https://www.aibase.com/news/28893",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d859906b8949fdcaf167d7b6b45ceac395c4abe9",
-          "title": "讯飞医疗正式发布星火医疗大模型V3.5",
-          "url": "https://www.aibase.com/news/28893",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T11:00:59.299873Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d859906b8949fdcaf167d7b6b45ceac395c4abe9",
-          "title": "讯飞医疗正式发布星火医疗大模型V3.5",
-          "url": "https://www.aibase.com/news/28893",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T11:00:59.299873Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6469,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-12T11:00:59.299873Z",
-      "latest_at": "2026-06-12T11:00:59.299873Z",
-      "primary_item": {
-        "id": "d859906b8949fdcaf167d7b6b45ceac395c4abe9",
-        "title": "讯飞医疗正式发布星火医疗大模型V3.5",
-        "url": "https://www.aibase.com/news/28893",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
