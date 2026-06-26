@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-26T10:51:21.158421Z",
+  "generated_at": "2026-06-26T13:11:22.078140Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260626-2051-52f0-b397-2717dcda1ca3&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260626-2051-52f0-b397-2717dcda1ca3&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260626-2311-5092-8d48-6b975f7750cd&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260626-2311-5092-8d48-6b975f7750cd&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "824f0f509ce20da72a0233cba1dacb92a8cab532",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-2311-5092-8d48-6b975f7750cd&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "ba64d9ad7cbe15ec2254d7b66155bee096b8dd21",
           "title": "点击这里进入 / Click here to enter",
@@ -87,15 +96,6 @@
           "id": "c32d58d2d5411410e552bf3562fe920b1392c4c6",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260625-2336-31a9-91bf-8e62c879480c&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "63af65e942faa74efaa2ff875212695942464762",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260625-2115-3865-88c2-c6c80efd9a2e&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -108,6 +108,15 @@
       ],
       "items": [
         {
+          "id": "824f0f509ce20da72a0233cba1dacb92a8cab532",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-2311-5092-8d48-6b975f7750cd&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "ba64d9ad7cbe15ec2254d7b66155bee096b8dd21",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260626-2051-52f0-b397-2717dcda1ca3&fp=-3",
@@ -183,15 +192,6 @@
           "id": "c32d58d2d5411410e552bf3562fe920b1392c4c6",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260625-2336-31a9-91bf-8e62c879480c&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "63af65e942faa74efaa2ff875212695942464762",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260625-2115-3865-88c2-c6c80efd9a2e&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -216,18 +216,79 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-25T11:15:09.235532Z",
-      "latest_at": "2026-06-26T10:51:21.158421Z",
+      "earliest_at": "2026-06-25T13:36:03.185620Z",
+      "latest_at": "2026-06-26T13:11:22.078140Z",
       "primary_item": {
-        "id": "ba64d9ad7cbe15ec2254d7b66155bee096b8dd21",
+        "id": "824f0f509ce20da72a0233cba1dacb92a8cab532",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260626-2051-52f0-b397-2717dcda1ca3&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260626-2311-5092-8d48-6b975f7750cd&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_84a6b22bc6e7",
+      "story_id": "story_eaa14c52b6e0",
+      "title": "GitHub Desktop 3.6：工作树和更深入的 Copilot 集成 / GitHub Desktop 3.6: Worktrees and deeper Copilot integration",
+      "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+      "primary_url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d0bdbb32d3273eeba43fbee056df49ad15963f4e",
+          "title": "GitHub Desktop 3.6：工作树和更深入的 Copilot 集成 / GitHub Desktop 3.6: Worktrees and deeper Copilot integration",
+          "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-26T10:32:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "d0bdbb32d3273eeba43fbee056df49ad15963f4e",
+          "title": "GitHub Desktop 3.6：工作树和更深入的 Copilot 集成 / GitHub Desktop 3.6: Worktrees and deeper Copilot integration",
+          "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-26T10:32:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.851,
+      "importance": 0.851,
+      "importance_score": 0.851,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.89,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-26T10:32:58Z",
+      "latest_at": "2026-06-26T10:32:58Z",
+      "primary_item": {
+        "id": "d0bdbb32d3273eeba43fbee056df49ad15963f4e",
+        "title": "GitHub Desktop 3.6：工作树和更深入的 Copilot 集成 / GitHub Desktop 3.6: Worktrees and deeper Copilot integration",
+        "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_dfc61ad06edf",
       "title": "OpenAI Codex个人用户用量暴增 137 倍，AI编程已走出程序员圈子",
       "url": "https://www.aibase.com/news/29198",
       "primary_url": "https://www.aibase.com/news/29198",
@@ -280,14 +341,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8122,
-      "importance": 0.8122,
-      "importance_score": 0.8122,
+      "score": 0.7928,
+      "importance": 0.7928,
+      "importance_score": 0.7928,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8761,
+        "recency": 0.7788,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -341,14 +402,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9028,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -401,14 +462,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7742,
-      "importance": 0.7742,
-      "importance_score": 0.7742,
+      "score": 0.7547,
+      "importance": 0.7547,
+      "importance_score": 0.7547,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5058,
+        "recency": 0.4086,
         "story_heat": 0.0
       },
       "category": "official",
@@ -462,20 +523,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7689,
-      "importance": 0.7689,
-      "importance_score": 0.7689,
+      "score": 0.7494,
+      "importance": 0.7494,
+      "importance_score": 0.7494,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7844,
+        "recency": 0.6872,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-26T05:40:52Z",
       "latest_at": "2026-06-26T05:40:52Z",
@@ -485,67 +545,6 @@
         "url": "https://aihot.virxact.com/items/cmquitk6o04qnsl805yictrvb",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_cc97c2cd299c",
-      "title": "Copilot 代码审查：分析深度和效率更新 / Copilot code review: Analysis depth and efficiency updates",
-      "url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
-      "primary_url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "21911b12003d8f4100254e885cc65209d21983f8",
-          "title": "Copilot 代码审查：分析深度和效率更新 / Copilot code review: Analysis depth and efficiency updates",
-          "url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T21:41:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "21911b12003d8f4100254e885cc65209d21983f8",
-          "title": "Copilot 代码审查：分析深度和效率更新 / Copilot code review: Analysis depth and efficiency updates",
-          "url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T21:41:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.4514,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-25T21:41:18Z",
-      "latest_at": "2026-06-25T21:41:18Z",
-      "primary_item": {
-        "id": "21911b12003d8f4100254e885cc65209d21983f8",
-        "title": "Copilot 代码审查：分析深度和效率更新 / Copilot code review: Analysis depth and efficiency updates",
-        "url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -583,14 +582,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9028,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -609,139 +608,21 @@
       }
     },
     {
-      "story_id": "story_4baaebd0e477",
-      "title": "Claude Code 6个实用Hook玩法",
-      "url": "https://aihot.virxact.com/items/cmquanuro02prsl8053rbhfjl",
-      "primary_url": "https://aihot.virxact.com/items/cmquanuro02prsl8053rbhfjl",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5faac4931e599991303536d1fd6c8ec82605fea7",
-          "title": "Claude Code 6个实用Hook玩法",
-          "url": "https://aihot.virxact.com/items/cmquanuro02prsl8053rbhfjl",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T02:02:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "5faac4931e599991303536d1fd6c8ec82605fea7",
-          "title": "Claude Code 6个实用Hook玩法",
-          "url": "https://aihot.virxact.com/items/cmquanuro02prsl8053rbhfjl",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T02:02:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7385,
-      "importance": 0.7385,
-      "importance_score": 0.7385,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6324,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-26T02:02:00Z",
-      "latest_at": "2026-06-26T02:02:00Z",
-      "primary_item": {
-        "id": "5faac4931e599991303536d1fd6c8ec82605fea7",
-        "title": "Claude Code 6个实用Hook玩法",
-        "url": "https://aihot.virxact.com/items/cmquanuro02prsl8053rbhfjl",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7c6b9936b816",
-      "title": "小互开源个人IP配图技能\"小互IP Studio\"，含31个原创角色",
-      "url": "https://aihot.virxact.com/items/cmqu93tek02e2sl80iom0bica",
-      "primary_url": "https://aihot.virxact.com/items/cmqu93tek02e2sl80iom0bica",
-      "source": "X：小互 (@xiaohu)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c0693b626768ee7b1d9e3a215536ef577a689179",
-          "title": "小互开源个人IP配图技能\"小互IP Studio\"，含31个原创角色",
-          "url": "https://aihot.virxact.com/items/cmqu93tek02e2sl80iom0bica",
-          "source": "X：小互 (@xiaohu)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T01:26:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：小互 (@xiaohu)"
-      ],
-      "items": [
-        {
-          "id": "c0693b626768ee7b1d9e3a215536ef577a689179",
-          "title": "小互开源个人IP配图技能\"小互IP Studio\"，含31个原创角色",
-          "url": "https://aihot.virxact.com/items/cmqu93tek02e2sl80iom0bica",
-          "source": "X：小互 (@xiaohu)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T01:26:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7335,
-      "importance": 0.7335,
-      "importance_score": 0.7335,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6077,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-26T01:26:23Z",
-      "latest_at": "2026-06-26T01:26:23Z",
-      "primary_item": {
-        "id": "c0693b626768ee7b1d9e3a215536ef577a689179",
-        "title": "小互开源个人IP配图技能\"小互IP Studio\"，含31个原创角色",
-        "url": "https://aihot.virxact.com/items/cmqu93tek02e2sl80iom0bica",
-        "source": "X：小互 (@xiaohu)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0dfa7e4bd23b",
-      "title": "企业管理的设置现在支持 VS Code 和 GitHub Copilot CLI 中的 strictKnownMarketplaces / Enterprise-managed settings now support strictKnownMarketplaces in VS Code and GitHub Copilot CLI",
-      "url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
-      "primary_url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
+      "story_id": "story_cc97c2cd299c",
+      "title": "Copilot 代码审查：分析深度和效率更新 / Copilot code review: Analysis depth and efficiency updates",
+      "url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
+      "primary_url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "7033636f928ed08bd94d362116c72d6dd8154517",
-          "title": "企业管理的设置现在支持 VS Code 和 GitHub Copilot CLI 中的 strictKnownMarketplaces / Enterprise-managed settings now support strictKnownMarketplaces in VS Code and GitHub Copilot CLI",
-          "url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
+          "id": "21911b12003d8f4100254e885cc65209d21983f8",
+          "title": "Copilot 代码审查：分析深度和效率更新 / Copilot code review: Analysis depth and efficiency updates",
+          "url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-25T21:30:42Z"
+          "published_at": "2026-06-25T21:41:18Z"
         }
       ],
       "source_count": 1,
@@ -750,39 +631,38 @@
       ],
       "items": [
         {
-          "id": "7033636f928ed08bd94d362116c72d6dd8154517",
-          "title": "企业管理的设置现在支持 VS Code 和 GitHub Copilot CLI 中的 strictKnownMarketplaces / Enterprise-managed settings now support strictKnownMarketplaces in VS Code and GitHub Copilot CLI",
-          "url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
+          "id": "21911b12003d8f4100254e885cc65209d21983f8",
+          "title": "Copilot 代码审查：分析深度和效率更新 / Copilot code review: Analysis depth and efficiency updates",
+          "url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-25T21:30:42Z"
+          "published_at": "2026-06-25T21:41:18Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
+      "score": 0.7438,
+      "importance": 0.7438,
+      "importance_score": 0.7438,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.444,
+        "recency": 0.3541,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-25T21:30:42Z",
-      "latest_at": "2026-06-25T21:30:42Z",
+      "earliest_at": "2026-06-25T21:41:18Z",
+      "latest_at": "2026-06-25T21:41:18Z",
       "primary_item": {
-        "id": "7033636f928ed08bd94d362116c72d6dd8154517",
-        "title": "企业管理的设置现在支持 VS Code 和 GitHub Copilot CLI 中的 strictKnownMarketplaces / Enterprise-managed settings now support strictKnownMarketplaces in VS Code and GitHub Copilot CLI",
-        "url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
+        "id": "21911b12003d8f4100254e885cc65209d21983f8",
+        "title": "Copilot 代码审查：分析深度和效率更新 / Copilot code review: Analysis depth and efficiency updates",
+        "url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -822,20 +702,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
+      "score": 0.7407,
+      "importance": 0.7407,
+      "importance_score": 0.7407,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7407,
+        "recency": 0.6435,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-26T04:37:58Z",
       "latest_at": "2026-06-26T04:37:58Z",
@@ -882,14 +761,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9028,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -905,6 +784,66 @@
         "url": "https://www.aibase.com/news/29199",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_0dfa7e4bd23b",
+      "title": "企业管理的设置现在支持 VS Code 和 GitHub Copilot CLI 中的 strictKnownMarketplaces / Enterprise-managed settings now support strictKnownMarketplaces in VS Code and GitHub Copilot CLI",
+      "url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
+      "primary_url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7033636f928ed08bd94d362116c72d6dd8154517",
+          "title": "企业管理的设置现在支持 VS Code 和 GitHub Copilot CLI 中的 strictKnownMarketplaces / Enterprise-managed settings now support strictKnownMarketplaces in VS Code and GitHub Copilot CLI",
+          "url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-25T21:30:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "7033636f928ed08bd94d362116c72d6dd8154517",
+          "title": "企业管理的设置现在支持 VS Code 和 GitHub Copilot CLI 中的 strictKnownMarketplaces / Enterprise-managed settings now support strictKnownMarketplaces in VS Code and GitHub Copilot CLI",
+          "url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-25T21:30:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7424,
+      "importance": 0.7424,
+      "importance_score": 0.7424,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.3468,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-25T21:30:42Z",
+      "latest_at": "2026-06-25T21:30:42Z",
+      "primary_item": {
+        "id": "7033636f928ed08bd94d362116c72d6dd8154517",
+        "title": "企业管理的设置现在支持 VS Code 和 GitHub Copilot CLI 中的 strictKnownMarketplaces / Enterprise-managed settings now support strictKnownMarketplaces in VS Code and GitHub Copilot CLI",
+        "url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -942,14 +881,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9028,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -965,66 +904,6 @@
         "url": "https://www.aibase.com/news/29205",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c6eeafaa2096",
-      "title": "存储库问题的保存视图 - 项目中的公共预览和可调整行高 / Saved views for repository issues – Public Preview and adjustable row heights in projects",
-      "url": "https://github.blog/changelog/2026-06-25-saved-views-for-repository-issues-and-adjustable-row-heights-in-projects",
-      "primary_url": "https://github.blog/changelog/2026-06-25-saved-views-for-repository-issues-and-adjustable-row-heights-in-projects",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "72f6ceb3f689a36757f63b413500110865d86e1a",
-          "title": "存储库问题的保存视图 - 项目中的公共预览和可调整行高 / Saved views for repository issues – Public Preview and adjustable row heights in projects",
-          "url": "https://github.blog/changelog/2026-06-25-saved-views-for-repository-issues-and-adjustable-row-heights-in-projects",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T18:29:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "72f6ceb3f689a36757f63b413500110865d86e1a",
-          "title": "存储库问题的保存视图 - 项目中的公共预览和可调整行高 / Saved views for repository issues – Public Preview and adjustable row heights in projects",
-          "url": "https://github.blog/changelog/2026-06-25-saved-views-for-repository-issues-and-adjustable-row-heights-in-projects",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T18:29:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7246,
-      "importance": 0.7246,
-      "importance_score": 0.7246,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.3178,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-25T18:29:01Z",
-      "latest_at": "2026-06-25T18:29:01Z",
-      "primary_item": {
-        "id": "72f6ceb3f689a36757f63b413500110865d86e1a",
-        "title": "存储库问题的保存视图 - 项目中的公共预览和可调整行高 / Saved views for repository issues – Public Preview and adjustable row heights in projects",
-        "url": "https://github.blog/changelog/2026-06-25-saved-views-for-repository-issues-and-adjustable-row-heights-in-projects",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1062,14 +941,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9028,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1085,66 +964,6 @@
         "url": "https://www.aibase.com/news/29201",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_43bc8b14a9a3",
-      "title": "更好地控制 GitHub 托管的运行器 / More control over your GitHub-hosted runners",
-      "url": "https://github.blog/changelog/2026-06-25-more-control-over-your-github-hosted-runners",
-      "primary_url": "https://github.blog/changelog/2026-06-25-more-control-over-your-github-hosted-runners",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0e61ac1ebaa0afa1f5ff9d67844c5253e8f99072",
-          "title": "更好地控制 GitHub 托管的运行器 / More control over your GitHub-hosted runners",
-          "url": "https://github.blog/changelog/2026-06-25-more-control-over-your-github-hosted-runners",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T18:16:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "0e61ac1ebaa0afa1f5ff9d67844c5253e8f99072",
-          "title": "更好地控制 GitHub 托管的运行器 / More control over your GitHub-hosted runners",
-          "url": "https://github.blog/changelog/2026-06-25-more-control-over-your-github-hosted-runners",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T18:16:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7229,
-      "importance": 0.7229,
-      "importance_score": 0.7229,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.3093,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-25T18:16:46Z",
-      "latest_at": "2026-06-25T18:16:46Z",
-      "primary_item": {
-        "id": "0e61ac1ebaa0afa1f5ff9d67844c5253e8f99072",
-        "title": "更好地控制 GitHub 托管的运行器 / More control over your GitHub-hosted runners",
-        "url": "https://github.blog/changelog/2026-06-25-more-control-over-your-github-hosted-runners",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1182,14 +1001,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9028,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1208,80 +1027,100 @@
       }
     },
     {
-      "story_id": "story_99d213ebfa6b",
-      "title": "AI确实可以用任何手段、写任何东西，但你得是个“中年老登”",
-      "url": "https://www.infoq.cn/article/l2lF7aoPeLGlotlX1tdt",
-      "primary_url": "https://www.infoq.cn/article/l2lF7aoPeLGlotlX1tdt",
-      "source": "InfoQ CN",
-      "source_name": "OPML RSS",
+      "story_id": "story_1f3c1784acfd",
+      "title": "美国政府将逐一审批谁能获得GPT 5.6",
+      "url": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56",
+      "primary_url": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56",
+      "source": "old.reddit.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "56c8d5ce4930b0d985abcf0ef6e41de433c48c10",
-          "title": "AI确实可以用任何手段、写任何东西，但你得是个“中年老登”",
-          "url": "https://www.infoq.cn/article/l2lF7aoPeLGlotlX1tdt",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-06-26T18:18:18Z"
+          "id": "0997d8eeaebcd9214e2621d12be825f3d02d67ee",
+          "title": "美国政府将逐一审批谁能获得GPT 5.6",
+          "url": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56",
+          "source": "old.reddit.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T12:27:53.292000Z"
         },
         {
-          "id": "b865665fe4c83d38b572600ab501eb9fbc9fde26",
-          "title": "AI可以用任何手段、写任何东西，但你得是个“中年老登”",
-          "url": "https://www.infoq.cn/article/l2lF7aoPeLGlotlX1tdt",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-06-25T12:12:13Z"
+          "id": "6cbff037779b9186c6eedd09321aa57ecf165842",
+          "title": "美国政府将单独批准谁获得 GPT 5.6 / US Govt to individually approve who gets GPT 5.6",
+          "url": "https://news.ycombinator.com/item?id=48683021",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-26T07:40:11.996000Z"
+        },
+        {
+          "id": "52c63cf73c7b38e8794b7da7672443984b8567fc",
+          "title": "美国政府将逐一审批谁能获得GPT 5.6 / US Govt to individually approve who gets GPT 5.6",
+          "url": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-26T06:24:39Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "InfoQ CN"
+        "Hacker News",
+        "hackernews",
+        "old.reddit.com"
       ],
       "items": [
         {
-          "id": "56c8d5ce4930b0d985abcf0ef6e41de433c48c10",
-          "title": "AI确实可以用任何手段、写任何东西，但你得是个“中年老登”",
-          "url": "https://www.infoq.cn/article/l2lF7aoPeLGlotlX1tdt",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-06-26T18:18:18Z"
+          "id": "0997d8eeaebcd9214e2621d12be825f3d02d67ee",
+          "title": "美国政府将逐一审批谁能获得GPT 5.6",
+          "url": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56",
+          "source": "old.reddit.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T12:27:53.292000Z"
         },
         {
-          "id": "b865665fe4c83d38b572600ab501eb9fbc9fde26",
-          "title": "AI可以用任何手段、写任何东西，但你得是个“中年老登”",
-          "url": "https://www.infoq.cn/article/l2lF7aoPeLGlotlX1tdt",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-06-25T12:12:13Z"
+          "id": "6cbff037779b9186c6eedd09321aa57ecf165842",
+          "title": "美国政府将单独批准谁获得 GPT 5.6 / US Govt to individually approve who gets GPT 5.6",
+          "url": "https://news.ycombinator.com/item?id=48683021",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-26T07:40:11.996000Z"
+        },
+        {
+          "id": "52c63cf73c7b38e8794b7da7672443984b8567fc",
+          "title": "美国政府将逐一审批谁能获得GPT 5.6 / US Govt to individually approve who gets GPT 5.6",
+          "url": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-26T06:24:39Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.626,
-      "importance": 0.626,
-      "importance_score": 0.626,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.567,
+      "importance": 0.567,
+      "importance_score": 0.567,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 1.0,
-        "story_heat": 0.25
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9698,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-25T12:12:13Z",
-      "latest_at": "2026-06-26T18:18:18Z",
+      "earliest_at": "2026-06-26T06:24:39Z",
+      "latest_at": "2026-06-26T12:27:53.292000Z",
       "primary_item": {
-        "id": "56c8d5ce4930b0d985abcf0ef6e41de433c48c10",
-        "title": "AI确实可以用任何手段、写任何东西，但你得是个“中年老登”",
-        "url": "https://www.infoq.cn/article/l2lF7aoPeLGlotlX1tdt",
-        "source": "InfoQ CN",
-        "source_name": "OPML RSS"
+        "id": "0997d8eeaebcd9214e2621d12be825f3d02d67ee",
+        "title": "美国政府将逐一审批谁能获得GPT 5.6",
+        "url": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56",
+        "source": "old.reddit.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1319,14 +1158,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7872,
-      "importance": 0.7872,
-      "importance_score": 0.7872,
+      "score": 0.7678,
+      "importance": 0.7678,
+      "importance_score": 0.7678,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8761,
+        "recency": 0.7788,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1345,30 +1184,30 @@
       }
     },
     {
-      "story_id": "story_fabf2f7ee1ee",
-      "title": "字节与 Anthropic 打响 AI 制药暗战",
-      "url": "https://www.tmtpost.com/8042870.html",
-      "primary_url": "https://www.tmtpost.com/8042870.html",
+      "story_id": "story_7082193c2490",
+      "title": "Meta 得了「AI 精神病」",
+      "url": "https://www.huxiu.com/article/4870741.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4870741.html?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "1f4dd6c0b4a5211d232dde0b7a00cbe4d5664e81",
-          "title": "字节与 Anthropic 打响 AI 制药暗战",
-          "url": "https://www.tmtpost.com/8042870.html",
+          "id": "1ab6808b6ab1f391e4f65c046a27f4a2b5505b57",
+          "title": "Meta 得了「AI 精神病」",
+          "url": "https://www.huxiu.com/article/4870741.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "934768e32a6156983900ec4c66c8dc22705d0dab",
-          "title": "字节与Anthropic打响AI制药暗战",
-          "url": "https://www.huxiu.com/article/4870664.html?f=rss",
+          "id": "601bb4eb06bb2300ba6af2ff03b04561c316213c",
+          "title": "Meta得了“AI精神病”",
+          "url": "https://www.huxiu.com/article/4870741.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-26T09:45:20Z"
+          "published_at": "2026-06-26T12:23:16Z"
         }
       ],
       "source_count": 2,
@@ -1378,22 +1217,22 @@
       ],
       "items": [
         {
-          "id": "1f4dd6c0b4a5211d232dde0b7a00cbe4d5664e81",
-          "title": "字节与 Anthropic 打响 AI 制药暗战",
-          "url": "https://www.tmtpost.com/8042870.html",
+          "id": "1ab6808b6ab1f391e4f65c046a27f4a2b5505b57",
+          "title": "Meta 得了「AI 精神病」",
+          "url": "https://www.huxiu.com/article/4870741.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "934768e32a6156983900ec4c66c8dc22705d0dab",
-          "title": "字节与Anthropic打响AI制药暗战",
-          "url": "https://www.huxiu.com/article/4870664.html?f=rss",
+          "id": "601bb4eb06bb2300ba6af2ff03b04561c316213c",
+          "title": "Meta得了“AI精神病”",
+          "url": "https://www.huxiu.com/article/4870741.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-26T09:45:20Z"
+          "published_at": "2026-06-26T12:23:16Z"
         }
       ],
       "item_count": 2,
@@ -1412,14 +1251,249 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-26T09:45:20Z",
-      "latest_at": "2026-06-26T10:51:21.158421Z",
+      "earliest_at": "2026-06-26T12:23:16Z",
+      "latest_at": "2026-06-26T13:11:22.078140Z",
       "primary_item": {
-        "id": "1f4dd6c0b4a5211d232dde0b7a00cbe4d5664e81",
-        "title": "字节与 Anthropic 打响 AI 制药暗战",
-        "url": "https://www.tmtpost.com/8042870.html",
+        "id": "1ab6808b6ab1f391e4f65c046a27f4a2b5505b57",
+        "title": "Meta 得了「AI 精神病」",
+        "url": "https://www.huxiu.com/article/4870741.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_570535801b2f",
+      "title": "一位招聘公司首席执行官表示，在人工智能招聘市场中脱颖而出的最佳方式，可能出人意料地有些老派。",
+      "url": "https://www.businessinsider.com/recruitment-ceo-old-school-job-hunting-beat-ai-reed-2026-6",
+      "primary_url": "https://www.businessinsider.com/recruitment-ceo-old-school-job-hunting-beat-ai-reed-2026-6",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0dc7a9617e68e08a29125ec9a0e8bc390081361b",
+          "title": "一位招聘公司首席执行官表示，在人工智能招聘市场中脱颖而出的最佳方式，可能出人意料地有些老派。",
+          "url": "https://www.businessinsider.com/recruitment-ceo-old-school-job-hunting-beat-ai-reed-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T11:39:48.505000Z"
+        },
+        {
+          "id": "f4337f57470e048c6074a26d4d9cfa14a46d98ea",
+          "title": "一位招聘公司首席执行官表示，在人工智能招聘市场中脱颖而出的最佳方式，可能出人意料地有些老派。 / The best way to stand out in an AI hiring market may be surprisingly old-fashioned, a recruitment CEO says",
+          "url": "https://www.businessinsider.com/recruitment-ceo-old-school-job-hunting-beat-ai-reed-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-26T11:17:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "0dc7a9617e68e08a29125ec9a0e8bc390081361b",
+          "title": "一位招聘公司首席执行官表示，在人工智能招聘市场中脱颖而出的最佳方式，可能出人意料地有些老派。",
+          "url": "https://www.businessinsider.com/recruitment-ceo-old-school-job-hunting-beat-ai-reed-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T11:39:48.505000Z"
+        },
+        {
+          "id": "f4337f57470e048c6074a26d4d9cfa14a46d98ea",
+          "title": "一位招聘公司首席执行官表示，在人工智能招聘市场中脱颖而出的最佳方式，可能出人意料地有些老派。 / The best way to stand out in an AI hiring market may be surprisingly old-fashioned, a recruitment CEO says",
+          "url": "https://www.businessinsider.com/recruitment-ceo-old-school-job-hunting-beat-ai-reed-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-26T11:17:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5353,
+      "importance": 0.5353,
+      "importance_score": 0.5353,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9364,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-26T11:17:28Z",
+      "latest_at": "2026-06-26T11:39:48.505000Z",
+      "primary_item": {
+        "id": "0dc7a9617e68e08a29125ec9a0e8bc390081361b",
+        "title": "一位招聘公司首席执行官表示，在人工智能招聘市场中脱颖而出的最佳方式，可能出人意料地有些老派。",
+        "url": "https://www.businessinsider.com/recruitment-ceo-old-school-job-hunting-beat-ai-reed-2026-6",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_ea75d6f61369",
+      "title": "国产大模型再进化：Kimi 瞄准全球顶尖梯队，下一代 K3 蓄势待发",
+      "url": "https://www.aibase.com/news/29195",
+      "primary_url": "https://www.aibase.com/news/29195",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "41986884a8cdcddad3fa7ad2b51d4d6976144bb6",
+          "title": "国产大模型再进化：Kimi 瞄准全球顶尖梯队，下一代 K3 蓄势待发",
+          "url": "https://www.aibase.com/news/29195",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-26T07:52:52.355645Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "41986884a8cdcddad3fa7ad2b51d4d6976144bb6",
+          "title": "国产大模型再进化：Kimi 瞄准全球顶尖梯队，下一代 K3 蓄势待发",
+          "url": "https://www.aibase.com/news/29195",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-26T07:52:52.355645Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7678,
+      "importance": 0.7678,
+      "importance_score": 0.7678,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7788,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-26T07:52:52.355645Z",
+      "latest_at": "2026-06-26T07:52:52.355645Z",
+      "primary_item": {
+        "id": "41986884a8cdcddad3fa7ad2b51d4d6976144bb6",
+        "title": "国产大模型再进化：Kimi 瞄准全球顶尖梯队，下一代 K3 蓄势待发",
+        "url": "https://www.aibase.com/news/29195",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_fd09fb114011",
+      "title": "2000 人试图破解我的人工智能助手后发生了什么 / What happened after 2k people tried to hack my AI assistant",
+      "url": "https://news.ycombinator.com/item?id=48681687",
+      "primary_url": "https://news.ycombinator.com/item?id=48681687",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "195830d389bdc88cd1c03dd0178cd0be27ed66a0",
+          "title": "2000 人试图破解我的人工智能助手后发生了什么 / What happened after 2k people tried to hack my AI assistant",
+          "url": "https://news.ycombinator.com/item?id=48681687",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-26T07:40:11.996000Z"
+        },
+        {
+          "id": "ba02cfa55cc104906b0d286aec01a06f26f5c39f",
+          "title": "2000人试图黑入我的AI助手后发生了什么",
+          "url": "https://www.fernandoi.cl/posts/hackmyclaw",
+          "source": "www.fernandoi.cl",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T07:23:50.924000Z"
+        },
+        {
+          "id": "3f254b714fae2e007b182f43aa1cae74c387e24e",
+          "title": "2000人试图黑入我的AI助手后发生了什么 / What happened after 2k people tried to hack my AI assistant",
+          "url": "https://www.fernandoi.cl/posts/hackmyclaw",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-26T02:29:23Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "www.fernandoi.cl"
+      ],
+      "items": [
+        {
+          "id": "195830d389bdc88cd1c03dd0178cd0be27ed66a0",
+          "title": "2000 人试图破解我的人工智能助手后发生了什么 / What happened after 2k people tried to hack my AI assistant",
+          "url": "https://news.ycombinator.com/item?id=48681687",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-26T07:40:11.996000Z"
+        },
+        {
+          "id": "ba02cfa55cc104906b0d286aec01a06f26f5c39f",
+          "title": "2000人试图黑入我的AI助手后发生了什么",
+          "url": "https://www.fernandoi.cl/posts/hackmyclaw",
+          "source": "www.fernandoi.cl",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T07:23:50.924000Z"
+        },
+        {
+          "id": "3f254b714fae2e007b182f43aa1cae74c387e24e",
+          "title": "2000人试图黑入我的AI助手后发生了什么 / What happened after 2k people tried to hack my AI assistant",
+          "url": "https://www.fernandoi.cl/posts/hackmyclaw",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-26T02:29:23Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.527,
+      "importance": 0.527,
+      "importance_score": 0.527,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.77,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-26T02:29:23Z",
+      "latest_at": "2026-06-26T07:40:11.996000Z",
+      "primary_item": {
+        "id": "195830d389bdc88cd1c03dd0178cd0be27ed66a0",
+        "title": "2000 人试图破解我的人工智能助手后发生了什么 / What happened after 2k people tried to hack my AI assistant",
+        "url": "https://news.ycombinator.com/item?id=48681687",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
