@@ -1,8 +1,145 @@
 {
-  "generated_at": "2026-07-01T03:55:21.590387Z",
+  "generated_at": "2026-07-01T08:17:27.694107Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_ff1300aa6cce",
+      "title": "Anthropic重新部署Claude Fable 5与Mythos 5",
+      "url": "https://www.anthropic.com/news/redeploying-fable-5",
+      "primary_url": "https://www.anthropic.com/news/redeploying-fable-5",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "10613bdd35cd31d96830cbff3d308aa166a54f0d",
+          "title": "Anthropic重新部署Claude Fable 5与Mythos 5",
+          "url": "https://www.anthropic.com/news/redeploying-fable-5",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T07:38:10.804000Z"
+        },
+        {
+          "id": "8fe25b023b6fa11f5bba73f4c2fdeb5c6f4ba753",
+          "title": "重新部署《Fable 5》",
+          "url": "https://www.anthropic.com/news/redeploying-fable-5",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-01T07:38:10.804000Z"
+        },
+        {
+          "id": "dc9ca79df6948a980fe87c1de26f43dc53dfb898",
+          "title": "重新部署《克劳德·法布尔 5》",
+          "url": "https://www.anthropic.com/news/redeploying-fable-5",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-01T06:34:13.073000Z"
+        },
+        {
+          "id": "c8275a5949fda2678fed07621b78314e8b820828",
+          "title": "重新部署《克劳德·法布尔 5》 / Redeploying Claude Fable 5",
+          "url": "https://www.anthropic.com/news/redeploying-fable-5",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-01T06:24:06Z"
+        },
+        {
+          "id": "25fa127293f0b04bf42d27f3be42b806266acde5",
+          "title": "重新部署《克劳德·法布尔 5》 / Redeploying Fable 5",
+          "url": "https://www.anthropic.com/news/redeploying-fable-5",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-01T03:11:40Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Lobsters (技术社区)",
+        "www.anthropic.com"
+      ],
+      "items": [
+        {
+          "id": "10613bdd35cd31d96830cbff3d308aa166a54f0d",
+          "title": "Anthropic重新部署Claude Fable 5与Mythos 5",
+          "url": "https://www.anthropic.com/news/redeploying-fable-5",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T07:38:10.804000Z"
+        },
+        {
+          "id": "8fe25b023b6fa11f5bba73f4c2fdeb5c6f4ba753",
+          "title": "重新部署《Fable 5》",
+          "url": "https://www.anthropic.com/news/redeploying-fable-5",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-01T07:38:10.804000Z"
+        },
+        {
+          "id": "dc9ca79df6948a980fe87c1de26f43dc53dfb898",
+          "title": "重新部署《克劳德·法布尔 5》",
+          "url": "https://www.anthropic.com/news/redeploying-fable-5",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-01T06:34:13.073000Z"
+        },
+        {
+          "id": "c8275a5949fda2678fed07621b78314e8b820828",
+          "title": "重新部署《克劳德·法布尔 5》 / Redeploying Claude Fable 5",
+          "url": "https://www.anthropic.com/news/redeploying-fable-5",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-01T06:24:06Z"
+        },
+        {
+          "id": "25fa127293f0b04bf42d27f3be42b806266acde5",
+          "title": "重新部署《克劳德·法布尔 5》 / Redeploying Fable 5",
+          "url": "https://www.anthropic.com/news/redeploying-fable-5",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-01T03:11:40Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.8839,
+      "importance": 0.8839,
+      "importance_score": 0.8839,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9906,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T03:11:40Z",
+      "latest_at": "2026-07-01T07:38:10.804000Z",
+      "primary_item": {
+        "id": "10613bdd35cd31d96830cbff3d308aa166a54f0d",
+        "title": "Anthropic重新部署Claude Fable 5与Mythos 5",
+        "url": "https://www.anthropic.com/news/redeploying-fable-5",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_91992ed9f82d",
       "title": "法典 CLI 0.142.5 / Codex CLI 0.142.5",
@@ -38,15 +175,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8561,
-      "importance": 0.8561,
-      "importance_score": 0.8561,
+      "score": 0.8457,
+      "importance": 0.8457,
+      "importance_score": 0.8457,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9449,
+        "recency": 0.8872,
         "story_heat": 0.0
       },
       "category": "official",
@@ -119,15 +256,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8486,
-      "importance": 0.8486,
-      "importance_score": 0.8486,
+      "score": 0.8394,
+      "importance": 0.8394,
+      "importance_score": 0.8394,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8424,
+        "recency": 0.7909,
         "story_heat": 0.25
       },
       "category": "official",
@@ -144,68 +281,6 @@
         "title": "Google DeepMind 发布 Nano Banana 2 Lite 和 Gemini Omni Flash / Start building with Nano Banana 2 Lite and Gemini Omni Flash",
         "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash",
         "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_8654826289ec",
-      "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-      "primary_url": "https://huggingface.co/blog/ibm-research/scarfbench",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b166af0b386e2c9eb68e80320f4ae1df613895f9",
-          "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-          "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T18:32:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "b166af0b386e2c9eb68e80320f4ae1df613895f9",
-          "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-          "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T18:32:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8432,
-      "importance": 0.8432,
-      "importance_score": 0.8432,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.8734,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T18:32:50Z",
-      "latest_at": "2026-06-30T18:32:50Z",
-      "primary_item": {
-        "id": "b166af0b386e2c9eb68e80320f4ae1df613895f9",
-        "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-        "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -263,15 +338,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.842,
-      "importance": 0.842,
-      "importance_score": 0.842,
+      "score": 0.8336,
+      "importance": 0.8336,
+      "importance_score": 0.8336,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7609,
+        "recency": 0.7144,
         "story_heat": 0.25
       },
       "category": "official",
@@ -288,6 +363,68 @@
         "title": "OpenAI Signals 数据揭示 ChatGPT 全球采用趋势 / How ChatGPT adoption has expanded",
         "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_8654826289ec",
+      "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "primary_url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b166af0b386e2c9eb68e80320f4ae1df613895f9",
+          "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+          "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T18:32:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "b166af0b386e2c9eb68e80320f4ae1df613895f9",
+          "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+          "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T18:32:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8336,
+      "importance": 0.8336,
+      "importance_score": 0.8336,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.82,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T18:32:50Z",
+      "latest_at": "2026-06-30T18:32:50Z",
+      "primary_item": {
+        "id": "b166af0b386e2c9eb68e80320f4ae1df613895f9",
+        "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+        "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -326,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8347,
-      "importance": 0.8347,
-      "importance_score": 0.8347,
+      "score": 0.8252,
+      "importance": 0.8252,
+      "importance_score": 0.8252,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8594,
+        "recency": 0.8069,
         "story_heat": 0.0
       },
       "category": "official",
@@ -426,15 +563,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8207,
-      "importance": 0.8207,
-      "importance_score": 0.8207,
+      "score": 0.8111,
+      "importance": 0.8111,
+      "importance_score": 0.8111,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8669,
+        "recency": 0.8139,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -507,15 +644,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8191,
-      "importance": 0.8191,
-      "importance_score": 0.8191,
+      "score": 0.8087,
+      "importance": 0.8087,
+      "importance_score": 0.8087,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9474,
+        "recency": 0.8895,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -531,6 +668,87 @@
         "title": "Anthropic在Claude Code中植入隐写术代码识别中国用户",
         "url": "https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw",
         "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e7110ebabb37",
+      "title": "美团 LongCat-2.0 正式发布：国产算力集群训练的万亿参数大模型",
+      "url": "https://mp.weixin.qq.com/s/9XFcx3fmFcmbry5bHMJsow",
+      "primary_url": "https://mp.weixin.qq.com/s/9XFcx3fmFcmbry5bHMJsow",
+      "source": "公众号：龙猫LongCat（美团）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ca1ced8a81ccf8cd86d14c65e131efd2440a42ce",
+          "title": "美团 LongCat-2.0 正式发布：国产算力集群训练的万亿参数大模型",
+          "url": "https://mp.weixin.qq.com/s/9XFcx3fmFcmbry5bHMJsow",
+          "source": "公众号：龙猫LongCat（美团）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T02:24:00Z"
+        },
+        {
+          "id": "319f9f643d2043180402a849d05e50165b6c152a",
+          "title": "美团 LongCat-2.0 正式发布：在国产算力集群上完成全流程训练与推理的万亿参数模型",
+          "url": "https://tech.meituan.com/2026/06/30/LongCat2.0.html",
+          "source": "美团技术团队 (Meituan Tech)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "公众号：龙猫LongCat（美团）",
+        "美团技术团队 (Meituan Tech)"
+      ],
+      "items": [
+        {
+          "id": "ca1ced8a81ccf8cd86d14c65e131efd2440a42ce",
+          "title": "美团 LongCat-2.0 正式发布：国产算力集群训练的万亿参数大模型",
+          "url": "https://mp.weixin.qq.com/s/9XFcx3fmFcmbry5bHMJsow",
+          "source": "公众号：龙猫LongCat（美团）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T02:24:00Z"
+        },
+        {
+          "id": "319f9f643d2043180402a849d05e50165b6c152a",
+          "title": "美团 LongCat-2.0 正式发布：在国产算力集群上完成全流程训练与推理的万亿参数模型",
+          "url": "https://tech.meituan.com/2026/06/30/LongCat2.0.html",
+          "source": "美团技术团队 (Meituan Tech)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8079,
+      "importance": 0.8079,
+      "importance_score": 0.8079,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9184,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T02:24:00Z",
+      "latest_at": "2026-07-01T08:17:27.694107Z",
+      "primary_item": {
+        "id": "ca1ced8a81ccf8cd86d14c65e131efd2440a42ce",
+        "title": "美团 LongCat-2.0 正式发布：国产算力集群训练的万亿参数大模型",
+        "url": "https://mp.weixin.qq.com/s/9XFcx3fmFcmbry5bHMJsow",
+        "source": "公众号：龙猫LongCat（美团）",
         "source_name": "AI HOT"
       }
     },
@@ -569,15 +787,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8286,
-      "importance": 0.8286,
-      "importance_score": 0.8286,
+      "score": 0.8195,
+      "importance": 0.8195,
+      "importance_score": 0.8195,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8256,
+        "recency": 0.7751,
         "story_heat": 0.0
       },
       "category": "official",
@@ -650,15 +868,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7954,
-      "importance": 0.7954,
-      "importance_score": 0.7954,
+      "score": 0.7859,
+      "importance": 0.7859,
+      "importance_score": 0.7859,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8658,
+        "recency": 0.8129,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -675,68 +893,6 @@
         "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.197",
         "source": "Claude Code：GitHub Releases（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6e98bdfa6975",
-      "title": "开启英国的下一个生产力时代：建设一个人工智能开拓者的国家 / Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers",
-      "primary_url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d71d9560b266e5a6aaaa26573c2cd3472f551bcd",
-          "title": "开启英国的下一个生产力时代：建设一个人工智能开拓者的国家 / Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T06:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "d71d9560b266e5a6aaaa26573c2cd3472f551bcd",
-          "title": "开启英国的下一个生产力时代：建设一个人工智能开拓者的国家 / Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T06:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7952,
-      "importance": 0.7952,
-      "importance_score": 0.7952,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7286,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T06:00:00Z",
-      "latest_at": "2026-06-30T06:00:00Z",
-      "primary_item": {
-        "id": "d71d9560b266e5a6aaaa26573c2cd3472f551bcd",
-        "title": "开启英国的下一个生产力时代：建设一个人工智能开拓者的国家 / Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-        "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -774,15 +930,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8235,
-      "importance": 0.8235,
-      "importance_score": 0.8235,
+      "score": 0.8143,
+      "importance": 0.8143,
+      "importance_score": 0.8143,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8419,
+        "recency": 0.7904,
         "story_heat": 0.0
       },
       "category": "official",
@@ -855,15 +1011,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7816,
+      "importance": 0.7816,
+      "importance_score": 0.7816,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9389,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -936,15 +1092,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.782,
-      "importance": 0.782,
-      "importance_score": 0.782,
+      "score": 0.7717,
+      "importance": 0.7717,
+      "importance_score": 0.7717,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9412,
+        "recency": 0.8837,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -998,15 +1154,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7698,
-      "importance": 0.7698,
-      "importance_score": 0.7698,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9621,
+        "recency": 0.9033,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1078,15 +1234,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7683,
-      "importance": 0.7683,
-      "importance_score": 0.7683,
+      "score": 0.7588,
+      "importance": 0.7588,
+      "importance_score": 0.7588,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.865,
+        "recency": 0.8121,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1140,15 +1296,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9253,
+        "recency": 0.8687,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1201,15 +1357,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8171,
-      "importance": 0.8171,
-      "importance_score": 0.8171,
+      "score": 0.8077,
+      "importance": 0.8077,
+      "importance_score": 0.8077,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8505,
+        "recency": 0.7985,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1282,15 +1438,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
+      "score": 0.7394,
+      "importance": 0.7394,
+      "importance_score": 0.7394,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.786,
+        "recency": 0.738,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1309,123 +1465,64 @@
       }
     },
     {
-      "story_id": "story_ea75cbc697c1",
-      "title": "用 shot-scraper video 让 AI 智能体录制工作演示视频",
-      "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video",
-      "primary_url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video",
-      "source": "Simon Willison 博客",
-      "source_name": "AI HOT",
+      "story_id": "story_aa2171452c3f",
+      "title": "AI芯片独角兽Etched 融资成功，估值飙升至50亿美元！",
+      "url": "https://www.aibase.com/news/29301",
+      "primary_url": "https://www.aibase.com/news/29301",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "05239e6ad111231fdc74d5d787317cdba652d506",
-          "title": "用 shot-scraper video 让 AI 智能体录制工作演示视频",
-          "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T16:54:26Z"
+          "id": "a97732d64b55e64c777fe5f883fad2b69f0d9aff",
+          "title": "AI芯片独角兽Etched 融资成功，估值飙升至50亿美元！",
+          "url": "https://www.aibase.com/news/29301",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-01T08:17:27.694107Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Simon Willison 博客"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "05239e6ad111231fdc74d5d787317cdba652d506",
-          "title": "用 shot-scraper video 让 AI 智能体录制工作演示视频",
-          "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T16:54:26Z"
+          "id": "a97732d64b55e64c777fe5f883fad2b69f0d9aff",
+          "title": "AI芯片独角兽Etched 融资成功，估值飙升至50亿美元！",
+          "url": "https://www.aibase.com/news/29301",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-01T08:17:27.694107Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7441,
-      "importance": 0.7441,
-      "importance_score": 0.7441,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8529,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-30T16:54:26Z",
-      "latest_at": "2026-06-30T16:54:26Z",
-      "primary_item": {
-        "id": "05239e6ad111231fdc74d5d787317cdba652d506",
-        "title": "用 shot-scraper video 让 AI 智能体录制工作演示视频",
-        "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video",
-        "source": "Simon Willison 博客",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b799958215d9",
-      "title": "Claude Code 入门：智能体循环",
-      "url": "https://claude.com/blog/getting-started-with-loops",
-      "primary_url": "https://claude.com/blog/getting-started-with-loops",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5831629f32ee1ae8f700ba8df358b55e67e2b7f0",
-          "title": "Claude Code 入门：智能体循环",
-          "url": "https://claude.com/blog/getting-started-with-loops",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T17:28:28.530000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "5831629f32ee1ae8f700ba8df358b55e67e2b7f0",
-          "title": "Claude Code 入门：智能体循环",
-          "url": "https://claude.com/blog/getting-started-with-loops",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T17:28:28.530000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7424,
-      "importance": 0.7424,
-      "importance_score": 0.7424,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.86,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-06-30T17:28:28.530000Z",
-      "latest_at": "2026-06-30T17:28:28.530000Z",
+      "earliest_at": "2026-07-01T08:17:27.694107Z",
+      "latest_at": "2026-07-01T08:17:27.694107Z",
       "primary_item": {
-        "id": "5831629f32ee1ae8f700ba8df358b55e67e2b7f0",
-        "title": "Claude Code 入门：智能体循环",
-        "url": "https://claude.com/blog/getting-started-with-loops",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
+        "id": "a97732d64b55e64c777fe5f883fad2b69f0d9aff",
+        "title": "AI芯片独角兽Etched 融资成功，估值飙升至50亿美元！",
+        "url": "https://www.aibase.com/news/29301",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
