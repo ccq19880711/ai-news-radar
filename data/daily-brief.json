@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T13:51:18.298685Z",
+  "generated_at": "2026-07-05T15:16:14.771742Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7776,
-      "importance": 0.7776,
-      "importance_score": 0.7776,
+      "score": 0.7743,
+      "importance": 0.7743,
+      "importance_score": 0.7743,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9168,
+        "recency": 0.8982,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -86,13 +86,40 @@
     },
     {
       "story_id": "story_2df82173bb28",
-      "title": "大多数人每天都在使用ChatGPT和Claude，却完全不知道它们究竟是怎么构建出来的。只有一小部分人理解那个精确的流程：它如何把原始互联网文本变成一个能够写作、推理和编程的模型。一旦理解这个流程，你也能从零构建自己的 LLM。",
+      "title": "Pincus 是 Zynga 创始人，也经历过 Web、社交网络、移动游戏三轮计算平台变化。他的新书《Life at the Speed of Play》总结的是一套产品和创始人打法。今天的 PM、创业者和 AI 产品团队读这期，最有用的部分，是一个冷门命题被讲清楚了：当投资人都在看企业 AI，消费产品团队应该怎样判断时机、设计新产品、撑过没有共识的早期。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-07-04",
+      "source": "社区更新 · 2026-07-05",
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "893612912fa5c7c925508d78c6f07c061042b85d",
+          "title": "Pincus 是 Zynga 创始人，也经历过 Web、社交网络、移动游戏三轮计算平台变化。他的新书《Life at the Speed of Play》总结的是一套产品和创始人打法。今天的 PM、创业者和 AI 产品团队读这期，最有用的部分，是一个冷门命题被讲清楚了：当投资人都在看企业 AI，消费产品团队应该怎样判断时机、设计新产品、撑过没有共识的早期。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-05",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-05T15:16:14.771742Z"
+        },
+        {
+          "id": "b6fb13bc6400a1e232fc2f954f8e82103e806cd1",
+          "title": "不少开发者用 Codex 产出大量半成品项目，因为缺少版本管理反复重做白白浪费精力。芋头小宝这套零基础GitHub实操方案完美解决了项目杂乱丢失的问题。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-05",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-05T15:16:14.771742Z"
+        },
+        {
+          "id": "89974226a90f52cc5d37b5a7f3988f6203616ef9",
+          "title": "正在搭建团队、筹备AI赛道创业的管理者，这场与深度参与过字节、美团组织建设的人力负责人的访谈可以补齐组织管理与人才招聘的核心认知。不仅有轻量化创业管理、人才筛选谈判落地方法，还剖析了AI重构岗位分工带来的组织变革。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-05",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-05T15:16:14.771742Z"
+        },
+        {
           "id": "5d25e3a0ace188415c68bded793360491bbade8b",
           "title": "AI时代，Markdown已经成为AI的第一语言。但是各类Markdown工具要么收费、要么存在云端泄露数据等等问题。冷逸做了一个Markdown编辑器，开源免费，快来上手体验一下！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -138,12 +165,40 @@
           "published_at": "2026-07-04T18:05:22.734894Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 8,
       "source_names": [
-        "社区更新 · 2026-07-04"
+        "社区更新 · 2026-07-04",
+        "社区更新 · 2026-07-05"
       ],
       "items": [
         {
+          "id": "893612912fa5c7c925508d78c6f07c061042b85d",
+          "title": "Pincus 是 Zynga 创始人，也经历过 Web、社交网络、移动游戏三轮计算平台变化。他的新书《Life at the Speed of Play》总结的是一套产品和创始人打法。今天的 PM、创业者和 AI 产品团队读这期，最有用的部分，是一个冷门命题被讲清楚了：当投资人都在看企业 AI，消费产品团队应该怎样判断时机、设计新产品、撑过没有共识的早期。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-05",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-05T15:16:14.771742Z"
+        },
+        {
+          "id": "b6fb13bc6400a1e232fc2f954f8e82103e806cd1",
+          "title": "不少开发者用 Codex 产出大量半成品项目，因为缺少版本管理反复重做白白浪费精力。芋头小宝这套零基础GitHub实操方案完美解决了项目杂乱丢失的问题。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-05",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-05T15:16:14.771742Z"
+        },
+        {
+          "id": "89974226a90f52cc5d37b5a7f3988f6203616ef9",
+          "title": "正在搭建团队、筹备AI赛道创业的管理者，这场与深度参与过字节、美团组织建设的人力负责人的访谈可以补齐组织管理与人才招聘的核心认知。不仅有轻量化创业管理、人才筛选谈判落地方法，还剖析了AI重构岗位分工带来的组织变革。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-05",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-05T15:16:14.771742Z"
+        },
+        {
           "id": "5d25e3a0ace188415c68bded793360491bbade8b",
           "title": "AI时代，Markdown已经成为AI的第一语言。但是各类Markdown工具要么收费、要么存在云端泄露数据等等问题。冷逸做了一个Markdown编辑器，开源免费，快来上手体验一下！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -189,17 +244,17 @@
           "published_at": "2026-07-04T18:05:22.734894Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6495,
-      "importance": 0.6495,
-      "importance_score": 0.6495,
+      "item_count": 8,
+      "duplicate_count": 8,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.5112,
+        "editorial": 0.468,
         "source_tier": 0.54,
-        "ai_relevance": 0.71,
-        "recency": 0.7517,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -207,13 +262,92 @@
         "multi_source"
       ],
       "earliest_at": "2026-07-04T18:05:22.734894Z",
-      "latest_at": "2026-07-04T18:05:22.734894Z",
+      "latest_at": "2026-07-05T15:16:14.771742Z",
       "primary_item": {
-        "id": "92f7d898593aeb16900a5965794d4c6bd90d29cd",
-        "title": "大多数人每天都在使用ChatGPT和Claude，却完全不知道它们究竟是怎么构建出来的。只有一小部分人理解那个精确的流程：它如何把原始互联网文本变成一个能够写作、推理和编程的模型。一旦理解这个流程，你也能从零构建自己的 LLM。",
+        "id": "893612912fa5c7c925508d78c6f07c061042b85d",
+        "title": "Pincus 是 Zynga 创始人，也经历过 Web、社交网络、移动游戏三轮计算平台变化。他的新书《Life at the Speed of Play》总结的是一套产品和创始人打法。今天的 PM、创业者和 AI 产品团队读这期，最有用的部分，是一个冷门命题被讲清楚了：当投资人都在看企业 AI，消费产品团队应该怎样判断时机、设计新产品、撑过没有共识的早期。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-07-04",
+        "source": "社区更新 · 2026-07-05",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_d7e88052ae44",
+      "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
+      "url": "https://news.ycombinator.com/item?id=48793298",
+      "primary_url": "https://news.ycombinator.com/item?id=48793298",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "357be83223bf8a775dd349ab4908d405b32ff73a",
+          "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
+          "url": "https://news.ycombinator.com/item?id=48793298",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T15:17:07.430000Z"
+        },
+        {
+          "id": "89ebd91e13853e7391eb854e8c1987494f07f504",
+          "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
+          "url": "https://prediohq.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T11:30:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "357be83223bf8a775dd349ab4908d405b32ff73a",
+          "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
+          "url": "https://news.ycombinator.com/item?id=48793298",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T15:17:07.430000Z"
+        },
+        {
+          "id": "89ebd91e13853e7391eb854e8c1987494f07f504",
+          "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
+          "url": "https://prediohq.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T11:30:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T11:30:14Z",
+      "latest_at": "2026-07-05T15:17:07.430000Z",
+      "primary_item": {
+        "id": "357be83223bf8a775dd349ab4908d405b32ff73a",
+        "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
+        "url": "https://news.ycombinator.com/item?id=48793298",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -269,15 +403,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5422,
+      "importance": 0.5422,
+      "importance_score": 0.5422,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9798,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -348,15 +482,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5409,
-      "importance": 0.5409,
-      "importance_score": 0.5409,
+      "score": 0.5373,
+      "importance": 0.5373,
+      "importance_score": 0.5373,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9727,
+        "recency": 0.953,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -370,85 +504,6 @@
         "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim /      awesome-claude-code",
         "url": "https://github.com/hesreallyhim/awesome-claude-code",
         "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_44de5f528adc",
-      "title": "克劳德设计系统提示 / Claude Design System Prompt",
-      "url": "https://news.ycombinator.com/item?id=48792399",
-      "primary_url": "https://news.ycombinator.com/item?id=48792399",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "fcf645aa0c889b567ca58d551d3a8bc4dac81a97",
-          "title": "克劳德设计系统提示 / Claude Design System Prompt",
-          "url": "https://news.ycombinator.com/item?id=48792399",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T11:45:00.018000Z"
-        },
-        {
-          "id": "f87a36d546cd99be1223bb000e95ea2562d07032",
-          "title": "克劳德设计系统提示 / Claude Design System Prompt",
-          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T08:43:37Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "fcf645aa0c889b567ca58d551d3a8bc4dac81a97",
-          "title": "克劳德设计系统提示 / Claude Design System Prompt",
-          "url": "https://news.ycombinator.com/item?id=48792399",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T11:45:00.018000Z"
-        },
-        {
-          "id": "f87a36d546cd99be1223bb000e95ea2562d07032",
-          "title": "克劳德设计系统提示 / Claude Design System Prompt",
-          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T08:43:37Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5404,
-      "importance": 0.5404,
-      "importance_score": 0.5404,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9701,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T08:43:37Z",
-      "latest_at": "2026-07-05T11:45:00.018000Z",
-      "primary_item": {
-        "id": "fcf645aa0c889b567ca58d551d3a8bc4dac81a97",
-        "title": "克劳德设计系统提示 / Claude Design System Prompt",
-        "url": "https://news.ycombinator.com/item?id=48792399",
-        "source": "hackernews",
         "source_name": "NewsNow"
       }
     },
@@ -506,15 +561,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5394,
-      "importance": 0.5394,
-      "importance_score": 0.5394,
+      "score": 0.5358,
+      "importance": 0.5358,
+      "importance_score": 0.5358,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9642,
+        "recency": 0.9447,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -604,15 +659,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5379,
-      "importance": 0.5379,
-      "importance_score": 0.5379,
+      "score": 0.5349,
+      "importance": 0.5349,
+      "importance_score": 0.5349,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.817,
+        "recency": 0.8005,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -682,15 +737,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5231,
-      "importance": 0.5231,
-      "importance_score": 0.5231,
+      "score": 0.5199,
+      "importance": 0.5199,
+      "importance_score": 0.5199,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8738,
+        "recency": 0.8561,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -761,15 +816,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5409,
-      "importance": 0.5409,
-      "importance_score": 0.5409,
+      "score": 0.5373,
+      "importance": 0.5373,
+      "importance_score": 0.5373,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9726,
+        "recency": 0.9529,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -840,15 +895,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5409,
-      "importance": 0.5409,
-      "importance_score": 0.5409,
+      "score": 0.5373,
+      "importance": 0.5373,
+      "importance_score": 0.5373,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9727,
+        "recency": 0.953,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -862,6 +917,85 @@
         "title": "斯泰皮特 / CodexBar / steipete /      CodexBar",
         "url": "https://github.com/steipete/CodexBar",
         "source": "github",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_44de5f528adc",
+      "title": "克劳德设计系统提示 / Claude Design System Prompt",
+      "url": "https://news.ycombinator.com/item?id=48792399",
+      "primary_url": "https://news.ycombinator.com/item?id=48792399",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "fcf645aa0c889b567ca58d551d3a8bc4dac81a97",
+          "title": "克劳德设计系统提示 / Claude Design System Prompt",
+          "url": "https://news.ycombinator.com/item?id=48792399",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T11:45:00.018000Z"
+        },
+        {
+          "id": "f87a36d546cd99be1223bb000e95ea2562d07032",
+          "title": "克劳德设计系统提示 / Claude Design System Prompt",
+          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T08:43:37Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "fcf645aa0c889b567ca58d551d3a8bc4dac81a97",
+          "title": "克劳德设计系统提示 / Claude Design System Prompt",
+          "url": "https://news.ycombinator.com/item?id=48792399",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T11:45:00.018000Z"
+        },
+        {
+          "id": "f87a36d546cd99be1223bb000e95ea2562d07032",
+          "title": "克劳德设计系统提示 / Claude Design System Prompt",
+          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T08:43:37Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5369,
+      "importance": 0.5369,
+      "importance_score": 0.5369,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9504,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T08:43:37Z",
+      "latest_at": "2026-07-05T11:45:00.018000Z",
+      "primary_item": {
+        "id": "fcf645aa0c889b567ca58d551d3a8bc4dac81a97",
+        "title": "克劳德设计系统提示 / Claude Design System Prompt",
+        "url": "https://news.ycombinator.com/item?id=48792399",
+        "source": "hackernews",
         "source_name": "NewsNow"
       }
     },
@@ -919,15 +1053,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5341,
-      "importance": 0.5341,
-      "importance_score": 0.5341,
+      "score": 0.5307,
+      "importance": 0.5307,
+      "importance_score": 0.5307,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9349,
+        "recency": 0.916,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -997,15 +1131,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5019,
-      "importance": 0.5019,
-      "importance_score": 0.5019,
+      "score": 0.4992,
+      "importance": 0.4992,
+      "importance_score": 0.4992,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7562,
+        "recency": 0.7409,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1075,15 +1209,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5003,
-      "importance": 0.5003,
-      "importance_score": 0.5003,
+      "score": 0.4976,
+      "importance": 0.4976,
+      "importance_score": 0.4976,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7471,
+        "recency": 0.732,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1098,85 +1232,6 @@
         "url": "https://www.v2ex.com/t/1225009",
         "source": "V2EX (创意工作者社区)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_854a38c44b10",
-      "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
-      "url": "https://news.ycombinator.com/item?id=48791380",
-      "primary_url": "https://news.ycombinator.com/item?id=48791380",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
-          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
-          "url": "https://news.ycombinator.com/item?id=48791380",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T07:31:32.501000Z"
-        },
-        {
-          "id": "7099819c095c4c195d71135dec37d895ad569659",
-          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
-          "url": "https://hic-ai.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-05T05:01:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
-          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
-          "url": "https://news.ycombinator.com/item?id=48791380",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T07:31:32.501000Z"
-        },
-        {
-          "id": "7099819c095c4c195d71135dec37d895ad569659",
-          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
-          "url": "https://hic-ai.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-05T05:01:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5301,
-      "importance": 0.5301,
-      "importance_score": 0.5301,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9127,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T05:01:14Z",
-      "latest_at": "2026-07-05T07:31:32.501000Z",
-      "primary_item": {
-        "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
-        "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
-        "url": "https://news.ycombinator.com/item?id=48791380",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1232,15 +1287,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5118,
-      "importance": 0.5118,
-      "importance_score": 0.5118,
+      "score": 0.5089,
+      "importance": 0.5089,
+      "importance_score": 0.5089,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8113,
+        "recency": 0.7948,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1311,15 +1366,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5369,
-      "importance": 0.5369,
-      "importance_score": 0.5369,
+      "score": 0.5334,
+      "importance": 0.5334,
+      "importance_score": 0.5334,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9503,
+        "recency": 0.9311,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1390,15 +1445,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5334,
-      "importance": 0.5334,
-      "importance_score": 0.5334,
+      "score": 0.53,
+      "importance": 0.53,
+      "importance_score": 0.53,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9313,
+        "recency": 0.9124,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1413,6 +1468,85 @@
         "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_854a38c44b10",
+      "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+      "url": "https://news.ycombinator.com/item?id=48791380",
+      "primary_url": "https://news.ycombinator.com/item?id=48791380",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
+          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+          "url": "https://news.ycombinator.com/item?id=48791380",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T07:31:32.501000Z"
+        },
+        {
+          "id": "2442efb4de239f46791b0b64f8ac017476418a43",
+          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+          "url": "https://hic-ai.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-05T05:01:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
+          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+          "url": "https://news.ycombinator.com/item?id=48791380",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T07:31:32.501000Z"
+        },
+        {
+          "id": "2442efb4de239f46791b0b64f8ac017476418a43",
+          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+          "url": "https://hic-ai.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-05T05:01:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5268,
+      "importance": 0.5268,
+      "importance_score": 0.5268,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8942,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T05:01:14Z",
+      "latest_at": "2026-07-05T07:31:32.501000Z",
+      "primary_item": {
+        "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
+        "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+        "url": "https://news.ycombinator.com/item?id=48791380",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1468,15 +1602,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4977,
-      "importance": 0.4977,
-      "importance_score": 0.4977,
+      "score": 0.495,
+      "importance": 0.495,
+      "importance_score": 0.495,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7328,
+        "recency": 0.7179,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1491,85 +1625,6 @@
         "url": "https://www.v2ex.com/t/1225003",
         "source": "V2EX (创意工作者社区)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_85705186a84e",
-      "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
-      "url": "https://news.ycombinator.com/item?id=48789986",
-      "primary_url": "https://news.ycombinator.com/item?id=48789986",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
-          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
-          "url": "https://news.ycombinator.com/item?id=48789986",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T03:23:45.229000Z"
-        },
-        {
-          "id": "eff59fa40eb08e6447cb33bc242ff5cfd7d1d718",
-          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
-          "url": "https://ridgetext.com/blog/mapbox-llm-composition",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-04T23:25:53Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
-          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
-          "url": "https://news.ycombinator.com/item?id=48789986",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T03:23:45.229000Z"
-        },
-        {
-          "id": "eff59fa40eb08e6447cb33bc242ff5cfd7d1d718",
-          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
-          "url": "https://ridgetext.com/blog/mapbox-llm-composition",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-04T23:25:53Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5206,
-      "importance": 0.5206,
-      "importance_score": 0.5206,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8598,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T23:25:53Z",
-      "latest_at": "2026-07-05T03:23:45.229000Z",
-      "primary_item": {
-        "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
-        "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
-        "url": "https://news.ycombinator.com/item?id=48789986",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1625,15 +1680,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4996,
-      "importance": 0.4996,
-      "importance_score": 0.4996,
+      "score": 0.4968,
+      "importance": 0.4968,
+      "importance_score": 0.4968,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7431,
+        "recency": 0.728,
         "story_heat": 0.25
       },
       "category": "watch",
