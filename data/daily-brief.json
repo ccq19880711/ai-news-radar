@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T07:43:14.970314Z",
+  "generated_at": "2026-07-07T11:12:12.998550Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.851,
-      "importance": 0.851,
-      "importance_score": 0.851,
+      "score": 0.8431,
+      "importance": 0.8431,
+      "importance_score": 0.8431,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8945,
+        "recency": 0.8506,
         "story_heat": 0.0
       },
       "category": "official",
@@ -138,15 +138,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8054,
-      "importance": 0.8054,
-      "importance_score": 0.8054,
+      "score": 0.7976,
+      "importance": 0.7976,
+      "importance_score": 0.7976,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8824,
+        "recency": 0.8392,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -163,6 +163,86 @@
         "url": "https://github.com/iOfficeAI/OfficeCLI",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_cf5265d5a9bf",
+      "title": "Claude Sonnet 5 上线后遭大量投诉：频繁反驳、说教成风",
+      "url": "https://www.aibase.com/news/29436",
+      "primary_url": "https://www.aibase.com/news/29436",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "70de58f4488252d4956c9539101570b5b5f4537d",
+          "title": "Claude Sonnet 5 上线后遭大量投诉：频繁反驳、说教成风",
+          "url": "https://www.aibase.com/news/29436",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T11:12:12.998550Z"
+        },
+        {
+          "id": "4932c97d620e80af4ba33f9ae761623b3df328e9",
+          "title": "Claude Sonnet 5 “叛逆”上线：用户投诉其频繁反驳、说教成风",
+          "url": "https://www.aibase.com/news/29436",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T07:43:14.970314Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "70de58f4488252d4956c9539101570b5b5f4537d",
+          "title": "Claude Sonnet 5 上线后遭大量投诉：频繁反驳、说教成风",
+          "url": "https://www.aibase.com/news/29436",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T11:12:12.998550Z"
+        },
+        {
+          "id": "4932c97d620e80af4ba33f9ae761623b3df328e9",
+          "title": "Claude Sonnet 5 “叛逆”上线：用户投诉其频繁反驳、说教成风",
+          "url": "https://www.aibase.com/news/29436",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T07:43:14.970314Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T07:43:14.970314Z",
+      "latest_at": "2026-07-07T11:12:12.998550Z",
+      "primary_item": {
+        "id": "70de58f4488252d4956c9539101570b5b5f4537d",
+        "title": "Claude Sonnet 5 上线后遭大量投诉：频繁反驳、说教成风",
+        "url": "https://www.aibase.com/news/29436",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -200,15 +280,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8224,
-      "importance": 0.8224,
-      "importance_score": 0.8224,
+      "score": 0.8155,
+      "importance": 0.8155,
+      "importance_score": 0.8155,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7913,
+        "recency": 0.7525,
         "story_heat": 0.0
       },
       "category": "official",
@@ -225,6 +305,370 @@
         "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_22b92e70fc9f",
+      "title": "美国首批自主地面车辆在乌克兰参战",
+      "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine",
+      "primary_url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5f55bf4ba8680bca9a7f13cadd0b49c8f19f9674",
+          "title": "美国首批自主地面车辆在乌克兰参战",
+          "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T09:00:00Z"
+        },
+        {
+          "id": "714c88d357cd00f2e12ff824f0fd94c5e3294b7d",
+          "title": "美国首批自主地面车辆在乌克兰参战 / The first American autonomous ground vehicles are fighting in Ukraine",
+          "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-07T09:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5f55bf4ba8680bca9a7f13cadd0b49c8f19f9674",
+          "title": "美国首批自主地面车辆在乌克兰参战",
+          "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T09:00:00Z"
+        },
+        {
+          "id": "714c88d357cd00f2e12ff824f0fd94c5e3294b7d",
+          "title": "美国首批自主地面车辆在乌克兰参战 / The first American autonomous ground vehicles are fighting in Ukraine",
+          "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-07T09:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.781,
+      "importance": 0.781,
+      "importance_score": 0.781,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9687,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T09:00:00Z",
+      "latest_at": "2026-07-07T09:00:00Z",
+      "primary_item": {
+        "id": "5f55bf4ba8680bca9a7f13cadd0b49c8f19f9674",
+        "title": "美国首批自主地面车辆在乌克兰参战",
+        "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9af14cc051d7",
+      "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
+      "url": "https://x.com/emollick/status/2074348274136346871",
+      "primary_url": "https://x.com/emollick/status/2074348274136346871",
+      "source": "X：Ethan Mollick (@emollick)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3d91a776dbb34f31b1748518b01c9cbf7479ba34",
+          "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
+          "url": "https://x.com/emollick/status/2074348274136346871",
+          "source": "X：Ethan Mollick (@emollick)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T04:22:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Ethan Mollick (@emollick)"
+      ],
+      "items": [
+        {
+          "id": "3d91a776dbb34f31b1748518b01c9cbf7479ba34",
+          "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
+          "url": "https://x.com/emollick/status/2074348274136346871",
+          "source": "X：Ethan Mollick (@emollick)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T04:22:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9061,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T04:22:22Z",
+      "latest_at": "2026-07-07T04:22:22Z",
+      "primary_item": {
+        "id": "3d91a776dbb34f31b1748518b01c9cbf7479ba34",
+        "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
+        "url": "https://x.com/emollick/status/2074348274136346871",
+        "source": "X：Ethan Mollick (@emollick)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_efce1537dac0",
+      "title": "Grok Imagine 更新：支持 15 秒视频",
+      "url": "https://x.com/elonmusk/status/2074378653501128833",
+      "primary_url": "https://x.com/elonmusk/status/2074378653501128833",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5f15a8efec40443f9add6484906b3e617d5fa585",
+          "title": "Grok Imagine 更新：支持 15 秒视频",
+          "url": "https://x.com/elonmusk/status/2074378653501128833",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T06:23:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Elon Musk (@elonmusk, xAI)"
+      ],
+      "items": [
+        {
+          "id": "5f15a8efec40443f9add6484906b3e617d5fa585",
+          "title": "Grok Imagine 更新：支持 15 秒视频",
+          "url": "https://x.com/elonmusk/status/2074378653501128833",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T06:23:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7555,
+      "importance": 0.7555,
+      "importance_score": 0.7555,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9328,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T06:23:05Z",
+      "latest_at": "2026-07-07T06:23:05Z",
+      "primary_item": {
+        "id": "5f15a8efec40443f9add6484906b3e617d5fa585",
+        "title": "Grok Imagine 更新：支持 15 秒视频",
+        "url": "https://x.com/elonmusk/status/2074378653501128833",
+        "source": "X：Elon Musk (@elonmusk, xAI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_94d69a90ce66",
+      "title": "Claude Code v2.1.202 发布",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
+      "primary_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
+      "source": "Claude Code：GitHub Releases（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9c1515f292cb1af9a7890347fece79d9ca8a9706",
+          "title": "Claude Code v2.1.202 发布",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
+          "source": "Claude Code：GitHub Releases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T22:51:16Z"
+        },
+        {
+          "id": "0a2a4fd89c02c4615a2b4fad656e1e590b7c04b2",
+          "title": "v2.1.202",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
+          "source": "Claude Code Releases",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-06T22:51:16Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Claude Code Releases",
+        "Claude Code：GitHub Releases（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9c1515f292cb1af9a7890347fece79d9ca8a9706",
+          "title": "Claude Code v2.1.202 发布",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
+          "source": "Claude Code：GitHub Releases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T22:51:16Z"
+        },
+        {
+          "id": "0a2a4fd89c02c4615a2b4fad656e1e590b7c04b2",
+          "title": "v2.1.202",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
+          "source": "Claude Code Releases",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-06T22:51:16Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8367,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-06T22:51:16Z",
+      "latest_at": "2026-07-06T22:51:16Z",
+      "primary_item": {
+        "id": "9c1515f292cb1af9a7890347fece79d9ca8a9706",
+        "title": "Claude Code v2.1.202 发布",
+        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
+        "source": "Claude Code：GitHub Releases（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_224f5f92f80b",
+      "title": "在网络不稳定的地区，小型AI模型正逐渐普及",
+      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "primary_url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e4f5426e0c655b56ef0ee7313e03cac786551714",
+          "title": "在网络不稳定的地区，小型AI模型正逐渐普及",
+          "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T06:45:06.341000Z"
+        },
+        {
+          "id": "828c057884ba8f799263c06c670626174e279508",
+          "title": "在网络不稳定的地区，小型AI模型正逐渐普及 / Small AI Models Gain Traction In places with unreliable networks",
+          "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-06T23:59:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "e4f5426e0c655b56ef0ee7313e03cac786551714",
+          "title": "在网络不稳定的地区，小型AI模型正逐渐普及",
+          "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T06:45:06.341000Z"
+        },
+        {
+          "id": "828c057884ba8f799263c06c670626174e279508",
+          "title": "在网络不稳定的地区，小型AI模型正逐渐普及 / Small AI Models Gain Traction In places with unreliable networks",
+          "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-06T23:59:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7754,
+      "importance": 0.7754,
+      "importance_score": 0.7754,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9377,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T23:59:54Z",
+      "latest_at": "2026-07-07T06:45:06.341000Z",
+      "primary_item": {
+        "id": "e4f5426e0c655b56ef0ee7313e03cac786551714",
+        "title": "在网络不稳定的地区，小型AI模型正逐渐普及",
+        "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -281,15 +725,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7827,
-      "importance": 0.7827,
-      "importance_score": 0.7827,
+      "score": 0.7743,
+      "importance": 0.7743,
+      "importance_score": 0.7743,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9449,
+        "recency": 0.8985,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -362,15 +806,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7795,
-      "importance": 0.7795,
-      "importance_score": 0.7795,
+      "score": 0.7722,
+      "importance": 0.7722,
+      "importance_score": 0.7722,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8272,
+        "recency": 0.7866,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -390,287 +834,304 @@
       }
     },
     {
-      "story_id": "story_9af14cc051d7",
-      "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
-      "url": "https://x.com/emollick/status/2074348274136346871",
-      "primary_url": "https://x.com/emollick/status/2074348274136346871",
-      "source": "X：Ethan Mollick (@emollick)",
+      "story_id": "story_10894b601ae7",
+      "title": "Gemini Spark 可智能追踪话题实时反应",
+      "url": "https://x.com/GeminiApp/status/2074280473581572600",
+      "primary_url": "https://x.com/GeminiApp/status/2074280473581572600",
+      "source": "X：Gemini (@GeminiApp)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "3d91a776dbb34f31b1748518b01c9cbf7479ba34",
-          "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
-          "url": "https://x.com/emollick/status/2074348274136346871",
-          "source": "X：Ethan Mollick (@emollick)",
+          "id": "0c436f1daebceeda2a4e532ead7482d2ba0f7b0a",
+          "title": "Gemini Spark 可智能追踪话题实时反应",
+          "url": "https://x.com/GeminiApp/status/2074280473581572600",
+          "source": "X：Gemini (@GeminiApp)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-07T04:22:22Z"
+          "published_at": "2026-07-06T23:52:57Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Ethan Mollick (@emollick)"
+        "X：Gemini (@GeminiApp)"
       ],
       "items": [
         {
-          "id": "3d91a776dbb34f31b1748518b01c9cbf7479ba34",
-          "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
-          "url": "https://x.com/emollick/status/2074348274136346871",
-          "source": "X：Ethan Mollick (@emollick)",
+          "id": "0c436f1daebceeda2a4e532ead7482d2ba0f7b0a",
+          "title": "Gemini Spark 可智能追踪话题实时反应",
+          "url": "https://x.com/GeminiApp/status/2074280473581572600",
+          "source": "X：Gemini (@GeminiApp)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-07T04:22:22Z"
+          "published_at": "2026-07-06T23:52:57Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7681,
-      "importance": 0.7681,
-      "importance_score": 0.7681,
+      "score": 0.7315,
+      "importance": 0.7315,
+      "importance_score": 0.7315,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8492,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-06T23:52:57Z",
+      "latest_at": "2026-07-06T23:52:57Z",
+      "primary_item": {
+        "id": "0c436f1daebceeda2a4e532ead7482d2ba0f7b0a",
+        "title": "Gemini Spark 可智能追踪话题实时反应",
+        "url": "https://x.com/GeminiApp/status/2074280473581572600",
+        "source": "X：Gemini (@GeminiApp)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f8c6e8e93c27",
+      "title": "免费开源API中转站监测网站tokhub.me上线",
+      "url": "https://x.com/vista8/status/2074130700421456089",
+      "primary_url": "https://x.com/vista8/status/2074130700421456089",
+      "source": "X：Vista (@vista8)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b231ca1c9137617bfb7c5fff872baca598ffb5cc",
+          "title": "免费开源API中转站监测网站tokhub.me上线",
+          "url": "https://x.com/vista8/status/2074130700421456089",
+          "source": "X：Vista (@vista8)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T13:57:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Vista (@vista8)"
+      ],
+      "items": [
+        {
+          "id": "b231ca1c9137617bfb7c5fff872baca598ffb5cc",
+          "title": "免费开源API中转站监测网站tokhub.me上线",
+          "url": "https://x.com/vista8/status/2074130700421456089",
+          "source": "X：Vista (@vista8)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T13:57:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7291,
+      "importance": 0.7291,
+      "importance_score": 0.7291,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9528,
+        "recency": 0.7359,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-07T04:22:22Z",
-      "latest_at": "2026-07-07T04:22:22Z",
+      "earliest_at": "2026-07-06T13:57:49Z",
+      "latest_at": "2026-07-06T13:57:49Z",
       "primary_item": {
-        "id": "3d91a776dbb34f31b1748518b01c9cbf7479ba34",
-        "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
-        "url": "https://x.com/emollick/status/2074348274136346871",
-        "source": "X：Ethan Mollick (@emollick)",
+        "id": "b231ca1c9137617bfb7c5fff872baca598ffb5cc",
+        "title": "免费开源API中转站监测网站tokhub.me上线",
+        "url": "https://x.com/vista8/status/2074130700421456089",
+        "source": "X：Vista (@vista8)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_efce1537dac0",
-      "title": "Grok Imagine 更新：支持 15 秒视频",
-      "url": "https://x.com/elonmusk/status/2074378653501128833",
-      "primary_url": "https://x.com/elonmusk/status/2074378653501128833",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "story_id": "story_cb93fdb7a13f",
+      "title": "Claude Code 团队详解四种智能体循环类型",
+      "url": "https://x.com/ClaudeDevs/status/2074208949205881033",
+      "primary_url": "https://x.com/ClaudeDevs/status/2074208949205881033",
+      "source": "X：Claude Devs (@ClaudeDevs)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5f15a8efec40443f9add6484906b3e617d5fa585",
-          "title": "Grok Imagine 更新：支持 15 秒视频",
-          "url": "https://x.com/elonmusk/status/2074378653501128833",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "id": "83f34b28467b2172c9f2655e4c5e0904bf54636f",
+          "title": "Claude Code 团队详解四种智能体循环类型",
+          "url": "https://x.com/ClaudeDevs/status/2074208949205881033",
+          "source": "X：Claude Devs (@ClaudeDevs)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-07T06:23:05Z"
+          "published_at": "2026-07-06T19:08:45Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Elon Musk (@elonmusk, xAI)"
+        "X：Claude Devs (@ClaudeDevs)"
       ],
       "items": [
         {
-          "id": "5f15a8efec40443f9add6484906b3e617d5fa585",
-          "title": "Grok Imagine 更新：支持 15 秒视频",
-          "url": "https://x.com/elonmusk/status/2074378653501128833",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "id": "83f34b28467b2172c9f2655e4c5e0904bf54636f",
+          "title": "Claude Code 团队详解四种智能体循环类型",
+          "url": "https://x.com/ClaudeDevs/status/2074208949205881033",
+          "source": "X：Claude Devs (@ClaudeDevs)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-07T06:23:05Z"
+          "published_at": "2026-07-06T19:08:45Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9809,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T06:23:05Z",
-      "latest_at": "2026-07-07T06:23:05Z",
-      "primary_item": {
-        "id": "5f15a8efec40443f9add6484906b3e617d5fa585",
-        "title": "Grok Imagine 更新：支持 15 秒视频",
-        "url": "https://x.com/elonmusk/status/2074378653501128833",
-        "source": "X：Elon Musk (@elonmusk, xAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_94d69a90ce66",
-      "title": "Claude Code v2.1.202 发布",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
-      "primary_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9c1515f292cb1af9a7890347fece79d9ca8a9706",
-          "title": "Claude Code v2.1.202 发布",
-          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
-          "source": "Claude Code：GitHub Releases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T22:51:16Z"
-        },
-        {
-          "id": "0a2a4fd89c02c4615a2b4fad656e1e590b7c04b2",
-          "title": "v2.1.202",
-          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
-          "source": "Claude Code Releases",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-06T22:51:16Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Claude Code Releases",
-        "Claude Code：GitHub Releases（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9c1515f292cb1af9a7890347fece79d9ca8a9706",
-          "title": "Claude Code v2.1.202 发布",
-          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
-          "source": "Claude Code：GitHub Releases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T22:51:16Z"
-        },
-        {
-          "id": "0a2a4fd89c02c4615a2b4fad656e1e590b7c04b2",
-          "title": "v2.1.202",
-          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
-          "source": "Claude Code Releases",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-06T22:51:16Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8798,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-06T22:51:16Z",
-      "latest_at": "2026-07-06T22:51:16Z",
-      "primary_item": {
-        "id": "9c1515f292cb1af9a7890347fece79d9ca8a9706",
-        "title": "Claude Code v2.1.202 发布",
-        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
-        "source": "Claude Code：GitHub Releases（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_224f5f92f80b",
-      "title": "在网络不稳定的地区，小型AI模型正逐渐普及",
-      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-      "primary_url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e4f5426e0c655b56ef0ee7313e03cac786551714",
-          "title": "在网络不稳定的地区，小型AI模型正逐渐普及",
-          "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T06:45:06.341000Z"
-        },
-        {
-          "id": "828c057884ba8f799263c06c670626174e279508",
-          "title": "在网络不稳定的地区，小型AI模型正逐渐普及 / Small AI Models Gain Traction In places with unreliable networks",
-          "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-06T23:59:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "e4f5426e0c655b56ef0ee7313e03cac786551714",
-          "title": "在网络不稳定的地区，小型AI模型正逐渐普及",
-          "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T06:45:06.341000Z"
-        },
-        {
-          "id": "828c057884ba8f799263c06c670626174e279508",
-          "title": "在网络不稳定的地区，小型AI模型正逐渐普及 / Small AI Models Gain Traction In places with unreliable networks",
-          "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-06T23:59:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7841,
-      "importance": 0.7841,
-      "importance_score": 0.7841,
+      "score": 0.7243,
+      "importance": 0.7243,
+      "importance_score": 0.7243,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9861,
-        "story_heat": 0.25
+        "recency": 0.793,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-06T19:08:45Z",
+      "latest_at": "2026-07-06T19:08:45Z",
+      "primary_item": {
+        "id": "83f34b28467b2172c9f2655e4c5e0904bf54636f",
+        "title": "Claude Code 团队详解四种智能体循环类型",
+        "url": "https://x.com/ClaudeDevs/status/2074208949205881033",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b25a47366a60",
+      "title": "Claude Fable实地指南：发现你的未知",
+      "url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
+      "primary_url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "50fb66c456ff8c0d2528f0733783fe9511449e58",
+          "title": "Claude Fable实地指南：发现你的未知",
+          "url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T18:20:11.364000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "50fb66c456ff8c0d2528f0733783fe9511449e58",
+          "title": "Claude Fable实地指南：发现你的未知",
+          "url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T18:20:11.364000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7227,
+      "importance": 0.7227,
+      "importance_score": 0.7227,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7838,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-06T18:20:11.364000Z",
+      "latest_at": "2026-07-06T18:20:11.364000Z",
+      "primary_item": {
+        "id": "50fb66c456ff8c0d2528f0733783fe9511449e58",
+        "title": "Claude Fable实地指南：发现你的未知",
+        "url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6e07258dc312",
+      "title": "​微信大招加码： 10 亿大模型额度免费送，AI生图额度暴涨十倍",
+      "url": "https://www.aibase.com/news/29443",
+      "primary_url": "https://www.aibase.com/news/29443",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a550fd5e9c689a4783c9472218dbf6f20d247c28",
+          "title": "​微信大招加码： 10 亿大模型额度免费送，AI生图额度暴涨十倍",
+          "url": "https://www.aibase.com/news/29443",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T11:12:12.998550Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a550fd5e9c689a4783c9472218dbf6f20d247c28",
+          "title": "​微信大招加码： 10 亿大模型额度免费送，AI生图额度暴涨十倍",
+          "url": "https://www.aibase.com/news/29443",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T11:12:12.998550Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-06T23:59:54Z",
-      "latest_at": "2026-07-07T06:45:06.341000Z",
+      "earliest_at": "2026-07-07T11:12:12.998550Z",
+      "latest_at": "2026-07-07T11:12:12.998550Z",
       "primary_item": {
-        "id": "e4f5426e0c655b56ef0ee7313e03cac786551714",
-        "title": "在网络不稳定的地区，小型AI模型正逐渐普及",
-        "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "a550fd5e9c689a4783c9472218dbf6f20d247c28",
+        "title": "​微信大招加码： 10 亿大模型额度免费送，AI生图额度暴涨十倍",
+        "url": "https://www.aibase.com/news/29443",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -727,15 +1188,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7735,
-      "importance": 0.7735,
-      "importance_score": 0.7735,
+      "score": 0.7656,
+      "importance": 0.7656,
+      "importance_score": 0.7656,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8937,
+        "recency": 0.8499,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -750,509 +1211,6 @@
         "id": "d98168c4f008ef7867e884f3fa1e6eabd4560f9c",
         "title": "Sysdig 澄清首例\"智能体勒索软件\"JadePuffer：AI 执行攻击但人类仍负责设置与选目标",
         "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_10894b601ae7",
-      "title": "Gemini Spark 可智能追踪话题实时反应",
-      "url": "https://x.com/GeminiApp/status/2074280473581572600",
-      "primary_url": "https://x.com/GeminiApp/status/2074280473581572600",
-      "source": "X：Gemini (@GeminiApp)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0c436f1daebceeda2a4e532ead7482d2ba0f7b0a",
-          "title": "Gemini Spark 可智能追踪话题实时反应",
-          "url": "https://x.com/GeminiApp/status/2074280473581572600",
-          "source": "X：Gemini (@GeminiApp)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T23:52:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Gemini (@GeminiApp)"
-      ],
-      "items": [
-        {
-          "id": "0c436f1daebceeda2a4e532ead7482d2ba0f7b0a",
-          "title": "Gemini Spark 可智能追踪话题实时反应",
-          "url": "https://x.com/GeminiApp/status/2074280473581572600",
-          "source": "X：Gemini (@GeminiApp)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T23:52:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.893,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T23:52:57Z",
-      "latest_at": "2026-07-06T23:52:57Z",
-      "primary_item": {
-        "id": "0c436f1daebceeda2a4e532ead7482d2ba0f7b0a",
-        "title": "Gemini Spark 可智能追踪话题实时反应",
-        "url": "https://x.com/GeminiApp/status/2074280473581572600",
-        "source": "X：Gemini (@GeminiApp)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_cf5265d5a9bf",
-      "title": "Claude Sonnet 5 “叛逆”上线：用户投诉其频繁反驳、说教成风",
-      "url": "https://www.aibase.com/news/29436",
-      "primary_url": "https://www.aibase.com/news/29436",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4932c97d620e80af4ba33f9ae761623b3df328e9",
-          "title": "Claude Sonnet 5 “叛逆”上线：用户投诉其频繁反驳、说教成风",
-          "url": "https://www.aibase.com/news/29436",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T07:43:14.970314Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4932c97d620e80af4ba33f9ae761623b3df328e9",
-          "title": "Claude Sonnet 5 “叛逆”上线：用户投诉其频繁反驳、说教成风",
-          "url": "https://www.aibase.com/news/29436",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T07:43:14.970314Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T07:43:14.970314Z",
-      "latest_at": "2026-07-07T07:43:14.970314Z",
-      "primary_item": {
-        "id": "4932c97d620e80af4ba33f9ae761623b3df328e9",
-        "title": "Claude Sonnet 5 “叛逆”上线：用户投诉其频繁反驳、说教成风",
-        "url": "https://www.aibase.com/news/29436",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f8c6e8e93c27",
-      "title": "免费开源API中转站监测网站tokhub.me上线",
-      "url": "https://x.com/vista8/status/2074130700421456089",
-      "primary_url": "https://x.com/vista8/status/2074130700421456089",
-      "source": "X：Vista (@vista8)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b231ca1c9137617bfb7c5fff872baca598ffb5cc",
-          "title": "免费开源API中转站监测网站tokhub.me上线",
-          "url": "https://x.com/vista8/status/2074130700421456089",
-          "source": "X：Vista (@vista8)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T13:57:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Vista (@vista8)"
-      ],
-      "items": [
-        {
-          "id": "b231ca1c9137617bfb7c5fff872baca598ffb5cc",
-          "title": "免费开源API中转站监测网站tokhub.me上线",
-          "url": "https://x.com/vista8/status/2074130700421456089",
-          "source": "X：Vista (@vista8)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T13:57:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7359,
-      "importance": 0.7359,
-      "importance_score": 0.7359,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7738,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T13:57:49Z",
-      "latest_at": "2026-07-06T13:57:49Z",
-      "primary_item": {
-        "id": "b231ca1c9137617bfb7c5fff872baca598ffb5cc",
-        "title": "免费开源API中转站监测网站tokhub.me上线",
-        "url": "https://x.com/vista8/status/2074130700421456089",
-        "source": "X：Vista (@vista8)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_cb93fdb7a13f",
-      "title": "Claude Code 团队详解四种智能体循环类型",
-      "url": "https://x.com/ClaudeDevs/status/2074208949205881033",
-      "primary_url": "https://x.com/ClaudeDevs/status/2074208949205881033",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "83f34b28467b2172c9f2655e4c5e0904bf54636f",
-          "title": "Claude Code 团队详解四种智能体循环类型",
-          "url": "https://x.com/ClaudeDevs/status/2074208949205881033",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T19:08:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Claude Devs (@ClaudeDevs)"
-      ],
-      "items": [
-        {
-          "id": "83f34b28467b2172c9f2655e4c5e0904bf54636f",
-          "title": "Claude Code 团队详解四种智能体循环类型",
-          "url": "https://x.com/ClaudeDevs/status/2074208949205881033",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T19:08:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7317,
-      "importance": 0.7317,
-      "importance_score": 0.7317,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8339,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T19:08:45Z",
-      "latest_at": "2026-07-06T19:08:45Z",
-      "primary_item": {
-        "id": "83f34b28467b2172c9f2655e4c5e0904bf54636f",
-        "title": "Claude Code 团队详解四种智能体循环类型",
-        "url": "https://x.com/ClaudeDevs/status/2074208949205881033",
-        "source": "X：Claude Devs (@ClaudeDevs)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b25a47366a60",
-      "title": "Claude Fable实地指南：发现你的未知",
-      "url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
-      "primary_url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "50fb66c456ff8c0d2528f0733783fe9511449e58",
-          "title": "Claude Fable实地指南：发现你的未知",
-          "url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T18:20:11.364000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "50fb66c456ff8c0d2528f0733783fe9511449e58",
-          "title": "Claude Fable实地指南：发现你的未知",
-          "url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T18:20:11.364000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.73,
-      "importance": 0.73,
-      "importance_score": 0.73,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8243,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T18:20:11.364000Z",
-      "latest_at": "2026-07-06T18:20:11.364000Z",
-      "primary_item": {
-        "id": "50fb66c456ff8c0d2528f0733783fe9511449e58",
-        "title": "Claude Fable实地指南：发现你的未知",
-        "url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9074fbe55dba",
-      "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
-      "url": "https://www.ithome.com/0/973/207.htm",
-      "primary_url": "https://www.ithome.com/0/973/207.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b971e664e08458d1ac031b373405c8139ef6c669",
-          "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
-          "url": "https://www.ithome.com/0/973/207.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T09:23:28Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b971e664e08458d1ac031b373405c8139ef6c669",
-          "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
-          "url": "https://www.ithome.com/0/973/207.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T09:23:28Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.721,
-      "importance": 0.721,
-      "importance_score": 0.721,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7244,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T09:23:28Z",
-      "latest_at": "2026-07-06T09:23:28Z",
-      "primary_item": {
-        "id": "b971e664e08458d1ac031b373405c8139ef6c669",
-        "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
-        "url": "https://www.ithome.com/0/973/207.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_131f99f8c6ac",
-      "title": "告别纯文本！Skill-Omni重塑多模态智能体经验范式",
-      "url": "https://www.aibase.com/news/29437",
-      "primary_url": "https://www.aibase.com/news/29437",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ffc3a76f497fbc2c54b29f3c2701b224d5a98ad8",
-          "title": "告别纯文本！Skill-Omni重塑多模态智能体经验范式",
-          "url": "https://www.aibase.com/news/29437",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T07:43:14.970314Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ffc3a76f497fbc2c54b29f3c2701b224d5a98ad8",
-          "title": "告别纯文本！Skill-Omni重塑多模态智能体经验范式",
-          "url": "https://www.aibase.com/news/29437",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T07:43:14.970314Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T07:43:14.970314Z",
-      "latest_at": "2026-07-07T07:43:14.970314Z",
-      "primary_item": {
-        "id": "ffc3a76f497fbc2c54b29f3c2701b224d5a98ad8",
-        "title": "告别纯文本！Skill-Omni重塑多模态智能体经验范式",
-        "url": "https://www.aibase.com/news/29437",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_524024212bc7",
-      "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出",
-      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
-      "primary_url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "487c399476c700d7d25f0bc6e58f871db6a7a2b1",
-          "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出",
-          "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T17:04:58Z"
-        },
-        {
-          "id": "27d51a192e4620558df37cfecdee76c65102ae48",
-          "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出 / If you use Google, you’re training its AI. Here’s how to opt out.",
-          "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-06T17:04:58Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "487c399476c700d7d25f0bc6e58f871db6a7a2b1",
-          "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出",
-          "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T17:04:58Z"
-        },
-        {
-          "id": "27d51a192e4620558df37cfecdee76c65102ae48",
-          "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出 / If you use Google, you’re training its AI. Here’s how to opt out.",
-          "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-06T17:04:58Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7673,
-      "importance": 0.7673,
-      "importance_score": 0.7673,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8095,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-06T17:04:58Z",
-      "latest_at": "2026-07-06T17:04:58Z",
-      "primary_item": {
-        "id": "487c399476c700d7d25f0bc6e58f871db6a7a2b1",
-        "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出",
-        "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
@@ -1311,15 +1269,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7627,
-      "importance": 0.7627,
-      "importance_score": 0.7627,
+      "score": 0.7561,
+      "importance": 0.7561,
+      "importance_score": 0.7561,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7507,
+        "recency": 0.7139,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1339,21 +1297,21 @@
       }
     },
     {
-      "story_id": "story_d09a7f859582",
-      "title": "智能体进化新刻度：字节Seed发布EdgeBench基准测试",
-      "url": "https://www.aibase.com/news/29439",
-      "primary_url": "https://www.aibase.com/news/29439",
+      "story_id": "story_a4218777eae6",
+      "title": "气象预警再升级：“妈祖”大模型已覆盖全球 40 余国",
+      "url": "https://www.aibase.com/news/29441",
+      "primary_url": "https://www.aibase.com/news/29441",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ba68ba60c5ac9b6b0badf4162e22f58a1ff5bfa3",
-          "title": "智能体进化新刻度：字节Seed发布EdgeBench基准测试",
-          "url": "https://www.aibase.com/news/29439",
+          "id": "5b09696939bd7f16f17a15eb7f9b3fd1a3547c6f",
+          "title": "气象预警再升级：“妈祖”大模型已覆盖全球 40 余国",
+          "url": "https://www.aibase.com/news/29441",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-07T07:43:14.970314Z"
+          "published_at": "2026-07-07T11:12:12.998550Z"
         }
       ],
       "source_count": 1,
@@ -1362,13 +1320,13 @@
       ],
       "items": [
         {
-          "id": "ba68ba60c5ac9b6b0badf4162e22f58a1ff5bfa3",
-          "title": "智能体进化新刻度：字节Seed发布EdgeBench基准测试",
-          "url": "https://www.aibase.com/news/29439",
+          "id": "5b09696939bd7f16f17a15eb7f9b3fd1a3547c6f",
+          "title": "气象预警再升级：“妈祖”大模型已覆盖全球 40 余国",
+          "url": "https://www.aibase.com/news/29441",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-07T07:43:14.970314Z"
+          "published_at": "2026-07-07T11:12:12.998550Z"
         }
       ],
       "item_count": 1,
@@ -1389,14 +1347,95 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-07T07:43:14.970314Z",
-      "latest_at": "2026-07-07T07:43:14.970314Z",
+      "earliest_at": "2026-07-07T11:12:12.998550Z",
+      "latest_at": "2026-07-07T11:12:12.998550Z",
       "primary_item": {
-        "id": "ba68ba60c5ac9b6b0badf4162e22f58a1ff5bfa3",
-        "title": "智能体进化新刻度：字节Seed发布EdgeBench基准测试",
-        "url": "https://www.aibase.com/news/29439",
+        "id": "5b09696939bd7f16f17a15eb7f9b3fd1a3547c6f",
+        "title": "气象预警再升级：“妈祖”大模型已覆盖全球 40 余国",
+        "url": "https://www.aibase.com/news/29441",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_524024212bc7",
+      "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出",
+      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
+      "primary_url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "487c399476c700d7d25f0bc6e58f871db6a7a2b1",
+          "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出",
+          "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T17:04:58Z"
+        },
+        {
+          "id": "27d51a192e4620558df37cfecdee76c65102ae48",
+          "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出 / If you use Google, you’re training its AI. Here’s how to opt out.",
+          "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-06T17:04:58Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "487c399476c700d7d25f0bc6e58f871db6a7a2b1",
+          "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出",
+          "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T17:04:58Z"
+        },
+        {
+          "id": "27d51a192e4620558df37cfecdee76c65102ae48",
+          "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出 / If you use Google, you’re training its AI. Here’s how to opt out.",
+          "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-06T17:04:58Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7602,
+      "importance": 0.7602,
+      "importance_score": 0.7602,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7698,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T17:04:58Z",
+      "latest_at": "2026-07-06T17:04:58Z",
+      "primary_item": {
+        "id": "487c399476c700d7d25f0bc6e58f871db6a7a2b1",
+        "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出",
+        "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
       }
     }
   ]
