@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T23:15:23.511992Z",
+  "generated_at": "2026-07-10T01:10:48.104905Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8786,
-      "importance": 0.8786,
-      "importance_score": 0.8786,
+      "score": 0.8746,
+      "importance": 0.8746,
+      "importance_score": 0.8746,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8258,
+        "recency": 0.8032,
         "story_heat": 0.5
       },
       "category": "official",
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8517,
-      "importance": 0.8517,
-      "importance_score": 0.8517,
+      "score": 0.8472,
+      "importance": 0.8472,
+      "importance_score": 0.8472,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9096,
+        "recency": 0.8846,
         "story_heat": 0.0
       },
       "category": "official",
@@ -163,87 +163,6 @@
         "title": "OpenAI 的 GPT-5.6 Sol、Terra 和 Luna 现已在 GitHub Copilot 中提供 / OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
         "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_91992ed9f82d",
-      "title": "Codex 加入 ChatGPT 桌面应用程序 / Codex joins the ChatGPT desktop app",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b7d60fb3018aa90bbfe995c47ffe695ecee22d36",
-          "title": "法典 CLI 0.144.0 / Codex CLI 0.144.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T00:00:00Z"
-        },
-        {
-          "id": "ca2f503518b74f846da513865f932f4d44ff21e6",
-          "title": "Codex 加入 ChatGPT 桌面应用程序 / Codex joins the ChatGPT desktop app",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "b7d60fb3018aa90bbfe995c47ffe695ecee22d36",
-          "title": "法典 CLI 0.144.0 / Codex CLI 0.144.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T00:00:00Z"
-        },
-        {
-          "id": "ca2f503518b74f846da513865f932f4d44ff21e6",
-          "title": "Codex 加入 ChatGPT 桌面应用程序 / Codex joins the ChatGPT desktop app",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8437,
-      "importance": 0.8437,
-      "importance_score": 0.8437,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7147,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-09T00:00:00Z",
-      "latest_at": "2026-07-09T00:00:00Z",
-      "primary_item": {
-        "id": "ca2f503518b74f846da513865f932f4d44ff21e6",
-        "title": "Codex 加入 ChatGPT 桌面应用程序 / Codex joins the ChatGPT desktop app",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -339,15 +258,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8388,
-      "importance": 0.8388,
-      "importance_score": 0.8388,
+      "score": 0.834,
+      "importance": 0.834,
+      "importance_score": 0.834,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9788,
+        "recency": 0.952,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -420,15 +339,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8536,
-      "importance": 0.8536,
-      "importance_score": 0.8536,
+      "score": 0.8496,
+      "importance": 0.8496,
+      "importance_score": 0.8496,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8258,
+        "recency": 0.8032,
         "story_heat": 0.25
       },
       "category": "official",
@@ -445,68 +364,6 @@
         "title": "GPT-5.6：前沿智能，随您的雄心壮志而扩展 / GPT-5.6: Frontier intelligence that scales with your ambition",
         "url": "https://openai.com/index/gpt-5-6",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_5e689a649359",
-      "title": "提出尖锐的问题 / Inviting hard questions",
-      "url": "https://www.anthropic.com/news/hard-questions",
-      "primary_url": "https://www.anthropic.com/news/hard-questions",
-      "source": "Anthropic News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "481fc63441990c45c5c1acaf92db3a2f8b247724",
-          "title": "提出尖锐的问题 / Inviting hard questions",
-          "url": "https://www.anthropic.com/news/hard-questions",
-          "source": "Anthropic News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic News"
-      ],
-      "items": [
-        {
-          "id": "481fc63441990c45c5c1acaf92db3a2f8b247724",
-          "title": "提出尖锐的问题 / Inviting hard questions",
-          "url": "https://www.anthropic.com/news/hard-questions",
-          "source": "Anthropic News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8007,
-      "importance": 0.8007,
-      "importance_score": 0.8007,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7147,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-09T00:00:00Z",
-      "latest_at": "2026-07-09T00:00:00Z",
-      "primary_item": {
-        "id": "481fc63441990c45c5c1acaf92db3a2f8b247724",
-        "title": "提出尖锐的问题 / Inviting hard questions",
-        "url": "https://www.anthropic.com/news/hard-questions",
-        "source": "Anthropic News",
         "source_name": "Official AI Updates"
       }
     },
@@ -545,15 +402,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8304,
-      "importance": 0.8304,
-      "importance_score": 0.8304,
+      "score": 0.8261,
+      "importance": 0.8261,
+      "importance_score": 0.8261,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8803,
+        "recency": 0.8562,
         "story_heat": 0.0
       },
       "category": "official",
@@ -645,15 +502,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7973,
-      "importance": 0.7973,
-      "importance_score": 0.7973,
+      "score": 0.793,
+      "importance": 0.793,
+      "importance_score": 0.793,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8708,
+        "recency": 0.8469,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -726,15 +583,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7923,
-      "importance": 0.7923,
-      "importance_score": 0.7923,
+      "score": 0.7874,
+      "importance": 0.7874,
+      "importance_score": 0.7874,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9815,
+        "recency": 0.9546,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -751,6 +608,67 @@
         "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d738e13faca6",
+      "title": "AI初创公司Lyzr利用自主研发代理自主完成1亿美元B轮融资",
+      "url": "https://www.aibase.com/news/29506",
+      "primary_url": "https://www.aibase.com/news/29506",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f84bb619b9fc21f341ed1e1f9ecfaeec0217a1ef",
+          "title": "AI初创公司Lyzr利用自主研发代理自主完成1亿美元B轮融资",
+          "url": "https://www.aibase.com/news/29506",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-10T01:10:48.104905Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f84bb619b9fc21f341ed1e1f9ecfaeec0217a1ef",
+          "title": "AI初创公司Lyzr利用自主研发代理自主完成1亿美元B轮融资",
+          "url": "https://www.aibase.com/news/29506",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-10T01:10:48.104905Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T01:10:48.104905Z",
+      "latest_at": "2026-07-10T01:10:48.104905Z",
+      "primary_item": {
+        "id": "f84bb619b9fc21f341ed1e1f9ecfaeec0217a1ef",
+        "title": "AI初创公司Lyzr利用自主研发代理自主完成1亿美元B轮融资",
+        "url": "https://www.aibase.com/news/29506",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -788,15 +706,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8286,
-      "importance": 0.8286,
-      "importance_score": 0.8286,
+      "score": 0.8246,
+      "importance": 0.8246,
+      "importance_score": 0.8246,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8258,
+        "recency": 0.8032,
         "story_heat": 0.0
       },
       "category": "official",
@@ -850,15 +768,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7683,
-      "importance": 0.7683,
-      "importance_score": 0.7683,
+      "score": 0.7638,
+      "importance": 0.7638,
+      "importance_score": 0.7638,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9207,
+        "recency": 0.8955,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -911,15 +829,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8259,
-      "importance": 0.8259,
-      "importance_score": 0.8259,
+      "score": 0.8214,
+      "importance": 0.8214,
+      "importance_score": 0.8214,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8992,
+        "recency": 0.8746,
         "story_heat": 0.0
       },
       "category": "official",
@@ -936,6 +854,67 @@
         "url": "https://github.blog/changelog/2026-07-09-organization-level-targeting-for-github-code-quality",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_ff9f8581ffa8",
+      "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
+      "url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data",
+      "primary_url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data",
+      "source": "Google Research：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b36e620ca8e006a1ebf8069cf9c8c409586b02c0",
+          "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
+          "url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data",
+          "source": "Google Research：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T00:20:20.110000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Research：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "b36e620ca8e006a1ebf8069cf9c8c409586b02c0",
+          "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
+          "url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data",
+          "source": "Google Research：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T00:20:20.110000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7594,
+      "importance": 0.7594,
+      "importance_score": 0.7594,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9879,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T00:20:20.110000Z",
+      "latest_at": "2026-07-10T00:20:20.110000Z",
+      "primary_item": {
+        "id": "b36e620ca8e006a1ebf8069cf9c8c409586b02c0",
+        "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
+        "url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data",
+        "source": "Google Research：Blog（网页）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -992,15 +971,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7918,
-      "importance": 0.7918,
-      "importance_score": 0.7918,
+      "score": 0.787,
+      "importance": 0.787,
+      "importance_score": 0.787,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9791,
+        "recency": 0.9523,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1017,87 +996,6 @@
         "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b3db6c012c52",
-      "title": "亚马逊被爆开发AI智能体“Moonraker”:Alexa将支持多步复杂任务串联",
-      "url": "https://www.aibase.com/news/29499",
-      "primary_url": "https://www.aibase.com/news/29499",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ba580885bcbca07d47149fdb9b85c28d5522f7c0",
-          "title": "亚马逊被爆开发AI智能体“Moonraker”:Alexa将支持多步复杂任务串联",
-          "url": "https://www.aibase.com/news/29499",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-09T08:36:14.207613Z"
-        },
-        {
-          "id": "9e0be1c3319763b84dbaa07a5bb7fe13a1f9cbc5",
-          "title": "亚马逊被爆开发 AI 智能体「Moonraker」:Alexa 将支持多步复杂任务串联",
-          "url": "https://www.aibase.com/zh/news/29499",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "ba580885bcbca07d47149fdb9b85c28d5522f7c0",
-          "title": "亚马逊被爆开发AI智能体“Moonraker”:Alexa将支持多步复杂任务串联",
-          "url": "https://www.aibase.com/news/29499",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-09T08:36:14.207613Z"
-        },
-        {
-          "id": "9e0be1c3319763b84dbaa07a5bb7fe13a1f9cbc5",
-          "title": "亚马逊被爆开发 AI 智能体「Moonraker」:Alexa 将支持多步复杂任务串联",
-          "url": "https://www.aibase.com/zh/news/29499",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7583,
-      "importance": 0.7583,
-      "importance_score": 0.7583,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8093,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-09T08:36:14.207613Z",
-      "latest_at": "2026-07-09T08:36:14.207613Z",
-      "primary_item": {
-        "id": "ba580885bcbca07d47149fdb9b85c28d5522f7c0",
-        "title": "亚马逊被爆开发AI智能体“Moonraker”:Alexa将支持多步复杂任务串联",
-        "url": "https://www.aibase.com/news/29499",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1154,15 +1052,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7577,
-      "importance": 0.7577,
-      "importance_score": 0.7577,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7896,
+        "recency": 0.7679,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1235,15 +1133,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7841,
-      "importance": 0.7841,
-      "importance_score": 0.7841,
+      "score": 0.7793,
+      "importance": 0.7793,
+      "importance_score": 0.7793,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9863,
+        "recency": 0.9593,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1316,22 +1214,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7487,
+      "importance": 0.7487,
+      "importance_score": 0.7487,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8115,
+        "recency": 0.7893,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-09T08:47:37Z",
       "latest_at": "2026-07-09T08:47:37Z",
@@ -1378,21 +1275,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7525,
-      "importance": 0.7525,
-      "importance_score": 0.7525,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.916,
+        "recency": 0.8909,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-09T17:10:58Z",
       "latest_at": "2026-07-09T17:10:58Z",
@@ -1439,21 +1335,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.751,
-      "importance": 0.751,
-      "importance_score": 0.751,
+      "score": 0.7462,
+      "importance": 0.7462,
+      "importance_score": 0.7462,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9744,
+        "recency": 0.9477,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-09T21:27:27Z",
       "latest_at": "2026-07-09T21:27:27Z",
@@ -1500,15 +1395,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7421,
-      "importance": 0.7421,
-      "importance_score": 0.7421,
+      "score": 0.7378,
+      "importance": 0.7378,
+      "importance_score": 0.7378,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8751,
+        "recency": 0.8511,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1523,6 +1418,67 @@
         "url": "https://x.com/OpenBMB/status/2075218678027850154",
         "source": "X：面壁智能 OpenBMB (@OpenBMB)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_20abc4553542",
+      "title": "OpenAI\"二号人物\"卸任:因神经免疫系统疾病复发，Fidji Simo转任兼职顾问",
+      "url": "https://www.aibase.com/news/29508",
+      "primary_url": "https://www.aibase.com/news/29508",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5e84c49661d12b80cb30aed89076360c5577dced",
+          "title": "OpenAI\"二号人物\"卸任:因神经免疫系统疾病复发，Fidji Simo转任兼职顾问",
+          "url": "https://www.aibase.com/news/29508",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-10T01:10:48.104905Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5e84c49661d12b80cb30aed89076360c5577dced",
+          "title": "OpenAI\"二号人物\"卸任:因神经免疫系统疾病复发，Fidji Simo转任兼职顾问",
+          "url": "https://www.aibase.com/news/29508",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-10T01:10:48.104905Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T01:10:48.104905Z",
+      "latest_at": "2026-07-10T01:10:48.104905Z",
+      "primary_item": {
+        "id": "5e84c49661d12b80cb30aed89076360c5577dced",
+        "title": "OpenAI\"二号人物\"卸任:因神经免疫系统疾病复发，Fidji Simo转任兼职顾问",
+        "url": "https://www.aibase.com/news/29508",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
