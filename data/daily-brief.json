@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T08:02:20.195452Z",
+  "generated_at": "2026-07-11T09:59:57.268952Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8336,
-      "importance": 0.8336,
-      "importance_score": 0.8336,
+      "score": 0.8292,
+      "importance": 0.8292,
+      "importance_score": 0.8292,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8666,
+        "recency": 0.8424,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -157,15 +157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8248,
-      "importance": 0.8248,
-      "importance_score": 0.8248,
+      "score": 0.8205,
+      "importance": 0.8205,
+      "importance_score": 0.8205,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8487,
+        "recency": 0.8251,
         "story_heat": 0.0
       },
       "category": "official",
@@ -219,15 +219,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8147,
-      "importance": 0.8147,
-      "importance_score": 0.8147,
+      "score": 0.8107,
+      "importance": 0.8107,
+      "importance_score": 0.8107,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7928,
+        "recency": 0.7707,
         "story_heat": 0.0
       },
       "category": "official",
@@ -244,6 +244,87 @@
         "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
         "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_8eeb4fee86b5",
+      "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
+      "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+      "primary_url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e871b5910a04307da3ef3ae7d63c20f888c4112a",
+          "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
+          "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T07:56:11Z"
+        },
+        {
+          "id": "dbf509acc7aa394d320e8dd9e3e3ca213ff65843",
+          "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型 / Ant Group’s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI",
+          "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-11T07:56:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e871b5910a04307da3ef3ae7d63c20f888c4112a",
+          "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
+          "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T07:56:11Z"
+        },
+        {
+          "id": "dbf509acc7aa394d320e8dd9e3e3ca213ff65843",
+          "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型 / Ant Group’s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI",
+          "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-11T07:56:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7933,
+      "importance": 0.7933,
+      "importance_score": 0.7933,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9707,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-11T07:56:11Z",
+      "latest_at": "2026-07-11T07:56:11Z",
+      "primary_item": {
+        "id": "e871b5910a04307da3ef3ae7d63c20f888c4112a",
+        "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
+        "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -300,15 +381,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.789,
-      "importance": 0.789,
-      "importance_score": 0.789,
+      "score": 0.7848,
+      "importance": 0.7848,
+      "importance_score": 0.7848,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8469,
+        "recency": 0.8233,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -362,15 +443,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8155,
-      "importance": 0.8155,
-      "importance_score": 0.8155,
+      "score": 0.8113,
+      "importance": 0.8113,
+      "importance_score": 0.8113,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8417,
+        "recency": 0.8182,
         "story_heat": 0.0
       },
       "category": "official",
@@ -443,15 +524,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7645,
-      "importance": 0.7645,
-      "importance_score": 0.7645,
+      "score": 0.7601,
+      "importance": 0.7601,
+      "importance_score": 0.7601,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8771,
+        "recency": 0.8526,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -505,15 +586,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7644,
-      "importance": 0.7644,
-      "importance_score": 0.7644,
+      "score": 0.7598,
+      "importance": 0.7598,
+      "importance_score": 0.7598,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9158,
+        "recency": 0.8902,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -566,15 +647,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
+      "score": 0.7513,
+      "importance": 0.7513,
+      "importance_score": 0.7513,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8157,
+        "recency": 0.7929,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -627,15 +708,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7487,
-      "importance": 0.7487,
-      "importance_score": 0.7487,
+      "score": 0.7445,
+      "importance": 0.7445,
+      "importance_score": 0.7445,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8453,
+        "recency": 0.8217,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -687,15 +768,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.805,
-      "importance": 0.805,
-      "importance_score": 0.805,
+      "score": 0.8011,
+      "importance": 0.8011,
+      "importance_score": 0.8011,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7833,
+        "recency": 0.7614,
         "story_heat": 0.0
       },
       "category": "official",
@@ -749,15 +830,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7277,
-      "importance": 0.7277,
-      "importance_score": 0.7277,
+      "score": 0.7237,
+      "importance": 0.7237,
+      "importance_score": 0.7237,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8119,
+        "recency": 0.7892,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -772,128 +853,6 @@
         "url": "https://x.com/ClaudeDevs/status/2075635283211772279",
         "source": "X：Claude Devs (@ClaudeDevs)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_dc837ddc581e",
-      "title": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
-      "url": "https://mp.weixin.qq.com/s/Haqbjim9YGmRu1XpxG_VvA",
-      "primary_url": "https://mp.weixin.qq.com/s/Haqbjim9YGmRu1XpxG_VvA",
-      "source": "公众号：百度智能云（文心）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e334fec610fe6e0031747a464c20ee81d8a825df",
-          "title": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
-          "url": "https://mp.weixin.qq.com/s/Haqbjim9YGmRu1XpxG_VvA",
-          "source": "公众号：百度智能云（文心）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T13:58:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：百度智能云（文心）"
-      ],
-      "items": [
-        {
-          "id": "e334fec610fe6e0031747a464c20ee81d8a825df",
-          "title": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
-          "url": "https://mp.weixin.qq.com/s/Haqbjim9YGmRu1XpxG_VvA",
-          "source": "公众号：百度智能云（文心）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T13:58:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7233,
-      "importance": 0.7233,
-      "importance_score": 0.7233,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7703,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-10T13:58:07Z",
-      "latest_at": "2026-07-10T13:58:07Z",
-      "primary_item": {
-        "id": "e334fec610fe6e0031747a464c20ee81d8a825df",
-        "title": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
-        "url": "https://mp.weixin.qq.com/s/Haqbjim9YGmRu1XpxG_VvA",
-        "source": "公众号：百度智能云（文心）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fd60211f7949",
-      "title": "GitHub Mobile：改进了 Copilot 会话的过滤器和排序 / GitHub Mobile: Improved filters and sorting for Copilot sessions",
-      "url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions",
-      "primary_url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "34c48a4ad2e50ee457f65cc325d95bd6e7c0b929",
-          "title": "GitHub Mobile：改进了 Copilot 会话的过滤器和排序 / GitHub Mobile: Improved filters and sorting for Copilot sessions",
-          "url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-10T09:45:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "34c48a4ad2e50ee457f65cc325d95bd6e7c0b929",
-          "title": "GitHub Mobile：改进了 Copilot 会话的过滤器和排序 / GitHub Mobile: Improved filters and sorting for Copilot sessions",
-          "url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-10T09:45:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8025,
-      "importance": 0.8025,
-      "importance_score": 0.8025,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7249,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-10T09:45:30Z",
-      "latest_at": "2026-07-10T09:45:30Z",
-      "primary_item": {
-        "id": "34c48a4ad2e50ee457f65cc325d95bd6e7c0b929",
-        "title": "GitHub Mobile：改进了 Copilot 会话的过滤器和排序 / GitHub Mobile: Improved filters and sorting for Copilot sessions",
-        "url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -985,15 +944,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6098,
-      "importance": 0.6098,
-      "importance_score": 0.6098,
+      "score": 0.6057,
+      "importance": 0.6057,
+      "importance_score": 0.6057,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8087,
+        "recency": 0.7861,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1064,15 +1023,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6028,
-      "importance": 0.6028,
-      "importance_score": 0.6028,
+      "score": 0.5985,
+      "importance": 0.5985,
+      "importance_score": 0.5985,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.8602,
+        "recency": 0.8362,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1181,15 +1140,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5754,
-      "importance": 0.5754,
-      "importance_score": 0.5754,
+      "score": 0.571,
+      "importance": 0.571,
+      "importance_score": 0.571,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8869,
+        "recency": 0.8621,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1204,6 +1163,243 @@
         "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
         "source": "discuss.ai.google.dev",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_0a7e85008191",
+      "title": "OpenAI48 小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
+      "url": "https://www.huxiu.com/article/4874519.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4874519.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "4a160e187edde4df54204d98b5d103546dbdac2f",
+          "title": "OpenAI48 小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
+          "url": "https://www.huxiu.com/article/4874519.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "53bd41ce08b667aee69742d6c135f7803d7da97c",
+          "title": "OpenAI48小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
+          "url": "https://www.huxiu.com/article/4874519.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T09:23:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "4a160e187edde4df54204d98b5d103546dbdac2f",
+          "title": "OpenAI48 小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
+          "url": "https://www.huxiu.com/article/4874519.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "53bd41ce08b667aee69742d6c135f7803d7da97c",
+          "title": "OpenAI48小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
+          "url": "https://www.huxiu.com/article/4874519.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T09:23:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T09:23:45Z",
+      "latest_at": "2026-07-11T09:59:57.268952Z",
+      "primary_item": {
+        "id": "4a160e187edde4df54204d98b5d103546dbdac2f",
+        "title": "OpenAI48 小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
+        "url": "https://www.huxiu.com/article/4874519.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_fcf1a756fad9",
+      "title": "人工智能监控与社会进步",
+      "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
+      "primary_url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
+      "source": "www.schneier.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "a16d914d2e02c7b2611e63195e3a2a4bfe6bcd2b",
+          "title": "人工智能监控与社会进步",
+          "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
+          "source": "www.schneier.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T09:51:09.924000Z"
+        },
+        {
+          "id": "13040820bc1a09759c52883be28b7224ffb3d5f3",
+          "title": "人工智能监控与社会进步 / AI Surveillance and Social Progress",
+          "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T09:40:40Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "www.schneier.com"
+      ],
+      "items": [
+        {
+          "id": "a16d914d2e02c7b2611e63195e3a2a4bfe6bcd2b",
+          "title": "人工智能监控与社会进步",
+          "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
+          "source": "www.schneier.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T09:51:09.924000Z"
+        },
+        {
+          "id": "13040820bc1a09759c52883be28b7224ffb3d5f3",
+          "title": "人工智能监控与社会进步 / AI Surveillance and Social Progress",
+          "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T09:40:40Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5454,
+      "importance": 0.5454,
+      "importance_score": 0.5454,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9979,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T09:40:40Z",
+      "latest_at": "2026-07-11T09:51:09.924000Z",
+      "primary_item": {
+        "id": "a16d914d2e02c7b2611e63195e3a2a4bfe6bcd2b",
+        "title": "人工智能监控与社会进步",
+        "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
+        "source": "www.schneier.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_31136afe5d04",
+      "title": "图解 120 个大语言模型（LLM）核心概念（31-60）",
+      "url": "https://juejin.cn/post/7660697431320690723",
+      "primary_url": "https://juejin.cn/post/7660697431320690723",
+      "source": "juejin",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "710a0661c81f186f5ecca862f64f2d555e22862d",
+          "title": "图解 120 个大语言模型（LLM）核心概念（31-60）",
+          "url": "https://juejin.cn/post/7660697431320690723",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T09:43:22.406000Z"
+        },
+        {
+          "id": "ba8969538a1b8c40f719a7bc5e2d3f26de20986a",
+          "title": "图解 120 个大语言模型（LLM）核心概念（1-30）",
+          "url": "https://juejin.cn/post/7660708287620808739",
+          "source": "掘金 · 人工智能本周最热",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "juejin",
+        "掘金 · 人工智能本周最热"
+      ],
+      "items": [
+        {
+          "id": "710a0661c81f186f5ecca862f64f2d555e22862d",
+          "title": "图解 120 个大语言模型（LLM）核心概念（31-60）",
+          "url": "https://juejin.cn/post/7660697431320690723",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T09:43:22.406000Z"
+        },
+        {
+          "id": "ba8969538a1b8c40f719a7bc5e2d3f26de20986a",
+          "title": "图解 120 个大语言模型（LLM）核心概念（1-30）",
+          "url": "https://juejin.cn/post/7660708287620808739",
+          "source": "掘金 · 人工智能本周最热",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5451,
+      "importance": 0.5451,
+      "importance_score": 0.5451,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.996,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T05:44:35.461433Z",
+      "latest_at": "2026-07-11T09:43:22.406000Z",
+      "primary_item": {
+        "id": "710a0661c81f186f5ecca862f64f2d555e22862d",
+        "title": "图解 120 个大语言模型（LLM）核心概念（31-60）",
+        "url": "https://juejin.cn/post/7660697431320690723",
+        "source": "juejin",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1279,15 +1475,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5494,
-      "importance": 0.5494,
-      "importance_score": 0.5494,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8813,
+        "recency": 0.8567,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1377,15 +1573,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5474,
-      "importance": 0.5474,
-      "importance_score": 0.5474,
+      "score": 0.543,
+      "importance": 0.543,
+      "importance_score": 0.543,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8699,
+        "recency": 0.8456,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1400,163 +1596,6 @@
         "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
         "source": "www.tryai.dev",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_eb159ca2abdd",
-      "title": "杜世超 | 人工智能时代亲密关系的危机？：以 AI 伴侣为例 | AI 时代：人类交往模式的变革与社会结构的重塑⑦",
-      "url": "https://www.huxiu.com/article/4874503.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4874503.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "9cfcffbe13372f85db65dc3fc3695bce29886dfb",
-          "title": "杜世超 | 人工智能时代亲密关系的危机？：以 AI 伴侣为例 | AI 时代：人类交往模式的变革与社会结构的重塑⑦",
-          "url": "https://www.huxiu.com/article/4874503.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "04505e6f5861ddbb42119b5bf11170205bb7538c",
-          "title": "杜世超| 人工智能时代亲密关系的危机？：以AI伴侣为例| AI 时代：人类交往模式的变革与社会结构的重塑⑦",
-          "url": "https://www.huxiu.com/article/4874503.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T07:24:55Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "9cfcffbe13372f85db65dc3fc3695bce29886dfb",
-          "title": "杜世超 | 人工智能时代亲密关系的危机？：以 AI 伴侣为例 | AI 时代：人类交往模式的变革与社会结构的重塑⑦",
-          "url": "https://www.huxiu.com/article/4874503.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "04505e6f5861ddbb42119b5bf11170205bb7538c",
-          "title": "杜世超| 人工智能时代亲密关系的危机？：以AI伴侣为例| AI 时代：人类交往模式的变革与社会结构的重塑⑦",
-          "url": "https://www.huxiu.com/article/4874503.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T07:24:55Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T07:24:55Z",
-      "latest_at": "2026-07-11T08:02:20.195452Z",
-      "primary_item": {
-        "id": "9cfcffbe13372f85db65dc3fc3695bce29886dfb",
-        "title": "杜世超 | 人工智能时代亲密关系的危机？：以 AI 伴侣为例 | AI 时代：人类交往模式的变革与社会结构的重塑⑦",
-        "url": "https://www.huxiu.com/article/4874503.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_3fd5be624e9b",
-      "title": "Instagram 的 Adam Mosseri：如果你不喜欢人工智能，“那么你就不应该把它放在你的动态中” / Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;",
-      "url": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
-      "primary_url": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "2b18c9dfcf57dcd2bfc33095b42aa3ceb7cacf57",
-          "title": "Instagram 的 Adam Mosseri：如果你不喜欢人工智能，“那么你就不应该把它放在你的动态中” / Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;",
-          "url": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-10T13:45:02Z"
-        },
-        {
-          "id": "a3dfa7a0314b66e23452c72b2db3d25cc4570525",
-          "title": "Instagram 的 Adam Mosseri：如果你不喜欢人工智能，“那么你就不应该把它放在你的动态中” / Instagram’s Adam Mosseri: If you don’t like AI, ‘then you shouldn’t have it in your feed’",
-          "url": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-10T13:45:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "2b18c9dfcf57dcd2bfc33095b42aa3ceb7cacf57",
-          "title": "Instagram 的 Adam Mosseri：如果你不喜欢人工智能，“那么你就不应该把它放在你的动态中” / Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;",
-          "url": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-10T13:45:02Z"
-        },
-        {
-          "id": "a3dfa7a0314b66e23452c72b2db3d25cc4570525",
-          "title": "Instagram 的 Adam Mosseri：如果你不喜欢人工智能，“那么你就不应该把它放在你的动态中” / Instagram’s Adam Mosseri: If you don’t like AI, ‘then you shouldn’t have it in your feed’",
-          "url": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-10T13:45:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5737,
-      "importance": 0.5737,
-      "importance_score": 0.5737,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.7679,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-10T13:45:02Z",
-      "latest_at": "2026-07-10T13:45:02Z",
-      "primary_item": {
-        "id": "2b18c9dfcf57dcd2bfc33095b42aa3ceb7cacf57",
-        "title": "Instagram 的 Adam Mosseri：如果你不喜欢人工智能，“那么你就不应该把它放在你的动态中” / Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;",
-        "url": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
-        "source": "The Verge",
-        "source_name": "Curated Media"
       }
     }
   ]
