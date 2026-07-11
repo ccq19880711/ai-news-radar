@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T23:31:09.302608Z",
+  "generated_at": "2026-07-11T02:55:22.958087Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.854,
-      "importance": 0.854,
-      "importance_score": 0.854,
+      "score": 0.8455,
+      "importance": 0.8455,
+      "importance_score": 0.8455,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.98,
+        "recency": 0.933,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -157,15 +157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8448,
-      "importance": 0.8448,
-      "importance_score": 0.8448,
+      "score": 0.8365,
+      "importance": 0.8365,
+      "importance_score": 0.8365,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9599,
+        "recency": 0.9138,
         "story_heat": 0.0
       },
       "category": "official",
@@ -219,15 +219,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8334,
-      "importance": 0.8334,
-      "importance_score": 0.8334,
+      "score": 0.8257,
+      "importance": 0.8257,
+      "importance_score": 0.8257,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8966,
+        "recency": 0.8536,
         "story_heat": 0.0
       },
       "category": "official",
@@ -281,15 +281,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8138,
-      "importance": 0.8138,
-      "importance_score": 0.8138,
+      "score": 0.807,
+      "importance": 0.807,
+      "importance_score": 0.807,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7878,
+        "recency": 0.75,
         "story_heat": 0.0
       },
       "category": "official",
@@ -362,15 +362,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.809,
-      "importance": 0.809,
-      "importance_score": 0.809,
+      "score": 0.8007,
+      "importance": 0.8007,
+      "importance_score": 0.8007,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9578,
+        "recency": 0.9119,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -387,68 +387,6 @@
         "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_145fbd552c75",
-      "title": "PyTorch 中的分析（第 3 部分）：注意力就是您的分析 / Profiling in PyTorch (Part 3): Attention is all you profile",
-      "url": "https://huggingface.co/blog/torch-attention-profile",
-      "primary_url": "https://huggingface.co/blog/torch-attention-profile",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9f23b0d59c5cf6c4fd344774b61ac122dee0bd83",
-          "title": "PyTorch 中的分析（第 3 部分）：注意力就是您的分析 / Profiling in PyTorch (Part 3): Attention is all you profile",
-          "url": "https://huggingface.co/blog/torch-attention-profile",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-10T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "9f23b0d59c5cf6c4fd344774b61ac122dee0bd83",
-          "title": "PyTorch 中的分析（第 3 部分）：注意力就是您的分析 / Profiling in PyTorch (Part 3): Attention is all you profile",
-          "url": "https://huggingface.co/blog/torch-attention-profile",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-10T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8082,
-      "importance": 0.8082,
-      "importance_score": 0.8082,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.712,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-10T00:00:00Z",
-      "latest_at": "2026-07-10T00:00:00Z",
-      "primary_item": {
-        "id": "9f23b0d59c5cf6c4fd344774b61ac122dee0bd83",
-        "title": "PyTorch 中的分析（第 3 部分）：注意力就是您的分析 / Profiling in PyTorch (Part 3): Attention is all you profile",
-        "url": "https://huggingface.co/blog/torch-attention-profile",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -486,15 +424,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8353,
-      "importance": 0.8353,
-      "importance_score": 0.8353,
+      "score": 0.8271,
+      "importance": 0.8271,
+      "importance_score": 0.8271,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9519,
+        "recency": 0.9062,
         "story_heat": 0.0
       },
       "category": "official",
@@ -511,6 +449,67 @@
         "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f01ec2871d4b",
+      "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
+      "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
+      "primary_url": "https://x.com/AYi_AInotes/status/2075761215251312722",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "81ae1640e42c29bcd66a9b6fb23c58e3ac72fb77",
+          "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
+          "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T01:56:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "items": [
+        {
+          "id": "81ae1640e42c29bcd66a9b6fb23c58e3ac72fb77",
+          "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
+          "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T01:56:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7771,
+      "importance": 0.7771,
+      "importance_score": 0.7771,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.986,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-11T01:56:54Z",
+      "latest_at": "2026-07-11T01:56:54Z",
+      "primary_item": {
+        "id": "81ae1640e42c29bcd66a9b6fb23c58e3ac72fb77",
+        "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
+        "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -567,15 +566,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7851,
-      "importance": 0.7851,
-      "importance_score": 0.7851,
+      "score": 0.7766,
+      "importance": 0.7766,
+      "importance_score": 0.7766,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9919,
+        "recency": 0.9444,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -629,15 +628,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7746,
-      "importance": 0.7746,
-      "importance_score": 0.7746,
+      "score": 0.7667,
+      "importance": 0.7667,
+      "importance_score": 0.7667,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9225,
+        "recency": 0.8782,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -690,15 +689,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7687,
-      "importance": 0.7687,
-      "importance_score": 0.7687,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9559,
+        "recency": 0.9101,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -751,15 +750,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8234,
-      "importance": 0.8234,
-      "importance_score": 0.8234,
+      "score": 0.8158,
+      "importance": 0.8158,
+      "importance_score": 0.8158,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8858,
+        "recency": 0.8433,
         "story_heat": 0.0
       },
       "category": "official",
@@ -813,15 +812,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7469,
-      "importance": 0.7469,
-      "importance_score": 0.7469,
+      "score": 0.7389,
+      "importance": 0.7389,
+      "importance_score": 0.7389,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9182,
+        "recency": 0.8741,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -873,15 +872,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
+      "score": 0.7339,
+      "importance": 0.7339,
+      "importance_score": 0.7339,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8712,
+        "recency": 0.8294,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -933,15 +932,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7391,
-      "importance": 0.7391,
-      "importance_score": 0.7391,
+      "score": 0.7323,
+      "importance": 0.7323,
+      "importance_score": 0.7323,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7917,
+        "recency": 0.7537,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -993,15 +992,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.735,
-      "importance": 0.735,
-      "importance_score": 0.735,
+      "score": 0.728,
+      "importance": 0.728,
+      "importance_score": 0.728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8191,
+        "recency": 0.7798,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1072,15 +1071,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7643,
-      "importance": 0.7643,
-      "importance_score": 0.7643,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7927,
+        "recency": 0.7547,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1134,15 +1133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8196,
-      "importance": 0.8196,
-      "importance_score": 0.8196,
+      "score": 0.8125,
+      "importance": 0.8125,
+      "importance_score": 0.8125,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8198,
+        "recency": 0.7805,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1196,15 +1195,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7296,
-      "importance": 0.7296,
-      "importance_score": 0.7296,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8225,
+        "recency": 0.783,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1222,143 +1221,123 @@
       }
     },
     {
-      "story_id": "story_bd0e80076c59",
-      "title": "Perplexity 推出跨模型信用额度分析功能",
-      "url": "https://x.com/perplexity_ai/status/2075599540640714863",
-      "primary_url": "https://x.com/perplexity_ai/status/2075599540640714863",
-      "source": "X：Perplexity (@perplexity_ai)",
-      "source_name": "AI HOT",
+      "story_id": "story_b1be13fe5108",
+      "title": "Kimi联合美国运通与农业银行正式发行首张AI原生信用卡",
+      "url": "https://www.aibase.com/news/29526",
+      "primary_url": "https://www.aibase.com/news/29526",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "9875efa23f5875c362188fa81001858ac4b75317",
-          "title": "Perplexity 推出跨模型信用额度分析功能",
-          "url": "https://x.com/perplexity_ai/status/2075599540640714863",
-          "source": "X：Perplexity (@perplexity_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T15:14:27Z"
+          "id": "4a39cb680452f4ea48c05a1d6b973a19efe1cc93",
+          "title": "Kimi联合美国运通与农业银行正式发行首张AI原生信用卡",
+          "url": "https://www.aibase.com/news/29526",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-10T09:42:03.505587Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Perplexity (@perplexity_ai)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "9875efa23f5875c362188fa81001858ac4b75317",
-          "title": "Perplexity 推出跨模型信用额度分析功能",
-          "url": "https://x.com/perplexity_ai/status/2075599540640714863",
-          "source": "X：Perplexity (@perplexity_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T15:14:27Z"
+          "id": "4a39cb680452f4ea48c05a1d6b973a19efe1cc93",
+          "title": "Kimi联合美国运通与农业银行正式发行首张AI原生信用卡",
+          "url": "https://www.aibase.com/news/29526",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-10T09:42:03.505587Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7263,
-      "importance": 0.7263,
-      "importance_score": 0.7263,
+      "score": 0.728,
+      "importance": 0.728,
+      "importance_score": 0.728,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.65,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8873,
+        "recency": 0.7798,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-10T15:14:27Z",
-      "latest_at": "2026-07-10T15:14:27Z",
+      "earliest_at": "2026-07-10T09:42:03.505587Z",
+      "latest_at": "2026-07-10T09:42:03.505587Z",
       "primary_item": {
-        "id": "9875efa23f5875c362188fa81001858ac4b75317",
-        "title": "Perplexity 推出跨模型信用额度分析功能",
-        "url": "https://x.com/perplexity_ai/status/2075599540640714863",
-        "source": "X：Perplexity (@perplexity_ai)",
-        "source_name": "AI HOT"
+        "id": "4a39cb680452f4ea48c05a1d6b973a19efe1cc93",
+        "title": "Kimi联合美国运通与农业银行正式发行首张AI原生信用卡",
+        "url": "https://www.aibase.com/news/29526",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_d89c44792716",
-      "title": "Claude Code v2.1.206 发布",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.206",
-      "primary_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.206",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_b63b27686ba0",
+      "title": "​Meta 发布新旗舰模型 Muse Spark 1.1，升级多代理自动化功能",
+      "url": "https://www.aibase.com/news/29528",
+      "primary_url": "https://www.aibase.com/news/29528",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "82e754c3a75277b1ef0fae9872314e18ecaa111c",
-          "title": "Claude Code v2.1.206 发布",
-          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.206",
-          "source": "Claude Code：GitHub Releases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T01:45:26Z"
-        },
-        {
-          "id": "2d5d7094649813447aa3f4cbf07f8c1f1549639a",
-          "title": "v2.1.206",
-          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.206",
-          "source": "Claude Code Releases",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-10T01:45:26Z"
+          "id": "ad24c680df28cc2d6008647c44a937d24babe2df",
+          "title": "​Meta 发布新旗舰模型 Muse Spark 1.1，升级多代理自动化功能",
+          "url": "https://www.aibase.com/news/29528",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-10T09:42:03.505587Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Claude Code Releases",
-        "Claude Code：GitHub Releases（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "82e754c3a75277b1ef0fae9872314e18ecaa111c",
-          "title": "Claude Code v2.1.206 发布",
-          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.206",
-          "source": "Claude Code：GitHub Releases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T01:45:26Z"
-        },
-        {
-          "id": "2d5d7094649813447aa3f4cbf07f8c1f1549639a",
-          "title": "v2.1.206",
-          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.206",
-          "source": "Claude Code Releases",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-10T01:45:26Z"
+          "id": "ad24c680df28cc2d6008647c44a937d24babe2df",
+          "title": "​Meta 发布新旗舰模型 Muse Spark 1.1，升级多代理自动化功能",
+          "url": "https://www.aibase.com/news/29528",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-10T09:42:03.505587Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7141,
-      "importance": 0.7141,
-      "importance_score": 0.7141,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.728,
+      "importance": 0.728,
+      "importance_score": 0.728,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.62,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7303,
-        "story_heat": 0.25
+        "recency": 0.7798,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-10T01:45:26Z",
-      "latest_at": "2026-07-10T01:45:26Z",
+      "earliest_at": "2026-07-10T09:42:03.505587Z",
+      "latest_at": "2026-07-10T09:42:03.505587Z",
       "primary_item": {
-        "id": "82e754c3a75277b1ef0fae9872314e18ecaa111c",
-        "title": "Claude Code v2.1.206 发布",
-        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.206",
-        "source": "Claude Code：GitHub Releases（RSS）",
-        "source_name": "AI HOT"
+        "id": "ad24c680df28cc2d6008647c44a937d24babe2df",
+        "title": "​Meta 发布新旗舰模型 Muse Spark 1.1，升级多代理自动化功能",
+        "url": "https://www.aibase.com/news/29528",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
