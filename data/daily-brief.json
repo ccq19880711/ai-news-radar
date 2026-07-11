@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T20:54:42.075919Z",
+  "generated_at": "2026-07-11T21:53:57.480003Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8405,
-      "importance": 0.8405,
-      "importance_score": 0.8405,
+      "score": 0.8381,
+      "importance": 0.8381,
+      "importance_score": 0.8381,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9385,
+        "recency": 0.9253,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -176,15 +176,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7859,
-      "importance": 0.7859,
-      "importance_score": 0.7859,
+      "score": 0.7835,
+      "importance": 0.7835,
+      "importance_score": 0.7835,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9461,
+        "recency": 0.9327,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -257,15 +257,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7678,
-      "importance": 0.7678,
-      "importance_score": 0.7678,
+      "score": 0.7657,
+      "importance": 0.7657,
+      "importance_score": 0.7657,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8291,
+        "recency": 0.8174,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -338,15 +338,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.7559,
+      "importance": 0.7559,
+      "importance_score": 0.7559,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8245,
+        "recency": 0.8129,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -419,15 +419,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7574,
-      "importance": 0.7574,
-      "importance_score": 0.7574,
+      "score": 0.7555,
+      "importance": 0.7555,
+      "importance_score": 0.7555,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7375,
+        "recency": 0.7271,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -481,15 +481,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
+      "score": 0.7524,
+      "importance": 0.7524,
+      "importance_score": 0.7524,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7259,
+        "recency": 0.7157,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -542,15 +542,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7452,
-      "importance": 0.7452,
-      "importance_score": 0.7452,
+      "score": 0.7428,
+      "importance": 0.7428,
+      "importance_score": 0.7428,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.942,
+        "recency": 0.9286,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -602,15 +602,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7365,
-      "importance": 0.7365,
-      "importance_score": 0.7365,
+      "score": 0.7345,
+      "importance": 0.7345,
+      "importance_score": 0.7345,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7605,
+        "recency": 0.7497,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -681,15 +681,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7571,
-      "importance": 0.7571,
-      "importance_score": 0.7571,
+      "score": 0.7553,
+      "importance": 0.7553,
+      "importance_score": 0.7553,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7196,
+        "recency": 0.7094,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -762,15 +762,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7377,
-      "importance": 0.7377,
-      "importance_score": 0.7377,
+      "score": 0.7358,
+      "importance": 0.7358,
+      "importance_score": 0.7358,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7283,
+        "recency": 0.718,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -877,15 +877,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6469,
-      "importance": 0.6469,
-      "importance_score": 0.6469,
+      "score": 0.6445,
+      "importance": 0.6445,
+      "importance_score": 0.6445,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.54,
         "ai_relevance": 0.68,
-        "recency": 0.9455,
+        "recency": 0.9321,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -900,6 +900,104 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-11",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_b5d19d55b601",
+      "title": "AI 2040 和对智能的崇拜 / AI 2040 and the cult of intelligence",
+      "url": "https://news.ycombinator.com/item?id=48874200",
+      "primary_url": "https://news.ycombinator.com/item?id=48874200",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "ea752aa4339116e78188023c4f921b0461860969",
+          "title": "AI 2040 和对智能的崇拜 / AI 2040 and the cult of intelligence",
+          "url": "https://news.ycombinator.com/item?id=48874200",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T21:41:13.114000Z"
+        },
+        {
+          "id": "d647bd9954085a03a6ebbfe16ea7c7ac5f69dc92",
+          "title": "《AI 2040》与“智能崇拜”",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+          "source": "geohot.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T19:27:11.440000Z"
+        },
+        {
+          "id": "6579203a9fff0effe145a0585623f2bb23a45051",
+          "title": "《AI 2040》与“智能崇拜” / AI 2040 and the Cult of Intelligence",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T18:04:01Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "geohot.github.io",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ea752aa4339116e78188023c4f921b0461860969",
+          "title": "AI 2040 和对智能的崇拜 / AI 2040 and the cult of intelligence",
+          "url": "https://news.ycombinator.com/item?id=48874200",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T21:41:13.114000Z"
+        },
+        {
+          "id": "d647bd9954085a03a6ebbfe16ea7c7ac5f69dc92",
+          "title": "《AI 2040》与“智能崇拜”",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+          "source": "geohot.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T19:27:11.440000Z"
+        },
+        {
+          "id": "6579203a9fff0effe145a0585623f2bb23a45051",
+          "title": "《AI 2040》与“智能崇拜” / AI 2040 and the Cult of Intelligence",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T18:04:01Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5702,
+      "importance": 0.5702,
+      "importance_score": 0.5702,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9969,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T18:04:01Z",
+      "latest_at": "2026-07-11T21:41:13.114000Z",
+      "primary_item": {
+        "id": "ea752aa4339116e78188023c4f921b0461860969",
+        "title": "AI 2040 和对智能的崇拜 / AI 2040 and the cult of intelligence",
+        "url": "https://news.ycombinator.com/item?id=48874200",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -956,15 +1054,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5455,
-      "importance": 0.5455,
-      "importance_score": 0.5455,
+      "score": 0.5429,
+      "importance": 0.5429,
+      "importance_score": 0.5429,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9982,
+        "recency": 0.9841,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -979,164 +1077,6 @@
         "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_b5d19d55b601",
-      "title": "《AI 2040》与“智能崇拜”",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-      "primary_url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-      "source": "geohot.github.io",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d647bd9954085a03a6ebbfe16ea7c7ac5f69dc92",
-          "title": "《AI 2040》与“智能崇拜”",
-          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-          "source": "geohot.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T19:27:11.440000Z"
-        },
-        {
-          "id": "6579203a9fff0effe145a0585623f2bb23a45051",
-          "title": "《AI 2040》与“智能崇拜” / AI 2040 and the Cult of Intelligence",
-          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T18:04:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "geohot.github.io"
-      ],
-      "items": [
-        {
-          "id": "d647bd9954085a03a6ebbfe16ea7c7ac5f69dc92",
-          "title": "《AI 2040》与“智能崇拜”",
-          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-          "source": "geohot.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T19:27:11.440000Z"
-        },
-        {
-          "id": "6579203a9fff0effe145a0585623f2bb23a45051",
-          "title": "《AI 2040》与“智能崇拜” / AI 2040 and the Cult of Intelligence",
-          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T18:04:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.542,
-      "importance": 0.542,
-      "importance_score": 0.542,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9792,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T18:04:01Z",
-      "latest_at": "2026-07-11T19:27:11.440000Z",
-      "primary_item": {
-        "id": "d647bd9954085a03a6ebbfe16ea7c7ac5f69dc92",
-        "title": "《AI 2040》与“智能崇拜”",
-        "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-        "source": "geohot.github.io",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_3ff1f70f056f",
-      "title": "反向半人马是人工智能悖论的答案 / Reverse centaurs are the answer to the AI paradox",
-      "url": "https://news.ycombinator.com/item?id=48873855",
-      "primary_url": "https://news.ycombinator.com/item?id=48873855",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "4b19ef5e4aa2c105b128b1488ad19432c619d975",
-          "title": "反向半人马是人工智能悖论的答案 / Reverse centaurs are the answer to the AI paradox",
-          "url": "https://news.ycombinator.com/item?id=48873855",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T18:10:37.047000Z"
-        },
-        {
-          "id": "dff3493572235e2d7a5e5274e492cd7663f523a0",
-          "title": "反向半人马是人工智能悖论的答案 / Reverse centaurs are the answer to the AI paradox",
-          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T17:23:52Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "4b19ef5e4aa2c105b128b1488ad19432c619d975",
-          "title": "反向半人马是人工智能悖论的答案 / Reverse centaurs are the answer to the AI paradox",
-          "url": "https://news.ycombinator.com/item?id=48873855",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T18:10:37.047000Z"
-        },
-        {
-          "id": "dff3493572235e2d7a5e5274e492cd7663f523a0",
-          "title": "反向半人马是人工智能悖论的答案 / Reverse centaurs are the answer to the AI paradox",
-          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T17:23:52Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5388,
-      "importance": 0.5388,
-      "importance_score": 0.5388,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9613,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T17:23:52Z",
-      "latest_at": "2026-07-11T18:10:37.047000Z",
-      "primary_item": {
-        "id": "4b19ef5e4aa2c105b128b1488ad19432c619d975",
-        "title": "反向半人马是人工智能悖论的答案 / Reverse centaurs are the answer to the AI paradox",
-        "url": "https://news.ycombinator.com/item?id=48873855",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1192,15 +1132,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5341,
-      "importance": 0.5341,
-      "importance_score": 0.5341,
+      "score": 0.5317,
+      "importance": 0.5317,
+      "importance_score": 0.5317,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.935,
+        "recency": 0.9218,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1271,15 +1211,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5248,
-      "importance": 0.5248,
-      "importance_score": 0.5248,
+      "score": 0.5225,
+      "importance": 0.5225,
+      "importance_score": 0.5225,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8832,
+        "recency": 0.8707,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1349,15 +1289,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5245,
-      "importance": 0.5245,
-      "importance_score": 0.5245,
+      "score": 0.5223,
+      "importance": 0.5223,
+      "importance_score": 0.5223,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8819,
+        "recency": 0.8694,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1428,15 +1368,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5224,
-      "importance": 0.5224,
-      "importance_score": 0.5224,
+      "score": 0.5202,
+      "importance": 0.5202,
+      "importance_score": 0.5202,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8699,
+        "recency": 0.8575,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1507,15 +1447,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5196,
-      "importance": 0.5196,
-      "importance_score": 0.5196,
+      "score": 0.5174,
+      "importance": 0.5174,
+      "importance_score": 0.5174,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8542,
+        "recency": 0.8421,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1586,15 +1526,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5192,
-      "importance": 0.5192,
-      "importance_score": 0.5192,
+      "score": 0.5171,
+      "importance": 0.5171,
+      "importance_score": 0.5171,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8524,
+        "recency": 0.8403,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1609,6 +1549,85 @@
         "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
         "source": "www.schneier.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_31136afe5d04",
+      "title": "图解 120 个大语言模型（LLM）核心概念（31-60）",
+      "url": "https://juejin.cn/post/7660697431320690723",
+      "primary_url": "https://juejin.cn/post/7660697431320690723",
+      "source": "juejin",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "710a0661c81f186f5ecca862f64f2d555e22862d",
+          "title": "图解 120 个大语言模型（LLM）核心概念（31-60）",
+          "url": "https://juejin.cn/post/7660697431320690723",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T09:43:22.406000Z"
+        },
+        {
+          "id": "ba8969538a1b8c40f719a7bc5e2d3f26de20986a",
+          "title": "图解 120 个大语言模型（LLM）核心概念（1-30）",
+          "url": "https://juejin.cn/post/7660708287620808739",
+          "source": "掘金 · 人工智能本周最热",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "juejin",
+        "掘金 · 人工智能本周最热"
+      ],
+      "items": [
+        {
+          "id": "710a0661c81f186f5ecca862f64f2d555e22862d",
+          "title": "图解 120 个大语言模型（LLM）核心概念（31-60）",
+          "url": "https://juejin.cn/post/7660697431320690723",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T09:43:22.406000Z"
+        },
+        {
+          "id": "ba8969538a1b8c40f719a7bc5e2d3f26de20986a",
+          "title": "图解 120 个大语言模型（LLM）核心概念（1-30）",
+          "url": "https://juejin.cn/post/7660708287620808739",
+          "source": "掘金 · 人工智能本周最热",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5168,
+      "importance": 0.5168,
+      "importance_score": 0.5168,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8388,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T05:44:35.461433Z",
+      "latest_at": "2026-07-11T09:43:22.406000Z",
+      "primary_item": {
+        "id": "710a0661c81f186f5ecca862f64f2d555e22862d",
+        "title": "图解 120 个大语言模型（LLM）核心概念（31-60）",
+        "url": "https://juejin.cn/post/7660697431320690723",
+        "source": "juejin",
+        "source_name": "NewsNow"
       }
     }
   ]
