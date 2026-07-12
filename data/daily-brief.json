@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T06:37:12.067457Z",
+  "generated_at": "2026-07-12T09:05:29.092680Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8219,
-      "importance": 0.8219,
-      "importance_score": 0.8219,
+      "score": 0.816,
+      "importance": 0.816,
+      "importance_score": 0.816,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9407,
+        "recency": 0.9077,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -195,15 +195,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8184,
-      "importance": 0.8184,
-      "importance_score": 0.8184,
+      "score": 0.8133,
+      "importance": 0.8133,
+      "importance_score": 0.8133,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8158,
+        "recency": 0.7872,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -219,6 +219,87 @@
         "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
         "url": "https://www.mixfont.com/ghost-font",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ed5bc085d889",
+      "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
+      "url": "https://x.com/thsottiaux/status/2076119366647894371",
+      "primary_url": "https://x.com/thsottiaux/status/2076119366647894371",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
+          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
+          "url": "https://x.com/thsottiaux/status/2076119366647894371",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T01:40:04Z"
+        },
+        {
+          "id": "1d11733b9fec7200cfaf033270139b86b36a3e26",
+          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done. Ste...",
+          "url": "https://x.com/thsottiaux/status/2076119366647894371",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-07-12T01:40:04Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Thibault Sottiaux",
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
+          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
+          "url": "https://x.com/thsottiaux/status/2076119366647894371",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T01:40:04Z"
+        },
+        {
+          "id": "1d11733b9fec7200cfaf033270139b86b36a3e26",
+          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done. Ste...",
+          "url": "https://x.com/thsottiaux/status/2076119366647894371",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-07-12T01:40:04Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7833,
+      "importance": 0.7833,
+      "importance_score": 0.7833,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8983,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T01:40:04Z",
+      "latest_at": "2026-07-12T01:40:04Z",
+      "primary_item": {
+        "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
+        "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
+        "url": "https://x.com/thsottiaux/status/2076119366647894371",
+        "source": "X：Tibo (@thsottiaux)",
         "source_name": "AI HOT"
       }
     },
@@ -276,15 +357,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.787,
-      "importance": 0.787,
-      "importance_score": 0.787,
+      "score": 0.7812,
+      "importance": 0.7812,
+      "importance_score": 0.7812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9187,
+        "recency": 0.8865,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -300,67 +381,6 @@
         "title": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
         "url": "https://www.ithome.com/0/975/646.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ed5bc085d889",
-      "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
-      "url": "https://x.com/thsottiaux/status/2076119366647894371",
-      "primary_url": "https://x.com/thsottiaux/status/2076119366647894371",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
-          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
-          "url": "https://x.com/thsottiaux/status/2076119366647894371",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T01:40:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
-          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
-          "url": "https://x.com/thsottiaux/status/2076119366647894371",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T01:40:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.931,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-12T01:40:04Z",
-      "latest_at": "2026-07-12T01:40:04Z",
-      "primary_item": {
-        "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
-        "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
-        "url": "https://x.com/thsottiaux/status/2076119366647894371",
-        "source": "X：Tibo (@thsottiaux)",
         "source_name": "AI HOT"
       }
     },
@@ -418,15 +438,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7636,
-      "importance": 0.7636,
-      "importance_score": 0.7636,
+      "score": 0.7584,
+      "importance": 0.7584,
+      "importance_score": 0.7584,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8223,
+        "recency": 0.7935,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -480,15 +500,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
+      "score": 0.7528,
+      "importance": 0.7528,
+      "importance_score": 0.7528,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9513,
+        "recency": 0.918,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -504,86 +524,6 @@
         "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-12-hexi-2077-ai-weekly-2026-w28",
         "source": "Daily Digest",
         "source_name": "AI HubToday"
-      }
-    },
-    {
-      "story_id": "story_8eeb4fee86b5",
-      "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
-      "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
-      "primary_url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e871b5910a04307da3ef3ae7d63c20f888c4112a",
-          "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
-          "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T07:56:11Z"
-        },
-        {
-          "id": "dbf509acc7aa394d320e8dd9e3e3ca213ff65843",
-          "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型 / Ant Group’s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI",
-          "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-11T07:56:11Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "MarkTechPost Research",
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e871b5910a04307da3ef3ae7d63c20f888c4112a",
-          "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
-          "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T07:56:11Z"
-        },
-        {
-          "id": "dbf509acc7aa394d320e8dd9e3e3ca213ff65843",
-          "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型 / Ant Group’s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI",
-          "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-11T07:56:11Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7207,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-11T07:56:11Z",
-      "latest_at": "2026-07-11T07:56:11Z",
-      "primary_item": {
-        "id": "e871b5910a04307da3ef3ae7d63c20f888c4112a",
-        "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
-        "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -640,15 +580,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
+      "score": 0.7428,
+      "importance": 0.7428,
+      "importance_score": 0.7428,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8188,
+        "recency": 0.7901,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -720,15 +660,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7765,
-      "importance": 0.7765,
-      "importance_score": 0.7765,
+      "score": 0.7705,
+      "importance": 0.7705,
+      "importance_score": 0.7705,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9108,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -801,15 +741,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7919,
-      "importance": 0.7919,
-      "importance_score": 0.7919,
+      "score": 0.7858,
+      "importance": 0.7858,
+      "importance_score": 0.7858,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9627,
+        "recency": 0.9289,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -882,15 +822,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7687,
-      "importance": 0.7687,
-      "importance_score": 0.7687,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9005,
+        "recency": 0.869,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -905,86 +845,6 @@
         "id": "df2ac398e345fc03cbcf8fe07a6c8e5611bac796",
         "title": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句\"哈哈\"成窃密关键",
         "url": "https://www.ithome.com/0/975/634.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6d7dc2911118",
-      "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
-      "url": "https://www.ithome.com/0/975/469.htm",
-      "primary_url": "https://www.ithome.com/0/975/469.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2a61ae129b00bfd8553580d905cd56ab08d34b14",
-          "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
-          "url": "https://www.ithome.com/0/975/469.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T07:33:08Z"
-        },
-        {
-          "id": "48ab288af4e443d20b63901488425e4a96338a61",
-          "title": "11 天 Claude Fable 5 狂写超 100 万行代码：Rust 重构 JavaScript 运行时 Bun",
-          "url": "https://www.ithome.com/0/975/469.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T07:33:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "2a61ae129b00bfd8553580d905cd56ab08d34b14",
-          "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
-          "url": "https://www.ithome.com/0/975/469.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T07:33:08Z"
-        },
-        {
-          "id": "48ab288af4e443d20b63901488425e4a96338a61",
-          "title": "11 天 Claude Fable 5 狂写超 100 万行代码：Rust 重构 JavaScript 运行时 Bun",
-          "url": "https://www.ithome.com/0/975/469.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T07:33:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7386,
-      "importance": 0.7386,
-      "importance_score": 0.7386,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7167,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-11T07:33:08Z",
-      "latest_at": "2026-07-11T07:33:08Z",
-      "primary_item": {
-        "id": "2a61ae129b00bfd8553580d905cd56ab08d34b14",
-        "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
-        "url": "https://www.ithome.com/0/975/469.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
@@ -1078,15 +938,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6246,
-      "importance": 0.6246,
-      "importance_score": 0.6246,
+      "score": 0.6194,
+      "importance": 0.6194,
+      "importance_score": 0.6194,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.54,
         "ai_relevance": 0.68,
-        "recency": 0.8218,
+        "recency": 0.793,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1195,15 +1055,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5918,
-      "importance": 0.5918,
-      "importance_score": 0.5918,
+      "score": 0.5856,
+      "importance": 0.5856,
+      "importance_score": 0.5856,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9776,
+        "recency": 0.9433,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1293,15 +1153,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5544,
-      "importance": 0.5544,
-      "importance_score": 0.5544,
+      "score": 0.5486,
+      "importance": 0.5486,
+      "importance_score": 0.5486,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9086,
+        "recency": 0.8768,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1316,6 +1176,85 @@
         "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
         "source": "blog.yaelwrites.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_46f7a3ba9112",
+      "title": "赛意信息：公司 AI 领域战略规划分阶段有序推进",
+      "url": "https://36kr.com/newsflashes/3892334246345222?f=rss",
+      "primary_url": "https://36kr.com/newsflashes/3892334246345222?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "a11a9f2072ab694a129282f61058fabd3d576d19",
+          "title": "赛意信息：公司 AI 领域战略规划分阶段有序推进",
+          "url": "https://36kr.com/newsflashes/3892334246345222?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "9c8cd2aa169679b8aa4519ed1028a946bc578ed9",
+          "title": "赛意信息：公司AI领域战略规划分阶段有序推进",
+          "url": "https://36kr.com/newsflashes/3892334246345222?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T07:48:18Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "a11a9f2072ab694a129282f61058fabd3d576d19",
+          "title": "赛意信息：公司 AI 领域战略规划分阶段有序推进",
+          "url": "https://36kr.com/newsflashes/3892334246345222?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "9c8cd2aa169679b8aa4519ed1028a946bc578ed9",
+          "title": "赛意信息：公司AI领域战略规划分阶段有序推进",
+          "url": "https://36kr.com/newsflashes/3892334246345222?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T07:48:18Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T07:48:18Z",
+      "latest_at": "2026-07-12T09:05:29.092680Z",
+      "primary_item": {
+        "id": "a11a9f2072ab694a129282f61058fabd3d576d19",
+        "title": "赛意信息：公司 AI 领域战略规划分阶段有序推进",
+        "url": "https://36kr.com/newsflashes/3892334246345222?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1391,15 +1330,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.549,
-      "importance": 0.549,
-      "importance_score": 0.549,
+      "score": 0.5435,
+      "importance": 0.5435,
+      "importance_score": 0.5435,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.879,
+        "recency": 0.8482,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1414,85 +1353,6 @@
         "url": "https://news.ycombinator.com/item?id=48874200",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_2c1bf5ffef3f",
-      "title": "全网骂 Claude 变笨，Anthropic 下场揭秘：坑你的不是模型",
-      "url": "https://36kr.com/p/3892222176574211?f=rss",
-      "primary_url": "https://36kr.com/p/3892222176574211?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "a1415601490e7550f147f8f8aadcfa33a77ab23c",
-          "title": "全网骂 Claude 变笨，Anthropic 下场揭秘：坑你的不是模型",
-          "url": "https://36kr.com/p/3892222176574211?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "4f1200c6ce0e1f2f535a45da9b799fa115cdcb53",
-          "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "url": "https://36kr.com/p/3892222176574211?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T05:47:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 (36Kr)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "a1415601490e7550f147f8f8aadcfa33a77ab23c",
-          "title": "全网骂 Claude 变笨，Anthropic 下场揭秘：坑你的不是模型",
-          "url": "https://36kr.com/p/3892222176574211?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "4f1200c6ce0e1f2f535a45da9b799fa115cdcb53",
-          "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "url": "https://36kr.com/p/3892222176574211?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T05:47:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T05:47:23Z",
-      "latest_at": "2026-07-12T06:37:12.067457Z",
-      "primary_item": {
-        "id": "a1415601490e7550f147f8f8aadcfa33a77ab23c",
-        "title": "全网骂 Claude 变笨，Anthropic 下场揭秘：坑你的不是模型",
-        "url": "https://36kr.com/p/3892222176574211?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1549,15 +1409,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5384,
-      "importance": 0.5384,
-      "importance_score": 0.5384,
+      "score": 0.5324,
+      "importance": 0.5324,
+      "importance_score": 0.5324,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.959,
+        "recency": 0.9254,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1572,6 +1432,84 @@
         "url": "https://thebeach.dev/posts/lisp-agent",
         "source": "thebeach.dev",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_d510ab3ae5b4",
+      "title": "简单液体中意外的类固体断裂 / Unexpected Solidlike Fracture in Simple Liquids",
+      "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
+      "primary_url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "cbe7f28694f1ae7931a8fc5325df06ca77669066",
+          "title": "简单液体中意外的类固体断裂 / Unexpected Solidlike Fracture in Simple Liquids",
+          "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T02:13:46Z"
+        },
+        {
+          "id": "72c7edbdcba05dbee3f4f23c1d9dd80461dd3bd1",
+          "title": "我们知道简单的流体可以流动。事实证明，有些会骨折 / We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
+          "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T02:13:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "cbe7f28694f1ae7931a8fc5325df06ca77669066",
+          "title": "简单液体中意外的类固体断裂 / Unexpected Solidlike Fracture in Simple Liquids",
+          "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T02:13:46Z"
+        },
+        {
+          "id": "72c7edbdcba05dbee3f4f23c1d9dd80461dd3bd1",
+          "title": "我们知道简单的流体可以流动。事实证明，有些会骨折 / We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
+          "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T02:13:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5288,
+      "importance": 0.5288,
+      "importance_score": 0.5288,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9057,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T02:13:46Z",
+      "latest_at": "2026-07-12T02:13:46Z",
+      "primary_item": {
+        "id": "cbe7f28694f1ae7931a8fc5325df06ca77669066",
+        "title": "简单液体中意外的类固体断裂 / Unexpected Solidlike Fracture in Simple Liquids",
+        "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1628,15 +1566,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.522,
-      "importance": 0.522,
-      "importance_score": 0.522,
+      "score": 0.5165,
+      "importance": 0.5165,
+      "importance_score": 0.5165,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8676,
+        "recency": 0.8372,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1671,18 +1609,18 @@
           "published_at": "2026-07-11T20:15:06.203000Z"
         },
         {
-          "id": "900c0a49a44b168043d871f6c53eca0dfef4494b",
+          "id": "2c492bf97e09e599b514e5ed4acce179dc5cc1e8",
           "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
           "url": "https://github.com/sqlsure/sqlsure",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-11T20:03:42Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "github.com"
       ],
       "items": [
@@ -1696,26 +1634,26 @@
           "published_at": "2026-07-11T20:15:06.203000Z"
         },
         {
-          "id": "900c0a49a44b168043d871f6c53eca0dfef4494b",
+          "id": "2c492bf97e09e599b514e5ed4acce179dc5cc1e8",
           "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
           "url": "https://github.com/sqlsure/sqlsure",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-11T20:03:42Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5208,
-      "importance": 0.5208,
-      "importance_score": 0.5208,
+      "score": 0.5153,
+      "importance": 0.5153,
+      "importance_score": 0.5153,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8609,
+        "recency": 0.8308,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1730,6 +1668,85 @@
         "url": "https://github.com/sqlsure/sqlsure",
         "source": "github.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_2c1bf5ffef3f",
+      "title": "全网骂 Claude 变笨，Anthropic 下场揭秘：坑你的不是模型",
+      "url": "https://36kr.com/p/3892222176574211?f=rss",
+      "primary_url": "https://36kr.com/p/3892222176574211?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "a1415601490e7550f147f8f8aadcfa33a77ab23c",
+          "title": "全网骂 Claude 变笨，Anthropic 下场揭秘：坑你的不是模型",
+          "url": "https://36kr.com/p/3892222176574211?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "4f1200c6ce0e1f2f535a45da9b799fa115cdcb53",
+          "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
+          "url": "https://36kr.com/p/3892222176574211?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T05:47:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "a1415601490e7550f147f8f8aadcfa33a77ab23c",
+          "title": "全网骂 Claude 变笨，Anthropic 下场揭秘：坑你的不是模型",
+          "url": "https://36kr.com/p/3892222176574211?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "4f1200c6ce0e1f2f535a45da9b799fa115cdcb53",
+          "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
+          "url": "https://36kr.com/p/3892222176574211?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T05:47:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5395,
+      "importance": 0.5395,
+      "importance_score": 0.5395,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9649,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T05:47:23Z",
+      "latest_at": "2026-07-12T06:37:12.067457Z",
+      "primary_item": {
+        "id": "a1415601490e7550f147f8f8aadcfa33a77ab23c",
+        "title": "全网骂 Claude 变笨，Anthropic 下场揭秘：坑你的不是模型",
+        "url": "https://36kr.com/p/3892222176574211?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     }
   ]
