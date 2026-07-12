@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T22:54:24.007399Z",
+  "generated_at": "2026-07-11T23:59:38.279972Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8357,
-      "importance": 0.8357,
-      "importance_score": 0.8357,
+      "score": 0.8332,
+      "importance": 0.8332,
+      "importance_score": 0.8332,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9119,
+        "recency": 0.8977,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -119,6 +119,87 @@
         "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
         "url": "https://www.mixfont.com/ghost-font",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_516fc0ac5d68",
+      "title": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句\"哈哈\"成窃密关键",
+      "url": "https://www.ithome.com/0/975/634.htm",
+      "primary_url": "https://www.ithome.com/0/975/634.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "df2ac398e345fc03cbcf8fe07a6c8e5611bac796",
+          "title": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句\"哈哈\"成窃密关键",
+          "url": "https://www.ithome.com/0/975/634.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T23:21:57Z"
+        },
+        {
+          "id": "541642064efe9509bb57610ceaf13efd86eff2c5",
+          "title": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句“哈哈”成窃密关键",
+          "url": "https://www.ithome.com/0/975/634.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T23:21:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "df2ac398e345fc03cbcf8fe07a6c8e5611bac796",
+          "title": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句\"哈哈\"成窃密关键",
+          "url": "https://www.ithome.com/0/975/634.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T23:21:57Z"
+        },
+        {
+          "id": "541642064efe9509bb57610ceaf13efd86eff2c5",
+          "title": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句“哈哈”成窃密关键",
+          "url": "https://www.ithome.com/0/975/634.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T23:21:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.785,
+      "importance": 0.785,
+      "importance_score": 0.785,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.991,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-11T23:21:57Z",
+      "latest_at": "2026-07-11T23:21:57Z",
+      "primary_item": {
+        "id": "df2ac398e345fc03cbcf8fe07a6c8e5611bac796",
+        "title": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句\"哈哈\"成窃密关键",
+        "url": "https://www.ithome.com/0/975/634.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -176,15 +257,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7811,
-      "importance": 0.7811,
-      "importance_score": 0.7811,
+      "score": 0.7785,
+      "importance": 0.7785,
+      "importance_score": 0.7785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9192,
+        "recency": 0.9049,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -257,15 +338,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7636,
-      "importance": 0.7636,
-      "importance_score": 0.7636,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8056,
+        "recency": 0.793,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -281,6 +362,126 @@
         "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
         "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
         "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_57583f5b9bca",
+      "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
+      "url": "https://x.com/sama/status/2075985056846451123",
+      "primary_url": "https://x.com/sama/status/2075985056846451123",
+      "source": "X：Sam Altman (@sama)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
+          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
+          "url": "https://x.com/sama/status/2075985056846451123",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T16:46:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Sam Altman (@sama)"
+      ],
+      "items": [
+        {
+          "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
+          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
+          "url": "https://x.com/sama/status/2075985056846451123",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T16:46:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7378,
+      "importance": 0.7378,
+      "importance_score": 0.7378,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.901,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-11T16:46:22Z",
+      "latest_at": "2026-07-11T16:46:22Z",
+      "primary_item": {
+        "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
+        "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
+        "url": "https://x.com/sama/status/2075985056846451123",
+        "source": "X：Sam Altman (@sama)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f01ec2871d4b",
+      "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
+      "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
+      "primary_url": "https://x.com/AYi_AInotes/status/2075761215251312722",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "81ae1640e42c29bcd66a9b6fb23c58e3ac72fb77",
+          "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
+          "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T01:56:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "items": [
+        {
+          "id": "81ae1640e42c29bcd66a9b6fb23c58e3ac72fb77",
+          "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
+          "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T01:56:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7305,
+      "importance": 0.7305,
+      "importance_score": 0.7305,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7273,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-11T01:56:54Z",
+      "latest_at": "2026-07-11T01:56:54Z",
+      "primary_item": {
+        "id": "81ae1640e42c29bcd66a9b6fb23c58e3ac72fb77",
+        "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
+        "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
         "source_name": "AI HOT"
       }
     },
@@ -338,15 +539,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7538,
-      "importance": 0.7538,
-      "importance_score": 0.7538,
+      "score": 0.7516,
+      "importance": 0.7516,
+      "importance_score": 0.7516,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8011,
+        "recency": 0.7887,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -361,287 +562,6 @@
         "id": "2a61ae129b00bfd8553580d905cd56ab08d34b14",
         "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
         "url": "https://www.ithome.com/0/975/469.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6c4a6e1919dc",
-      "title": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能",
-      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-      "primary_url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ec4f06aa0a65267e94138cb5c816c98887e6b602",
-          "title": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能",
-          "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T23:49:50Z"
-        },
-        {
-          "id": "4da42be56fa7d8a150922bb5c5f4032d39d80bb3",
-          "title": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能 / Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-          "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-10T23:49:50Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge",
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ec4f06aa0a65267e94138cb5c816c98887e6b602",
-          "title": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能",
-          "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T23:49:50Z"
-        },
-        {
-          "id": "4da42be56fa7d8a150922bb5c5f4032d39d80bb3",
-          "title": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能 / Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-          "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-10T23:49:50Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7536,
-      "importance": 0.7536,
-      "importance_score": 0.7536,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7166,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-10T23:49:50Z",
-      "latest_at": "2026-07-10T23:49:50Z",
-      "primary_item": {
-        "id": "ec4f06aa0a65267e94138cb5c816c98887e6b602",
-        "title": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能",
-        "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_57583f5b9bca",
-      "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
-      "url": "https://x.com/sama/status/2075985056846451123",
-      "primary_url": "https://x.com/sama/status/2075985056846451123",
-      "source": "X：Sam Altman (@sama)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
-          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
-          "url": "https://x.com/sama/status/2075985056846451123",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T16:46:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Sam Altman (@sama)"
-      ],
-      "items": [
-        {
-          "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
-          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
-          "url": "https://x.com/sama/status/2075985056846451123",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T16:46:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7403,
-      "importance": 0.7403,
-      "importance_score": 0.7403,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9152,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-11T16:46:22Z",
-      "latest_at": "2026-07-11T16:46:22Z",
-      "primary_item": {
-        "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
-        "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
-        "url": "https://x.com/sama/status/2075985056846451123",
-        "source": "X：Sam Altman (@sama)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f01ec2871d4b",
-      "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
-      "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
-      "primary_url": "https://x.com/AYi_AInotes/status/2075761215251312722",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "81ae1640e42c29bcd66a9b6fb23c58e3ac72fb77",
-          "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
-          "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T01:56:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：阿易 AI Notes (@AYi_AInotes)"
-      ],
-      "items": [
-        {
-          "id": "81ae1640e42c29bcd66a9b6fb23c58e3ac72fb77",
-          "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
-          "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T01:56:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7389,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-11T01:56:54Z",
-      "latest_at": "2026-07-11T01:56:54Z",
-      "primary_item": {
-        "id": "81ae1640e42c29bcd66a9b6fb23c58e3ac72fb77",
-        "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
-        "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7bdf28b0fb8c",
-      "title": "苹果起诉 OpenAI，指控其挖角前员工窃取未发布产品及供应链资料",
-      "url": "https://www.ithome.com/0/975/370.htm",
-      "primary_url": "https://www.ithome.com/0/975/370.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "de2a431bc7f96986cf92468fe2bd3e698c3eae64",
-          "title": "苹果起诉 OpenAI，指控其挖角前员工窃取未发布产品及供应链资料",
-          "url": "https://www.ithome.com/0/975/370.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T22:57:30Z"
-        },
-        {
-          "id": "b8e13519c5e882c0552ff7a5d702abbc6aa236f4",
-          "title": "苹果起诉 OpenAI，指控其挖角前员工窃取未发布产品、供应链资料等商业机密",
-          "url": "https://www.ithome.com/0/975/370.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-10T22:57:30Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "de2a431bc7f96986cf92468fe2bd3e698c3eae64",
-          "title": "苹果起诉 OpenAI，指控其挖角前员工窃取未发布产品及供应链资料",
-          "url": "https://www.ithome.com/0/975/370.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T22:57:30Z"
-        },
-        {
-          "id": "b8e13519c5e882c0552ff7a5d702abbc6aa236f4",
-          "title": "苹果起诉 OpenAI，指控其挖角前员工窃取未发布产品、供应链资料等商业机密",
-          "url": "https://www.ithome.com/0/975/370.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-10T22:57:30Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.734,
-      "importance": 0.734,
-      "importance_score": 0.734,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7076,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-10T22:57:30Z",
-      "latest_at": "2026-07-10T22:57:30Z",
-      "primary_item": {
-        "id": "de2a431bc7f96986cf92468fe2bd3e698c3eae64",
-        "title": "苹果起诉 OpenAI，指控其挖角前员工窃取未发布产品及供应链资料",
-        "url": "https://www.ithome.com/0/975/370.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
@@ -735,15 +655,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.642,
-      "importance": 0.642,
-      "importance_score": 0.642,
+      "score": 0.6395,
+      "importance": 0.6395,
+      "importance_score": 0.6395,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.54,
         "ai_relevance": 0.68,
-        "recency": 0.9186,
+        "recency": 0.9043,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -833,15 +753,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5677,
-      "importance": 0.5677,
-      "importance_score": 0.5677,
+      "score": 0.5649,
+      "importance": 0.5649,
+      "importance_score": 0.5649,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9825,
+        "recency": 0.9672,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -912,15 +832,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5404,
-      "importance": 0.5404,
-      "importance_score": 0.5404,
+      "score": 0.5377,
+      "importance": 0.5377,
+      "importance_score": 0.5377,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9699,
+        "recency": 0.9548,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -990,15 +910,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5293,
-      "importance": 0.5293,
-      "importance_score": 0.5293,
+      "score": 0.5268,
+      "importance": 0.5268,
+      "importance_score": 0.5268,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9084,
+        "recency": 0.8943,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1088,15 +1008,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5589,
-      "importance": 0.5589,
-      "importance_score": 0.5589,
+      "score": 0.5563,
+      "importance": 0.5563,
+      "importance_score": 0.5563,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.934,
+        "recency": 0.9194,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1167,15 +1087,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5203,
-      "importance": 0.5203,
-      "importance_score": 0.5203,
+      "score": 0.5179,
+      "importance": 0.5179,
+      "importance_score": 0.5179,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8581,
+        "recency": 0.8447,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1245,15 +1165,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.52,
-      "importance": 0.52,
-      "importance_score": 0.52,
+      "score": 0.5176,
+      "importance": 0.5176,
+      "importance_score": 0.5176,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8569,
+        "recency": 0.8435,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1324,15 +1244,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5179,
-      "importance": 0.5179,
-      "importance_score": 0.5179,
+      "score": 0.5156,
+      "importance": 0.5156,
+      "importance_score": 0.5156,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8452,
+        "recency": 0.832,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1403,15 +1323,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5152,
-      "importance": 0.5152,
-      "importance_score": 0.5152,
+      "score": 0.5129,
+      "importance": 0.5129,
+      "importance_score": 0.5129,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8299,
+        "recency": 0.817,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1482,15 +1402,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5149,
-      "importance": 0.5149,
-      "importance_score": 0.5149,
+      "score": 0.5126,
+      "importance": 0.5126,
+      "importance_score": 0.5126,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8282,
+        "recency": 0.8153,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1561,15 +1481,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5146,
-      "importance": 0.5146,
-      "importance_score": 0.5146,
+      "score": 0.5123,
+      "importance": 0.5123,
+      "importance_score": 0.5123,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8266,
+        "recency": 0.8138,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1640,15 +1560,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5063,
-      "importance": 0.5063,
-      "importance_score": 0.5063,
+      "score": 0.5041,
+      "importance": 0.5041,
+      "importance_score": 0.5041,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7805,
+        "recency": 0.7683,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1663,6 +1583,84 @@
         "url": "https://www.36kr.com/p/3890553690192384",
         "source": "36氪 · 24小时热榜",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_55a96852ef7e",
+      "title": "[OpenAI] codex 的重置卡过期是废弃还是自动重置一次",
+      "url": "https://www.v2ex.com/t/1226547",
+      "primary_url": "https://www.v2ex.com/t/1226547",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "7ec729f57b4fd66a086f7fc19e8aa37090206f78",
+          "title": "[OpenAI] codex 的重置卡过期是废弃还是自动重置一次",
+          "url": "https://www.v2ex.com/t/1226547",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T03:59:09Z"
+        },
+        {
+          "id": "39ec0ab7b6ad09f57fbb3a6c9f4b474fc55da97e",
+          "title": "[问与答] codex 的重置卡过期是废弃还是自动重置一次",
+          "url": "https://www.v2ex.com/t/1226547",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T03:59:09Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "7ec729f57b4fd66a086f7fc19e8aa37090206f78",
+          "title": "[OpenAI] codex 的重置卡过期是废弃还是自动重置一次",
+          "url": "https://www.v2ex.com/t/1226547",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T03:59:09Z"
+        },
+        {
+          "id": "39ec0ab7b6ad09f57fbb3a6c9f4b474fc55da97e",
+          "title": "[问与答] codex 的重置卡过期是废弃还是自动重置一次",
+          "url": "https://www.v2ex.com/t/1226547",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T03:59:09Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5006,
+      "importance": 0.5006,
+      "importance_score": 0.5006,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7491,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T03:59:09Z",
+      "latest_at": "2026-07-11T03:59:09Z",
+      "primary_item": {
+        "id": "7ec729f57b4fd66a086f7fc19e8aa37090206f78",
+        "title": "[OpenAI] codex 的重置卡过期是废弃还是自动重置一次",
+        "url": "https://www.v2ex.com/t/1226547",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
       }
     }
   ]
