@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T07:48:50.005551Z",
+  "generated_at": "2026-07-13T11:16:12.245186Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -56,15 +56,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8718,
-      "importance": 0.8718,
-      "importance_score": 0.8718,
+      "score": 0.864,
+      "importance": 0.864,
+      "importance_score": 0.864,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8933,
+        "recency": 0.8498,
         "story_heat": 0.25
       },
       "category": "official",
@@ -176,15 +176,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8167,
-      "importance": 0.8167,
-      "importance_score": 0.8167,
+      "score": 0.8089,
+      "importance": 0.8089,
+      "importance_score": 0.8089,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8893,
+        "recency": 0.846,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -257,15 +257,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7838,
+      "importance": 0.7838,
+      "importance_score": 0.7838,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9513,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -319,15 +319,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7906,
-      "importance": 0.7906,
-      "importance_score": 0.7906,
+      "score": 0.7827,
+      "importance": 0.7827,
+      "importance_score": 0.7827,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8944,
+        "recency": 0.8508,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -346,21 +346,21 @@
       }
     },
     {
-      "story_id": "story_b3e627b2977f",
-      "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-      "url": "https://www.ithome.com/0/975/865.htm",
-      "primary_url": "https://www.ithome.com/0/975/865.htm",
+      "story_id": "story_163a2ee8955d",
+      "title": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
+      "url": "https://www.ithome.com/0/976/149.htm",
+      "primary_url": "https://www.ithome.com/0/976/149.htm",
       "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "39db45781d2a93f4799ffcdead7da06f7035f621",
-          "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-          "url": "https://www.ithome.com/0/975/865.htm",
+          "id": "5aedac9544da285aa57dbd2ff63bad857319f243",
+          "title": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
+          "url": "https://www.ithome.com/0/976/149.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-13T00:55:29Z"
+          "published_at": "2026-07-13T09:58:56Z"
         }
       ],
       "source_count": 1,
@@ -369,26 +369,26 @@
       ],
       "items": [
         {
-          "id": "39db45781d2a93f4799ffcdead7da06f7035f621",
-          "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-          "url": "https://www.ithome.com/0/975/865.htm",
+          "id": "5aedac9544da285aa57dbd2ff63bad857319f243",
+          "title": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
+          "url": "https://www.ithome.com/0/976/149.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-13T00:55:29Z"
+          "published_at": "2026-07-13T09:58:56Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7656,
-      "importance": 0.7656,
-      "importance_score": 0.7656,
+      "score": 0.7793,
+      "importance": 0.7793,
+      "importance_score": 0.7793,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9053,
+        "recency": 0.9816,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -396,13 +396,74 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-13T00:55:29Z",
-      "latest_at": "2026-07-13T00:55:29Z",
+      "earliest_at": "2026-07-13T09:58:56Z",
+      "latest_at": "2026-07-13T09:58:56Z",
       "primary_item": {
-        "id": "39db45781d2a93f4799ffcdead7da06f7035f621",
-        "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-        "url": "https://www.ithome.com/0/975/865.htm",
+        "id": "5aedac9544da285aa57dbd2ff63bad857319f243",
+        "title": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
+        "url": "https://www.ithome.com/0/976/149.htm",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8a28bfbd1227",
+      "title": "Seedream 5.0 Pro 测评：图像编辑门槛爆降",
+      "url": "https://x.com/op7418/status/2076604797202161800",
+      "primary_url": "https://x.com/op7418/status/2076604797202161800",
+      "source": "X：歸藏 (@op7418)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "90bf249d7928ebe554e90c999d6994ccf17b25b8",
+          "title": "Seedream 5.0 Pro 测评：图像编辑门槛爆降",
+          "url": "https://x.com/op7418/status/2076604797202161800",
+          "source": "X：歸藏 (@op7418)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T09:48:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：歸藏 (@op7418)"
+      ],
+      "items": [
+        {
+          "id": "90bf249d7928ebe554e90c999d6994ccf17b25b8",
+          "title": "Seedream 5.0 Pro 测评：图像编辑门槛爆降",
+          "url": "https://x.com/op7418/status/2076604797202161800",
+          "source": "X：歸藏 (@op7418)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T09:48:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7729,
+      "importance": 0.7729,
+      "importance_score": 0.7729,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9792,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T09:48:59Z",
+      "latest_at": "2026-07-13T09:48:59Z",
+      "primary_item": {
+        "id": "90bf249d7928ebe554e90c999d6994ccf17b25b8",
+        "title": "Seedream 5.0 Pro 测评：图像编辑门槛爆降",
+        "url": "https://x.com/op7418/status/2076604797202161800",
+        "source": "X：歸藏 (@op7418)",
         "source_name": "AI HOT"
       }
     },
@@ -460,15 +521,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7834,
-      "importance": 0.7834,
-      "importance_score": 0.7834,
+      "score": 0.775,
+      "importance": 0.775,
+      "importance_score": 0.775,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9486,
+        "recency": 0.9024,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -522,21 +583,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.751,
-      "importance": 0.751,
-      "importance_score": 0.751,
+      "score": 0.7438,
+      "importance": 0.7438,
+      "importance_score": 0.7438,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8244,
+        "recency": 0.7843,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-12T18:26:38Z",
       "latest_at": "2026-07-12T18:26:38Z",
@@ -583,15 +643,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.747,
-      "importance": 0.747,
-      "importance_score": 0.747,
+      "score": 0.7399,
+      "importance": 0.7399,
+      "importance_score": 0.7399,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8191,
+        "recency": 0.7793,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -643,15 +703,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7407,
-      "importance": 0.7407,
-      "importance_score": 0.7407,
+      "score": 0.7337,
+      "importance": 0.7337,
+      "importance_score": 0.7337,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8005,
+        "recency": 0.7616,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -665,86 +725,6 @@
         "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
         "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
         "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2e50379c134a",
-      "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
-      "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
-      "primary_url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "40b04024e4d42805d7dd204ba5ea764dac00d99a",
-          "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
-          "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T09:15:49Z"
-        },
-        {
-          "id": "4183d44328a5f1e7e0afa6dc2e6118e6207f05ac",
-          "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论 / OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs",
-          "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-12T09:15:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "40b04024e4d42805d7dd204ba5ea764dac00d99a",
-          "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
-          "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T09:15:49Z"
-        },
-        {
-          "id": "4183d44328a5f1e7e0afa6dc2e6118e6207f05ac",
-          "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论 / OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs",
-          "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-12T09:15:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7221,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-12T09:15:49Z",
-      "latest_at": "2026-07-12T09:15:49Z",
-      "primary_item": {
-        "id": "40b04024e4d42805d7dd204ba5ea764dac00d99a",
-        "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
-        "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
-        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -783,15 +763,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7381,
-      "importance": 0.7381,
-      "importance_score": 0.7381,
+      "score": 0.7312,
+      "importance": 0.7312,
+      "importance_score": 0.7312,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7863,
+        "recency": 0.748,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -809,21 +789,82 @@
       }
     },
     {
-      "story_id": "story_86c792186562",
-      "title": "哈啰试水AI校园社交，推出精准交友产品“Match”",
-      "url": "https://www.aibase.com/news/29544",
-      "primary_url": "https://www.aibase.com/news/29544",
+      "story_id": "story_b3e627b2977f",
+      "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
+      "url": "https://www.ithome.com/0/975/865.htm",
+      "primary_url": "https://www.ithome.com/0/975/865.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "39db45781d2a93f4799ffcdead7da06f7035f621",
+          "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
+          "url": "https://www.ithome.com/0/975/865.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T00:55:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "39db45781d2a93f4799ffcdead7da06f7035f621",
+          "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
+          "url": "https://www.ithome.com/0/975/865.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T00:55:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7576,
+      "importance": 0.7576,
+      "importance_score": 0.7576,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8612,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T00:55:29Z",
+      "latest_at": "2026-07-13T00:55:29Z",
+      "primary_item": {
+        "id": "39db45781d2a93f4799ffcdead7da06f7035f621",
+        "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
+        "url": "https://www.ithome.com/0/975/865.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_05bb3eadde15",
+      "title": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
+      "url": "https://www.aibase.com/news/29552",
+      "primary_url": "https://www.aibase.com/news/29552",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "67fa45155b3ba23d32ef90dcc8be13c8c9ccd291",
-          "title": "哈啰试水AI校园社交，推出精准交友产品“Match”",
-          "url": "https://www.aibase.com/news/29544",
+          "id": "a576d1a2cef8248f32acae9eff1f657628d2ed6f",
+          "title": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
+          "url": "https://www.aibase.com/news/29552",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T07:48:50.005551Z"
+          "published_at": "2026-07-13T11:16:12.245186Z"
         }
       ],
       "source_count": 1,
@@ -832,13 +873,13 @@
       ],
       "items": [
         {
-          "id": "67fa45155b3ba23d32ef90dcc8be13c8c9ccd291",
-          "title": "哈啰试水AI校园社交，推出精准交友产品“Match”",
-          "url": "https://www.aibase.com/news/29544",
+          "id": "a576d1a2cef8248f32acae9eff1f657628d2ed6f",
+          "title": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
+          "url": "https://www.aibase.com/news/29552",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T07:48:50.005551Z"
+          "published_at": "2026-07-13T11:16:12.245186Z"
         }
       ],
       "item_count": 1,
@@ -859,12 +900,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-13T07:48:50.005551Z",
-      "latest_at": "2026-07-13T07:48:50.005551Z",
+      "earliest_at": "2026-07-13T11:16:12.245186Z",
+      "latest_at": "2026-07-13T11:16:12.245186Z",
       "primary_item": {
-        "id": "67fa45155b3ba23d32ef90dcc8be13c8c9ccd291",
-        "title": "哈啰试水AI校园社交，推出精准交友产品“Match”",
-        "url": "https://www.aibase.com/news/29544",
+        "id": "a576d1a2cef8248f32acae9eff1f657628d2ed6f",
+        "title": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
+        "url": "https://www.aibase.com/news/29552",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -904,15 +945,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
+      "score": 0.7257,
+      "importance": 0.7257,
+      "importance_score": 0.7257,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7715,
+        "recency": 0.734,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -930,21 +971,21 @@
       }
     },
     {
-      "story_id": "story_62ff3681c8ca",
-      "title": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
-      "url": "https://www.aibase.com/news/29543",
-      "primary_url": "https://www.aibase.com/news/29543",
+      "story_id": "story_0bd34d8ebc49",
+      "title": "微软全面引入AI挖掘Windows漏洞，后续安全补丁修复数量将大幅增加",
+      "url": "https://www.aibase.com/news/29553",
+      "primary_url": "https://www.aibase.com/news/29553",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9d68d05ed5af54d03c13db6fdc69da4d9d7857e1",
-          "title": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
-          "url": "https://www.aibase.com/news/29543",
+          "id": "4e33eb43aa48079fde1096428514561723a95a0c",
+          "title": "微软全面引入AI挖掘Windows漏洞，后续安全补丁修复数量将大幅增加",
+          "url": "https://www.aibase.com/news/29553",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T07:48:50.005551Z"
+          "published_at": "2026-07-13T11:16:12.245186Z"
         }
       ],
       "source_count": 1,
@@ -953,13 +994,13 @@
       ],
       "items": [
         {
-          "id": "9d68d05ed5af54d03c13db6fdc69da4d9d7857e1",
-          "title": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
-          "url": "https://www.aibase.com/news/29543",
+          "id": "4e33eb43aa48079fde1096428514561723a95a0c",
+          "title": "微软全面引入AI挖掘Windows漏洞，后续安全补丁修复数量将大幅增加",
+          "url": "https://www.aibase.com/news/29553",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T07:48:50.005551Z"
+          "published_at": "2026-07-13T11:16:12.245186Z"
         }
       ],
       "item_count": 1,
@@ -980,12 +1021,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-13T07:48:50.005551Z",
-      "latest_at": "2026-07-13T07:48:50.005551Z",
+      "earliest_at": "2026-07-13T11:16:12.245186Z",
+      "latest_at": "2026-07-13T11:16:12.245186Z",
       "primary_item": {
-        "id": "9d68d05ed5af54d03c13db6fdc69da4d9d7857e1",
-        "title": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
-        "url": "https://www.aibase.com/news/29543",
+        "id": "4e33eb43aa48079fde1096428514561723a95a0c",
+        "title": "微软全面引入AI挖掘Windows漏洞，后续安全补丁修复数量将大幅增加",
+        "url": "https://www.aibase.com/news/29553",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1152,15 +1193,15 @@
       ],
       "item_count": 8,
       "duplicate_count": 8,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "score": 0.6604,
+      "importance": 0.6604,
+      "importance_score": 0.6604,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9513,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1178,21 +1219,21 @@
       }
     },
     {
-      "story_id": "story_ec77dce64ece",
-      "title": "抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代",
-      "url": "https://www.aibase.com/news/29542",
-      "primary_url": "https://www.aibase.com/news/29542",
+      "story_id": "story_b3c3f980dac1",
+      "title": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
+      "url": "https://www.aibase.com/news/29550",
+      "primary_url": "https://www.aibase.com/news/29550",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "85d644286a16b7ffdd66482d7cb598e7f15c2cc6",
-          "title": "抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代",
-          "url": "https://www.aibase.com/news/29542",
+          "id": "c11b08a26ab91efa3bcfa74723d76a64d60947a6",
+          "title": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
+          "url": "https://www.aibase.com/news/29550",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T07:48:50.005551Z"
+          "published_at": "2026-07-13T11:16:12.245186Z"
         }
       ],
       "source_count": 1,
@@ -1201,13 +1242,13 @@
       ],
       "items": [
         {
-          "id": "85d644286a16b7ffdd66482d7cb598e7f15c2cc6",
-          "title": "抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代",
-          "url": "https://www.aibase.com/news/29542",
+          "id": "c11b08a26ab91efa3bcfa74723d76a64d60947a6",
+          "title": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
+          "url": "https://www.aibase.com/news/29550",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T07:48:50.005551Z"
+          "published_at": "2026-07-13T11:16:12.245186Z"
         }
       ],
       "item_count": 1,
@@ -1228,28 +1269,28 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-13T07:48:50.005551Z",
-      "latest_at": "2026-07-13T07:48:50.005551Z",
+      "earliest_at": "2026-07-13T11:16:12.245186Z",
+      "latest_at": "2026-07-13T11:16:12.245186Z",
       "primary_item": {
-        "id": "85d644286a16b7ffdd66482d7cb598e7f15c2cc6",
-        "title": "抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代",
-        "url": "https://www.aibase.com/news/29542",
+        "id": "c11b08a26ab91efa3bcfa74723d76a64d60947a6",
+        "title": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
+        "url": "https://www.aibase.com/news/29550",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_0758182240a0",
-      "title": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
-      "url": "https://www.aibase.com/news/29548",
-      "primary_url": "https://www.aibase.com/news/29548",
+      "story_id": "story_86c792186562",
+      "title": "哈啰试水AI校园社交，推出精准交友产品“Match”",
+      "url": "https://www.aibase.com/news/29544",
+      "primary_url": "https://www.aibase.com/news/29544",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "cd4655fb408ba926606fe7ba0a528eb542e88d81",
-          "title": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
-          "url": "https://www.aibase.com/news/29548",
+          "id": "67fa45155b3ba23d32ef90dcc8be13c8c9ccd291",
+          "title": "哈啰试水AI校园社交，推出精准交友产品“Match”",
+          "url": "https://www.aibase.com/news/29544",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1262,9 +1303,9 @@
       ],
       "items": [
         {
-          "id": "cd4655fb408ba926606fe7ba0a528eb542e88d81",
-          "title": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
-          "url": "https://www.aibase.com/news/29548",
+          "id": "67fa45155b3ba23d32ef90dcc8be13c8c9ccd291",
+          "title": "哈啰试水AI校园社交，推出精准交友产品“Match”",
+          "url": "https://www.aibase.com/news/29544",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1273,15 +1314,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7588,
+      "importance": 0.7588,
+      "importance_score": 0.7588,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9513,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1292,9 +1333,9 @@
       "earliest_at": "2026-07-13T07:48:50.005551Z",
       "latest_at": "2026-07-13T07:48:50.005551Z",
       "primary_item": {
-        "id": "cd4655fb408ba926606fe7ba0a528eb542e88d81",
-        "title": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
-        "url": "https://www.aibase.com/news/29548",
+        "id": "67fa45155b3ba23d32ef90dcc8be13c8c9ccd291",
+        "title": "哈啰试水AI校园社交，推出精准交友产品“Match”",
+        "url": "https://www.aibase.com/news/29544",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1409,15 +1450,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5913,
-      "importance": 0.5913,
-      "importance_score": 0.5913,
+      "score": 0.5839,
+      "importance": 0.5839,
+      "importance_score": 0.5839,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8359,
+        "recency": 0.7952,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1435,17 +1476,17 @@
       }
     },
     {
-      "story_id": "story_3a63a9545188",
-      "title": "职场社交变“AI重灾区”?研究显示LinkedIn长篇垃圾内容占比高达41%",
-      "url": "https://www.aibase.com/news/29545",
-      "primary_url": "https://www.aibase.com/news/29545",
+      "story_id": "story_62ff3681c8ca",
+      "title": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
+      "url": "https://www.aibase.com/news/29543",
+      "primary_url": "https://www.aibase.com/news/29543",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c69dbbd164a061a59da53969815929762752e5e6",
-          "title": "职场社交变“AI重灾区”?研究显示LinkedIn长篇垃圾内容占比高达41%",
-          "url": "https://www.aibase.com/news/29545",
+          "id": "9d68d05ed5af54d03c13db6fdc69da4d9d7857e1",
+          "title": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
+          "url": "https://www.aibase.com/news/29543",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1458,9 +1499,9 @@
       ],
       "items": [
         {
-          "id": "c69dbbd164a061a59da53969815929762752e5e6",
-          "title": "职场社交变“AI重灾区”?研究显示LinkedIn长篇垃圾内容占比高达41%",
-          "url": "https://www.aibase.com/news/29545",
+          "id": "9d68d05ed5af54d03c13db6fdc69da4d9d7857e1",
+          "title": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
+          "url": "https://www.aibase.com/news/29543",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1469,15 +1510,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7588,
+      "importance": 0.7588,
+      "importance_score": 0.7588,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9513,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1488,70 +1529,9 @@
       "earliest_at": "2026-07-13T07:48:50.005551Z",
       "latest_at": "2026-07-13T07:48:50.005551Z",
       "primary_item": {
-        "id": "c69dbbd164a061a59da53969815929762752e5e6",
-        "title": "职场社交变“AI重灾区”?研究显示LinkedIn长篇垃圾内容占比高达41%",
-        "url": "https://www.aibase.com/news/29545",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_79f338388f7d",
-      "title": "蚂蚁集团连发两款开源安全模型，为大模型与智能体套上“紧箍咒”",
-      "url": "https://www.aibase.com/news/29546",
-      "primary_url": "https://www.aibase.com/news/29546",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b3df6a367bd8b4b3e037d883c38504e44d314a4c",
-          "title": "蚂蚁集团连发两款开源安全模型，为大模型与智能体套上“紧箍咒”",
-          "url": "https://www.aibase.com/news/29546",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T07:48:50.005551Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b3df6a367bd8b4b3e037d883c38504e44d314a4c",
-          "title": "蚂蚁集团连发两款开源安全模型，为大模型与智能体套上“紧箍咒”",
-          "url": "https://www.aibase.com/news/29546",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T07:48:50.005551Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T07:48:50.005551Z",
-      "latest_at": "2026-07-13T07:48:50.005551Z",
-      "primary_item": {
-        "id": "b3df6a367bd8b4b3e037d883c38504e44d314a4c",
-        "title": "蚂蚁集团连发两款开源安全模型，为大模型与智能体套上“紧箍咒”",
-        "url": "https://www.aibase.com/news/29546",
+        "id": "9d68d05ed5af54d03c13db6fdc69da4d9d7857e1",
+        "title": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
+        "url": "https://www.aibase.com/news/29543",
         "source": "AIbase",
         "source_name": "AIbase"
       }
