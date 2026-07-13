@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T16:37:28.924841Z",
+  "generated_at": "2026-07-13T20:18:29.732243Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -56,15 +56,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8526,
-      "importance": 0.8526,
-      "importance_score": 0.8526,
+      "score": 0.8452,
+      "importance": 0.8452,
+      "importance_score": 0.8452,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7866,
+        "recency": 0.7458,
         "story_heat": 0.25
       },
       "category": "official",
@@ -119,15 +119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8423,
-      "importance": 0.8423,
-      "importance_score": 0.8423,
+      "score": 0.8331,
+      "importance": 0.8331,
+      "importance_score": 0.8331,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9905,
+        "recency": 0.9392,
         "story_heat": 0.0
       },
       "category": "official",
@@ -147,149 +147,30 @@
       }
     },
     {
-      "story_id": "story_4f4c2bd39a3c",
-      "title": "Ploy 将 AI 智能体默认模型从 Claude Opus 4.8 切换至 GPT-5.6 Sol",
-      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-      "primary_url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3c200a132a10b4828f49e225187c37c558d2cff9",
-          "title": "Ploy 将 AI 智能体默认模型从 Claude Opus 4.8 切换至 GPT-5.6 Sol",
-          "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T23:41:11.951000Z"
-        },
-        {
-          "id": "d49595a66e0ed43efeda8fb347fcce8ba3d66a9f",
-          "title": "将生产环境中的AI代理迁移至GPT-5.6：速度提升2.2倍，成本降低27%",
-          "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-          "source": "ploy.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T23:41:11.951000Z"
-        },
-        {
-          "id": "494324f73b81243fdc1df1886cd3ec6d393284d2",
-          "title": "将生产 AI 代理迁移到 GPT-5.6：速度提高 2.2 倍，成本降低 27% / Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-          "url": "https://news.ycombinator.com/item?id=48882716",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T20:55:18.905000Z"
-        },
-        {
-          "id": "685e25baf64ea6ecc2b1619cbd21b76e1f294c3b",
-          "title": "Ploy 将 AI 智能体默认模型从 Claude Opus 4.8 切换至 GPT-5.6 Sol / Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-          "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T17:13:07Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
-        "ploy.ai"
-      ],
-      "items": [
-        {
-          "id": "3c200a132a10b4828f49e225187c37c558d2cff9",
-          "title": "Ploy 将 AI 智能体默认模型从 Claude Opus 4.8 切换至 GPT-5.6 Sol",
-          "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T23:41:11.951000Z"
-        },
-        {
-          "id": "d49595a66e0ed43efeda8fb347fcce8ba3d66a9f",
-          "title": "将生产环境中的AI代理迁移至GPT-5.6：速度提升2.2倍，成本降低27%",
-          "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-          "source": "ploy.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T23:41:11.951000Z"
-        },
-        {
-          "id": "494324f73b81243fdc1df1886cd3ec6d393284d2",
-          "title": "将生产 AI 代理迁移到 GPT-5.6：速度提高 2.2 倍，成本降低 27% / Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-          "url": "https://news.ycombinator.com/item?id=48882716",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T20:55:18.905000Z"
-        },
-        {
-          "id": "685e25baf64ea6ecc2b1619cbd21b76e1f294c3b",
-          "title": "Ploy 将 AI 智能体默认模型从 Claude Opus 4.8 切换至 GPT-5.6 Sol / Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-          "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T17:13:07Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.7975,
-      "importance": 0.7975,
-      "importance_score": 0.7975,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.783,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-12T17:13:07Z",
-      "latest_at": "2026-07-12T23:41:11.951000Z",
-      "primary_item": {
-        "id": "3c200a132a10b4828f49e225187c37c558d2cff9",
-        "title": "Ploy 将 AI 智能体默认模型从 Claude Opus 4.8 切换至 GPT-5.6 Sol",
-        "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9d6f1edd7517",
-      "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
-      "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
-      "primary_url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
+      "story_id": "story_f8d858f9e2c8",
+      "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤",
+      "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
+      "primary_url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
       "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b85e516629d56ead39ce36a091c53a6f7f1398fe",
-          "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
-          "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
+          "id": "64bb8249b67f7adaf83a269190dbec049ace5350",
+          "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤",
+          "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-13T11:41:01Z"
+          "published_at": "2026-07-13T17:47:39Z"
         },
         {
-          "id": "daddd7a1c9e26338bd9ce8d3c3f82a7bd6063c1e",
-          "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先 / German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
-          "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
+          "id": "ace07ab04e2c3e8f818dd314267b0cb4de248f3f",
+          "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤 / OpenAI's new prompting guide tells users to stop overthinking and start with the result",
+          "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
           "source": "The Decoder AI News",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-07-13T11:41:01Z"
+          "published_at": "2026-07-13T17:47:39Z"
         }
       ],
       "source_count": 2,
@@ -299,35 +180,35 @@
       ],
       "items": [
         {
-          "id": "b85e516629d56ead39ce36a091c53a6f7f1398fe",
-          "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
-          "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
+          "id": "64bb8249b67f7adaf83a269190dbec049ace5350",
+          "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤",
+          "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-13T11:41:01Z"
+          "published_at": "2026-07-13T17:47:39Z"
         },
         {
-          "id": "daddd7a1c9e26338bd9ce8d3c3f82a7bd6063c1e",
-          "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先 / German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
-          "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
+          "id": "ace07ab04e2c3e8f818dd314267b0cb4de248f3f",
+          "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤 / OpenAI's new prompting guide tells users to stop overthinking and start with the result",
+          "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
           "source": "The Decoder AI News",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-07-13T11:41:01Z"
+          "published_at": "2026-07-13T17:47:39Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7742,
-      "importance": 0.7742,
-      "importance_score": 0.7742,
+      "score": 0.8042,
+      "importance": 0.8042,
+      "importance_score": 0.8042,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.7,
+        "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9311,
+        "recency": 0.9643,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -336,12 +217,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-13T11:41:01Z",
-      "latest_at": "2026-07-13T11:41:01Z",
+      "earliest_at": "2026-07-13T17:47:39Z",
+      "latest_at": "2026-07-13T17:47:39Z",
       "primary_item": {
-        "id": "b85e516629d56ead39ce36a091c53a6f7f1398fe",
-        "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
-        "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
+        "id": "64bb8249b67f7adaf83a269190dbec049ace5350",
+        "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤",
+        "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
@@ -381,15 +262,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7714,
-      "importance": 0.7714,
-      "importance_score": 0.7714,
+      "score": 0.764,
+      "importance": 0.764,
+      "importance_score": 0.764,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7875,
+        "recency": 0.7467,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -461,15 +342,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7711,
-      "importance": 0.7711,
-      "importance_score": 0.7711,
+      "score": 0.7629,
+      "importance": 0.7629,
+      "importance_score": 0.7629,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8805,
+        "recency": 0.8349,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -523,15 +404,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
+      "score": 0.7577,
+      "importance": 0.7577,
+      "importance_score": 0.7577,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9085,
+        "recency": 0.8615,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -584,15 +465,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9249,
+        "recency": 0.877,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -645,15 +526,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7597,
-      "importance": 0.7597,
-      "importance_score": 0.7597,
+      "score": 0.7513,
+      "importance": 0.7513,
+      "importance_score": 0.7513,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9064,
+        "recency": 0.8594,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -672,62 +553,163 @@
       }
     },
     {
-      "story_id": "story_94a1c14fcbb4",
-      "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
-      "url": "https://x.com/dotey/status/2076372677577576864",
-      "primary_url": "https://x.com/dotey/status/2076372677577576864",
-      "source": "X：宝玉 (@dotey)",
+      "story_id": "story_4f4c2bd39a3c",
+      "title": "Ploy 将 AI 智能体默认模型从 Claude Opus 4.8 切换至 GPT-5.6 Sol",
+      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "primary_url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b9e48e81b83ac2a8c1d352a0c5efe75ff0c78b93",
-          "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
-          "url": "https://x.com/dotey/status/2076372677577576864",
-          "source": "X：宝玉 (@dotey)",
+          "id": "3c200a132a10b4828f49e225187c37c558d2cff9",
+          "title": "Ploy 将 AI 智能体默认模型从 Claude Opus 4.8 切换至 GPT-5.6 Sol",
+          "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-12T18:26:38Z"
+          "published_at": "2026-07-12T23:41:11.951000Z"
+        },
+        {
+          "id": "d49595a66e0ed43efeda8fb347fcce8ba3d66a9f",
+          "title": "将生产环境中的AI代理迁移至GPT-5.6：速度提升2.2倍，成本降低27%",
+          "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+          "source": "ploy.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T23:41:11.951000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "X：宝玉 (@dotey)"
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "ploy.ai"
       ],
       "items": [
         {
-          "id": "b9e48e81b83ac2a8c1d352a0c5efe75ff0c78b93",
-          "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
-          "url": "https://x.com/dotey/status/2076372677577576864",
-          "source": "X：宝玉 (@dotey)",
+          "id": "3c200a132a10b4828f49e225187c37c558d2cff9",
+          "title": "Ploy 将 AI 智能体默认模型从 Claude Opus 4.8 切换至 GPT-5.6 Sol",
+          "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-12T18:26:38Z"
+          "published_at": "2026-07-12T23:41:11.951000Z"
+        },
+        {
+          "id": "d49595a66e0ed43efeda8fb347fcce8ba3d66a9f",
+          "title": "将生产环境中的AI代理迁移至GPT-5.6：速度提升2.2倍，成本降低27%",
+          "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+          "source": "ploy.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T23:41:11.951000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7333,
-      "importance": 0.7333,
-      "importance_score": 0.7333,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7402,
+      "importance": 0.7402,
+      "importance_score": 0.7402,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7259,
-        "story_heat": 0.0
+        "recency": 0.7425,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-12T18:26:38Z",
-      "latest_at": "2026-07-12T18:26:38Z",
+      "earliest_at": "2026-07-12T23:41:11.951000Z",
+      "latest_at": "2026-07-12T23:41:11.951000Z",
       "primary_item": {
-        "id": "b9e48e81b83ac2a8c1d352a0c5efe75ff0c78b93",
-        "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
-        "url": "https://x.com/dotey/status/2076372677577576864",
-        "source": "X：宝玉 (@dotey)",
+        "id": "3c200a132a10b4828f49e225187c37c558d2cff9",
+        "title": "Ploy 将 AI 智能体默认模型从 Claude Opus 4.8 切换至 GPT-5.6 Sol",
+        "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9d6f1edd7517",
+      "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
+      "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
+      "primary_url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b85e516629d56ead39ce36a091c53a6f7f1398fe",
+          "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
+          "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T11:41:01Z"
+        },
+        {
+          "id": "daddd7a1c9e26338bd9ce8d3c3f82a7bd6063c1e",
+          "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先 / German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
+          "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-13T11:41:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b85e516629d56ead39ce36a091c53a6f7f1398fe",
+          "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
+          "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T11:41:01Z"
+        },
+        {
+          "id": "daddd7a1c9e26338bd9ce8d3c3f82a7bd6063c1e",
+          "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先 / German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
+          "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-13T11:41:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8829,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T11:41:01Z",
+      "latest_at": "2026-07-13T11:41:01Z",
+      "primary_item": {
+        "id": "b85e516629d56ead39ce36a091c53a6f7f1398fe",
+        "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
+        "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -785,15 +767,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.763,
-      "importance": 0.763,
-      "importance_score": 0.763,
+      "score": 0.7552,
+      "importance": 0.7552,
+      "importance_score": 0.7552,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8353,
+        "recency": 0.792,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -810,66 +792,6 @@
         "url": "https://www.aibase.com/news/29541",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_7de58394b679",
-      "title": "Codex与ChatGPT Work多项更新：取消5小时限制",
-      "url": "https://x.com/thsottiaux/status/2076365965915467978",
-      "primary_url": "https://x.com/thsottiaux/status/2076365965915467978",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a6d2b88e70167d146ce7fa659dd2757d371b20ce",
-          "title": "Codex与ChatGPT Work多项更新：取消5小时限制",
-          "url": "https://x.com/thsottiaux/status/2076365965915467978",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T17:59:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "a6d2b88e70167d146ce7fa659dd2757d371b20ce",
-          "title": "Codex与ChatGPT Work多项更新：取消5小时限制",
-          "url": "https://x.com/thsottiaux/status/2076365965915467978",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T17:59:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7294,
-      "importance": 0.7294,
-      "importance_score": 0.7294,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7213,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-12T17:59:57Z",
-      "latest_at": "2026-07-12T17:59:57Z",
-      "primary_item": {
-        "id": "a6d2b88e70167d146ce7fa659dd2757d371b20ce",
-        "title": "Codex与ChatGPT Work多项更新：取消5小时限制",
-        "url": "https://x.com/thsottiaux/status/2076365965915467978",
-        "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -907,15 +829,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7461,
-      "importance": 0.7461,
-      "importance_score": 0.7461,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7971,
+        "recency": 0.7559,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -967,21 +889,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7542,
-      "importance": 0.7542,
-      "importance_score": 0.7542,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9256,
+        "recency": 0.8776,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-13T11:16:12.245186Z",
       "latest_at": "2026-07-13T11:16:12.245186Z",
@@ -1045,47 +966,10 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-07-13T04:09:39.697962Z"
-        },
-        {
-          "id": "d133bdd1b1e6b872b9efacecbf1cac68d0dc435b",
-          "title": "如果你最近也在用 Codex、Claude Code 搭建网站，这套DESIGN.md工具方案能帮你摆脱千篇一律的廉价模板感。文中按不同使用场景推荐了对应工具，从找品牌设计灵感、抓取站点规范、浏览器实时提取样式、一站式落地页面全流程全覆盖，带你拆解成熟产品的底层设计规则。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-12T18:28:06.684079Z"
-        },
-        {
-          "id": "dbea5909c66324dccd6557c809604789cab3e158",
-          "title": "常年批量制作淘宝、亚马逊商品图的手工艺商家，这套子母二段式提示词体系可以帮你处理AI篡改产品造型的低效难题。整套框架划分为产品变量、锁定实物细节的母提示词、定义画面用途的子提示词三层结构。 图片一换，变量只改一点点，整套电商视觉就能跟着跑。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-12T18:28:06.684079Z"
-        },
-        {
-          "id": "9e195b60c4529fab4b75186aba85e70421e15d69",
-          "title": "本周十篇顶尖前沿论文补齐了智能体生产落地全链路技术方案。内容包含无训练连续验证奖励、长记忆架构 HOLA、MoE 模型轻量化压缩、编排框架效率增益、长文本证据复用 ReContext 等创新方案，同时还给出智能体通用故障分类、超大文本检索、RLVR 风格坍缩修复、AI 复现学术论文等落地方法论。全部成果都经过多基准实测，可直接用于推理提速、智能体安全治理、长上下文性能优化，大幅降低生产环境部署成本与风险。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-12T18:28:06.684079Z"
-        },
-        {
-          "id": "b2729d8d19d03d8935cddeb97ae95434c4e1b328",
-          "title": "飞书CLI接入各类AI编程工具后可一键读写文档、多维表格、日历、群聊、云空间与会议纪要，还能联动网页抓取、视频拆解、绘图生成、PPT 制作工具。这篇文章分享了一些创意玩法，覆盖知识库归档、短视频脚本解析、电商素材产出、产品商机分析等多元场景。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-12T17:02:32.098635Z"
         }
       ],
-      "source_count": 9,
+      "source_count": 5,
       "source_names": [
-        "社区更新 · 2026-07-12",
         "社区更新 · 2026-07-13"
       ],
       "items": [
@@ -1133,62 +1017,26 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-07-13T04:09:39.697962Z"
-        },
-        {
-          "id": "d133bdd1b1e6b872b9efacecbf1cac68d0dc435b",
-          "title": "如果你最近也在用 Codex、Claude Code 搭建网站，这套DESIGN.md工具方案能帮你摆脱千篇一律的廉价模板感。文中按不同使用场景推荐了对应工具，从找品牌设计灵感、抓取站点规范、浏览器实时提取样式、一站式落地页面全流程全覆盖，带你拆解成熟产品的底层设计规则。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-12T18:28:06.684079Z"
-        },
-        {
-          "id": "dbea5909c66324dccd6557c809604789cab3e158",
-          "title": "常年批量制作淘宝、亚马逊商品图的手工艺商家，这套子母二段式提示词体系可以帮你处理AI篡改产品造型的低效难题。整套框架划分为产品变量、锁定实物细节的母提示词、定义画面用途的子提示词三层结构。 图片一换，变量只改一点点，整套电商视觉就能跟着跑。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-12T18:28:06.684079Z"
-        },
-        {
-          "id": "9e195b60c4529fab4b75186aba85e70421e15d69",
-          "title": "本周十篇顶尖前沿论文补齐了智能体生产落地全链路技术方案。内容包含无训练连续验证奖励、长记忆架构 HOLA、MoE 模型轻量化压缩、编排框架效率增益、长文本证据复用 ReContext 等创新方案，同时还给出智能体通用故障分类、超大文本检索、RLVR 风格坍缩修复、AI 复现学术论文等落地方法论。全部成果都经过多基准实测，可直接用于推理提速、智能体安全治理、长上下文性能优化，大幅降低生产环境部署成本与风险。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-12T18:28:06.684079Z"
-        },
-        {
-          "id": "b2729d8d19d03d8935cddeb97ae95434c4e1b328",
-          "title": "飞书CLI接入各类AI编程工具后可一键读写文档、多维表格、日历、群聊、云空间与会议纪要，还能联动网页抓取、视频拆解、绘图生成、PPT 制作工具。这篇文章分享了一些创意玩法，覆盖知识库归档、短视频脚本解析、电商素材产出、产品商机分析等多元场景。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-12T17:02:32.098635Z"
         }
       ],
-      "item_count": 9,
-      "duplicate_count": 9,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6599,
+      "importance": 0.6599,
+      "importance_score": 0.6599,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9482,
         "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-12T17:02:32.098635Z",
+      "earliest_at": "2026-07-13T04:09:39.697962Z",
       "latest_at": "2026-07-13T16:37:28.924841Z",
       "primary_item": {
         "id": "c8cde8501abb3b92ec5fa74993fd134a5eac1d53",
@@ -1233,21 +1081,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7542,
-      "importance": 0.7542,
-      "importance_score": 0.7542,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9256,
+        "recency": 0.8776,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-13T11:16:12.245186Z",
       "latest_at": "2026-07-13T11:16:12.245186Z",
@@ -1294,21 +1141,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7542,
-      "importance": 0.7542,
-      "importance_score": 0.7542,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9256,
+        "recency": 0.8776,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-13T11:16:12.245186Z",
       "latest_at": "2026-07-13T11:16:12.245186Z",
@@ -1318,6 +1164,84 @@
         "url": "https://www.aibase.com/news/29550",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6358ddebecad",
+      "title": "苹果针对 OpenAI 的诉讼中最疯狂的 6 项指控 / The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
+      "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+      "primary_url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "d30e94a3e3bf4a087b2a4656cebd2b4ff5fec66b",
+          "title": "苹果针对 OpenAI 的诉讼中最疯狂的 6 项指控 / The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
+          "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-13T17:00:00Z"
+        },
+        {
+          "id": "c5fa62c2f6615c3470719c358a68309b01e36503",
+          "title": "苹果针对 OpenAI 的诉讼中最疯狂的 6 项指控 / The 6 wildest claims in Apple’s lawsuit against OpenAI",
+          "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-13T17:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "d30e94a3e3bf4a087b2a4656cebd2b4ff5fec66b",
+          "title": "苹果针对 OpenAI 的诉讼中最疯狂的 6 项指控 / The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
+          "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-13T17:00:00Z"
+        },
+        {
+          "id": "c5fa62c2f6615c3470719c358a68309b01e36503",
+          "title": "苹果针对 OpenAI 的诉讼中最疯狂的 6 项指控 / The 6 wildest claims in Apple’s lawsuit against OpenAI",
+          "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-13T17:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6196,
+      "importance": 0.6196,
+      "importance_score": 0.6196,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5112,
+        "source_tier": 0.58,
+        "ai_relevance": 0.71,
+        "recency": 0.9534,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-13T17:00:00Z",
+      "latest_at": "2026-07-13T17:00:00Z",
+      "primary_item": {
+        "id": "d30e94a3e3bf4a087b2a4656cebd2b4ff5fec66b",
+        "title": "苹果针对 OpenAI 的诉讼中最疯狂的 6 项指控 / The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
+        "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+        "source": "The Verge",
+        "source_name": "Curated Media"
       }
     },
     {
@@ -1355,15 +1279,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7461,
-      "importance": 0.7461,
-      "importance_score": 0.7461,
+      "score": 0.7379,
+      "importance": 0.7379,
+      "importance_score": 0.7379,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8805,
+        "recency": 0.8349,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1378,6 +1302,104 @@
         "url": "https://www.aibase.com/news/29544",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_3bb21a6673df",
+      "title": "Show HN：BillAI Bass，使用 Strands 代理的 AI 驱动的大嘴 Billy Bass / Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+      "url": "https://news.ycombinator.com/item?id=48896599",
+      "primary_url": "https://news.ycombinator.com/item?id=48896599",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "1b20635e1882662eab988b069e14cbef656c98d3",
+          "title": "Show HN：BillAI Bass，使用 Strands 代理的 AI 驱动的大嘴 Billy Bass / Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+          "url": "https://news.ycombinator.com/item?id=48896599",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-13T20:01:40.283000Z"
+        },
+        {
+          "id": "37797f74e17305fad14285eb7949619bb6c92429",
+          "title": "Show HN: BillAI Bass：一款基于Strands Agents技术、由人工智能驱动的“大嘴比利·巴斯”",
+          "url": "https://github.com/morganwilliscloud/billai-bass",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T18:25:33.396000Z"
+        },
+        {
+          "id": "d16a194d7d63f4c82524d54df29a9a86019a1d04",
+          "title": "Show HN: BillAI Bass：一款基于Strands Agents技术、由人工智能驱动的“大嘴比利·巴斯” / Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+          "url": "https://github.com/morganwilliscloud/billai-bass",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-13T18:18:23Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "1b20635e1882662eab988b069e14cbef656c98d3",
+          "title": "Show HN：BillAI Bass，使用 Strands 代理的 AI 驱动的大嘴 Billy Bass / Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+          "url": "https://news.ycombinator.com/item?id=48896599",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-13T20:01:40.283000Z"
+        },
+        {
+          "id": "37797f74e17305fad14285eb7949619bb6c92429",
+          "title": "Show HN: BillAI Bass：一款基于Strands Agents技术、由人工智能驱动的“大嘴比利·巴斯”",
+          "url": "https://github.com/morganwilliscloud/billai-bass",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T18:25:33.396000Z"
+        },
+        {
+          "id": "d16a194d7d63f4c82524d54df29a9a86019a1d04",
+          "title": "Show HN: BillAI Bass：一款基于Strands Agents技术、由人工智能驱动的“大嘴比利·巴斯” / Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+          "url": "https://github.com/morganwilliscloud/billai-bass",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-13T18:18:23Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5701,
+      "importance": 0.5701,
+      "importance_score": 0.5701,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.996,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-13T18:18:23Z",
+      "latest_at": "2026-07-13T20:01:40.283000Z",
+      "primary_item": {
+        "id": "1b20635e1882662eab988b069e14cbef656c98d3",
+        "title": "Show HN：BillAI Bass，使用 Strands 代理的 AI 驱动的大嘴 Billy Bass / Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+        "url": "https://news.ycombinator.com/item?id=48896599",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1415,15 +1437,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7461,
-      "importance": 0.7461,
-      "importance_score": 0.7461,
+      "score": 0.7379,
+      "importance": 0.7379,
+      "importance_score": 0.7379,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8805,
+        "recency": 0.8349,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1438,104 +1460,6 @@
         "url": "https://www.aibase.com/news/29543",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_bd87c1bd9f8f",
-      "title": "Zig 创造者实话实说，人性化烟雾 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-      "url": "https://news.ycombinator.com/item?id=48889637",
-      "primary_url": "https://news.ycombinator.com/item?id=48889637",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "a1362fd8483d2d2e1bb20d81fe47d65c8038aecd",
-          "title": "Zig 创造者实话实说，人性化烟雾 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-          "url": "https://news.ycombinator.com/item?id=48889637",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-13T10:59:14.465000Z"
-        },
-        {
-          "id": "0c987916ddf453e2c44a5247157e884356412396",
-          "title": "Zig创始人直言不讳，Anthropic则故弄玄虚",
-          "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
-          "source": "raymyers.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-13T09:41:19.566000Z"
-        },
-        {
-          "id": "cf40c86d82b220a732be16d845c086006974a902",
-          "title": "Zig创始人直言不讳，Anthropic则故弄玄虚 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-          "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-13T08:52:41Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "hackernews",
-        "raymyers.org"
-      ],
-      "items": [
-        {
-          "id": "a1362fd8483d2d2e1bb20d81fe47d65c8038aecd",
-          "title": "Zig 创造者实话实说，人性化烟雾 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-          "url": "https://news.ycombinator.com/item?id=48889637",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-13T10:59:14.465000Z"
-        },
-        {
-          "id": "0c987916ddf453e2c44a5247157e884356412396",
-          "title": "Zig创始人直言不讳，Anthropic则故弄玄虚",
-          "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
-          "source": "raymyers.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-13T09:41:19.566000Z"
-        },
-        {
-          "id": "cf40c86d82b220a732be16d845c086006974a902",
-          "title": "Zig创始人直言不讳，Anthropic则故弄玄虚 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-          "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-13T08:52:41Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5567,
-      "importance": 0.5567,
-      "importance_score": 0.5567,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9218,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-13T08:52:41Z",
-      "latest_at": "2026-07-13T10:59:14.465000Z",
-      "primary_item": {
-        "id": "a1362fd8483d2d2e1bb20d81fe47d65c8038aecd",
-        "title": "Zig 创造者实话实说，人性化烟雾 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-        "url": "https://news.ycombinator.com/item?id=48889637",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     }
   ]
