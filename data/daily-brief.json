@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T14:20:38.087546Z",
+  "generated_at": "2026-07-15T16:03:27.196513Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,18 +57,18 @@
           "published_at": "2026-07-14T20:16:13.009000Z"
         },
         {
-          "id": "54b76b5e2e04fe8f42e744419635c156ccc82015",
+          "id": "686215783dedf013f07bd603608feb468065bac5",
           "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码 / Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
           "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-14T17:58:35Z"
         }
       ],
       "source_count": 6,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "Lobsters (技术社区)",
         "hackernews",
@@ -121,26 +121,26 @@
           "published_at": "2026-07-14T20:16:13.009000Z"
         },
         {
-          "id": "54b76b5e2e04fe8f42e744419635c156ccc82015",
+          "id": "686215783dedf013f07bd603608feb468065bac5",
           "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码 / Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
           "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-14T17:58:35Z"
         }
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8616,
-      "importance": 0.8616,
-      "importance_score": 0.8616,
+      "score": 0.8582,
+      "importance": 0.8582,
+      "importance_score": 0.8582,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7836,
+        "recency": 0.7644,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -194,15 +194,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8263,
-      "importance": 0.8263,
-      "importance_score": 0.8263,
+      "score": 0.8227,
+      "importance": 0.8227,
+      "importance_score": 0.8227,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8129,
+        "recency": 0.793,
         "story_heat": 0.0
       },
       "category": "official",
@@ -256,15 +256,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8184,
-      "importance": 0.8184,
-      "importance_score": 0.8184,
+      "score": 0.8148,
+      "importance": 0.8148,
+      "importance_score": 0.8148,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8132,
+        "recency": 0.7933,
         "story_heat": 0.0
       },
       "category": "official",
@@ -337,15 +337,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8085,
-      "importance": 0.8085,
-      "importance_score": 0.8085,
+      "score": 0.8044,
+      "importance": 0.8044,
+      "importance_score": 0.8044,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9216,
+        "recency": 0.8991,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -362,68 +362,6 @@
         "url": "https://www.ithome.com/0/977/109.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_dc9597f1b62f",
-      "title": "庆祝视觉搜索创新 25 周年 / Celebrating 25 years of visual search innovation",
-      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary",
-      "primary_url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d6e1c532e318fd0f4f4876f4d269af88e52d857b",
-          "title": "庆祝视觉搜索创新 25 周年 / Celebrating 25 years of visual search innovation",
-          "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "d6e1c532e318fd0f4f4876f4d269af88e52d857b",
-          "title": "庆祝视觉搜索创新 25 周年 / Celebrating 25 years of visual search innovation",
-          "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7944,
-      "importance": 0.7944,
-      "importance_score": 0.7944,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7242,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T16:00:00Z",
-      "latest_at": "2026-07-14T16:00:00Z",
-      "primary_item": {
-        "id": "d6e1c532e318fd0f4f4876f4d269af88e52d857b",
-        "title": "庆祝视觉搜索创新 25 周年 / Celebrating 25 years of visual search innovation",
-        "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -461,15 +399,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8175,
-      "importance": 0.8175,
-      "importance_score": 0.8175,
+      "score": 0.814,
+      "importance": 0.814,
+      "importance_score": 0.814,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8085,
+        "recency": 0.7888,
         "story_heat": 0.0
       },
       "category": "official",
@@ -580,15 +518,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8124,
-      "importance": 0.8124,
-      "importance_score": 0.8124,
+      "score": 0.8091,
+      "importance": 0.8091,
+      "importance_score": 0.8091,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7657,
+        "recency": 0.747,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -642,15 +580,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.777,
-      "importance": 0.777,
-      "importance_score": 0.777,
+      "score": 0.7728,
+      "importance": 0.7728,
+      "importance_score": 0.7728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9522,
+        "recency": 0.929,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -722,15 +660,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7729,
-      "importance": 0.7729,
-      "importance_score": 0.7729,
+      "score": 0.769,
+      "importance": 0.769,
+      "importance_score": 0.769,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8905,
+        "recency": 0.8687,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -803,15 +741,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7664,
-      "importance": 0.7664,
-      "importance_score": 0.7664,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7879,
+        "recency": 0.7686,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -865,15 +803,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7533,
+      "importance": 0.7533,
+      "importance_score": 0.7533,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8413,
+        "recency": 0.8208,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -888,6 +826,87 @@
         "title": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
         "url": "https://x.com/AYi_AInotes/status/2077217295504490992",
         "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e21c965e6aed",
+      "title": "Telegram 无服务器架构",
+      "url": "https://core.telegram.org/bots/serverless",
+      "primary_url": "https://core.telegram.org/bots/serverless",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b48d0bcf1ac9713812076dcfd68a880183ee0fa8",
+          "title": "Telegram 无服务器架构",
+          "url": "https://core.telegram.org/bots/serverless",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T15:37:19.450000Z"
+        },
+        {
+          "id": "896aa7903770e1ec702edbf7b8920e29b26a2232",
+          "title": "Telegram 无服务器架构 / Telegram Serverless",
+          "url": "https://core.telegram.org/bots/serverless",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-15T10:06:39Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "b48d0bcf1ac9713812076dcfd68a880183ee0fa8",
+          "title": "Telegram 无服务器架构",
+          "url": "https://core.telegram.org/bots/serverless",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T15:37:19.450000Z"
+        },
+        {
+          "id": "896aa7903770e1ec702edbf7b8920e29b26a2232",
+          "title": "Telegram 无服务器架构 / Telegram Serverless",
+          "url": "https://core.telegram.org/bots/serverless",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-15T10:06:39Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8065,
+      "importance": 0.8065,
+      "importance_score": 0.8065,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9937,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T10:06:39Z",
+      "latest_at": "2026-07-15T15:37:19.450000Z",
+      "primary_item": {
+        "id": "b48d0bcf1ac9713812076dcfd68a880183ee0fa8",
+        "title": "Telegram 无服务器架构",
+        "url": "https://core.telegram.org/bots/serverless",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -945,15 +964,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7729,
-      "importance": 0.7729,
-      "importance_score": 0.7729,
+      "score": 0.769,
+      "importance": 0.769,
+      "importance_score": 0.769,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8905,
+        "recency": 0.8687,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -970,6 +989,66 @@
         "url": "https://www.aibase.com/news/29611",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_fd1c7d783feb",
+      "title": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
+      "url": "https://mp.weixin.qq.com/s/hFp5rtV8-6KVRrgZoCj03A",
+      "primary_url": "https://mp.weixin.qq.com/s/hFp5rtV8-6KVRrgZoCj03A",
+      "source": "公众号：通义实验室（千问）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ae4337d9eeb79e389eb8dca02fc217633f7ad02b",
+          "title": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
+          "url": "https://mp.weixin.qq.com/s/hFp5rtV8-6KVRrgZoCj03A",
+          "source": "公众号：通义实验室（千问）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T02:30:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：通义实验室（千问）"
+      ],
+      "items": [
+        {
+          "id": "ae4337d9eeb79e389eb8dca02fc217633f7ad02b",
+          "title": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
+          "url": "https://mp.weixin.qq.com/s/hFp5rtV8-6KVRrgZoCj03A",
+          "source": "公众号：通义实验室（千问）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T02:30:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7386,
+      "importance": 0.7386,
+      "importance_score": 0.7386,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8223,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-15T02:30:26Z",
+      "latest_at": "2026-07-15T02:30:26Z",
+      "primary_item": {
+        "id": "ae4337d9eeb79e389eb8dca02fc217633f7ad02b",
+        "title": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
+        "url": "https://mp.weixin.qq.com/s/hFp5rtV8-6KVRrgZoCj03A",
+        "source": "公众号：通义实验室（千问）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1026,15 +1105,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7724,
-      "importance": 0.7724,
-      "importance_score": 0.7724,
+      "score": 0.7684,
+      "importance": 0.7684,
+      "importance_score": 0.7684,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9213,
+        "recency": 0.8988,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1050,66 +1129,6 @@
         "title": "金山办公推出 WPS Comate AI 办公客户端",
         "url": "https://www.ithome.com/0/977/105.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fd1c7d783feb",
-      "title": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
-      "url": "https://mp.weixin.qq.com/s/hFp5rtV8-6KVRrgZoCj03A",
-      "primary_url": "https://mp.weixin.qq.com/s/hFp5rtV8-6KVRrgZoCj03A",
-      "source": "公众号：通义实验室（千问）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ae4337d9eeb79e389eb8dca02fc217633f7ad02b",
-          "title": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
-          "url": "https://mp.weixin.qq.com/s/hFp5rtV8-6KVRrgZoCj03A",
-          "source": "公众号：通义实验室（千问）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T02:30:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：通义实验室（千问）"
-      ],
-      "items": [
-        {
-          "id": "ae4337d9eeb79e389eb8dca02fc217633f7ad02b",
-          "title": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
-          "url": "https://mp.weixin.qq.com/s/hFp5rtV8-6KVRrgZoCj03A",
-          "source": "公众号：通义实验室（千问）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T02:30:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7423,
-      "importance": 0.7423,
-      "importance_score": 0.7423,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8429,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-15T02:30:26Z",
-      "latest_at": "2026-07-15T02:30:26Z",
-      "primary_item": {
-        "id": "ae4337d9eeb79e389eb8dca02fc217633f7ad02b",
-        "title": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
-        "url": "https://mp.weixin.qq.com/s/hFp5rtV8-6KVRrgZoCj03A",
-        "source": "公众号：通义实验室（千问）",
         "source_name": "AI HOT"
       }
     },
@@ -1148,15 +1167,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8006,
-      "importance": 0.8006,
-      "importance_score": 0.8006,
+      "score": 0.7972,
+      "importance": 0.7972,
+      "importance_score": 0.7972,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7586,
+        "recency": 0.7401,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1210,15 +1229,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7379,
-      "importance": 0.7379,
-      "importance_score": 0.7379,
+      "score": 0.7343,
+      "importance": 0.7343,
+      "importance_score": 0.7343,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8015,
+        "recency": 0.7819,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1270,15 +1289,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7349,
-      "importance": 0.7349,
-      "importance_score": 0.7349,
+      "score": 0.7312,
+      "importance": 0.7312,
+      "importance_score": 0.7312,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8351,
+        "recency": 0.8147,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1348,15 +1367,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7729,
-      "importance": 0.7729,
-      "importance_score": 0.7729,
+      "score": 0.769,
+      "importance": 0.769,
+      "importance_score": 0.769,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8905,
+        "recency": 0.8687,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1429,15 +1448,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7419,
-      "importance": 0.7419,
-      "importance_score": 0.7419,
+      "score": 0.7386,
+      "importance": 0.7386,
+      "importance_score": 0.7386,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7515,
+        "recency": 0.7331,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1456,84 +1475,65 @@
       }
     },
     {
-      "story_id": "story_eb9b80fadbba",
-      "title": "数据中心已使美国公众电费增加230亿美元，回收成本困难重重",
-      "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
-      "primary_url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_9048b47cd9ef",
+      "title": "Dependabot 版本更新引入了默认包冷却期 / Dependabot version updates introduce default package cooldown",
+      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
+      "primary_url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "7780ac5867d8905bd2b741d4f72a57d47bde334a",
-          "title": "数据中心已使美国公众电费增加230亿美元，回收成本困难重重",
-          "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T03:51:16.524000Z"
-        },
-        {
-          "id": "1c2aadf61cc7aa7e0b8fcfe152ee25bea2f95ac3",
-          "title": "数据中心已使美国公众电费增加230亿美元，回收成本困难重重 / Data centers have hiked electricity prices on the public by $23B",
-          "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-15T00:20:31Z"
+          "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
+          "title": "Dependabot 版本更新引入了默认包冷却期 / Dependabot version updates introduce default package cooldown",
+          "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T16:42:59Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "7780ac5867d8905bd2b741d4f72a57d47bde334a",
-          "title": "数据中心已使美国公众电费增加230亿美元，回收成本困难重重",
-          "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T03:51:16.524000Z"
-        },
-        {
-          "id": "1c2aadf61cc7aa7e0b8fcfe152ee25bea2f95ac3",
-          "title": "数据中心已使美国公众电费增加230亿美元，回收成本困难重重 / Data centers have hiked electricity prices on the public by $23B",
-          "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-15T00:20:31Z"
+          "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
+          "title": "Dependabot 版本更新引入了默认包冷却期 / Dependabot version updates introduce default package cooldown",
+          "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T16:42:59Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7673,
-      "importance": 0.7673,
-      "importance_score": 0.7673,
-      "importance_label": "行业动态",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7925,
+      "importance": 0.7925,
+      "importance_score": 0.7925,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8594,
-        "story_heat": 0.25
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7139,
+        "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "multi_source",
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-15T00:20:31Z",
-      "latest_at": "2026-07-15T03:51:16.524000Z",
+      "earliest_at": "2026-07-14T16:42:59Z",
+      "latest_at": "2026-07-14T16:42:59Z",
       "primary_item": {
-        "id": "7780ac5867d8905bd2b741d4f72a57d47bde334a",
-        "title": "数据中心已使美国公众电费增加230亿美元，回收成本困难重重",
-        "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
+        "title": "Dependabot 版本更新引入了默认包冷却期 / Dependabot version updates introduce default package cooldown",
+        "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     }
   ]
