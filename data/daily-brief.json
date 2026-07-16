@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-07-16T16:20:01.453528Z",
+  "generated_at": "2026-07-16T17:46:53.460237Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_45a4595f19b7",
+      "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能 / Create, edit and star in videos with two Google Vids updates",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
+      "primary_url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "eb1c0533c3f0cd2bca2920e379a1799766151b44",
+          "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能 / Create, edit and star in videos with two Google Vids updates",
+          "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T16:00:00Z"
+        },
+        {
+          "id": "fe84a00887f2c0520a8c226f1720fcc2da2022c5",
+          "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能",
+          "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
+          "source": "Google Blog：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T16:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google AI Blog",
+        "Google Blog：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "eb1c0533c3f0cd2bca2920e379a1799766151b44",
+          "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能 / Create, edit and star in videos with two Google Vids updates",
+          "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T16:00:00Z"
+        },
+        {
+          "id": "fe84a00887f2c0520a8c226f1720fcc2da2022c5",
+          "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能",
+          "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
+          "source": "Google Blog：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T16:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8644,
+      "importance": 0.8644,
+      "importance_score": 0.8644,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9746,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T16:00:00Z",
+      "latest_at": "2026-07-16T16:00:00Z",
+      "primary_item": {
+        "id": "eb1c0533c3f0cd2bca2920e379a1799766151b44",
+        "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能 / Create, edit and star in videos with two Google Vids updates",
+        "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_ff8c14b3821e",
       "title": "NVIDIA Nemotron 3 Embed 在 RTEB 上总体排名第一，推动代理检索 / NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
@@ -38,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8652,
-      "importance": 0.8652,
-      "importance_score": 0.8652,
+      "score": 0.8615,
+      "importance": 0.8615,
+      "importance_score": 0.8615,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9955,
+        "recency": 0.9749,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8511,
-      "importance": 0.8511,
-      "importance_score": 0.8511,
+      "score": 0.8474,
+      "importance": 0.8474,
+      "importance_score": 0.8474,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9952,
+        "recency": 0.9746,
         "story_heat": 0.0
       },
       "category": "official",
@@ -124,68 +206,6 @@
         "title": "为什么青少年应该获得安全的人工智能 / Why teens deserve access to safe AI",
         "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_85cdb4a3634b",
-      "title": "将更多应用程序连接到搜索 / Connect more of your apps to Search",
-      "url": "https://blog.google/products-and-platforms/products/search/connected-apps",
-      "primary_url": "https://blog.google/products-and-platforms/products/search/connected-apps",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "275ff8386d97fb52ed42d6ed6334b2663cdf6521",
-          "title": "将更多应用程序连接到搜索 / Connect more of your apps to Search",
-          "url": "https://blog.google/products-and-platforms/products/search/connected-apps",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "275ff8386d97fb52ed42d6ed6334b2663cdf6521",
-          "title": "将更多应用程序连接到搜索 / Connect more of your apps to Search",
-          "url": "https://blog.google/products-and-platforms/products/search/connected-apps",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8431,
-      "importance": 0.8431,
-      "importance_score": 0.8431,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9952,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T16:00:00Z",
-      "latest_at": "2026-07-16T16:00:00Z",
-      "primary_item": {
-        "id": "275ff8386d97fb52ed42d6ed6334b2663cdf6521",
-        "title": "将更多应用程序连接到搜索 / Connect more of your apps to Search",
-        "url": "https://blog.google/products-and-platforms/products/search/connected-apps",
-        "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -224,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8282,
-      "importance": 0.8282,
-      "importance_score": 0.8282,
+      "score": 0.8252,
+      "importance": 0.8252,
+      "importance_score": 0.8252,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7899,
+        "recency": 0.7735,
         "story_heat": 0.0
       },
       "category": "official",
@@ -286,15 +306,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8271,
-      "importance": 0.8271,
-      "importance_score": 0.8271,
+      "score": 0.8237,
+      "importance": 0.8237,
+      "importance_score": 0.8237,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9062,
+        "recency": 0.8874,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,15 +368,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8487,
-      "importance": 0.8487,
-      "importance_score": 0.8487,
+      "score": 0.8452,
+      "importance": 0.8452,
+      "importance_score": 0.8452,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.937,
+        "recency": 0.9176,
         "story_heat": 0.0
       },
       "category": "official",
@@ -376,17 +396,17 @@
       }
     },
     {
-      "story_id": "story_45a4595f19b7",
-      "title": "通过两项 Google Vids 更新创建、编辑视频并为其加注星标 / Create, edit and star in videos with two Google Vids updates",
-      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
-      "primary_url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
+      "story_id": "story_85cdb4a3634b",
+      "title": "将更多应用程序连接到搜索 / Connect more of your apps to Search",
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps",
+      "primary_url": "https://blog.google/products-and-platforms/products/search/connected-apps",
       "source": "Google AI Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "eb1c0533c3f0cd2bca2920e379a1799766151b44",
-          "title": "通过两项 Google Vids 更新创建、编辑视频并为其加注星标 / Create, edit and star in videos with two Google Vids updates",
-          "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
+          "id": "275ff8386d97fb52ed42d6ed6334b2663cdf6521",
+          "title": "将更多应用程序连接到搜索 / Connect more of your apps to Search",
+          "url": "https://blog.google/products-and-platforms/products/search/connected-apps",
           "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -399,9 +419,9 @@
       ],
       "items": [
         {
-          "id": "eb1c0533c3f0cd2bca2920e379a1799766151b44",
-          "title": "通过两项 Google Vids 更新创建、编辑视频并为其加注星标 / Create, edit and star in videos with two Google Vids updates",
-          "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
+          "id": "275ff8386d97fb52ed42d6ed6334b2663cdf6521",
+          "title": "将更多应用程序连接到搜索 / Connect more of your apps to Search",
+          "url": "https://blog.google/products-and-platforms/products/search/connected-apps",
           "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -410,15 +430,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8431,
-      "importance": 0.8431,
-      "importance_score": 0.8431,
+      "score": 0.8394,
+      "importance": 0.8394,
+      "importance_score": 0.8394,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9952,
+        "recency": 0.9746,
         "story_heat": 0.0
       },
       "category": "official",
@@ -430,9 +450,9 @@
       "earliest_at": "2026-07-16T16:00:00Z",
       "latest_at": "2026-07-16T16:00:00Z",
       "primary_item": {
-        "id": "eb1c0533c3f0cd2bca2920e379a1799766151b44",
-        "title": "通过两项 Google Vids 更新创建、编辑视频并为其加注星标 / Create, edit and star in videos with two Google Vids updates",
-        "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
+        "id": "275ff8386d97fb52ed42d6ed6334b2663cdf6521",
+        "title": "将更多应用程序连接到搜索 / Connect more of your apps to Search",
+        "url": "https://blog.google/products-and-platforms/products/search/connected-apps",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       }
@@ -472,15 +492,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8034,
-      "importance": 0.8034,
-      "importance_score": 0.8034,
+      "score": 0.8005,
+      "importance": 0.8005,
+      "importance_score": 0.8005,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7745,
+        "recency": 0.7585,
         "story_heat": 0.0
       },
       "category": "official",
@@ -553,15 +573,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7972,
-      "importance": 0.7972,
-      "importance_score": 0.7972,
+      "score": 0.7936,
+      "importance": 0.7936,
+      "importance_score": 0.7936,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9758,
+        "recency": 0.9556,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -577,6 +597,87 @@
         "title": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
         "url": "https://www.ithome.com/0/977/793.htm",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9a3bfba7061e",
+      "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障",
+      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "primary_url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "source": "VentureBeat：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5d6d8d91fe656d818e850012b9eed533e99d688b",
+          "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障",
+          "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+          "source": "VentureBeat：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T16:40:48Z"
+        },
+        {
+          "id": "93287a8d384a16f108101f4fddf8738f7f6daf67",
+          "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障 / The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+          "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+          "source": "VentureBeat AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-16T16:40:48Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "VentureBeat AI",
+        "VentureBeat：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5d6d8d91fe656d818e850012b9eed533e99d688b",
+          "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障",
+          "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+          "source": "VentureBeat：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T16:40:48Z"
+        },
+        {
+          "id": "93287a8d384a16f108101f4fddf8738f7f6daf67",
+          "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障 / The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+          "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+          "source": "VentureBeat AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-16T16:40:48Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7898,
+      "importance": 0.7898,
+      "importance_score": 0.7898,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9842,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T16:40:48Z",
+      "latest_at": "2026-07-16T16:40:48Z",
+      "primary_item": {
+        "id": "5d6d8d91fe656d818e850012b9eed533e99d688b",
+        "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障",
+        "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+        "source": "VentureBeat：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -615,15 +716,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8142,
-      "importance": 0.8142,
-      "importance_score": 0.8142,
+      "score": 0.8112,
+      "importance": 0.8112,
+      "importance_score": 0.8112,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7899,
+        "recency": 0.7735,
         "story_heat": 0.0
       },
       "category": "official",
@@ -677,15 +778,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.775,
-      "importance": 0.775,
-      "importance_score": 0.775,
+      "score": 0.7715,
+      "importance": 0.7715,
+      "importance_score": 0.7715,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9409,
+        "recency": 0.9214,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -700,6 +801,87 @@
         "title": "欧盟裁定 Google 必须向竞争对手开放 Android 和 Search，影响 Gemini 等 AI 服务",
         "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
         "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_562cceb9c8d0",
+      "title": "Anthropic 用 Claude Code 大规模迁移代码：Bun 百万行 Zig 转 Rust，两周完成",
+      "url": "https://claude.com/blog/ai-code-migration",
+      "primary_url": "https://claude.com/blog/ai-code-migration",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "af172b47957cdfc75888284c10fe7d2cdffe9c4a",
+          "title": "Anthropic 用 Claude Code 大规模迁移代码：Bun 百万行 Zig 转 Rust，两周完成",
+          "url": "https://claude.com/blog/ai-code-migration",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T17:32:26.540000Z"
+        },
+        {
+          "id": "34892d03c526b8383edfd2ea67b8a0a653f06ad0",
+          "title": "Anthropic 用 Claude Code 大规模迁移代码：Bun 百万行 Zig 转 Rust，两周完成 / How Anthropic runs large-scale code migrations with Claude Code",
+          "url": "https://claude.com/blog/ai-code-migration",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Claude：Blog（网页）",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "af172b47957cdfc75888284c10fe7d2cdffe9c4a",
+          "title": "Anthropic 用 Claude Code 大规模迁移代码：Bun 百万行 Zig 转 Rust，两周完成",
+          "url": "https://claude.com/blog/ai-code-migration",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T17:32:26.540000Z"
+        },
+        {
+          "id": "34892d03c526b8383edfd2ea67b8a0a653f06ad0",
+          "title": "Anthropic 用 Claude Code 大规模迁移代码：Bun 百万行 Zig 转 Rust，两周完成 / How Anthropic runs large-scale code migrations with Claude Code",
+          "url": "https://claude.com/blog/ai-code-migration",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.771,
+      "importance": 0.771,
+      "importance_score": 0.771,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9965,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T17:32:26.540000Z",
+      "latest_at": "2026-07-16T17:46:53.460237Z",
+      "primary_item": {
+        "id": "af172b47957cdfc75888284c10fe7d2cdffe9c4a",
+        "title": "Anthropic 用 Claude Code 大规模迁移代码：Bun 百万行 Zig 转 Rust，两周完成",
+        "url": "https://claude.com/blog/ai-code-migration",
+        "source": "Claude：Blog（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -757,15 +939,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.773,
-      "importance": 0.773,
-      "importance_score": 0.773,
+      "score": 0.7696,
+      "importance": 0.7696,
+      "importance_score": 0.7696,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8909,
+        "recency": 0.8725,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -838,15 +1020,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7715,
-      "importance": 0.7715,
-      "importance_score": 0.7715,
+      "score": 0.7682,
+      "importance": 0.7682,
+      "importance_score": 0.7682,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.883,
+        "recency": 0.8647,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -900,15 +1082,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7669,
-      "importance": 0.7669,
-      "importance_score": 0.7669,
+      "score": 0.7635,
+      "importance": 0.7635,
+      "importance_score": 0.7635,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9126,
+        "recency": 0.8937,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -961,15 +1143,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8222,
-      "importance": 0.8222,
-      "importance_score": 0.8222,
+      "score": 0.8192,
+      "importance": 0.8192,
+      "importance_score": 0.8192,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7899,
+        "recency": 0.7735,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1042,15 +1224,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7491,
-      "importance": 0.7491,
-      "importance_score": 0.7491,
+      "score": 0.7463,
+      "importance": 0.7463,
+      "importance_score": 0.7463,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7416,
+        "recency": 0.7262,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1103,15 +1285,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7424,
-      "importance": 0.7424,
-      "importance_score": 0.7424,
+      "score": 0.7389,
+      "importance": 0.7389,
+      "importance_score": 0.7389,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9432,
+        "recency": 0.9237,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1163,15 +1345,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
+      "score": 0.7379,
+      "importance": 0.7379,
+      "importance_score": 0.7379,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9546,
+        "recency": 0.9349,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1185,126 +1367,6 @@
         "title": "面壁智能开源企业AI数字员工平台StaffDeck",
         "url": "https://x.com/OpenBMB/status/2077741814799548451",
         "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7a6e0dd34e66",
-      "title": "xAI 开源 Grok Build 编程智能体与终端界面",
-      "url": "https://x.ai/news/grok-build-open-source",
-      "primary_url": "https://x.ai/news/grok-build-open-source",
-      "source": "xAI：News（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bb86a46a5cff165db425e348bd845ae985ad2b1b",
-          "title": "xAI 开源 Grok Build 编程智能体与终端界面",
-          "url": "https://x.ai/news/grok-build-open-source",
-          "source": "xAI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T21:07:41.894000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "xAI：News（网页）"
-      ],
-      "items": [
-        {
-          "id": "bb86a46a5cff165db425e348bd845ae985ad2b1b",
-          "title": "xAI 开源 Grok Build 编程智能体与终端界面",
-          "url": "https://x.ai/news/grok-build-open-source",
-          "source": "xAI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T21:07:41.894000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7578,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-15T21:07:41.894000Z",
-      "latest_at": "2026-07-15T21:07:41.894000Z",
-      "primary_item": {
-        "id": "bb86a46a5cff165db425e348bd845ae985ad2b1b",
-        "title": "xAI 开源 Grok Build 编程智能体与终端界面",
-        "url": "https://x.ai/news/grok-build-open-source",
-        "source": "xAI：News（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4141bb0bdc1e",
-      "title": "在 Claude Cowork 中使用 Claude Fable 5",
-      "url": "https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork",
-      "primary_url": "https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "70bb57a3ffe8d88b84140559b6eb828d412da416",
-          "title": "在 Claude Cowork 中使用 Claude Fable 5",
-          "url": "https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T14:32:22.664000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "70bb57a3ffe8d88b84140559b6eb828d412da416",
-          "title": "在 Claude Cowork 中使用 Claude Fable 5",
-          "url": "https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T14:32:22.664000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.64,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9744,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-16T14:32:22.664000Z",
-      "latest_at": "2026-07-16T14:32:22.664000Z",
-      "primary_item": {
-        "id": "70bb57a3ffe8d88b84140559b6eb828d412da416",
-        "title": "在 Claude Cowork 中使用 Claude Fable 5",
-        "url": "https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork",
-        "source": "Claude：Blog（网页）",
         "source_name": "AI HOT"
       }
     }
