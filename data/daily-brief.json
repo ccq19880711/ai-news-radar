@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-07-23T22:59:35.497554Z",
+  "generated_at": "2026-07-24T00:07:01.750206Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_52002f50b4f8",
-      "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-      "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
-      "primary_url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+      "story_id": "story_d1636ce0d6d1",
+      "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
+      "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
-          "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-          "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+          "id": "09274412181224c288c30c79cc8cd092e8a6df03",
+          "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
+          "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-23T19:47:58Z"
+          "published_at": "2026-07-23T22:32:23Z"
         }
       ],
       "source_count": 1,
@@ -27,26 +27,26 @@
       ],
       "items": [
         {
-          "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
-          "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-          "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+          "id": "09274412181224c288c30c79cc8cd092e8a6df03",
+          "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
+          "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-23T19:47:58Z"
+          "published_at": "2026-07-23T22:32:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8499,
-      "importance": 0.8499,
-      "importance_score": 0.8499,
+      "score": 0.8539,
+      "importance": 0.8539,
+      "importance_score": 0.8539,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.9549,
+        "recency": 0.9775,
         "story_heat": 0.0
       },
       "category": "official",
@@ -55,12 +55,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-23T19:47:58Z",
-      "latest_at": "2026-07-23T19:47:58Z",
+      "earliest_at": "2026-07-23T22:32:23Z",
+      "latest_at": "2026-07-23T22:32:23Z",
       "primary_item": {
-        "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
-        "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-        "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+        "id": "09274412181224c288c30c79cc8cd092e8a6df03",
+        "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
+        "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -157,15 +157,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8385,
-      "importance": 0.8385,
-      "importance_score": 0.8385,
+      "score": 0.8357,
+      "importance": 0.8357,
+      "importance_score": 0.8357,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9604,
+        "recency": 0.9449,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -185,265 +185,146 @@
       }
     },
     {
-      "story_id": "story_788f933fe449",
-      "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊",
-      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
-      "primary_url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
-      "source": "Simon Willison 博客",
-      "source_name": "AI HOT",
+      "story_id": "story_52002f50b4f8",
+      "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+      "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+      "primary_url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "58244cf6838cc24631a179988eb42df28e0b44cb",
-          "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊",
-          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T23:51:33Z"
-        },
-        {
-          "id": "fe040f21aecd948c4c9c39a57f4435521ed1b4dd",
-          "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊 / OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
-          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-22T23:51:33Z"
-        },
-        {
-          "id": "03864af9db6e4e44ace2be9bd954dcf9e60580ae",
-          "title": "OpenAI对Hugging Face的意外攻击，堪称“现实版科幻故事”",
-          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
-          "source": "simonwillison.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-23T08:11:48.077000Z"
-        },
-        {
-          "id": "619fb34cebe6ea8c8bd808d1e0ac7c2c064830f1",
-          "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊 / OpenAI's accidental cyberattack against Hugging Face is science fiction",
-          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-23T01:16:14Z"
-        },
-        {
-          "id": "9857670a4ec00dbcc200a1a8a163143bfa23bcbb",
-          "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊 / OpenAI’s accidental attack against Hugging Face is science fiction that happened",
-          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-23T01:16:14Z"
+          "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
+          "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+          "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T19:47:58Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 1,
       "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "Simon Willison",
-        "Simon Willison 博客",
-        "simonwillison.net"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "58244cf6838cc24631a179988eb42df28e0b44cb",
-          "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊",
-          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T23:51:33Z"
-        },
-        {
-          "id": "fe040f21aecd948c4c9c39a57f4435521ed1b4dd",
-          "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊 / OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
-          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-22T23:51:33Z"
-        },
-        {
-          "id": "03864af9db6e4e44ace2be9bd954dcf9e60580ae",
-          "title": "OpenAI对Hugging Face的意外攻击，堪称“现实版科幻故事”",
-          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
-          "source": "simonwillison.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-23T08:11:48.077000Z"
-        },
-        {
-          "id": "619fb34cebe6ea8c8bd808d1e0ac7c2c064830f1",
-          "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊 / OpenAI's accidental cyberattack against Hugging Face is science fiction",
-          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-23T01:16:14Z"
-        },
-        {
-          "id": "9857670a4ec00dbcc200a1a8a163143bfa23bcbb",
-          "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊 / OpenAI’s accidental attack against Hugging Face is science fiction that happened",
-          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-23T01:16:14Z"
+          "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
+          "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+          "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T19:47:58Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.8345,
-      "importance": 0.8345,
-      "importance_score": 0.8345,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8471,
+      "importance": 0.8471,
+      "importance_score": 0.8471,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.9396,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T19:47:58Z",
+      "latest_at": "2026-07-23T19:47:58Z",
+      "primary_item": {
+        "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
+        "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+        "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d70d846b51ce",
+      "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+      "url": "https://www.ithome.com/0/980/890.htm",
+      "primary_url": "https://www.ithome.com/0/980/890.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8bc90c40a6536a690373cc42456b6735218b4d67",
+          "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+          "url": "https://www.ithome.com/0/980/890.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T23:30:43Z"
+        },
+        {
+          "id": "789ebe117e2fc35b399b461a09065b5c2f1371b7",
+          "title": "佛州一男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+          "url": "https://www.ithome.com/0/980/890.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-23T23:30:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "8bc90c40a6536a690373cc42456b6735218b4d67",
+          "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+          "url": "https://www.ithome.com/0/980/890.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T23:30:43Z"
+        },
+        {
+          "id": "789ebe117e2fc35b399b461a09065b5c2f1371b7",
+          "title": "佛州一男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+          "url": "https://www.ithome.com/0/980/890.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-23T23:30:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.806,
+      "importance": 0.806,
+      "importance_score": 0.806,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.716,
-        "story_heat": 1.0
+        "recency": 0.9913,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-22T23:51:33Z",
-      "latest_at": "2026-07-23T08:11:48.077000Z",
+      "earliest_at": "2026-07-23T23:30:43Z",
+      "latest_at": "2026-07-23T23:30:43Z",
       "primary_item": {
-        "id": "58244cf6838cc24631a179988eb42df28e0b44cb",
-        "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊",
-        "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
-        "source": "Simon Willison 博客",
+        "id": "8bc90c40a6536a690373cc42456b6735218b4d67",
+        "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+        "url": "https://www.ithome.com/0/980/890.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_91992ed9f82d",
-      "title": "ChatGPT 语音和多文件夹项目 26.715 / ChatGPT Voice and multi-folder projects 26.715",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a8f638e82a0b60a452ee18f397997f4f233ca403",
-          "title": "ChatGPT 语音和多文件夹项目 26.715 / ChatGPT Voice and multi-folder projects 26.715",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "a8f638e82a0b60a452ee18f397997f4f233ca403",
-          "title": "ChatGPT 语音和多文件夹项目 26.715 / ChatGPT Voice and multi-folder projects 26.715",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8191,
-      "importance": 0.8191,
-      "importance_score": 0.8191,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7175,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T00:00:00Z",
-      "latest_at": "2026-07-23T00:00:00Z",
-      "primary_item": {
-        "id": "a8f638e82a0b60a452ee18f397997f4f233ca403",
-        "title": "ChatGPT 语音和多文件夹项目 26.715 / ChatGPT Voice and multi-folder projects 26.715",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_37c9890bc32e",
-      "title": "将 Nunchaku 4 位扩散推理引入扩散器 / Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "url": "https://huggingface.co/blog/nunchaku-diffusers",
-      "primary_url": "https://huggingface.co/blog/nunchaku-diffusers",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f8aff7e85b5148594e968854ce8edf596c17f4e4",
-          "title": "将 Nunchaku 4 位扩散推理引入扩散器 / Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-          "url": "https://huggingface.co/blog/nunchaku-diffusers",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "f8aff7e85b5148594e968854ce8edf596c17f4e4",
-          "title": "将 Nunchaku 4 位扩散推理引入扩散器 / Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-          "url": "https://huggingface.co/blog/nunchaku-diffusers",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8171,
-      "importance": 0.8171,
-      "importance_score": 0.8171,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7175,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T00:00:00Z",
-      "latest_at": "2026-07-23T00:00:00Z",
-      "primary_item": {
-        "id": "f8aff7e85b5148594e968854ce8edf596c17f4e4",
-        "title": "将 Nunchaku 4 位扩散推理引入扩散器 / Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-        "url": "https://huggingface.co/blog/nunchaku-diffusers",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -481,15 +362,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.846,
-      "importance": 0.846,
-      "importance_score": 0.846,
+      "score": 0.8432,
+      "importance": 0.8432,
+      "importance_score": 0.8432,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9666,
+        "recency": 0.951,
         "story_heat": 0.0
       },
       "category": "official",
@@ -505,68 +386,6 @@
         "title": "GitHub MCP 服务器支持下一个 MCP 规范 / GitHub MCP Server supports the next MCP specification",
         "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_7569338ee0d3",
-      "title": "在 ChatGPT 中启动 Health / Launching Health in ChatGPT",
-      "url": "https://openai.com/index/health-in-chatgpt",
-      "primary_url": "https://openai.com/index/health-in-chatgpt",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3d971c1b779fe596db260d78ff129a5151f66d31",
-          "title": "在 ChatGPT 中启动 Health / Launching Health in ChatGPT",
-          "url": "https://openai.com/index/health-in-chatgpt",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "3d971c1b779fe596db260d78ff129a5151f66d31",
-          "title": "在 ChatGPT 中启动 Health / Launching Health in ChatGPT",
-          "url": "https://openai.com/index/health-in-chatgpt",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8091,
-      "importance": 0.8091,
-      "importance_score": 0.8091,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7175,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T00:00:00Z",
-      "latest_at": "2026-07-23T00:00:00Z",
-      "primary_item": {
-        "id": "3d971c1b779fe596db260d78ff129a5151f66d31",
-        "title": "在 ChatGPT 中启动 Health / Launching Health in ChatGPT",
-        "url": "https://openai.com/index/health-in-chatgpt",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -642,15 +461,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8155,
-      "importance": 0.8155,
-      "importance_score": 0.8155,
+      "score": 0.8128,
+      "importance": 0.8128,
+      "importance_score": 0.8128,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9384,
+        "recency": 0.9233,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -704,15 +523,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7803,
-      "importance": 0.7803,
-      "importance_score": 0.7803,
+      "score": 0.7775,
+      "importance": 0.7775,
+      "importance_score": 0.7775,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9538,
+        "recency": 0.9384,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -784,15 +603,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7727,
-      "importance": 0.7727,
-      "importance_score": 0.7727,
+      "score": 0.7701,
+      "importance": 0.7701,
+      "importance_score": 0.7701,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8894,
+        "recency": 0.8751,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -809,68 +628,6 @@
         "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1c806736e9c9",
-      "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
-      "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
-          "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
-          "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T18:19:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
-          "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
-          "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T18:19:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8323,
-      "importance": 0.8323,
-      "importance_score": 0.8323,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9348,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T18:19:14Z",
-      "latest_at": "2026-07-23T18:19:14Z",
-      "primary_item": {
-        "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
-        "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
-        "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -927,15 +684,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7717,
-      "importance": 0.7717,
-      "importance_score": 0.7717,
+      "score": 0.7691,
+      "importance": 0.7691,
+      "importance_score": 0.7691,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9174,
+        "recency": 0.9027,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1008,15 +765,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7707,
-      "importance": 0.7707,
-      "importance_score": 0.7707,
+      "score": 0.7681,
+      "importance": 0.7681,
+      "importance_score": 0.7681,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8782,
+        "recency": 0.8641,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1032,6 +789,391 @@
         "title": "Apple 起诉 OpenAI 窃取硬件制造机密",
         "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
         "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f88b9ddbe0d1",
+      "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
+      "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
+      "primary_url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9d6ffb88b43b1ad6fc9582bd235a7a9cc787f9cd",
+          "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
+          "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T19:55:29.530000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "9d6ffb88b43b1ad6fc9582bd235a7a9cc787f9cd",
+          "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
+          "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T19:55:29.530000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.766,
+      "importance": 0.766,
+      "importance_score": 0.766,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9413,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T19:55:29.530000Z",
+      "latest_at": "2026-07-23T19:55:29.530000Z",
+      "primary_item": {
+        "id": "9d6ffb88b43b1ad6fc9582bd235a7a9cc787f9cd",
+        "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
+        "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_21eba83ad106",
+      "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜",
+      "url": "https://x.com/Alibaba_Qwen/status/2080270065547809133",
+      "primary_url": "https://x.com/Alibaba_Qwen/status/2080270065547809133",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ef228568bf7b0662d6a048c9788f440173cc69fc",
+          "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜",
+          "url": "https://x.com/Alibaba_Qwen/status/2080270065547809133",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T12:33:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+      ],
+      "items": [
+        {
+          "id": "ef228568bf7b0662d6a048c9788f440173cc69fc",
+          "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜",
+          "url": "https://x.com/Alibaba_Qwen/status/2080270065547809133",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T12:33:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7609,
+      "importance": 0.7609,
+      "importance_score": 0.7609,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8463,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T12:33:27Z",
+      "latest_at": "2026-07-23T12:33:27Z",
+      "primary_item": {
+        "id": "ef228568bf7b0662d6a048c9788f440173cc69fc",
+        "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜",
+        "url": "https://x.com/Alibaba_Qwen/status/2080270065547809133",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_959e9d757ff8",
+      "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+      "url": "https://www.aibase.com/news/29843",
+      "primary_url": "https://www.aibase.com/news/29843",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "420603b00466b3ff6c446be97d305bf8f5cf9cb0",
+          "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+          "url": "https://www.aibase.com/news/29843",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-23T09:08:44.599432Z"
+        },
+        {
+          "id": "77beaf1957d446f9335a039d9cba068e13a7fd52",
+          "title": "Claude 语音模式即将升级：支持切换 Opus 和 Sonnet 更强模型，告别 Haiku 独撑局面",
+          "url": "https://www.aibase.com/zh/news/29843",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "420603b00466b3ff6c446be97d305bf8f5cf9cb0",
+          "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+          "url": "https://www.aibase.com/news/29843",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-23T09:08:44.599432Z"
+        },
+        {
+          "id": "77beaf1957d446f9335a039d9cba068e13a7fd52",
+          "title": "Claude 语音模式即将升级：支持切换 Opus 和 Sonnet 更强模型，告别 Haiku 独撑局面",
+          "url": "https://www.aibase.com/zh/news/29843",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7576,
+      "importance": 0.7576,
+      "importance_score": 0.7576,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8056,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T09:08:44.599432Z",
+      "latest_at": "2026-07-23T11:25:25.406527Z",
+      "primary_item": {
+        "id": "420603b00466b3ff6c446be97d305bf8f5cf9cb0",
+        "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+        "url": "https://www.aibase.com/news/29843",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_b86d2fedd0c1",
+      "title": "ChatGPT 向美国用户推出健康功能",
+      "url": "https://x.com/gdb/status/2080351159638704615",
+      "primary_url": "https://x.com/gdb/status/2080351159638704615",
+      "source": "X：Greg Brockman (@gdb)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1e12c1d4ffe597b0ee121de37cd70ccb28dd59ef",
+          "title": "ChatGPT 向美国用户推出健康功能",
+          "url": "https://x.com/gdb/status/2080351159638704615",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T17:55:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Greg Brockman (@gdb)"
+      ],
+      "items": [
+        {
+          "id": "1e12c1d4ffe597b0ee121de37cd70ccb28dd59ef",
+          "title": "ChatGPT 向美国用户推出健康功能",
+          "url": "https://x.com/gdb/status/2080351159638704615",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T17:55:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7432,
+      "importance": 0.7432,
+      "importance_score": 0.7432,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9145,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-23T17:55:42Z",
+      "latest_at": "2026-07-23T17:55:42Z",
+      "primary_item": {
+        "id": "1e12c1d4ffe597b0ee121de37cd70ccb28dd59ef",
+        "title": "ChatGPT 向美国用户推出健康功能",
+        "url": "https://x.com/gdb/status/2080351159638704615",
+        "source": "X：Greg Brockman (@gdb)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1c806736e9c9",
+      "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
+      "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
+          "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
+          "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T18:19:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
+          "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
+          "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T18:19:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8295,
+      "importance": 0.8295,
+      "importance_score": 0.8295,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9197,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T18:19:14Z",
+      "latest_at": "2026-07-23T18:19:14Z",
+      "primary_item": {
+        "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
+        "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
+        "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_a34a897d283a",
+      "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
+      "url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
+      "primary_url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
+      "source": "公众号：小红书技术（dots.llm）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4c73c7c8afcb262fb794bd2cca00819ef9338379",
+          "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
+          "url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
+          "source": "公众号：小红书技术（dots.llm）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T04:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：小红书技术（dots.llm）"
+      ],
+      "items": [
+        {
+          "id": "4c73c7c8afcb262fb794bd2cca00819ef9338379",
+          "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
+          "url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
+          "source": "公众号：小红书技术（dots.llm）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T04:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7372,
+      "importance": 0.7372,
+      "importance_score": 0.7372,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7479,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-23T04:00:00Z",
+      "latest_at": "2026-07-23T04:00:00Z",
+      "primary_item": {
+        "id": "4c73c7c8afcb262fb794bd2cca00819ef9338379",
+        "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
+        "url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
+        "source": "公众号：小红书技术（dots.llm）",
         "source_name": "AI HOT"
       }
     },
@@ -1108,15 +1250,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7692,
-      "importance": 0.7692,
-      "importance_score": 0.7692,
+      "score": 0.767,
+      "importance": 0.767,
+      "importance_score": 0.767,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7478,
+        "recency": 0.7357,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1136,148 +1278,86 @@
       }
     },
     {
-      "story_id": "story_f88b9ddbe0d1",
-      "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
-      "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
-      "primary_url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
-      "source": "Claude：Blog（网页）",
+      "story_id": "story_112b4523d36f",
+      "title": "微软MAI模型：以更低成本实现前沿能力规模化",
+      "url": "https://x.com/satyanadella/status/2080329851127669104",
+      "primary_url": "https://x.com/satyanadella/status/2080329851127669104",
+      "source": "X：Satya Nadella (@satyanadella)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9d6ffb88b43b1ad6fc9582bd235a7a9cc787f9cd",
-          "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
-          "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
-          "source": "Claude：Blog（网页）",
+          "id": "d72daa2e5b7b6321ccd98fbe31c3a75f08bef8e2",
+          "title": "微软MAI模型：以更低成本实现前沿能力规模化",
+          "url": "https://x.com/satyanadella/status/2080329851127669104",
+          "source": "X：Satya Nadella (@satyanadella)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-23T19:55:29.530000Z"
+          "published_at": "2026-07-23T16:31:01Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Claude：Blog（网页）"
+        "X：Satya Nadella (@satyanadella)"
       ],
       "items": [
         {
-          "id": "9d6ffb88b43b1ad6fc9582bd235a7a9cc787f9cd",
-          "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
-          "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
-          "source": "Claude：Blog（网页）",
+          "id": "d72daa2e5b7b6321ccd98fbe31c3a75f08bef8e2",
+          "title": "微软MAI模型：以更低成本实现前沿能力规模化",
+          "url": "https://x.com/satyanadella/status/2080329851127669104",
+          "source": "X：Satya Nadella (@satyanadella)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-23T19:55:29.530000Z"
+          "published_at": "2026-07-23T16:31:01Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7688,
-      "importance": 0.7688,
-      "importance_score": 0.7688,
+      "score": 0.7279,
+      "importance": 0.7279,
+      "importance_score": 0.7279,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.75,
+        "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9567,
+        "recency": 0.8961,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-23T19:55:29.530000Z",
-      "latest_at": "2026-07-23T19:55:29.530000Z",
+      "earliest_at": "2026-07-23T16:31:01Z",
+      "latest_at": "2026-07-23T16:31:01Z",
       "primary_item": {
-        "id": "9d6ffb88b43b1ad6fc9582bd235a7a9cc787f9cd",
-        "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
-        "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
-        "source": "Claude：Blog（网页）",
+        "id": "d72daa2e5b7b6321ccd98fbe31c3a75f08bef8e2",
+        "title": "微软MAI模型：以更低成本实现前沿能力规模化",
+        "url": "https://x.com/satyanadella/status/2080329851127669104",
+        "source": "X：Satya Nadella (@satyanadella)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_21eba83ad106",
-      "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜",
-      "url": "https://x.com/Alibaba_Qwen/status/2080270065547809133",
-      "primary_url": "https://x.com/Alibaba_Qwen/status/2080270065547809133",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ef228568bf7b0662d6a048c9788f440173cc69fc",
-          "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜",
-          "url": "https://x.com/Alibaba_Qwen/status/2080270065547809133",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T12:33:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：通义千问 / Qwen (@Alibaba_Qwen)"
-      ],
-      "items": [
-        {
-          "id": "ef228568bf7b0662d6a048c9788f440173cc69fc",
-          "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜",
-          "url": "https://x.com/Alibaba_Qwen/status/2080270065547809133",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T12:33:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8601,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T12:33:27Z",
-      "latest_at": "2026-07-23T12:33:27Z",
-      "primary_item": {
-        "id": "ef228568bf7b0662d6a048c9788f440173cc69fc",
-        "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜",
-        "url": "https://x.com/Alibaba_Qwen/status/2080270065547809133",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_959e9d757ff8",
-      "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
-      "url": "https://www.aibase.com/news/29843",
-      "primary_url": "https://www.aibase.com/news/29843",
+      "story_id": "story_b4c8a52eb5bb",
+      "title": "原“阿里云开发者”公众号正式更名为“千问AI平台”",
+      "url": "https://www.aibase.com/news/29816",
+      "primary_url": "https://www.aibase.com/news/29816",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "420603b00466b3ff6c446be97d305bf8f5cf9cb0",
-          "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
-          "url": "https://www.aibase.com/news/29843",
+          "id": "13b4aff5e1d247ba140d014c2f42c94bd553f920",
+          "title": "原“阿里云开发者”公众号正式更名为“千问AI平台”",
+          "url": "https://www.aibase.com/news/29816",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-23T09:08:44.599432Z"
+          "published_at": "2026-07-23T03:16:59.460906Z"
         },
         {
-          "id": "77beaf1957d446f9335a039d9cba068e13a7fd52",
-          "title": "Claude 语音模式即将升级：支持切换 Opus 和 Sonnet 更强模型，告别 Haiku 独撑局面",
-          "url": "https://www.aibase.com/zh/news/29843",
+          "id": "04988b1cfa16a95e7fbd297f3af402f7360ace54",
+          "title": "原「阿里云开发者」公众号正式更名为「千问 AI 平台」",
+          "url": "https://www.aibase.com/zh/news/29816",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1291,18 +1371,18 @@
       ],
       "items": [
         {
-          "id": "420603b00466b3ff6c446be97d305bf8f5cf9cb0",
-          "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
-          "url": "https://www.aibase.com/news/29843",
+          "id": "13b4aff5e1d247ba140d014c2f42c94bd553f920",
+          "title": "原“阿里云开发者”公众号正式更名为“千问AI平台”",
+          "url": "https://www.aibase.com/news/29816",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-23T09:08:44.599432Z"
+          "published_at": "2026-07-23T03:16:59.460906Z"
         },
         {
-          "id": "77beaf1957d446f9335a039d9cba068e13a7fd52",
-          "title": "Claude 语音模式即将升级：支持切换 Opus 和 Sonnet 更强模型，告别 Haiku 独撑局面",
-          "url": "https://www.aibase.com/zh/news/29843",
+          "id": "04988b1cfa16a95e7fbd297f3af402f7360ace54",
+          "title": "原「阿里云开发者」公众号正式更名为「千问 AI 平台」",
+          "url": "https://www.aibase.com/zh/news/29816",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1311,151 +1391,30 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7458,
+      "importance": 0.7458,
+      "importance_score": 0.7458,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8188,
+        "recency": 0.7402,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-23T09:08:44.599432Z",
-      "latest_at": "2026-07-23T11:25:25.406527Z",
+      "earliest_at": "2026-07-23T03:16:59.460906Z",
+      "latest_at": "2026-07-23T03:16:59.460906Z",
       "primary_item": {
-        "id": "420603b00466b3ff6c446be97d305bf8f5cf9cb0",
-        "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
-        "url": "https://www.aibase.com/news/29843",
+        "id": "13b4aff5e1d247ba140d014c2f42c94bd553f920",
+        "title": "原“阿里云开发者”公众号正式更名为“千问AI平台”",
+        "url": "https://www.aibase.com/news/29816",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b86d2fedd0c1",
-      "title": "ChatGPT 向美国用户推出健康功能",
-      "url": "https://x.com/gdb/status/2080351159638704615",
-      "primary_url": "https://x.com/gdb/status/2080351159638704615",
-      "source": "X：Greg Brockman (@gdb)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1e12c1d4ffe597b0ee121de37cd70ccb28dd59ef",
-          "title": "ChatGPT 向美国用户推出健康功能",
-          "url": "https://x.com/gdb/status/2080351159638704615",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T17:55:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Greg Brockman (@gdb)"
-      ],
-      "items": [
-        {
-          "id": "1e12c1d4ffe597b0ee121de37cd70ccb28dd59ef",
-          "title": "ChatGPT 向美国用户推出健康功能",
-          "url": "https://x.com/gdb/status/2080351159638704615",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T17:55:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9295,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T17:55:42Z",
-      "latest_at": "2026-07-23T17:55:42Z",
-      "primary_item": {
-        "id": "1e12c1d4ffe597b0ee121de37cd70ccb28dd59ef",
-        "title": "ChatGPT 向美国用户推出健康功能",
-        "url": "https://x.com/gdb/status/2080351159638704615",
-        "source": "X：Greg Brockman (@gdb)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a34a897d283a",
-      "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
-      "url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
-      "primary_url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
-      "source": "公众号：小红书技术（dots.llm）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4c73c7c8afcb262fb794bd2cca00819ef9338379",
-          "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
-          "url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T04:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：小红书技术（dots.llm）"
-      ],
-      "items": [
-        {
-          "id": "4c73c7c8afcb262fb794bd2cca00819ef9338379",
-          "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
-          "url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T04:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7394,
-      "importance": 0.7394,
-      "importance_score": 0.7394,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7601,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T04:00:00Z",
-      "latest_at": "2026-07-23T04:00:00Z",
-      "primary_item": {
-        "id": "4c73c7c8afcb262fb794bd2cca00819ef9338379",
-        "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
-        "url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
-        "source": "公众号：小红书技术（dots.llm）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1493,15 +1452,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8256,
-      "importance": 0.8256,
-      "importance_score": 0.8256,
+      "score": 0.823,
+      "importance": 0.823,
+      "importance_score": 0.823,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8975,
+        "recency": 0.8831,
         "story_heat": 0.0
       },
       "category": "official",
