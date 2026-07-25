@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T15:06:30.561613Z",
+  "generated_at": "2026-07-25T16:26:28.244905Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8102,
-      "importance": 0.8102,
-      "importance_score": 0.8102,
+      "score": 0.8077,
+      "importance": 0.8077,
+      "importance_score": 0.8077,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7232,
+        "recency": 0.7094,
         "story_heat": 0.0
       },
       "category": "official",
@@ -119,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8042,
-      "importance": 0.8042,
-      "importance_score": 0.8042,
+      "score": 0.8017,
+      "importance": 0.8017,
+      "importance_score": 0.8017,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.92,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.731,
+        "recency": 0.717,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -200,15 +200,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8011,
-      "importance": 0.8011,
-      "importance_score": 0.8011,
+      "score": 0.7978,
+      "importance": 0.7978,
+      "importance_score": 0.7978,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9808,
+        "recency": 0.9621,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -281,15 +281,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7687,
-      "importance": 0.7687,
-      "importance_score": 0.7687,
+      "score": 0.7659,
+      "importance": 0.7659,
+      "importance_score": 0.7659,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8174,
+        "recency": 0.8018,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -343,15 +343,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7375,
-      "importance": 0.7375,
-      "importance_score": 0.7375,
+      "score": 0.7349,
+      "importance": 0.7349,
+      "importance_score": 0.7349,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7494,
+        "recency": 0.7351,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -403,15 +403,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7318,
-      "importance": 0.7318,
-      "importance_score": 0.7318,
+      "score": 0.7291,
+      "importance": 0.7291,
+      "importance_score": 0.7291,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7846,
+        "recency": 0.7697,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -481,15 +481,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6611,
-      "importance": 0.6611,
-      "importance_score": 0.6611,
+      "score": 0.6579,
+      "importance": 0.6579,
+      "importance_score": 0.6579,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.9299,
+        "recency": 0.9122,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -560,15 +560,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5795,
-      "importance": 0.5795,
-      "importance_score": 0.5795,
+      "score": 0.577,
+      "importance": 0.577,
+      "importance_score": 0.577,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.736,
+        "recency": 0.722,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -656,15 +656,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5738,
-      "importance": 0.5738,
-      "importance_score": 0.5738,
+      "score": 0.5713,
+      "importance": 0.5713,
+      "importance_score": 0.5713,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7479,
+        "recency": 0.7337,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -679,6 +679,243 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-24",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_2635b89b4413",
+      "title": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+      "url": "https://news.ycombinator.com/item?id=49048034",
+      "primary_url": "https://news.ycombinator.com/item?id=49048034",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "e4e665210e805664d11add74053bec2c0fd0ecf5",
+          "title": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "url": "https://news.ycombinator.com/item?id=49048034",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T16:27:02.048000Z"
+        },
+        {
+          "id": "4050d967c06d048552b0fc7cc32f9cd67bf29986",
+          "title": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T14:49:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "e4e665210e805664d11add74053bec2c0fd0ecf5",
+          "title": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "url": "https://news.ycombinator.com/item?id=49048034",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T16:27:02.048000Z"
+        },
+        {
+          "id": "4050d967c06d048552b0fc7cc32f9cd67bf29986",
+          "title": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T14:49:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T14:49:49Z",
+      "latest_at": "2026-07-25T16:27:02.048000Z",
+      "primary_item": {
+        "id": "e4e665210e805664d11add74053bec2c0fd0ecf5",
+        "title": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+        "url": "https://news.ycombinator.com/item?id=49048034",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_17d8da54b5aa",
+      "title": "Ask HN: 如果我们在Claude Code中对上下文进行压缩，会发生什么？",
+      "url": "https://news.ycombinator.com/item?id=49048571",
+      "primary_url": "https://news.ycombinator.com/item?id=49048571",
+      "source": "news.ycombinator.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2aaf61fd26b52a84b495b2f33097ed48909b8afe",
+          "title": "Ask HN: 如果我们在Claude Code中对上下文进行压缩，会发生什么？",
+          "url": "https://news.ycombinator.com/item?id=49048571",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T15:55:06.362000Z"
+        },
+        {
+          "id": "f59872de45e6940547b686b79f30b7cb5ca463ce",
+          "title": "Ask HN: 如果我们在Claude Code中对上下文进行压缩，会发生什么？ / Ask HN: What happens when we do compress the context in Claude Code?",
+          "url": "https://news.ycombinator.com/item?id=49048571",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-07-25T15:44:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "news.ycombinator.com"
+      ],
+      "items": [
+        {
+          "id": "2aaf61fd26b52a84b495b2f33097ed48909b8afe",
+          "title": "Ask HN: 如果我们在Claude Code中对上下文进行压缩，会发生什么？",
+          "url": "https://news.ycombinator.com/item?id=49048571",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T15:55:06.362000Z"
+        },
+        {
+          "id": "f59872de45e6940547b686b79f30b7cb5ca463ce",
+          "title": "Ask HN: 如果我们在Claude Code中对上下文进行压缩，会发生什么？ / Ask HN: What happens when we do compress the context in Claude Code?",
+          "url": "https://news.ycombinator.com/item?id=49048571",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-07-25T15:44:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5444,
+      "importance": 0.5444,
+      "importance_score": 0.5444,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9925,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T15:44:38Z",
+      "latest_at": "2026-07-25T15:55:06.362000Z",
+      "primary_item": {
+        "id": "2aaf61fd26b52a84b495b2f33097ed48909b8afe",
+        "title": "Ask HN: 如果我们在Claude Code中对上下文进行压缩，会发生什么？",
+        "url": "https://news.ycombinator.com/item?id=49048571",
+        "source": "news.ycombinator.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_64934dbed4f8",
+      "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
+      "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+      "primary_url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "9aef86114c81d449d8897fcdd63d87f1fc4b0b22",
+          "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
+          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T14:41:06Z"
+        },
+        {
+          "id": "ce0e3db950f079daf8e9da4564174d5011676407",
+          "title": "人工智能引发的就业危机短期内恐怕不会到来",
+          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T13:14:51.753000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "www.theguardian.com"
+      ],
+      "items": [
+        {
+          "id": "9aef86114c81d449d8897fcdd63d87f1fc4b0b22",
+          "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
+          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T14:41:06Z"
+        },
+        {
+          "id": "ce0e3db950f079daf8e9da4564174d5011676407",
+          "title": "人工智能引发的就业危机短期内恐怕不会到来",
+          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T13:14:51.753000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5413,
+      "importance": 0.5413,
+      "importance_score": 0.5413,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.975,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T13:14:51.753000Z",
+      "latest_at": "2026-07-25T14:41:06Z",
+      "primary_item": {
+        "id": "9aef86114c81d449d8897fcdd63d87f1fc4b0b22",
+        "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
+        "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
       }
     },
     {
@@ -735,15 +972,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.541,
-      "importance": 0.541,
-      "importance_score": 0.541,
+      "score": 0.5377,
+      "importance": 0.5377,
+      "importance_score": 0.5377,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9735,
+        "recency": 0.9549,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -833,15 +1070,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.536,
-      "importance": 0.536,
-      "importance_score": 0.536,
+      "score": 0.5333,
+      "importance": 0.5333,
+      "importance_score": 0.5333,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8068,
+        "recency": 0.7915,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -931,15 +1168,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5337,
-      "importance": 0.5337,
-      "importance_score": 0.5337,
+      "score": 0.531,
+      "importance": 0.531,
+      "importance_score": 0.531,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7939,
+        "recency": 0.7788,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1009,15 +1246,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5274,
-      "importance": 0.5274,
-      "importance_score": 0.5274,
+      "score": 0.5244,
+      "importance": 0.5244,
+      "importance_score": 0.5244,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.898,
+        "recency": 0.8809,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1107,15 +1344,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5236,
-      "importance": 0.5236,
-      "importance_score": 0.5236,
+      "score": 0.5211,
+      "importance": 0.5211,
+      "importance_score": 0.5211,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7379,
+        "recency": 0.7238,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1186,15 +1423,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5231,
-      "importance": 0.5231,
-      "importance_score": 0.5231,
+      "score": 0.5201,
+      "importance": 0.5201,
+      "importance_score": 0.5201,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8739,
+        "recency": 0.8573,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1265,15 +1502,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5213,
-      "importance": 0.5213,
-      "importance_score": 0.5213,
+      "score": 0.5184,
+      "importance": 0.5184,
+      "importance_score": 0.5184,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8641,
+        "recency": 0.8477,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1344,15 +1581,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5176,
-      "importance": 0.5176,
-      "importance_score": 0.5176,
+      "score": 0.5148,
+      "importance": 0.5148,
+      "importance_score": 0.5148,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8436,
+        "recency": 0.8275,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1367,243 +1604,6 @@
         "url": "https://www.huxiu.com/article/4878074.html?f=rss",
         "source": "虎嗅 (Huxiu)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_eff75d4ec392",
-      "title": "OpenAI 将打造「贾维斯」式语音助手，未来有望登陆第三方智能眼镜",
-      "url": "https://www.ithome.com/0/981/445.htm",
-      "primary_url": "https://www.ithome.com/0/981/445.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "f13bc873de171d188d7e50ef313ffad88064bb48",
-          "title": "OpenAI 将打造「贾维斯」式语音助手，未来有望登陆第三方智能眼镜",
-          "url": "https://www.ithome.com/0/981/445.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "994ec55364a1cd588f7c4a6df1b16f7ecc8d1a69",
-          "title": "OpenAI 将打造“贾维斯”式语音助手，未来有望登陆第三方智能眼镜",
-          "url": "https://www.ithome.com/0/981/445.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T02:10:26Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "f13bc873de171d188d7e50ef313ffad88064bb48",
-          "title": "OpenAI 将打造「贾维斯」式语音助手，未来有望登陆第三方智能眼镜",
-          "url": "https://www.ithome.com/0/981/445.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "994ec55364a1cd588f7c4a6df1b16f7ecc8d1a69",
-          "title": "OpenAI 将打造“贾维斯”式语音助手，未来有望登陆第三方智能眼镜",
-          "url": "https://www.ithome.com/0/981/445.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T02:10:26Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5168,
-      "importance": 0.5168,
-      "importance_score": 0.5168,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8387,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T02:10:26Z",
-      "latest_at": "2026-07-25T02:55:39.011743Z",
-      "primary_item": {
-        "id": "f13bc873de171d188d7e50ef313ffad88064bb48",
-        "title": "OpenAI 将打造「贾维斯」式语音助手，未来有望登陆第三方智能眼镜",
-        "url": "https://www.ithome.com/0/981/445.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_e616440e259b",
-      "title": "Opus 5 目前在“人工智能分析排行榜”上高居榜首",
-      "url": "https://artificialanalysis.ai/models",
-      "primary_url": "https://artificialanalysis.ai/models",
-      "source": "artificialanalysis.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "78990e7317fc8e606d2991350d8f49291b5c0e5a",
-          "title": "Opus 5 目前在“人工智能分析排行榜”上高居榜首",
-          "url": "https://artificialanalysis.ai/models",
-          "source": "artificialanalysis.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T00:43:56.309000Z"
-        },
-        {
-          "id": "f20451c1356dfba53bf83bedcce072baff3eb01f",
-          "title": "Opus 5 目前在“人工智能分析排行榜”上高居榜首 / Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-          "url": "https://artificialanalysis.ai/models",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-24T19:45:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "artificialanalysis.ai"
-      ],
-      "items": [
-        {
-          "id": "78990e7317fc8e606d2991350d8f49291b5c0e5a",
-          "title": "Opus 5 目前在“人工智能分析排行榜”上高居榜首",
-          "url": "https://artificialanalysis.ai/models",
-          "source": "artificialanalysis.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T00:43:56.309000Z"
-        },
-        {
-          "id": "f20451c1356dfba53bf83bedcce072baff3eb01f",
-          "title": "Opus 5 目前在“人工智能分析排行榜”上高居榜首 / Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-          "url": "https://artificialanalysis.ai/models",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-24T19:45:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5121,
-      "importance": 0.5121,
-      "importance_score": 0.5121,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8125,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T19:45:10Z",
-      "latest_at": "2026-07-25T00:43:56.309000Z",
-      "primary_item": {
-        "id": "78990e7317fc8e606d2991350d8f49291b5c0e5a",
-        "title": "Opus 5 目前在“人工智能分析排行榜”上高居榜首",
-        "url": "https://artificialanalysis.ai/models",
-        "source": "artificialanalysis.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_bbb0789ef07d",
-      "title": "是警告性行动还是噱头——我们该对OpenAI遭黑客攻击一事有多担心？",
-      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-      "source": "www.bbc.co.uk",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1b64e19f9e8fe51f86837d22583e161467328660",
-          "title": "是警告性行动还是噱头——我们该对OpenAI遭黑客攻击一事有多担心？",
-          "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T23:39:48.013000Z"
-        },
-        {
-          "id": "e0708f69e05de4da0a4fc19e8eeddea00515ed7c",
-          "title": "是警告性行动还是噱头——我们该对OpenAI遭黑客攻击一事有多担心？ / Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-          "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T23:11:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "BBC News (世界新闻)",
-        "www.bbc.co.uk"
-      ],
-      "items": [
-        {
-          "id": "1b64e19f9e8fe51f86837d22583e161467328660",
-          "title": "是警告性行动还是噱头——我们该对OpenAI遭黑客攻击一事有多担心？",
-          "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T23:39:48.013000Z"
-        },
-        {
-          "id": "e0708f69e05de4da0a4fc19e8eeddea00515ed7c",
-          "title": "是警告性行动还是噱头——我们该对OpenAI遭黑客攻击一事有多担心？ / Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-          "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T23:11:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5098,
-      "importance": 0.5098,
-      "importance_score": 0.5098,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8001,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T23:11:13Z",
-      "latest_at": "2026-07-24T23:39:48.013000Z",
-      "primary_item": {
-        "id": "1b64e19f9e8fe51f86837d22583e161467328660",
-        "title": "是警告性行动还是噱头——我们该对OpenAI遭黑客攻击一事有多担心？",
-        "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-        "source": "www.bbc.co.uk",
-        "source_name": "Buzzing"
       }
     }
   ]
