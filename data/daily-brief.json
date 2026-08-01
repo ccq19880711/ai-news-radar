@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T22:29:54.123042Z",
+  "generated_at": "2026-08-01T23:32:35.288034Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -119,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8271,
-      "importance": 0.8271,
-      "importance_score": 0.8271,
+      "score": 0.8251,
+      "importance": 0.8251,
+      "importance_score": 0.8251,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7226,
+        "recency": 0.7118,
         "story_heat": 0.25
       },
       "category": "official",
@@ -201,15 +201,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7674,
-      "importance": 0.7674,
-      "importance_score": 0.7674,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8431,
+        "recency": 0.8305,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -263,15 +263,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7343,
-      "importance": 0.7343,
-      "importance_score": 0.7343,
+      "score": 0.7322,
+      "importance": 0.7322,
+      "importance_score": 0.7322,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.765,
+        "recency": 0.7536,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -323,15 +323,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7269,
-      "importance": 0.7269,
-      "importance_score": 0.7269,
+      "score": 0.7247,
+      "importance": 0.7247,
+      "importance_score": 0.7247,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.807,
+        "recency": 0.7949,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -455,15 +455,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6609,
-      "importance": 0.6609,
-      "importance_score": 0.6609,
+      "score": 0.6584,
+      "importance": 0.6584,
+      "importance_score": 0.6584,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4752,
         "source_tier": 0.54,
         "ai_relevance": 0.66,
-        "recency": 0.9308,
+        "recency": 0.9169,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -533,15 +533,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5962,
-      "importance": 0.5962,
-      "importance_score": 0.5962,
+      "score": 0.594,
+      "importance": 0.594,
+      "importance_score": 0.594,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.8289,
+        "recency": 0.8164,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -650,15 +650,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5852,
-      "importance": 0.5852,
-      "importance_score": 0.5852,
+      "score": 0.5827,
+      "importance": 0.5827,
+      "importance_score": 0.5827,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.941,
+        "recency": 0.927,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -748,15 +748,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5584,
-      "importance": 0.5584,
-      "importance_score": 0.5584,
+      "score": 0.5559,
+      "importance": 0.5559,
+      "importance_score": 0.5559,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.931,
+        "recency": 0.917,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -771,6 +771,84 @@
         "url": "https://news.ycombinator.com/item?id=49135257",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_e8cc710abd7b",
+      "title": "如果你提出正确的问题，人工智能的财务建议会出奇地好 / AI financial advice is surprisingly good if you ask the right questions",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "primary_url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "c3f29c8509745216f7b46dcf7cc7c70be1d41160",
+          "title": "如果你提出正确的问题，人工智能的财务建议会出奇地好 / AI financial advice is surprisingly good if you ask the right questions",
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T22:25:12Z"
+        },
+        {
+          "id": "d36bc76d016323efdbc569025c8342d8c062a49c",
+          "title": "麻省理工学院：人工智能财务建议出奇的好 / From MIT: AI financial advice is surprisingly good",
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T22:25:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "items": [
+        {
+          "id": "c3f29c8509745216f7b46dcf7cc7c70be1d41160",
+          "title": "如果你提出正确的问题，人工智能的财务建议会出奇地好 / AI financial advice is surprisingly good if you ask the right questions",
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T22:25:12Z"
+        },
+        {
+          "id": "d36bc76d016323efdbc569025c8342d8c062a49c",
+          "title": "麻省理工学院：人工智能财务建议出奇的好 / From MIT: AI financial advice is surprisingly good",
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T22:25:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5429,
+      "importance": 0.5429,
+      "importance_score": 0.5429,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9839,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T22:25:12Z",
+      "latest_at": "2026-08-01T22:25:12Z",
+      "primary_item": {
+        "id": "c3f29c8509745216f7b46dcf7cc7c70be1d41160",
+        "title": "如果你提出正确的问题，人工智能的财务建议会出奇地好 / AI financial advice is surprisingly good if you ask the right questions",
+        "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -846,15 +924,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5435,
-      "importance": 0.5435,
-      "importance_score": 0.5435,
+      "score": 0.5412,
+      "importance": 0.5412,
+      "importance_score": 0.5412,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8481,
+        "recency": 0.8354,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -925,15 +1003,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5425,
-      "importance": 0.5425,
-      "importance_score": 0.5425,
+      "score": 0.5399,
+      "importance": 0.5399,
+      "importance_score": 0.5399,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9817,
+        "recency": 0.967,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1004,15 +1082,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5418,
-      "importance": 0.5418,
-      "importance_score": 0.5418,
+      "score": 0.5392,
+      "importance": 0.5392,
+      "importance_score": 0.5392,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.978,
+        "recency": 0.9634,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1101,15 +1179,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5401,
-      "importance": 0.5401,
-      "importance_score": 0.5401,
+      "score": 0.5379,
+      "importance": 0.5379,
+      "importance_score": 0.5379,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8296,
+        "recency": 0.8172,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1124,84 +1202,6 @@
         "url": "https://www.ithome.com/0/984/557.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_a408ae343b81",
-      "title": "如今的谷歌新闻，不过就是《阿甘正传》里那艘捕虾船罢了 / Google News is just Forrest Gump's shrimp boat now",
-      "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-      "primary_url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "2b934a65975d6796053016dc655dd7f10dd371b1",
-          "title": "如今的谷歌新闻，不过就是《阿甘正传》里那艘捕虾船罢了 / Google News is just Forrest Gump's shrimp boat now",
-          "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T19:39:43Z"
-        },
-        {
-          "id": "c3528c96b05981a59f507f676f9fbe8e78f92945",
-          "title": "如今的谷歌新闻，不过就是《阿甘正传》里那艘捕虾船罢了 / Google has abandoned Google News?",
-          "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T19:39:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "2b934a65975d6796053016dc655dd7f10dd371b1",
-          "title": "如今的谷歌新闻，不过就是《阿甘正传》里那艘捕虾船罢了 / Google News is just Forrest Gump's shrimp boat now",
-          "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T19:39:43Z"
-        },
-        {
-          "id": "c3528c96b05981a59f507f676f9fbe8e78f92945",
-          "title": "如今的谷歌新闻，不过就是《阿甘正传》里那艘捕虾船罢了 / Google has abandoned Google News?",
-          "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T19:39:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5386,
-      "importance": 0.5386,
-      "importance_score": 0.5386,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9599,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T19:39:43Z",
-      "latest_at": "2026-08-01T19:39:43Z",
-      "primary_item": {
-        "id": "2b934a65975d6796053016dc655dd7f10dd371b1",
-        "title": "如今的谷歌新闻，不过就是《阿甘正传》里那艘捕虾船罢了 / Google News is just Forrest Gump's shrimp boat now",
-        "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1277,15 +1277,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5383,
-      "importance": 0.5383,
-      "importance_score": 0.5383,
+      "score": 0.5361,
+      "importance": 0.5361,
+      "importance_score": 0.5361,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8192,
+        "recency": 0.807,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1300,6 +1300,84 @@
         "url": "https://microsoft.github.io/flint-chart",
         "source": "microsoft.github.io",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_a408ae343b81",
+      "title": "如今的谷歌新闻，不过就是《阿甘正传》里那艘捕虾船罢了 / Google News is just Forrest Gump's shrimp boat now",
+      "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
+      "primary_url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "2b934a65975d6796053016dc655dd7f10dd371b1",
+          "title": "如今的谷歌新闻，不过就是《阿甘正传》里那艘捕虾船罢了 / Google News is just Forrest Gump's shrimp boat now",
+          "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T19:39:43Z"
+        },
+        {
+          "id": "c3528c96b05981a59f507f676f9fbe8e78f92945",
+          "title": "如今的谷歌新闻，不过就是《阿甘正传》里那艘捕虾船罢了 / Google has abandoned Google News?",
+          "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T19:39:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "2b934a65975d6796053016dc655dd7f10dd371b1",
+          "title": "如今的谷歌新闻，不过就是《阿甘正传》里那艘捕虾船罢了 / Google News is just Forrest Gump's shrimp boat now",
+          "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T19:39:43Z"
+        },
+        {
+          "id": "c3528c96b05981a59f507f676f9fbe8e78f92945",
+          "title": "如今的谷歌新闻，不过就是《阿甘正传》里那艘捕虾船罢了 / Google has abandoned Google News?",
+          "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T19:39:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.536,
+      "importance": 0.536,
+      "importance_score": 0.536,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9455,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T19:39:43Z",
+      "latest_at": "2026-08-01T19:39:43Z",
+      "primary_item": {
+        "id": "2b934a65975d6796053016dc655dd7f10dd371b1",
+        "title": "如今的谷歌新闻，不过就是《阿甘正传》里那艘捕虾船罢了 / Google News is just Forrest Gump's shrimp boat now",
+        "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1356,15 +1434,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5251,
-      "importance": 0.5251,
-      "importance_score": 0.5251,
+      "score": 0.5227,
+      "importance": 0.5227,
+      "importance_score": 0.5227,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8848,
+        "recency": 0.8716,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1435,15 +1513,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5245,
-      "importance": 0.5245,
-      "importance_score": 0.5245,
+      "score": 0.5221,
+      "importance": 0.5221,
+      "importance_score": 0.5221,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8814,
+        "recency": 0.8682,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1514,15 +1592,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.521,
-      "importance": 0.521,
-      "importance_score": 0.521,
+      "score": 0.5186,
+      "importance": 0.5186,
+      "importance_score": 0.5186,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.862,
+        "recency": 0.8491,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1593,15 +1671,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5185,
-      "importance": 0.5185,
-      "importance_score": 0.5185,
+      "score": 0.5162,
+      "importance": 0.5162,
+      "importance_score": 0.5162,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8481,
+        "recency": 0.8354,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1616,85 +1694,6 @@
         "url": "https://berthub.eu/articles/posts/ai-for-decision-makers",
         "source": "berthub.eu",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_dfac76250606",
-      "title": "扫描 7.6 PB 的 HuggingFace 训练数据寻找秘密 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-      "url": "https://news.ycombinator.com/item?id=49136955",
-      "primary_url": "https://news.ycombinator.com/item?id=49136955",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "181cfb741ca46285ffcfbc5cff311c264bc98461",
-          "title": "扫描 7.6 PB 的 HuggingFace 训练数据寻找秘密 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-          "url": "https://news.ycombinator.com/item?id=49136955",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T21:27:42.994000Z"
-        },
-        {
-          "id": "1af37655e7e4bac7d5d6d13fea08039000871601",
-          "title": "扫描 7.6 PB 的 HuggingFace 训练数据寻找秘密 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-          "url": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-01T18:21:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "181cfb741ca46285ffcfbc5cff311c264bc98461",
-          "title": "扫描 7.6 PB 的 HuggingFace 训练数据寻找秘密 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-          "url": "https://news.ycombinator.com/item?id=49136955",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T21:27:42.994000Z"
-        },
-        {
-          "id": "1af37655e7e4bac7d5d6d13fea08039000871601",
-          "title": "扫描 7.6 PB 的 HuggingFace 训练数据寻找秘密 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-          "url": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-01T18:21:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5431,
-      "importance": 0.5431,
-      "importance_score": 0.5431,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9851,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T18:21:41Z",
-      "latest_at": "2026-08-01T21:27:42.994000Z",
-      "primary_item": {
-        "id": "181cfb741ca46285ffcfbc5cff311c264bc98461",
-        "title": "扫描 7.6 PB 的 HuggingFace 训练数据寻找秘密 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-        "url": "https://news.ycombinator.com/item?id=49136955",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     }
   ]
