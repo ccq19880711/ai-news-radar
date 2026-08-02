@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T17:03:50.954395Z",
+  "generated_at": "2026-08-02T18:30:48.733340Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.761,
-      "importance": 0.761,
-      "importance_score": 0.761,
+      "score": 0.7576,
+      "importance": 0.7576,
+      "importance_score": 0.7576,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9134,
+        "recency": 0.8945,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -161,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7419,
-      "importance": 0.7419,
-      "importance_score": 0.7419,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8573,
+        "recency": 0.8395,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -195,6 +195,24 @@
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "7f3d3bcc0b2b7e99fd261837dbe974aacc162f5b",
+          "title": "Codex Plus用户不必急于升级昂贵的Pro套餐。伴随Luna大幅降价80%，一套高低搭配的模型协作方案或许会帮助到你：Sol负责架构规划、需求研判等高价值决策，Luna承担代码修改、补充测试等标准化执行工作。文中附带现成提示词、子代理配置方式与任务容错策略。借助这套分工模式，用20美元档位的订阅搭建AI工作小队，可以大大压缩token消耗，拉高单人开发效率。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-02",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-02T18:30:48.733340Z"
+        },
+        {
+          "id": "f77caadce8de147af2c8ba965cb2778e93d413a0",
+          "title": "做AI视频最怕两件事：别人的案例看起来很炸，自己一上手就角色混乱、镜头断掉、改一处还得重来；再加上积分贵，试错几次就肉疼。作者的团队深耕AI短剧创作，这次也拿即梦Seedance 2.5做了 10 个实测案例，可以帮你判断Seedance 2.5 值不值得用。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-02",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-02T18:30:48.733340Z"
+        },
+        {
           "id": "bfe7880a9b408cd372e730fe4301e81172c5b164",
           "title": "Anthropic、OpenAI 和 DeepSeek 正在向同一个想法靠拢：将系统提示词用作奖励函数。下面会从 RLHF 一路讲到 RULER，拆解强化学习在智能体上的演进，并保留对应代码。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -220,42 +238,32 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-08-02T17:03:50.954395Z"
-        },
-        {
-          "id": "c06e1536ca165c819ac55c05b2693fb3441cb121",
-          "title": "作者对Codex Micro，这个vibecoding 键盘做了配置体验和拆机。它没有本地AI、也没有内置麦克风，主要负责输入、灯光、通信和供电；同时也遇到了 USB 卡顿、HID 读取中断等稳定性问题。一起来看看230美元到底买到的是什么。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-01",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-01T17:32:09.332650Z"
-        },
-        {
-          "id": "961db9ce643831a109b7d562d2efbeb5a4d5134a",
-          "title": "大多数人用 Codex 的方式，是开一个会话、交代一件事、等它做完。这种用法只动用了它很小一部分能力。这篇文章把几个关键概念讲得很清楚：Task、Subagent、Worktree、SSH、Handoff、Automation。已经会用Codex、想处理复杂项目的人不容错过！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-01",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-01T17:32:09.332650Z"
-        },
-        {
-          "id": "ef8a92139ed81c0d03704b1795eac9596de0060e",
-          "title": "如果你已经会让 AI 帮自己写代码、查资料，但一到团队协作就变乱：谁的记忆算谁的？文件和权限怎么隔离？AI 能不能在Slack里一起推进项目？这篇就很好理解。YC开源了他们内部使用的多Agent协作框架：QM。它让每个员工、每个频道、每个项目都有独立的记忆、文件、密钥权限、定时任务和沙箱环境；还能接入 Pi、OpenCode、Codex、Claude Code 等不同Agent框架，避免被单一模型或工具绑定。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-01",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-01T17:32:09.332650Z"
         }
       ],
-      "source_count": 6,
+      "source_count": 5,
       "source_names": [
-        "社区更新 · 2026-08-01",
         "社区更新 · 2026-08-02"
       ],
       "items": [
         {
+          "id": "7f3d3bcc0b2b7e99fd261837dbe974aacc162f5b",
+          "title": "Codex Plus用户不必急于升级昂贵的Pro套餐。伴随Luna大幅降价80%，一套高低搭配的模型协作方案或许会帮助到你：Sol负责架构规划、需求研判等高价值决策，Luna承担代码修改、补充测试等标准化执行工作。文中附带现成提示词、子代理配置方式与任务容错策略。借助这套分工模式，用20美元档位的订阅搭建AI工作小队，可以大大压缩token消耗，拉高单人开发效率。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-02",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-02T18:30:48.733340Z"
+        },
+        {
+          "id": "f77caadce8de147af2c8ba965cb2778e93d413a0",
+          "title": "做AI视频最怕两件事：别人的案例看起来很炸，自己一上手就角色混乱、镜头断掉、改一处还得重来；再加上积分贵，试错几次就肉疼。作者的团队深耕AI短剧创作，这次也拿即梦Seedance 2.5做了 10 个实测案例，可以帮你判断Seedance 2.5 值不值得用。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-02",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-02T18:30:48.733340Z"
+        },
+        {
           "id": "bfe7880a9b408cd372e730fe4301e81172c5b164",
           "title": "Anthropic、OpenAI 和 DeepSeek 正在向同一个想法靠拢：将系统提示词用作奖励函数。下面会从 RLHF 一路讲到 RULER，拆解强化学习在智能体上的演进，并保留对应代码。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -281,54 +289,27 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-08-02T17:03:50.954395Z"
-        },
-        {
-          "id": "c06e1536ca165c819ac55c05b2693fb3441cb121",
-          "title": "作者对Codex Micro，这个vibecoding 键盘做了配置体验和拆机。它没有本地AI、也没有内置麦克风，主要负责输入、灯光、通信和供电；同时也遇到了 USB 卡顿、HID 读取中断等稳定性问题。一起来看看230美元到底买到的是什么。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-01",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-01T17:32:09.332650Z"
-        },
-        {
-          "id": "961db9ce643831a109b7d562d2efbeb5a4d5134a",
-          "title": "大多数人用 Codex 的方式，是开一个会话、交代一件事、等它做完。这种用法只动用了它很小一部分能力。这篇文章把几个关键概念讲得很清楚：Task、Subagent、Worktree、SSH、Handoff、Automation。已经会用Codex、想处理复杂项目的人不容错过！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-01",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-01T17:32:09.332650Z"
-        },
-        {
-          "id": "ef8a92139ed81c0d03704b1795eac9596de0060e",
-          "title": "如果你已经会让 AI 帮自己写代码、查资料，但一到团队协作就变乱：谁的记忆算谁的？文件和权限怎么隔离？AI 能不能在Slack里一起推进项目？这篇就很好理解。YC开源了他们内部使用的多Agent协作框架：QM。它让每个员工、每个频道、每个项目都有独立的记忆、文件、密钥权限、定时任务和沙箱环境；还能接入 Pi、OpenCode、Codex、Claude Code 等不同Agent框架，避免被单一模型或工具绑定。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-01",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-01T17:32:09.332650Z"
         }
       ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.6817,
-      "importance": 0.6817,
-      "importance_score": 0.6817,
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.678,
+      "importance": 0.678,
+      "importance_score": 0.678,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.54,
         "ai_relevance": 0.68,
-        "recency": 1.0,
+        "recency": 0.9793,
         "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-01T17:32:09.332650Z",
-      "latest_at": "2026-08-02T17:03:50.954395Z",
+      "earliest_at": "2026-08-02T17:03:50.954395Z",
+      "latest_at": "2026-08-02T18:30:48.733340Z",
       "primary_item": {
         "id": "bfe7880a9b408cd372e730fe4301e81172c5b164",
         "title": "Anthropic、OpenAI 和 DeepSeek 正在向同一个想法靠拢：将系统提示词用作奖励函数。下面会从 RLHF 一路讲到 RULER，拆解强化学习在智能体上的演进，并保留对应代码。",
@@ -391,15 +372,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5634,
-      "importance": 0.5634,
-      "importance_score": 0.5634,
+      "score": 0.5603,
+      "importance": 0.5603,
+      "importance_score": 0.5603,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.8314,
+        "recency": 0.8142,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -508,15 +489,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5579,
-      "importance": 0.5579,
-      "importance_score": 0.5579,
+      "score": 0.5549,
+      "importance": 0.5549,
+      "importance_score": 0.5549,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7894,
+        "recency": 0.7731,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -587,15 +568,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5421,
+      "importance": 0.5421,
+      "importance_score": 0.5421,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9793,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -610,6 +591,85 @@
         "url": "https://www.huxiu.com/article/4880099.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_08d31deaaabe",
+      "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
+      "url": "https://sprocket-demo.spikonado.com",
+      "primary_url": "https://sprocket-demo.spikonado.com",
+      "source": "sprocket-demo.spikonado.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "59dada4b0290f134c6813aa3084093f5f0b4f3b5",
+          "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
+          "url": "https://sprocket-demo.spikonado.com",
+          "source": "sprocket-demo.spikonado.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T16:40:49.061000Z"
+        },
+        {
+          "id": "fbc2fc17e6bdb4748a80a9bf092ef9610cd736f7",
+          "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理 / Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
+          "url": "https://sprocket-demo.spikonado.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-02T16:26:19Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "sprocket-demo.spikonado.com"
+      ],
+      "items": [
+        {
+          "id": "59dada4b0290f134c6813aa3084093f5f0b4f3b5",
+          "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
+          "url": "https://sprocket-demo.spikonado.com",
+          "source": "sprocket-demo.spikonado.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T16:40:49.061000Z"
+        },
+        {
+          "id": "fbc2fc17e6bdb4748a80a9bf092ef9610cd736f7",
+          "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理 / Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
+          "url": "https://sprocket-demo.spikonado.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-02T16:26:19Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5411,
+      "importance": 0.5411,
+      "importance_score": 0.5411,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9739,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T16:26:19Z",
+      "latest_at": "2026-08-02T16:40:49.061000Z",
+      "primary_item": {
+        "id": "59dada4b0290f134c6813aa3084093f5f0b4f3b5",
+        "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
+        "url": "https://sprocket-demo.spikonado.com",
+        "source": "sprocket-demo.spikonado.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -685,15 +745,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.544,
-      "importance": 0.544,
-      "importance_score": 0.544,
+      "score": 0.5408,
+      "importance": 0.5408,
+      "importance_score": 0.5408,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8508,
+        "recency": 0.8332,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -712,7 +772,7 @@
     },
     {
       "story_id": "story_0405ae091a4a",
-      "title": "关于“技术”的咆哮 (2005) / A Rant About “Technology” (2005)",
+      "title": "关于“技术”的一番抨击（2005） / A Rant About “Technology” (2005)",
       "url": "https://www.ursulakleguin.com/a-rant-about-technology",
       "primary_url": "https://www.ursulakleguin.com/a-rant-about-technology",
       "source": "Hacker News · 24h最热",
@@ -720,7 +780,7 @@
       "sources": [
         {
           "id": "12c4183df13c7e4ba2eb1d793d54ed592afb3749",
-          "title": "关于“技术”的咆哮 (2005) / A Rant About “Technology” (2005)",
+          "title": "关于“技术”的一番抨击（2005） / A Rant About “Technology” (2005)",
           "url": "https://www.ursulakleguin.com/a-rant-about-technology",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -729,7 +789,7 @@
         },
         {
           "id": "21cb4e27fc2051c6680e4ac4dcf624ea03a9a258",
-          "title": "Ursula K. Le Guin：关于“技术”的咆哮 (2005) / Ursula K. Le Guin: A Rant About \"Technology\" (2005)",
+          "title": "关于“技术”的一番抨击（2005） / Ursula K. Le Guin: A Rant About \"Technology\" (2005)",
           "url": "https://www.ursulakleguin.com/a-rant-about-technology",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -744,7 +804,7 @@
       "items": [
         {
           "id": "12c4183df13c7e4ba2eb1d793d54ed592afb3749",
-          "title": "关于“技术”的咆哮 (2005) / A Rant About “Technology” (2005)",
+          "title": "关于“技术”的一番抨击（2005） / A Rant About “Technology” (2005)",
           "url": "https://www.ursulakleguin.com/a-rant-about-technology",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -753,7 +813,7 @@
         },
         {
           "id": "21cb4e27fc2051c6680e4ac4dcf624ea03a9a258",
-          "title": "Ursula K. Le Guin：关于“技术”的咆哮 (2005) / Ursula K. Le Guin: A Rant About \"Technology\" (2005)",
+          "title": "关于“技术”的一番抨击（2005） / Ursula K. Le Guin: A Rant About \"Technology\" (2005)",
           "url": "https://www.ursulakleguin.com/a-rant-about-technology",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -763,15 +823,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5401,
-      "importance": 0.5401,
-      "importance_score": 0.5401,
+      "score": 0.5365,
+      "importance": 0.5365,
+      "importance_score": 0.5365,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9686,
+        "recency": 0.9485,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -782,7 +842,7 @@
       "latest_at": "2026-08-02T14:51:18Z",
       "primary_item": {
         "id": "12c4183df13c7e4ba2eb1d793d54ed592afb3749",
-        "title": "关于“技术”的咆哮 (2005) / A Rant About “Technology” (2005)",
+        "title": "关于“技术”的一番抨击（2005） / A Rant About “Technology” (2005)",
         "url": "https://www.ursulakleguin.com/a-rant-about-technology",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
@@ -842,15 +902,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5394,
-      "importance": 0.5394,
-      "importance_score": 0.5394,
+      "score": 0.5358,
+      "importance": 0.5358,
+      "importance_score": 0.5358,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9643,
+        "recency": 0.9443,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -921,15 +981,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5333,
-      "importance": 0.5333,
-      "importance_score": 0.5333,
+      "score": 0.5298,
+      "importance": 0.5298,
+      "importance_score": 0.5298,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9307,
+        "recency": 0.9114,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1000,15 +1060,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5303,
-      "importance": 0.5303,
-      "importance_score": 0.5303,
+      "score": 0.5269,
+      "importance": 0.5269,
+      "importance_score": 0.5269,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9137,
+        "recency": 0.8947,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1079,15 +1139,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5223,
-      "importance": 0.5223,
-      "importance_score": 0.5223,
+      "score": 0.519,
+      "importance": 0.519,
+      "importance_score": 0.519,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8692,
+        "recency": 0.8512,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1158,15 +1218,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5421,
+      "importance": 0.5421,
+      "importance_score": 0.5421,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9793,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1237,15 +1297,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5328,
-      "importance": 0.5328,
-      "importance_score": 0.5328,
+      "score": 0.5294,
+      "importance": 0.5294,
+      "importance_score": 0.5294,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.928,
+        "recency": 0.9088,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1316,15 +1376,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.501,
-      "importance": 0.501,
-      "importance_score": 0.501,
+      "score": 0.4982,
+      "importance": 0.4982,
+      "importance_score": 0.4982,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7509,
+        "recency": 0.7353,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1395,15 +1455,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5247,
-      "importance": 0.5247,
-      "importance_score": 0.5247,
+      "score": 0.5214,
+      "importance": 0.5214,
+      "importance_score": 0.5214,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8826,
+        "recency": 0.8643,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1473,15 +1533,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5422,
-      "importance": 0.5422,
-      "importance_score": 0.5422,
+      "score": 0.5385,
+      "importance": 0.5385,
+      "importance_score": 0.5385,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9798,
+        "recency": 0.9595,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1516,18 +1576,18 @@
           "published_at": "2026-08-02T11:53:28.116000Z"
         },
         {
-          "id": "892ece451ca10d1933e1fc5390c4806fb68d4231",
+          "id": "eaedc84ced3416ff0153595fde163d0e04667d7c",
           "title": "生成式人工智能淹没并稀释了图书市场 / Generative AI floods and dilutes the market for books",
           "url": "https://arxiv.org/abs/2607.20349",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-02T11:06:07Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1541,26 +1601,26 @@
           "published_at": "2026-08-02T11:53:28.116000Z"
         },
         {
-          "id": "892ece451ca10d1933e1fc5390c4806fb68d4231",
+          "id": "eaedc84ced3416ff0153595fde163d0e04667d7c",
           "title": "生成式人工智能淹没并稀释了图书市场 / Generative AI floods and dilutes the market for books",
           "url": "https://arxiv.org/abs/2607.20349",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-02T11:06:07Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5328,
-      "importance": 0.5328,
-      "importance_score": 0.5328,
+      "score": 0.5294,
+      "importance": 0.5294,
+      "importance_score": 0.5294,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.928,
+        "recency": 0.9088,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1575,84 +1635,6 @@
         "url": "https://news.ycombinator.com/item?id=49143289",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_a408ae343b81",
-      "title": "如今的谷歌新闻，不过就是《阿甘正传》里那艘捕虾船罢了 / Google News is just Forrest Gump's shrimp boat now",
-      "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-      "primary_url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "2b934a65975d6796053016dc655dd7f10dd371b1",
-          "title": "如今的谷歌新闻，不过就是《阿甘正传》里那艘捕虾船罢了 / Google News is just Forrest Gump's shrimp boat now",
-          "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T19:39:43Z"
-        },
-        {
-          "id": "c3528c96b05981a59f507f676f9fbe8e78f92945",
-          "title": "如今的谷歌新闻，不过就是《阿甘正传》里那艘捕虾船罢了 / Google has abandoned Google News?",
-          "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T19:39:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "2b934a65975d6796053016dc655dd7f10dd371b1",
-          "title": "如今的谷歌新闻，不过就是《阿甘正传》里那艘捕虾船罢了 / Google News is just Forrest Gump's shrimp boat now",
-          "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T19:39:43Z"
-        },
-        {
-          "id": "c3528c96b05981a59f507f676f9fbe8e78f92945",
-          "title": "如今的谷歌新闻，不过就是《阿甘正传》里那艘捕虾船罢了 / Google has abandoned Google News?",
-          "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T19:39:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4979,
-      "importance": 0.4979,
-      "importance_score": 0.4979,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7341,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T19:39:43Z",
-      "latest_at": "2026-08-01T19:39:43Z",
-      "primary_item": {
-        "id": "2b934a65975d6796053016dc655dd7f10dd371b1",
-        "title": "如今的谷歌新闻，不过就是《阿甘正传》里那艘捕虾船罢了 / Google News is just Forrest Gump's shrimp boat now",
-        "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     }
   ]
