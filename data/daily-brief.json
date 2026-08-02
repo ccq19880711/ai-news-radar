@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T20:11:44.950070Z",
+  "generated_at": "2026-08-02T21:26:00.265077Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
+      "score": 0.751,
+      "importance": 0.751,
+      "importance_score": 0.751,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.873,
+        "recency": 0.8575,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -161,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7351,
-      "importance": 0.7351,
-      "importance_score": 0.7351,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8194,
+        "recency": 0.8048,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -293,15 +293,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6737,
-      "importance": 0.6737,
-      "importance_score": 0.6737,
+      "score": 0.6707,
+      "importance": 0.6707,
+      "importance_score": 0.6707,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.54,
         "ai_relevance": 0.68,
-        "recency": 0.9558,
+        "recency": 0.9389,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -391,15 +391,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5686,
-      "importance": 0.5686,
-      "importance_score": 0.5686,
+      "score": 0.5655,
+      "importance": 0.5655,
+      "importance_score": 0.5655,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9878,
+        "recency": 0.9703,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -470,15 +470,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5568,
-      "importance": 0.5568,
-      "importance_score": 0.5568,
+      "score": 0.5542,
+      "importance": 0.5542,
+      "importance_score": 0.5542,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.7947,
+        "recency": 0.7806,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -587,15 +587,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5516,
-      "importance": 0.5516,
-      "importance_score": 0.5516,
+      "score": 0.5492,
+      "importance": 0.5492,
+      "importance_score": 0.5492,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7545,
+        "recency": 0.7411,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -610,6 +610,85 @@
         "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
         "source": "mitsloan.mit.edu",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_caf37ae6194c",
+      "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+      "url": "https://news.ycombinator.com/item?id=49148159",
+      "primary_url": "https://news.ycombinator.com/item?id=49148159",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "88dc85283bb17267354ebd5702c07e1fc7709030",
+          "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+          "url": "https://news.ycombinator.com/item?id=49148159",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T21:26:35.878000Z"
+        },
+        {
+          "id": "c99078445d20a0c205cf63fe673cac175a57b94e",
+          "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+          "url": "https://seanhelvey.com/tools-and-their-tools",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T20:48:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "88dc85283bb17267354ebd5702c07e1fc7709030",
+          "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+          "url": "https://news.ycombinator.com/item?id=49148159",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T21:26:35.878000Z"
+        },
+        {
+          "id": "c99078445d20a0c205cf63fe673cac175a57b94e",
+          "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+          "url": "https://seanhelvey.com/tools-and-their-tools",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T20:48:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T20:48:28Z",
+      "latest_at": "2026-08-02T21:26:35.878000Z",
+      "primary_item": {
+        "id": "88dc85283bb17267354ebd5702c07e1fc7709030",
+        "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+        "url": "https://news.ycombinator.com/item?id=49148159",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -666,15 +745,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5426,
+      "importance": 0.5426,
+      "importance_score": 0.5426,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9823,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -692,101 +771,81 @@
       }
     },
     {
-      "story_id": "story_aebc4b890a8b",
-      "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-      "url": "https://news.ycombinator.com/item?id=49140340",
-      "primary_url": "https://news.ycombinator.com/item?id=49140340",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_ec3fe4d21af5",
+      "title": "SwiftUI 7年后的现状 / SwiftUI After 7 Years",
+      "url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity",
+      "primary_url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "206af265b950be5f12e82285bf43bfc57041e321",
-          "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-          "url": "https://news.ycombinator.com/item?id=49140340",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T05:52:42.505000Z"
-        },
-        {
-          "id": "94b722cdb7dc5fd8479e73dbee0e694962e45b97",
-          "title": "Show HN: CostPerPrompt – 实时 AI API 定价及实际工作负载成本计算器",
-          "url": "https://costperprompt.com",
-          "source": "costperprompt.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-02T02:01:09.958000Z"
-        },
-        {
-          "id": "ea352b51ccf016520ecfc34b60e184a9ca79edde",
-          "title": "Show HN: CostPerPrompt – 实时 AI API 定价及实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-          "url": "https://costperprompt.com",
+          "id": "13a1c0f2f57092c25e78ec9a51207001ca0f9b77",
+          "title": "SwiftUI 7年后的现状 / SwiftUI After 7 Years",
+          "url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-02T01:56:44Z"
+          "published_at": "2026-08-02T18:59:05Z"
+        },
+        {
+          "id": "31490b8c1a6b8418b50295c9fc6fb0161f2b0551",
+          "title": "SwiftUI 7年后的现状 / SwiftUI After 7 Years: A Story of Mediocrity",
+          "url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-02T18:59:05Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "costperprompt.com",
-        "hackernews"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "206af265b950be5f12e82285bf43bfc57041e321",
-          "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-          "url": "https://news.ycombinator.com/item?id=49140340",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T05:52:42.505000Z"
-        },
-        {
-          "id": "94b722cdb7dc5fd8479e73dbee0e694962e45b97",
-          "title": "Show HN: CostPerPrompt – 实时 AI API 定价及实际工作负载成本计算器",
-          "url": "https://costperprompt.com",
-          "source": "costperprompt.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-02T02:01:09.958000Z"
-        },
-        {
-          "id": "ea352b51ccf016520ecfc34b60e184a9ca79edde",
-          "title": "Show HN: CostPerPrompt – 实时 AI API 定价及实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-          "url": "https://costperprompt.com",
+          "id": "13a1c0f2f57092c25e78ec9a51207001ca0f9b77",
+          "title": "SwiftUI 7年后的现状 / SwiftUI After 7 Years",
+          "url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-02T01:56:44Z"
+          "published_at": "2026-08-02T18:59:05Z"
+        },
+        {
+          "id": "31490b8c1a6b8418b50295c9fc6fb0161f2b0551",
+          "title": "SwiftUI 7年后的现状 / SwiftUI After 7 Years: A Story of Mediocrity",
+          "url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-02T18:59:05Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5372,
-      "importance": 0.5372,
-      "importance_score": 0.5372,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5395,
+      "importance": 0.5395,
+      "importance_score": 0.5395,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8132,
-        "story_heat": 0.5
+        "recency": 0.9653,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-02T01:56:44Z",
-      "latest_at": "2026-08-02T05:52:42.505000Z",
+      "earliest_at": "2026-08-02T18:59:05Z",
+      "latest_at": "2026-08-02T18:59:05Z",
       "primary_item": {
-        "id": "206af265b950be5f12e82285bf43bfc57041e321",
-        "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-        "url": "https://news.ycombinator.com/item?id=49140340",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "13a1c0f2f57092c25e78ec9a51207001ca0f9b77",
+        "title": "SwiftUI 7年后的现状 / SwiftUI After 7 Years",
+        "url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -843,15 +902,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5369,
-      "importance": 0.5369,
-      "importance_score": 0.5369,
+      "score": 0.5339,
+      "importance": 0.5339,
+      "importance_score": 0.5339,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9505,
+        "recency": 0.9337,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -866,84 +925,6 @@
         "url": "https://sprocket-demo.spikonado.com",
         "source": "sprocket-demo.spikonado.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_0405ae091a4a",
-      "title": "关于“技术”的一番抨击（2005） / A Rant About “Technology” (2005)",
-      "url": "https://www.ursulakleguin.com/a-rant-about-technology",
-      "primary_url": "https://www.ursulakleguin.com/a-rant-about-technology",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "12c4183df13c7e4ba2eb1d793d54ed592afb3749",
-          "title": "关于“技术”的一番抨击（2005） / A Rant About “Technology” (2005)",
-          "url": "https://www.ursulakleguin.com/a-rant-about-technology",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T14:51:18Z"
-        },
-        {
-          "id": "21cb4e27fc2051c6680e4ac4dcf624ea03a9a258",
-          "title": "关于“技术”的一番抨击（2005） / Ursula K. Le Guin: A Rant About \"Technology\" (2005)",
-          "url": "https://www.ursulakleguin.com/a-rant-about-technology",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T14:51:18Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "12c4183df13c7e4ba2eb1d793d54ed592afb3749",
-          "title": "关于“技术”的一番抨击（2005） / A Rant About “Technology” (2005)",
-          "url": "https://www.ursulakleguin.com/a-rant-about-technology",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T14:51:18Z"
-        },
-        {
-          "id": "21cb4e27fc2051c6680e4ac4dcf624ea03a9a258",
-          "title": "关于“技术”的一番抨击（2005） / Ursula K. Le Guin: A Rant About \"Technology\" (2005)",
-          "url": "https://www.ursulakleguin.com/a-rant-about-technology",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T14:51:18Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5324,
-      "importance": 0.5324,
-      "importance_score": 0.5324,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9258,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-02T14:51:18Z",
-      "latest_at": "2026-08-02T14:51:18Z",
-      "primary_item": {
-        "id": "12c4183df13c7e4ba2eb1d793d54ed592afb3749",
-        "title": "关于“技术”的一番抨击（2005） / A Rant About “Technology” (2005)",
-        "url": "https://www.ursulakleguin.com/a-rant-about-technology",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1000,15 +981,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5317,
-      "importance": 0.5317,
-      "importance_score": 0.5317,
+      "score": 0.5288,
+      "importance": 0.5288,
+      "importance_score": 0.5288,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9217,
+        "recency": 0.9053,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1079,15 +1060,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5259,
-      "importance": 0.5259,
-      "importance_score": 0.5259,
+      "score": 0.5231,
+      "importance": 0.5231,
+      "importance_score": 0.5231,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8895,
+        "recency": 0.8738,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1158,15 +1139,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
+      "score": 0.5202,
+      "importance": 0.5202,
+      "importance_score": 0.5202,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8733,
+        "recency": 0.8578,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1181,6 +1162,85 @@
         "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
         "source": "ankursethi.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_87444f9634f8",
+      "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+      "url": "https://news.ycombinator.com/item?id=49147622",
+      "primary_url": "https://news.ycombinator.com/item?id=49147622",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
+          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "url": "https://news.ycombinator.com/item?id=49147622",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T21:26:35.878000Z"
+        },
+        {
+          "id": "f3fb9f6175bfd55e7d16b6addb41e2722c44d99e",
+          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "url": "https://frogs.vaguespac.es",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T19:42:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
+          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "url": "https://news.ycombinator.com/item?id=49147622",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T21:26:35.878000Z"
+        },
+        {
+          "id": "f3fb9f6175bfd55e7d16b6addb41e2722c44d99e",
+          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "url": "https://frogs.vaguespac.es",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T19:42:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T19:42:08Z",
+      "latest_at": "2026-08-02T21:26:35.878000Z",
+      "primary_item": {
+        "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
+        "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+        "url": "https://news.ycombinator.com/item?id=49147622",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1237,15 +1297,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5153,
-      "importance": 0.5153,
-      "importance_score": 0.5153,
+      "score": 0.5127,
+      "importance": 0.5127,
+      "importance_score": 0.5127,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8307,
+        "recency": 0.816,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1316,15 +1376,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5378,
-      "importance": 0.5378,
-      "importance_score": 0.5378,
+      "score": 0.5348,
+      "importance": 0.5348,
+      "importance_score": 0.5348,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9558,
+        "recency": 0.9389,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1342,161 +1402,81 @@
       }
     },
     {
-      "story_id": "story_53418fe0d54b",
-      "title": "生成式人工智能淹没并稀释了图书市场 / Generative AI floods and dilutes the market for books",
-      "url": "https://news.ycombinator.com/item?id=49143289",
-      "primary_url": "https://news.ycombinator.com/item?id=49143289",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_0405ae091a4a",
+      "title": "关于“技术”的一番抨击（2005） / A Rant About “Technology” (2005)",
+      "url": "https://www.ursulakleguin.com/a-rant-about-technology",
+      "primary_url": "https://www.ursulakleguin.com/a-rant-about-technology",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "452a977b7b5287ba3e8c4c762e386777557aec18",
-          "title": "生成式人工智能淹没并稀释了图书市场 / Generative AI floods and dilutes the market for books",
-          "url": "https://news.ycombinator.com/item?id=49143289",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T11:53:28.116000Z"
-        },
-        {
-          "id": "eaedc84ced3416ff0153595fde163d0e04667d7c",
-          "title": "生成式人工智能淹没并稀释了图书市场 / Generative AI floods and dilutes the market for books",
-          "url": "https://arxiv.org/abs/2607.20349",
+          "id": "12c4183df13c7e4ba2eb1d793d54ed592afb3749",
+          "title": "关于“技术”的一番抨击（2005） / A Rant About “Technology” (2005)",
+          "url": "https://www.ursulakleguin.com/a-rant-about-technology",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-02T11:06:07Z"
+          "published_at": "2026-08-02T14:51:18Z"
+        },
+        {
+          "id": "21cb4e27fc2051c6680e4ac4dcf624ea03a9a258",
+          "title": "关于“技术”的一番抨击（2005） / Ursula K. Le Guin: A Rant About \"Technology\" (2005)",
+          "url": "https://www.ursulakleguin.com/a-rant-about-technology",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-02T14:51:18Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "452a977b7b5287ba3e8c4c762e386777557aec18",
-          "title": "生成式人工智能淹没并稀释了图书市场 / Generative AI floods and dilutes the market for books",
-          "url": "https://news.ycombinator.com/item?id=49143289",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T11:53:28.116000Z"
-        },
-        {
-          "id": "eaedc84ced3416ff0153595fde163d0e04667d7c",
-          "title": "生成式人工智能淹没并稀释了图书市场 / Generative AI floods and dilutes the market for books",
-          "url": "https://arxiv.org/abs/2607.20349",
+          "id": "12c4183df13c7e4ba2eb1d793d54ed592afb3749",
+          "title": "关于“技术”的一番抨击（2005） / A Rant About “Technology” (2005)",
+          "url": "https://www.ursulakleguin.com/a-rant-about-technology",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-02T11:06:07Z"
+          "published_at": "2026-08-02T14:51:18Z"
+        },
+        {
+          "id": "21cb4e27fc2051c6680e4ac4dcf624ea03a9a258",
+          "title": "关于“技术”的一番抨击（2005） / Ursula K. Le Guin: A Rant About \"Technology\" (2005)",
+          "url": "https://www.ursulakleguin.com/a-rant-about-technology",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-02T14:51:18Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5255,
-      "importance": 0.5255,
-      "importance_score": 0.5255,
+      "score": 0.5295,
+      "importance": 0.5295,
+      "importance_score": 0.5295,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.887,
+        "recency": 0.9094,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-02T11:06:07Z",
-      "latest_at": "2026-08-02T11:53:28.116000Z",
+      "earliest_at": "2026-08-02T14:51:18Z",
+      "latest_at": "2026-08-02T14:51:18Z",
       "primary_item": {
-        "id": "452a977b7b5287ba3e8c4c762e386777557aec18",
-        "title": "生成式人工智能淹没并稀释了图书市场 / Generative AI floods and dilutes the market for books",
-        "url": "https://news.ycombinator.com/item?id=49143289",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_cc743031491e",
-      "title": "大型语言模型无法破解对称加密",
-      "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
-      "primary_url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
-      "source": "www.bfswa.blog",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "45692bd20840387a7095ecc6a151f32f35bc84a2",
-          "title": "大型语言模型无法破解对称加密",
-          "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
-          "source": "www.bfswa.blog",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T21:13:20.467000Z"
-        },
-        {
-          "id": "dc2a3b683639a09c89f47e843ece8714dee5fb04",
-          "title": "大型语言模型无法破解对称加密 / LLMs won't break symmetric crypto",
-          "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-01T21:11:22Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "www.bfswa.blog"
-      ],
-      "items": [
-        {
-          "id": "45692bd20840387a7095ecc6a151f32f35bc84a2",
-          "title": "大型语言模型无法破解对称加密",
-          "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
-          "source": "www.bfswa.blog",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T21:13:20.467000Z"
-        },
-        {
-          "id": "dc2a3b683639a09c89f47e843ece8714dee5fb04",
-          "title": "大型语言模型无法破解对称加密 / LLMs won't break symmetric crypto",
-          "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-01T21:11:22Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.495,
-      "importance": 0.495,
-      "importance_score": 0.495,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7177,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T21:11:22Z",
-      "latest_at": "2026-08-01T21:13:20.467000Z",
-      "primary_item": {
-        "id": "45692bd20840387a7095ecc6a151f32f35bc84a2",
-        "title": "大型语言模型无法破解对称加密",
-        "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
-        "source": "www.bfswa.blog",
-        "source_name": "Buzzing"
+        "id": "12c4183df13c7e4ba2eb1d793d54ed592afb3749",
+        "title": "关于“技术”的一番抨击（2005） / A Rant About “Technology” (2005)",
+        "url": "https://www.ursulakleguin.com/a-rant-about-technology",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1553,15 +1533,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5176,
-      "importance": 0.5176,
-      "importance_score": 0.5176,
+      "score": 0.5149,
+      "importance": 0.5149,
+      "importance_score": 0.5149,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8435,
+        "recency": 0.8286,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1632,15 +1612,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5378,
-      "importance": 0.5378,
-      "importance_score": 0.5378,
+      "score": 0.5348,
+      "importance": 0.5348,
+      "importance_score": 0.5348,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9558,
+        "recency": 0.9389,
         "story_heat": 0.25
       },
       "category": "watch",
