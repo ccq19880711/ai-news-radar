@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T12:01:31.281655Z",
+  "generated_at": "2026-08-05T14:55:49.649720Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8498,
-      "importance": 0.8498,
-      "importance_score": 0.8498,
+      "score": 0.844,
+      "importance": 0.844,
+      "importance_score": 0.844,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.97,
-        "recency": 0.782,
+        "recency": 0.7499,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8131,
-      "importance": 0.8131,
-      "importance_score": 0.8131,
+      "score": 0.8073,
+      "importance": 0.8073,
+      "importance_score": 0.8073,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7838,
+        "recency": 0.7516,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8129,
-      "importance": 0.8129,
-      "importance_score": 0.8129,
+      "score": 0.8071,
+      "importance": 0.8071,
+      "importance_score": 0.8071,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7825,
+        "recency": 0.7504,
         "story_heat": 0.0
       },
       "category": "official",
@@ -206,68 +206,6 @@
         "title": "GitHub 法律团队如何使用 Copilot CLI 简化其工作流程 / How the GitHub legal team used Copilot CLI to streamline their workflows",
         "url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows",
         "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_ea7f6df3de1a",
-      "title": "使用 LFM2.5-2.6B 随处部署本地代理 / Deploy local agents everywhere with LFM2.5-2.6B",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "29539b6fa902d9cb9ba640872a1c08e0b500f04e",
-          "title": "使用 LFM2.5-2.6B 随处部署本地代理 / Deploy local agents everywhere with LFM2.5-2.6B",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T13:58:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "29539b6fa902d9cb9ba640872a1c08e0b500f04e",
-          "title": "使用 LFM2.5-2.6B 随处部署本地代理 / Deploy local agents everywhere with LFM2.5-2.6B",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T13:58:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8109,
-      "importance": 0.8109,
-      "importance_score": 0.8109,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7273,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T13:58:29Z",
-      "latest_at": "2026-08-04T13:58:29Z",
-      "primary_item": {
-        "id": "29539b6fa902d9cb9ba640872a1c08e0b500f04e",
-        "title": "使用 LFM2.5-2.6B 随处部署本地代理 / Deploy local agents everywhere with LFM2.5-2.6B",
-        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -344,15 +282,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8098,
-      "importance": 0.8098,
-      "importance_score": 0.8098,
+      "score": 0.8036,
+      "importance": 0.8036,
+      "importance_score": 0.8036,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8403,
+        "recency": 0.8057,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -425,15 +363,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.806,
-      "importance": 0.806,
-      "importance_score": 0.806,
+      "score": 0.7988,
+      "importance": 0.7988,
+      "importance_score": 0.7988,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9742,
+        "recency": 0.9342,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -449,6 +387,87 @@
         "title": "Google Assistant 下月起逐步退场，\"Hey Google\"将由谷歌 Gemini 接棒",
         "url": "https://www.ithome.com/0/986/174.htm",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5635c460a483",
+      "title": "Cloudflare OS：面向智能体、应用与工作的开放平台",
+      "url": "https://blog.cloudflare.com/cloudflare-os",
+      "primary_url": "https://blog.cloudflare.com/cloudflare-os",
+      "source": "Cloudflare Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6b3b53f5e4a8c0bc2a3d0e7a8c6b6cf7246ef39e",
+          "title": "Cloudflare OS：面向智能体、应用与工作的开放平台",
+          "url": "https://blog.cloudflare.com/cloudflare-os",
+          "source": "Cloudflare Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T13:00:00Z"
+        },
+        {
+          "id": "6c183fa93718937ee172fdf0fcf2aa8a3f25b132",
+          "title": "Cloudflare OS：面向智能体、应用与工作的开放平台 / Cloudflare OS: an open platform for agents, apps, and work",
+          "url": "https://blog.cloudflare.com/cloudflare-os",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-05T13:58:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Cloudflare Blog",
+        "Hacker News"
+      ],
+      "items": [
+        {
+          "id": "6b3b53f5e4a8c0bc2a3d0e7a8c6b6cf7246ef39e",
+          "title": "Cloudflare OS：面向智能体、应用与工作的开放平台",
+          "url": "https://blog.cloudflare.com/cloudflare-os",
+          "source": "Cloudflare Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T13:00:00Z"
+        },
+        {
+          "id": "6c183fa93718937ee172fdf0fcf2aa8a3f25b132",
+          "title": "Cloudflare OS：面向智能体、应用与工作的开放平台 / Cloudflare OS: an open platform for agents, apps, and work",
+          "url": "https://blog.cloudflare.com/cloudflare-os",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-05T13:58:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7937,
+      "importance": 0.7937,
+      "importance_score": 0.7937,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9725,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T13:00:00Z",
+      "latest_at": "2026-08-05T13:58:53Z",
+      "primary_item": {
+        "id": "6b3b53f5e4a8c0bc2a3d0e7a8c6b6cf7246ef39e",
+        "title": "Cloudflare OS：面向智能体、应用与工作的开放平台",
+        "url": "https://blog.cloudflare.com/cloudflare-os",
+        "source": "Cloudflare Blog",
         "source_name": "AI HOT"
       }
     },
@@ -506,15 +525,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7978,
-      "importance": 0.7978,
-      "importance_score": 0.7978,
+      "score": 0.7905,
+      "importance": 0.7905,
+      "importance_score": 0.7905,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9786,
+        "recency": 0.9384,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -531,68 +550,6 @@
         "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d3753d032c98",
-      "title": "我们于 2026 年 7 月公布的最新 AI 新闻 / The latest AI news we announced in July 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c1aae7eb61623d8b10f7a2bb098ea622e156fb5f",
-          "title": "我们于 2026 年 7 月公布的最新 AI 新闻 / The latest AI news we announced in July 2026",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "c1aae7eb61623d8b10f7a2bb098ea622e156fb5f",
-          "title": "我们于 2026 年 7 月公布的最新 AI 新闻 / The latest AI news we announced in July 2026",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7931,
-      "importance": 0.7931,
-      "importance_score": 0.7931,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7171,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T13:00:00Z",
-      "latest_at": "2026-08-04T13:00:00Z",
-      "primary_item": {
-        "id": "c1aae7eb61623d8b10f7a2bb098ea622e156fb5f",
-        "title": "我们于 2026 年 7 月公布的最新 AI 新闻 / The latest AI news we announced in July 2026",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -649,15 +606,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7865,
-      "importance": 0.7865,
-      "importance_score": 0.7865,
+      "score": 0.7794,
+      "importance": 0.7794,
+      "importance_score": 0.7794,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9663,
+        "recency": 0.9266,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -730,15 +687,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7854,
-      "importance": 0.7854,
-      "importance_score": 0.7854,
+      "score": 0.7786,
+      "importance": 0.7786,
+      "importance_score": 0.7786,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9269,
+        "recency": 0.8888,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -792,15 +749,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7795,
-      "importance": 0.7795,
-      "importance_score": 0.7795,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9493,
+        "recency": 0.9103,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -853,15 +810,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8053,
-      "importance": 0.8053,
-      "importance_score": 0.8053,
+      "score": 0.7995,
+      "importance": 0.7995,
+      "importance_score": 0.7995,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7849,
+        "recency": 0.7527,
         "story_heat": 0.0
       },
       "category": "official",
@@ -878,6 +835,67 @@
         "url": "https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_ec0e53c55d9e",
+      "title": "AI智能体尚无法开展开放式AI研究",
+      "url": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+      "primary_url": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+      "source": "AI as Normal Technology（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "93b88ed2fb86fbd132d4f442b1e25617aa5f6407",
+          "title": "AI智能体尚无法开展开放式AI研究",
+          "url": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+          "source": "AI as Normal Technology（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T13:49:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AI as Normal Technology（RSS）"
+      ],
+      "items": [
+        {
+          "id": "93b88ed2fb86fbd132d4f442b1e25617aa5f6407",
+          "title": "AI智能体尚无法开展开放式AI研究",
+          "url": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+          "source": "AI as Normal Technology（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T13:49:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7587,
+      "importance": 0.7587,
+      "importance_score": 0.7587,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9841,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T13:49:19Z",
+      "latest_at": "2026-08-05T13:49:19Z",
+      "primary_item": {
+        "id": "93b88ed2fb86fbd132d4f442b1e25617aa5f6407",
+        "title": "AI智能体尚无法开展开放式AI研究",
+        "url": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+        "source": "AI as Normal Technology（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -934,15 +952,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7865,
-      "importance": 0.7865,
-      "importance_score": 0.7865,
+      "score": 0.7794,
+      "importance": 0.7794,
+      "importance_score": 0.7794,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9663,
+        "recency": 0.9266,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -996,15 +1014,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7404,
-      "importance": 0.7404,
-      "importance_score": 0.7404,
+      "score": 0.7349,
+      "importance": 0.7349,
+      "importance_score": 0.7349,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7489,
+        "recency": 0.7181,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1056,15 +1074,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7986,
-      "importance": 0.7986,
-      "importance_score": 0.7986,
+      "score": 0.7931,
+      "importance": 0.7931,
+      "importance_score": 0.7931,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7479,
+        "recency": 0.7172,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1118,15 +1136,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7384,
-      "importance": 0.7384,
-      "importance_score": 0.7384,
+      "score": 0.733,
+      "importance": 0.733,
+      "importance_score": 0.733,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7379,
+        "recency": 0.7076,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1140,6 +1158,67 @@
         "title": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议",
         "url": "https://x.com/rohanpaul_ai/status/2084655258102546579",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f3c5450081e7",
+      "title": "Cloudflare 提出智能体访问模型（Agent Access Model）",
+      "url": "https://blog.cloudflare.com/the-agent-access-model",
+      "primary_url": "https://blog.cloudflare.com/the-agent-access-model",
+      "source": "Cloudflare Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a3b25cf2f6dcb85607a59953d7751fd25117f356",
+          "title": "Cloudflare 提出智能体访问模型（Agent Access Model）",
+          "url": "https://blog.cloudflare.com/the-agent-access-model",
+          "source": "Cloudflare Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T13:00:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Cloudflare Blog"
+      ],
+      "items": [
+        {
+          "id": "a3b25cf2f6dcb85607a59953d7751fd25117f356",
+          "title": "Cloudflare 提出智能体访问模型（Agent Access Model）",
+          "url": "https://blog.cloudflare.com/the-agent-access-model",
+          "source": "Cloudflare Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T13:00:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7627,
+      "importance": 0.7627,
+      "importance_score": 0.7627,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9727,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T13:00:41Z",
+      "latest_at": "2026-08-05T13:00:41Z",
+      "primary_item": {
+        "id": "a3b25cf2f6dcb85607a59953d7751fd25117f356",
+        "title": "Cloudflare 提出智能体访问模型（Agent Access Model）",
+        "url": "https://blog.cloudflare.com/the-agent-access-model",
+        "source": "Cloudflare Blog",
         "source_name": "AI HOT"
       }
     },
@@ -1178,15 +1257,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
+      "score": 0.759,
+      "importance": 0.759,
+      "importance_score": 0.759,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9755,
+        "recency": 0.9354,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1258,15 +1337,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7335,
-      "importance": 0.7335,
-      "importance_score": 0.7335,
+      "score": 0.728,
+      "importance": 0.728,
+      "importance_score": 0.728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7383,
+        "recency": 0.708,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1319,15 +1398,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7329,
-      "importance": 0.7329,
-      "importance_score": 0.7329,
+      "score": 0.7264,
+      "importance": 0.7264,
+      "importance_score": 0.7264,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8737,
+        "recency": 0.8378,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1341,66 +1420,6 @@
         "title": "Qwen-Image-3.0-Pro 上线 Qwen Cloud",
         "url": "https://x.com/Alibaba_Qwen/status/2084831888729072121",
         "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ee5fdd47cccb",
-      "title": "Grok 4.5 免费体验，推荐 Build 工具链",
-      "url": "https://x.com/elonmusk/status/2084857373555101726",
-      "primary_url": "https://x.com/elonmusk/status/2084857373555101726",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "718675e68a68d5c3f90cacea31f7be3087de4a0e",
-          "title": "Grok 4.5 免费体验，推荐 Build 工具链",
-          "url": "https://x.com/elonmusk/status/2084857373555101726",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T04:21:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Elon Musk (@elonmusk, xAI)"
-      ],
-      "items": [
-        {
-          "id": "718675e68a68d5c3f90cacea31f7be3087de4a0e",
-          "title": "Grok 4.5 免费体验，推荐 Build 工具链",
-          "url": "https://x.com/elonmusk/status/2084857373555101726",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T04:21:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7307,
-      "importance": 0.7307,
-      "importance_score": 0.7307,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8953,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-05T04:21:47Z",
-      "latest_at": "2026-08-05T04:21:47Z",
-      "primary_item": {
-        "id": "718675e68a68d5c3f90cacea31f7be3087de4a0e",
-        "title": "Grok 4.5 免费体验，推荐 Build 工具链",
-        "url": "https://x.com/elonmusk/status/2084857373555101726",
-        "source": "X：Elon Musk (@elonmusk, xAI)",
         "source_name": "AI HOT"
       }
     }
