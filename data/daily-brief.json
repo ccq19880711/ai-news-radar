@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T08:47:59.564836Z",
+  "generated_at": "2026-08-09T09:43:00.263856Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -151,15 +151,15 @@
       ],
       "item_count": 7,
       "duplicate_count": 7,
-      "score": 0.8591,
-      "importance": 0.8591,
-      "importance_score": 0.8591,
+      "score": 0.8573,
+      "importance": 0.8573,
+      "importance_score": 0.8573,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7694,
+        "recency": 0.7593,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -232,15 +232,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7581,
-      "importance": 0.7581,
-      "importance_score": 0.7581,
+      "score": 0.7563,
+      "importance": 0.7563,
+      "importance_score": 0.7563,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7583,
+        "recency": 0.7484,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -294,15 +294,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7577,
-      "importance": 0.7577,
-      "importance_score": 0.7577,
+      "score": 0.7554,
+      "importance": 0.7554,
+      "importance_score": 0.7554,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9785,
+        "recency": 0.9656,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -355,15 +355,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
+      "score": 0.7522,
+      "importance": 0.7522,
+      "importance_score": 0.7522,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9264,
+        "recency": 0.9142,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -416,15 +416,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7342,
-      "importance": 0.7342,
-      "importance_score": 0.7342,
+      "score": 0.7324,
+      "importance": 0.7324,
+      "importance_score": 0.7324,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.731,
+        "recency": 0.7213,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -476,15 +476,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7541,
-      "importance": 0.7541,
-      "importance_score": 0.7541,
+      "score": 0.7519,
+      "importance": 0.7519,
+      "importance_score": 0.7519,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9251,
+        "recency": 0.913,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -537,15 +537,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7433,
-      "importance": 0.7433,
-      "importance_score": 0.7433,
+      "score": 0.7413,
+      "importance": 0.7413,
+      "importance_score": 0.7413,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8652,
+        "recency": 0.8538,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -633,15 +633,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5901,
-      "importance": 0.5901,
-      "importance_score": 0.5901,
+      "score": 0.5881,
+      "importance": 0.5881,
+      "importance_score": 0.5881,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8381,
+        "recency": 0.827,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -712,15 +712,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5857,
-      "importance": 0.5857,
-      "importance_score": 0.5857,
+      "score": 0.5837,
+      "importance": 0.5837,
+      "importance_score": 0.5837,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8631,
+        "recency": 0.8517,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -810,15 +810,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5646,
-      "importance": 0.5646,
-      "importance_score": 0.5646,
+      "score": 0.5623,
+      "importance": 0.5623,
+      "importance_score": 0.5623,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9656,
+        "recency": 0.9529,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -907,15 +907,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5481,
-      "importance": 0.5481,
-      "importance_score": 0.5481,
+      "score": 0.546,
+      "importance": 0.546,
+      "importance_score": 0.546,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8736,
+        "recency": 0.8621,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -986,15 +986,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5396,
-      "importance": 0.5396,
-      "importance_score": 0.5396,
+      "score": 0.5373,
+      "importance": 0.5373,
+      "importance_score": 0.5373,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9656,
+        "recency": 0.9529,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1084,15 +1084,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5392,
-      "importance": 0.5392,
-      "importance_score": 0.5392,
+      "score": 0.5373,
+      "importance": 0.5373,
+      "importance_score": 0.5373,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8246,
+        "recency": 0.8138,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1127,18 +1127,18 @@
           "published_at": "2026-08-09T06:10:22.669000Z"
         },
         {
-          "id": "b3f4f2fb78c1c89bbda7afd7adac105b371ff88b",
+          "id": "5660f67d71ed812801f3938793c3267b40a125b0",
           "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
           "url": "https://marketnow.site",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-09T03:13:01Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
@@ -1152,26 +1152,26 @@
           "published_at": "2026-08-09T06:10:22.669000Z"
         },
         {
-          "id": "b3f4f2fb78c1c89bbda7afd7adac105b371ff88b",
+          "id": "5660f67d71ed812801f3938793c3267b40a125b0",
           "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
           "url": "https://marketnow.site",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-09T03:13:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5391,
-      "importance": 0.5391,
-      "importance_score": 0.5391,
+      "score": 0.5368,
+      "importance": 0.5368,
+      "importance_score": 0.5368,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9628,
+        "recency": 0.9501,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1186,85 +1186,6 @@
         "url": "https://news.ycombinator.com/item?id=49228086",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_e83b068a58df",
-      "title": "OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器",
-      "url": "http://www.geekpark.net/news/368579",
-      "primary_url": "http://www.geekpark.net/news/368579",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "f32e6d8660985ab53c513a50b84964e09360dd9b",
-          "title": "OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器",
-          "url": "http://www.geekpark.net/news/368579",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "0da323456024f560f9913a54fd0bedc2525ba00b",
-          "title": "OpenAI 用1年时间证明，你并不用为AI 换浏览器",
-          "url": "https://www.huxiu.com/article/4881757.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-09T04:21:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "f32e6d8660985ab53c513a50b84964e09360dd9b",
-          "title": "OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器",
-          "url": "http://www.geekpark.net/news/368579",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "0da323456024f560f9913a54fd0bedc2525ba00b",
-          "title": "OpenAI 用1年时间证明，你并不用为AI 换浏览器",
-          "url": "https://www.huxiu.com/article/4881757.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-09T04:21:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5366,
-      "importance": 0.5366,
-      "importance_score": 0.5366,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9487,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T04:21:14Z",
-      "latest_at": "2026-08-09T05:09:15.860154Z",
-      "primary_item": {
-        "id": "f32e6d8660985ab53c513a50b84964e09360dd9b",
-        "title": "OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器",
-        "url": "http://www.geekpark.net/news/368579",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1340,15 +1261,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5364,
-      "importance": 0.5364,
-      "importance_score": 0.5364,
+      "score": 0.5345,
+      "importance": 0.5345,
+      "importance_score": 0.5345,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8089,
+        "recency": 0.7983,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1363,6 +1284,85 @@
         "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
         "source": "social.treehouse.systems",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e83b068a58df",
+      "title": "OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器",
+      "url": "http://www.geekpark.net/news/368579",
+      "primary_url": "http://www.geekpark.net/news/368579",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "f32e6d8660985ab53c513a50b84964e09360dd9b",
+          "title": "OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器",
+          "url": "http://www.geekpark.net/news/368579",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "0da323456024f560f9913a54fd0bedc2525ba00b",
+          "title": "OpenAI 用1年时间证明，你并不用为AI 换浏览器",
+          "url": "https://www.huxiu.com/article/4881757.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-09T04:21:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "f32e6d8660985ab53c513a50b84964e09360dd9b",
+          "title": "OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器",
+          "url": "http://www.geekpark.net/news/368579",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "0da323456024f560f9913a54fd0bedc2525ba00b",
+          "title": "OpenAI 用1年时间证明，你并不用为AI 换浏览器",
+          "url": "https://www.huxiu.com/article/4881757.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-09T04:21:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5343,
+      "importance": 0.5343,
+      "importance_score": 0.5343,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9362,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T04:21:14Z",
+      "latest_at": "2026-08-09T05:09:15.860154Z",
+      "primary_item": {
+        "id": "f32e6d8660985ab53c513a50b84964e09360dd9b",
+        "title": "OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器",
+        "url": "http://www.geekpark.net/news/368579",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1419,15 +1419,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5248,
-      "importance": 0.5248,
-      "importance_score": 0.5248,
+      "score": 0.5229,
+      "importance": 0.5229,
+      "importance_score": 0.5229,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.32,
         "ai_relevance": 0.67,
-        "recency": 0.8374,
+        "recency": 0.8264,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1498,15 +1498,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5146,
-      "importance": 0.5146,
-      "importance_score": 0.5146,
+      "score": 0.5126,
+      "importance": 0.5126,
+      "importance_score": 0.5126,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8265,
+        "recency": 0.8156,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1577,15 +1577,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5423,
-      "importance": 0.5423,
-      "importance_score": 0.5423,
+      "score": 0.54,
+      "importance": 0.54,
+      "importance_score": 0.54,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9806,
+        "recency": 0.9677,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1656,15 +1656,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.512,
-      "importance": 0.512,
-      "importance_score": 0.512,
+      "score": 0.51,
+      "importance": 0.51,
+      "importance_score": 0.51,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.812,
+        "recency": 0.8013,
         "story_heat": 0.25
       },
       "category": "watch",
