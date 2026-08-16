@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T14:26:41.725032Z",
+  "generated_at": "2026-08-16T14:51:20.715351Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -21,18 +21,18 @@
           "published_at": "2026-08-16T11:17:57.393000Z"
         },
         {
-          "id": "27b9f4089f8085a15aae2a3d357f5462459861f1",
+          "id": "0d14ffd393541711b291e3e36e5b0b4d3b0d7bd6",
           "title": "新兴多智能体系统的模式与问题 / Patterns and problems in emerging multi-agent systems",
           "url": "https://www.anthropic.com/research/multiagent-systems",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-16T02:12:53Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
@@ -46,26 +46,26 @@
           "published_at": "2026-08-16T11:17:57.393000Z"
         },
         {
-          "id": "27b9f4089f8085a15aae2a3d357f5462459861f1",
+          "id": "0d14ffd393541711b291e3e36e5b0b4d3b0d7bd6",
           "title": "新兴多智能体系统的模式与问题 / Patterns and problems in emerging multi-agent systems",
           "url": "https://www.anthropic.com/research/multiagent-systems",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-16T02:12:53Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7876,
-      "importance": 0.7876,
-      "importance_score": 0.7876,
+      "score": 0.7866,
+      "importance": 0.7866,
+      "importance_score": 0.7866,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9556,
+        "recency": 0.9499,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -119,15 +119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7407,
-      "importance": 0.7407,
-      "importance_score": 0.7407,
+      "score": 0.7398,
+      "importance": 0.7398,
+      "importance_score": 0.7398,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8508,
+        "recency": 0.8457,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -198,15 +198,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7477,
-      "importance": 0.7477,
-      "importance_score": 0.7477,
+      "score": 0.7469,
+      "importance": 0.7469,
+      "importance_score": 0.7469,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7673,
+        "recency": 0.7627,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -278,15 +278,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6296,
-      "importance": 0.6296,
-      "importance_score": 0.6296,
+      "score": 0.6288,
+      "importance": 0.6288,
+      "importance_score": 0.6288,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.7549,
+        "recency": 0.7505,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -432,15 +432,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.5929,
-      "importance": 0.5929,
-      "importance_score": 0.5929,
+      "score": 0.592,
+      "importance": 0.592,
+      "importance_score": 0.592,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.845,
+        "recency": 0.84,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -567,15 +567,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5831,
-      "importance": 0.5831,
-      "importance_score": 0.5831,
+      "score": 0.5822,
+      "importance": 0.5822,
+      "importance_score": 0.5822,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7905,
+        "recency": 0.7858,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -665,15 +665,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5589,
-      "importance": 0.5589,
-      "importance_score": 0.5589,
+      "score": 0.5579,
+      "importance": 0.5579,
+      "importance_score": 0.5579,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9338,
+        "recency": 0.9283,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -687,6 +687,85 @@
         "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
         "url": "https://littlelearner-ll.github.io",
         "source": "littlelearner-ll.github.io",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_9ffac573dcb5",
+      "title": "克劳德：系统提示",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "primary_url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "source": "platform.claude.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "f652679f24bb81d021d5b62102e00cba581f8d6c",
+          "title": "克劳德：系统提示",
+          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+          "source": "platform.claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T14:30:18.432000Z"
+        },
+        {
+          "id": "cea8f9e643bc8d866babefa81ba8586221c8913e",
+          "title": "克劳德：系统提示 / Claude: System Prompts",
+          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T12:48:21Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "platform.claude.com"
+      ],
+      "items": [
+        {
+          "id": "f652679f24bb81d021d5b62102e00cba581f8d6c",
+          "title": "克劳德：系统提示",
+          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+          "source": "platform.claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T14:30:18.432000Z"
+        },
+        {
+          "id": "cea8f9e643bc8d866babefa81ba8586221c8913e",
+          "title": "克劳德：系统提示 / Claude: System Prompts",
+          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T12:48:21Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5449,
+      "importance": 0.5449,
+      "importance_score": 0.5449,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9949,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T12:48:21Z",
+      "latest_at": "2026-08-16T14:30:18.432000Z",
+      "primary_item": {
+        "id": "f652679f24bb81d021d5b62102e00cba581f8d6c",
+        "title": "克劳德：系统提示",
+        "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+        "source": "platform.claude.com",
         "source_name": "Buzzing"
       }
     },
@@ -744,15 +823,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5405,
-      "importance": 0.5405,
-      "importance_score": 0.5405,
+      "score": 0.5394,
+      "importance": 0.5394,
+      "importance_score": 0.5394,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9704,
+        "recency": 0.9647,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -823,15 +902,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5385,
-      "importance": 0.5385,
-      "importance_score": 0.5385,
+      "score": 0.5375,
+      "importance": 0.5375,
+      "importance_score": 0.5375,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9593,
+        "recency": 0.9536,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -902,15 +981,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5383,
-      "importance": 0.5383,
-      "importance_score": 0.5383,
+      "score": 0.5373,
+      "importance": 0.5373,
+      "importance_score": 0.5373,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9583,
+        "recency": 0.9527,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -981,15 +1060,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5334,
-      "importance": 0.5334,
-      "importance_score": 0.5334,
+      "score": 0.5324,
+      "importance": 0.5324,
+      "importance_score": 0.5324,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9311,
+        "recency": 0.9256,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1007,80 +1086,80 @@
       }
     },
     {
-      "story_id": "story_7562ac74e0c9",
-      "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
-      "url": "https://news.ycombinator.com/item?id=49318735",
-      "primary_url": "https://news.ycombinator.com/item?id=49318735",
+      "story_id": "story_332bc90701f1",
+      "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
+      "url": "https://news.ycombinator.com/item?id=49320144",
+      "primary_url": "https://news.ycombinator.com/item?id=49320144",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "1d2492a515caa36c70355895c4703f446a0a5ae2",
-          "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
-          "url": "https://news.ycombinator.com/item?id=49318735",
+          "id": "2e72db5025ccb18caa41a79e5cdcda7dc8b2299d",
+          "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
+          "url": "https://news.ycombinator.com/item?id=49320144",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-16T14:12:25.568000Z"
+          "published_at": "2026-08-16T14:52:01.449000Z"
         },
         {
-          "id": "a12132c3d10fc1689761da3a232a22e27623ba25",
-          "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
-          "url": "https://peterbloem.nl/blog/craft-coding",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T10:31:36Z"
+          "id": "9e06c7fd63ff348cef640034ab1593ab62b167bf",
+          "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
+          "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-16T13:58:17Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
         {
-          "id": "1d2492a515caa36c70355895c4703f446a0a5ae2",
-          "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
-          "url": "https://news.ycombinator.com/item?id=49318735",
+          "id": "2e72db5025ccb18caa41a79e5cdcda7dc8b2299d",
+          "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
+          "url": "https://news.ycombinator.com/item?id=49320144",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-16T14:12:25.568000Z"
+          "published_at": "2026-08-16T14:52:01.449000Z"
         },
         {
-          "id": "a12132c3d10fc1689761da3a232a22e27623ba25",
-          "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
-          "url": "https://peterbloem.nl/blog/craft-coding",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T10:31:36Z"
+          "id": "9e06c7fd63ff348cef640034ab1593ab62b167bf",
+          "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
+          "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-16T13:58:17Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9966,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-16T10:31:36Z",
-      "latest_at": "2026-08-16T14:12:25.568000Z",
+      "earliest_at": "2026-08-16T13:58:17Z",
+      "latest_at": "2026-08-16T14:52:01.449000Z",
       "primary_item": {
-        "id": "1d2492a515caa36c70355895c4703f446a0a5ae2",
-        "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
-        "url": "https://news.ycombinator.com/item?id=49318735",
+        "id": "2e72db5025ccb18caa41a79e5cdcda7dc8b2299d",
+        "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
+        "url": "https://news.ycombinator.com/item?id=49320144",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1139,15 +1218,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5365,
-      "importance": 0.5365,
-      "importance_score": 0.5365,
+      "score": 0.5355,
+      "importance": 0.5355,
+      "importance_score": 0.5355,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9483,
+        "recency": 0.9426,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1217,15 +1296,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.505,
-      "importance": 0.505,
-      "importance_score": 0.505,
+      "score": 0.5042,
+      "importance": 0.5042,
+      "importance_score": 0.5042,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7732,
+        "recency": 0.7686,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1296,15 +1375,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5249,
-      "importance": 0.5249,
-      "importance_score": 0.5249,
+      "score": 0.524,
+      "importance": 0.524,
+      "importance_score": 0.524,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.884,
+        "recency": 0.8788,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1319,6 +1398,243 @@
         "url": "https://www.ithome.com/0/990/270.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_7562ac74e0c9",
+      "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
+      "url": "https://news.ycombinator.com/item?id=49318735",
+      "primary_url": "https://news.ycombinator.com/item?id=49318735",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "1d2492a515caa36c70355895c4703f446a0a5ae2",
+          "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
+          "url": "https://news.ycombinator.com/item?id=49318735",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T14:12:25.568000Z"
+        },
+        {
+          "id": "a12132c3d10fc1689761da3a232a22e27623ba25",
+          "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
+          "url": "https://peterbloem.nl/blog/craft-coding",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T10:31:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "1d2492a515caa36c70355895c4703f446a0a5ae2",
+          "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
+          "url": "https://news.ycombinator.com/item?id=49318735",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T14:12:25.568000Z"
+        },
+        {
+          "id": "a12132c3d10fc1689761da3a232a22e27623ba25",
+          "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
+          "url": "https://peterbloem.nl/blog/craft-coding",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T10:31:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5441,
+      "importance": 0.5441,
+      "importance_score": 0.5441,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9907,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T10:31:36Z",
+      "latest_at": "2026-08-16T14:12:25.568000Z",
+      "primary_item": {
+        "id": "1d2492a515caa36c70355895c4703f446a0a5ae2",
+        "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
+        "url": "https://news.ycombinator.com/item?id=49318735",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_13fe377049bd",
+      "title": "英伟达大幅收缩对 OpenAI 数据中心融资担保，从 2500 亿美元降至不足 1200 亿美元",
+      "url": "https://www.ithome.com/0/990/207.htm",
+      "primary_url": "https://www.ithome.com/0/990/207.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "1acb0c89943ae66403e4167d361cee7426249ec1",
+          "title": "英伟达大幅收缩对 OpenAI 数据中心融资担保，从 2500 亿美元降至不足 1200 亿美元",
+          "url": "https://www.ithome.com/0/990/207.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c6b0ce5c23241bf8c68232c218d70ebe87f672d4",
+          "title": "从 2500 亿美元降至不足 1200 亿美元，消息称英伟达大幅收缩对 OpenAI 数据中心的融资担保",
+          "url": "https://www.ithome.com/0/990/207.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T23:32:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "1acb0c89943ae66403e4167d361cee7426249ec1",
+          "title": "英伟达大幅收缩对 OpenAI 数据中心融资担保，从 2500 亿美元降至不足 1200 亿美元",
+          "url": "https://www.ithome.com/0/990/207.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c6b0ce5c23241bf8c68232c218d70ebe87f672d4",
+          "title": "从 2500 亿美元降至不足 1200 亿美元，消息称英伟达大幅收缩对 OpenAI 数据中心的融资担保",
+          "url": "https://www.ithome.com/0/990/207.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T23:32:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5144,
+      "importance": 0.5144,
+      "importance_score": 0.5144,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8258,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T23:32:41Z",
+      "latest_at": "2026-08-16T01:36:08.217378Z",
+      "primary_item": {
+        "id": "1acb0c89943ae66403e4167d361cee7426249ec1",
+        "title": "英伟达大幅收缩对 OpenAI 数据中心融资担保，从 2500 亿美元降至不足 1200 亿美元",
+        "url": "https://www.ithome.com/0/990/207.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_3bd4f58cfc50",
+      "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪",
+      "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
+      "primary_url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "bbcf39a5af4f81103bc7156c08e1b5e399186a56",
+          "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪",
+          "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T20:21:54.677000Z"
+        },
+        {
+          "id": "4902d066596b0ccca5540acadf99e27f890fa062",
+          "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪 / Anthropic says its AI agents are killing rivals and hiding their tracks",
+          "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T20:09:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "bbcf39a5af4f81103bc7156c08e1b5e399186a56",
+          "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪",
+          "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T20:21:54.677000Z"
+        },
+        {
+          "id": "4902d066596b0ccca5540acadf99e27f890fa062",
+          "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪 / Anthropic says its AI agents are killing rivals and hiding their tracks",
+          "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T20:09:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5036,
+      "importance": 0.5036,
+      "importance_score": 0.5036,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7657,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T20:09:46Z",
+      "latest_at": "2026-08-15T20:21:54.677000Z",
+      "primary_item": {
+        "id": "bbcf39a5af4f81103bc7156c08e1b5e399186a56",
+        "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪",
+        "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1394,15 +1710,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5341,
-      "importance": 0.5341,
-      "importance_score": 0.5341,
+      "score": 0.5333,
+      "importance": 0.5333,
+      "importance_score": 0.5333,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7962,
+        "recency": 0.7915,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1415,322 +1731,6 @@
         "id": "bf33b62e59436f0fbc332603014ef4e239963f52",
         "title": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
         "url": "https://news.ycombinator.com/item?id=49314594",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_13fe377049bd",
-      "title": "英伟达大幅收缩对 OpenAI 数据中心融资担保，从 2500 亿美元降至不足 1200 亿美元",
-      "url": "https://www.ithome.com/0/990/207.htm",
-      "primary_url": "https://www.ithome.com/0/990/207.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "1acb0c89943ae66403e4167d361cee7426249ec1",
-          "title": "英伟达大幅收缩对 OpenAI 数据中心融资担保，从 2500 亿美元降至不足 1200 亿美元",
-          "url": "https://www.ithome.com/0/990/207.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c6b0ce5c23241bf8c68232c218d70ebe87f672d4",
-          "title": "从 2500 亿美元降至不足 1200 亿美元，消息称英伟达大幅收缩对 OpenAI 数据中心的融资担保",
-          "url": "https://www.ithome.com/0/990/207.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T23:32:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "1acb0c89943ae66403e4167d361cee7426249ec1",
-          "title": "英伟达大幅收缩对 OpenAI 数据中心融资担保，从 2500 亿美元降至不足 1200 亿美元",
-          "url": "https://www.ithome.com/0/990/207.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c6b0ce5c23241bf8c68232c218d70ebe87f672d4",
-          "title": "从 2500 亿美元降至不足 1200 亿美元，消息称英伟达大幅收缩对 OpenAI 数据中心的融资担保",
-          "url": "https://www.ithome.com/0/990/207.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T23:32:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5153,
-      "importance": 0.5153,
-      "importance_score": 0.5153,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8307,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T23:32:41Z",
-      "latest_at": "2026-08-16T01:36:08.217378Z",
-      "primary_item": {
-        "id": "1acb0c89943ae66403e4167d361cee7426249ec1",
-        "title": "英伟达大幅收缩对 OpenAI 数据中心融资担保，从 2500 亿美元降至不足 1200 亿美元",
-        "url": "https://www.ithome.com/0/990/207.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_3bd4f58cfc50",
-      "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪",
-      "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
-      "primary_url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "bbcf39a5af4f81103bc7156c08e1b5e399186a56",
-          "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪",
-          "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T20:21:54.677000Z"
-        },
-        {
-          "id": "4902d066596b0ccca5540acadf99e27f890fa062",
-          "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪 / Anthropic says its AI agents are killing rivals and hiding their tracks",
-          "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T20:09:46Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "bbcf39a5af4f81103bc7156c08e1b5e399186a56",
-          "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪",
-          "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T20:21:54.677000Z"
-        },
-        {
-          "id": "4902d066596b0ccca5540acadf99e27f890fa062",
-          "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪 / Anthropic says its AI agents are killing rivals and hiding their tracks",
-          "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T20:09:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5044,
-      "importance": 0.5044,
-      "importance_score": 0.5044,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7702,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T20:09:46Z",
-      "latest_at": "2026-08-15T20:21:54.677000Z",
-      "primary_item": {
-        "id": "bbcf39a5af4f81103bc7156c08e1b5e399186a56",
-        "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪",
-        "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_78464e78aa4b",
-      "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
-      "url": "https://news.ycombinator.com/item?id=49316605",
-      "primary_url": "https://news.ycombinator.com/item?id=49316605",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "8f8da72ba2ccb1cc5608f895e1c7d10a18f21bde",
-          "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
-          "url": "https://news.ycombinator.com/item?id=49316605",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T05:40:50.746000Z"
-        },
-        {
-          "id": "21b0027bbef147692576a393bcc41524018907e7",
-          "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
-          "url": "https://github.com/yebiguo/ProofRun",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T03:22:15Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "8f8da72ba2ccb1cc5608f895e1c7d10a18f21bde",
-          "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
-          "url": "https://news.ycombinator.com/item?id=49316605",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T05:40:50.746000Z"
-        },
-        {
-          "id": "21b0027bbef147692576a393bcc41524018907e7",
-          "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
-          "url": "https://github.com/yebiguo/ProofRun",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T03:22:15Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5244,
-      "importance": 0.5244,
-      "importance_score": 0.5244,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8811,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T03:22:15Z",
-      "latest_at": "2026-08-16T05:40:50.746000Z",
-      "primary_item": {
-        "id": "8f8da72ba2ccb1cc5608f895e1c7d10a18f21bde",
-        "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
-        "url": "https://news.ycombinator.com/item?id=49316605",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_c21a3b4fa623",
-      "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-      "url": "https://news.ycombinator.com/item?id=49314967",
-      "primary_url": "https://news.ycombinator.com/item?id=49314967",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "d9e5761eb9dc631140a0a40569ec395b1563f0a7",
-          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-          "url": "https://news.ycombinator.com/item?id=49314967",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T02:40:29.910000Z"
-        },
-        {
-          "id": "6a58a1a6f84416fd76382194fc6abc8444164d49",
-          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-          "url": "https://arxiv.org/abs/2608.13122",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T22:41:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "d9e5761eb9dc631140a0a40569ec395b1563f0a7",
-          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-          "url": "https://news.ycombinator.com/item?id=49314967",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T02:40:29.910000Z"
-        },
-        {
-          "id": "6a58a1a6f84416fd76382194fc6abc8444164d49",
-          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-          "url": "https://arxiv.org/abs/2608.13122",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T22:41:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5177,
-      "importance": 0.5177,
-      "importance_score": 0.5177,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8437,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T22:41:51Z",
-      "latest_at": "2026-08-16T02:40:29.910000Z",
-      "primary_item": {
-        "id": "d9e5761eb9dc631140a0a40569ec395b1563f0a7",
-        "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-        "url": "https://news.ycombinator.com/item?id=49314967",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
