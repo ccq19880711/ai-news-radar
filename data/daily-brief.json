@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T03:52:50.858404Z",
+  "generated_at": "2026-08-17T04:46:48.055545Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.806,
-      "importance": 0.806,
-      "importance_score": 0.806,
+      "score": 0.8038,
+      "importance": 0.8038,
+      "importance_score": 0.8038,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9187,
+        "recency": 0.9069,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -157,15 +157,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7903,
+      "importance": 0.7903,
+      "importance_score": 0.7903,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9871,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -238,15 +238,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7897,
-      "importance": 0.7897,
-      "importance_score": 0.7897,
+      "score": 0.7874,
+      "importance": 0.7874,
+      "importance_score": 0.7874,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9838,
+        "recency": 0.9711,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -300,15 +300,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7323,
-      "importance": 0.7323,
-      "importance_score": 0.7323,
+      "score": 0.7304,
+      "importance": 0.7304,
+      "importance_score": 0.7304,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7871,
+        "recency": 0.7769,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -379,15 +379,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7897,
-      "importance": 0.7897,
-      "importance_score": 0.7897,
+      "score": 0.7874,
+      "importance": 0.7874,
+      "importance_score": 0.7874,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9838,
+        "recency": 0.9711,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -460,15 +460,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7897,
-      "importance": 0.7897,
-      "importance_score": 0.7897,
+      "score": 0.7874,
+      "importance": 0.7874,
+      "importance_score": 0.7874,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9838,
+        "recency": 0.9711,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -541,15 +541,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7897,
-      "importance": 0.7897,
-      "importance_score": 0.7897,
+      "score": 0.7874,
+      "importance": 0.7874,
+      "importance_score": 0.7874,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9838,
+        "recency": 0.9711,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -622,15 +622,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7864,
-      "importance": 0.7864,
-      "importance_score": 0.7864,
+      "score": 0.7842,
+      "importance": 0.7842,
+      "importance_score": 0.7842,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9655,
+        "recency": 0.9531,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -703,15 +703,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7864,
-      "importance": 0.7864,
-      "importance_score": 0.7864,
+      "score": 0.7842,
+      "importance": 0.7842,
+      "importance_score": 0.7842,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9655,
+        "recency": 0.9531,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -822,15 +822,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5862,
-      "importance": 0.5862,
-      "importance_score": 0.5862,
+      "score": 0.584,
+      "importance": 0.584,
+      "importance_score": 0.584,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9469,
+        "recency": 0.9347,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -939,15 +939,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5832,
-      "importance": 0.5832,
-      "importance_score": 0.5832,
+      "score": 0.581,
+      "importance": 0.581,
+      "importance_score": 0.581,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9298,
+        "recency": 0.9179,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1018,15 +1018,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7864,
-      "importance": 0.7864,
-      "importance_score": 0.7864,
+      "score": 0.7842,
+      "importance": 0.7842,
+      "importance_score": 0.7842,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9655,
+        "recency": 0.9531,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1118,15 +1118,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.57,
-      "importance": 0.57,
-      "importance_score": 0.57,
+      "score": 0.5677,
+      "importance": 0.5677,
+      "importance_score": 0.5677,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9955,
+        "recency": 0.9827,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1216,15 +1216,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5659,
-      "importance": 0.5659,
-      "importance_score": 0.5659,
+      "score": 0.5636,
+      "importance": 0.5636,
+      "importance_score": 0.5636,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9727,
+        "recency": 0.9602,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1238,6 +1238,103 @@
         "title": "英伟达大幅削减了其可能为OpenAI基础设施提供的融资担保额度",
         "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
         "source": "www.reuters.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_774f7412d1a3",
+      "title": "《人工智能的局限》——休伯特·德雷福斯（1985）",
+      "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+      "primary_url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+      "source": "www.youtube.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "16fe8daf95dbd70408c5904cd11ad79dfba5790a",
+          "title": "《人工智能的局限》——休伯特·德雷福斯（1985）",
+          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T00:37:58.615000Z"
+        },
+        {
+          "id": "7a310ede28d5ed54705de5be4de08f495b6b3923",
+          "title": "《人工智能的局限》——休伯特·德雷福斯（1985） / The Limits of AI (1985)",
+          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-17T00:20:07Z"
+        },
+        {
+          "id": "bf32e64f3f810f03c02af538aff956f168e8eb8d",
+          "title": "《人工智能的局限》——休伯特·德雷福斯（1985） / The Limits of AI - Hubert Dreyfus (1985)",
+          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-17T00:20:07Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "www.youtube.com"
+      ],
+      "items": [
+        {
+          "id": "16fe8daf95dbd70408c5904cd11ad79dfba5790a",
+          "title": "《人工智能的局限》——休伯特·德雷福斯（1985）",
+          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T00:37:58.615000Z"
+        },
+        {
+          "id": "7a310ede28d5ed54705de5be4de08f495b6b3923",
+          "title": "《人工智能的局限》——休伯特·德雷福斯（1985） / The Limits of AI (1985)",
+          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-17T00:20:07Z"
+        },
+        {
+          "id": "bf32e64f3f810f03c02af538aff956f168e8eb8d",
+          "title": "《人工智能的局限》——休伯特·德雷福斯（1985） / The Limits of AI - Hubert Dreyfus (1985)",
+          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-17T00:20:07Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5603,
+      "importance": 0.5603,
+      "importance_score": 0.5603,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9419,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-17T00:20:07Z",
+      "latest_at": "2026-08-17T00:37:58.615000Z",
+      "primary_item": {
+        "id": "16fe8daf95dbd70408c5904cd11ad79dfba5790a",
+        "title": "《人工智能的局限》——休伯特·德雷福斯（1985）",
+        "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+        "source": "www.youtube.com",
         "source_name": "Buzzing"
       }
     },
@@ -1314,15 +1411,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5456,
-      "importance": 0.5456,
-      "importance_score": 0.5456,
+      "score": 0.5436,
+      "importance": 0.5436,
+      "importance_score": 0.5436,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8601,
+        "recency": 0.849,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1392,15 +1489,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5427,
-      "importance": 0.5427,
-      "importance_score": 0.5427,
+      "score": 0.5405,
+      "importance": 0.5405,
+      "importance_score": 0.5405,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.983,
+        "recency": 0.9703,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1490,15 +1587,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5407,
-      "importance": 0.5407,
-      "importance_score": 0.5407,
+      "score": 0.5388,
+      "importance": 0.5388,
+      "importance_score": 0.5388,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8328,
+        "recency": 0.822,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1569,15 +1666,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5396,
-      "importance": 0.5396,
-      "importance_score": 0.5396,
+      "score": 0.5374,
+      "importance": 0.5374,
+      "importance_score": 0.5374,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9655,
+        "recency": 0.9531,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1592,85 +1689,6 @@
         "url": "https://www.ithome.com/0/990/423.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_774f7412d1a3",
-      "title": "《人工智能的局限》——休伯特·德雷福斯（1985）",
-      "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
-      "primary_url": "https://www.youtube.com/watch?v=ePsQksj99LM",
-      "source": "www.youtube.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "16fe8daf95dbd70408c5904cd11ad79dfba5790a",
-          "title": "《人工智能的局限》——休伯特·德雷福斯（1985）",
-          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T00:37:58.615000Z"
-        },
-        {
-          "id": "bf32e64f3f810f03c02af538aff956f168e8eb8d",
-          "title": "《人工智能的局限》——休伯特·德雷福斯（1985） / The Limits of AI - Hubert Dreyfus (1985)",
-          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-17T00:20:07Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "www.youtube.com"
-      ],
-      "items": [
-        {
-          "id": "16fe8daf95dbd70408c5904cd11ad79dfba5790a",
-          "title": "《人工智能的局限》——休伯特·德雷福斯（1985）",
-          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T00:37:58.615000Z"
-        },
-        {
-          "id": "bf32e64f3f810f03c02af538aff956f168e8eb8d",
-          "title": "《人工智能的局限》——休伯特·德雷福斯（1985） / The Limits of AI - Hubert Dreyfus (1985)",
-          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-17T00:20:07Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5376,
-      "importance": 0.5376,
-      "importance_score": 0.5376,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9542,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-17T00:20:07Z",
-      "latest_at": "2026-08-17T00:37:58.615000Z",
-      "primary_item": {
-        "id": "16fe8daf95dbd70408c5904cd11ad79dfba5790a",
-        "title": "《人工智能的局限》——休伯特·德雷福斯（1985）",
-        "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
-        "source": "www.youtube.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1727,15 +1745,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5369,
-      "importance": 0.5369,
-      "importance_score": 0.5369,
+      "score": 0.5347,
+      "importance": 0.5347,
+      "importance_score": 0.5347,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9506,
+        "recency": 0.9383,
         "story_heat": 0.25
       },
       "category": "watch",
