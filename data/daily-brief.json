@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-08-17T07:02:08.517939Z",
+  "generated_at": "2026-08-17T08:07:50.244717Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_cfb1ad6d5c2e",
+      "title": "与 Gemini 和 Pixel 一起近距离接触游戏 / Get closer to the game with Gemini and Pixel",
+      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships",
+      "primary_url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a91b14668f19e9c4b49f9e20ab96e03d79f7e084",
+          "title": "与 Gemini 和 Pixel 一起近距离接触游戏 / Get closer to the game with Gemini and Pixel",
+          "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T08:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "a91b14668f19e9c4b49f9e20ab96e03d79f7e084",
+          "title": "与 Gemini 和 Pixel 一起近距离接触游戏 / Get closer to the game with Gemini and Pixel",
+          "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T08:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8517,
+      "importance": 0.8517,
+      "importance_score": 0.8517,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9981,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T08:00:00Z",
+      "latest_at": "2026-08-17T08:00:00Z",
+      "primary_item": {
+        "id": "a91b14668f19e9c4b49f9e20ab96e03d79f7e084",
+        "title": "与 Gemini 和 Pixel 一起近距离接触游戏 / Get closer to the game with Gemini and Pixel",
+        "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_81603460e983",
       "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
@@ -76,15 +138,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7986,
-      "importance": 0.7986,
-      "importance_score": 0.7986,
+      "score": 0.7961,
+      "importance": 0.7961,
+      "importance_score": 0.7961,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8778,
+        "recency": 0.864,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -101,6 +163,87 @@
         "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
         "source": "Simon Willison 博客",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_47c06eefe515",
+      "title": "AI圈迎来“降本”潮：企业对大模型成本愈发敏感，直言对主流AI实验室不抱期望",
+      "url": "https://www.aibase.com/news/30396",
+      "primary_url": "https://www.aibase.com/news/30396",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9ec02707edd8b3abb65cfdacdc1c3e249dc0ee1a",
+          "title": "AI圈迎来“降本”潮：企业对大模型成本愈发敏感，直言对主流AI实验室不抱期望",
+          "url": "https://www.aibase.com/news/30396",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T08:07:50.244717Z"
+        },
+        {
+          "id": "d2924d20a6b5cc6f52de6e6a546d8b51cfda2529",
+          "title": "AI 圈迎来「降本」潮：企业对大模型成本愈发敏感，直言对主流 AI 实验室不抱期望",
+          "url": "https://www.aibase.com/zh/news/30396",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "9ec02707edd8b3abb65cfdacdc1c3e249dc0ee1a",
+          "title": "AI圈迎来“降本”潮：企业对大模型成本愈发敏感，直言对主流AI实验室不抱期望",
+          "url": "https://www.aibase.com/news/30396",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T08:07:50.244717Z"
+        },
+        {
+          "id": "d2924d20a6b5cc6f52de6e6a546d8b51cfda2529",
+          "title": "AI 圈迎来「降本」潮：企业对大模型成本愈发敏感，直言对主流 AI 实验室不抱期望",
+          "url": "https://www.aibase.com/zh/news/30396",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T08:07:50.244717Z",
+      "latest_at": "2026-08-17T08:07:50.244717Z",
+      "primary_item": {
+        "id": "9ec02707edd8b3abb65cfdacdc1c3e249dc0ee1a",
+        "title": "AI圈迎来“降本”潮：企业对大模型成本愈发敏感，直言对主流AI实验室不抱期望",
+        "url": "https://www.aibase.com/news/30396",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -157,15 +300,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7898,
+      "importance": 0.7898,
+      "importance_score": 0.7898,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9843,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -238,15 +381,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7898,
+      "importance": 0.7898,
+      "importance_score": 0.7898,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9843,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -300,15 +443,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.726,
-      "importance": 0.726,
-      "importance_score": 0.726,
+      "score": 0.7238,
+      "importance": 0.7238,
+      "importance_score": 0.7238,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.752,
+        "recency": 0.7402,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -379,15 +522,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7846,
-      "importance": 0.7846,
-      "importance_score": 0.7846,
+      "score": 0.7819,
+      "importance": 0.7819,
+      "importance_score": 0.7819,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9555,
+        "recency": 0.9405,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -460,15 +603,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7818,
-      "importance": 0.7818,
-      "importance_score": 0.7818,
+      "score": 0.7791,
+      "importance": 0.7791,
+      "importance_score": 0.7791,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9399,
+        "recency": 0.9252,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -541,15 +684,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7818,
-      "importance": 0.7818,
-      "importance_score": 0.7818,
+      "score": 0.7791,
+      "importance": 0.7791,
+      "importance_score": 0.7791,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9399,
+        "recency": 0.9252,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -564,87 +707,6 @@
         "id": "83ba19bb2792ea655cba213819a09e199cfef98f",
         "title": "小红书开源大模型迎突破：华为昇腾完成 0 Day 全量适配与性能优化",
         "url": "https://www.aibase.com/news/30377",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_24179d4476a1",
-      "title": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
-      "url": "https://www.aibase.com/news/30383",
-      "primary_url": "https://www.aibase.com/news/30383",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "30d7d6bd2201f535d6b2a0cc5a6ae4c44a771b95",
-          "title": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
-          "url": "https://www.aibase.com/news/30383",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T02:44:49.164708Z"
-        },
-        {
-          "id": "9908116dffecfa6f700f50ba9a507953fe1fc6ea",
-          "title": "我国科学家发布大豆垂直大模型「丰菽」2.0：多模型协同，辅助智能育种",
-          "url": "https://www.aibase.com/zh/news/30383",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "30d7d6bd2201f535d6b2a0cc5a6ae4c44a771b95",
-          "title": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
-          "url": "https://www.aibase.com/news/30383",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T02:44:49.164708Z"
-        },
-        {
-          "id": "9908116dffecfa6f700f50ba9a507953fe1fc6ea",
-          "title": "我国科学家发布大豆垂直大模型「丰菽」2.0：多模型协同，辅助智能育种",
-          "url": "https://www.aibase.com/zh/news/30383",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7818,
-      "importance": 0.7818,
-      "importance_score": 0.7818,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9399,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T02:44:49.164708Z",
-      "latest_at": "2026-08-17T02:44:49.164708Z",
-      "primary_item": {
-        "id": "30d7d6bd2201f535d6b2a0cc5a6ae4c44a771b95",
-        "title": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
-        "url": "https://www.aibase.com/news/30383",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -703,15 +765,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6244,
-      "importance": 0.6244,
-      "importance_score": 0.6244,
+      "score": 0.6219,
+      "importance": 0.6219,
+      "importance_score": 0.6219,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8645,
+        "recency": 0.8509,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -729,26 +791,26 @@
       }
     },
     {
-      "story_id": "story_2dc2c342cc6e",
-      "title": "马斯克xAI再陷舆论漩涡：女子指控继父利用Grok篡改童年照生成数千张露骨图",
-      "url": "https://www.aibase.com/news/30381",
-      "primary_url": "https://www.aibase.com/news/30381",
+      "story_id": "story_24179d4476a1",
+      "title": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
+      "url": "https://www.aibase.com/news/30383",
+      "primary_url": "https://www.aibase.com/news/30383",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "bb4493b9431303acde27dc9fba69c46346f3a562",
-          "title": "马斯克xAI再陷舆论漩涡：女子指控继父利用Grok篡改童年照生成数千张露骨图",
-          "url": "https://www.aibase.com/news/30381",
+          "id": "30d7d6bd2201f535d6b2a0cc5a6ae4c44a771b95",
+          "title": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
+          "url": "https://www.aibase.com/news/30383",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-17T02:44:49.164708Z"
         },
         {
-          "id": "31c807e0cf6face605c509ffd0d9434f87d72fb7",
-          "title": "马斯克 xAI 再陷舆论漩涡：女子指控继父利用 Grok 篡改童年照生成数千张露骨图",
-          "url": "https://www.aibase.com/zh/news/30381",
+          "id": "9908116dffecfa6f700f50ba9a507953fe1fc6ea",
+          "title": "我国科学家发布大豆垂直大模型「丰菽」2.0：多模型协同，辅助智能育种",
+          "url": "https://www.aibase.com/zh/news/30383",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -762,18 +824,18 @@
       ],
       "items": [
         {
-          "id": "bb4493b9431303acde27dc9fba69c46346f3a562",
-          "title": "马斯克xAI再陷舆论漩涡：女子指控继父利用Grok篡改童年照生成数千张露骨图",
-          "url": "https://www.aibase.com/news/30381",
+          "id": "30d7d6bd2201f535d6b2a0cc5a6ae4c44a771b95",
+          "title": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
+          "url": "https://www.aibase.com/news/30383",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-17T02:44:49.164708Z"
         },
         {
-          "id": "31c807e0cf6face605c509ffd0d9434f87d72fb7",
-          "title": "马斯克 xAI 再陷舆论漩涡：女子指控继父利用 Grok 篡改童年照生成数千张露骨图",
-          "url": "https://www.aibase.com/zh/news/30381",
+          "id": "9908116dffecfa6f700f50ba9a507953fe1fc6ea",
+          "title": "我国科学家发布大豆垂直大模型「丰菽」2.0：多模型协同，辅助智能育种",
+          "url": "https://www.aibase.com/zh/news/30383",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -782,15 +844,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7818,
-      "importance": 0.7818,
-      "importance_score": 0.7818,
+      "score": 0.7791,
+      "importance": 0.7791,
+      "importance_score": 0.7791,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9399,
+        "recency": 0.9252,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -802,11 +864,89 @@
       "earliest_at": "2026-08-17T02:44:49.164708Z",
       "latest_at": "2026-08-17T02:44:49.164708Z",
       "primary_item": {
-        "id": "bb4493b9431303acde27dc9fba69c46346f3a562",
-        "title": "马斯克xAI再陷舆论漩涡：女子指控继父利用Grok篡改童年照生成数千张露骨图",
-        "url": "https://www.aibase.com/news/30381",
+        "id": "30d7d6bd2201f535d6b2a0cc5a6ae4c44a771b95",
+        "title": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
+        "url": "https://www.aibase.com/news/30383",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "Agent频繁出现虚假完成、遗忘规则的问题，往往不是模型不行，而是运行框架Harness设计的不足。这篇文章结合DoorDash、OpenAI、Anthropic的实战案例，拆解了循环控制、工具权限、记忆管理、崩溃恢复、安全边界、任务验收六大关键设计维度。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-08-16",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "97d3ec9e967f81286c3aaab38967ea39494d3974",
+          "title": "Agent频繁出现虚假完成、遗忘规则的问题，往往不是模型不行，而是运行框架Harness设计的不足。这篇文章结合DoorDash、OpenAI、Anthropic的实战案例，拆解了循环控制、工具权限、记忆管理、崩溃恢复、安全边界、任务验收六大关键设计维度。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-17T08:07:50.244717Z"
+        },
+        {
+          "id": "443412f48149f7c99538074ffe688dc0bed0a065",
+          "title": "本周AI论文合集直击大模型与Agent落地的各类隐蔽痛点，或许可以帮你规避不少隐藏陷阱。包含修正缩放定律、大幅降低预训练测算成本的新公式，也曝光了推理轨迹窃取、心智病毒传播等新兴的安全风险。此外还解析了提示词恶性膨胀、上下文压缩丢失约束、底层架构暗藏缺陷等工程难题。做Agent、大模型研发的开发者们可以借鉴下！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-17T08:07:50.244717Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "社区更新 · 2026-08-16"
+      ],
+      "items": [
+        {
+          "id": "97d3ec9e967f81286c3aaab38967ea39494d3974",
+          "title": "Agent频繁出现虚假完成、遗忘规则的问题，往往不是模型不行，而是运行框架Harness设计的不足。这篇文章结合DoorDash、OpenAI、Anthropic的实战案例，拆解了循环控制、工具权限、记忆管理、崩溃恢复、安全边界、任务验收六大关键设计维度。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-17T08:07:50.244717Z"
+        },
+        {
+          "id": "443412f48149f7c99538074ffe688dc0bed0a065",
+          "title": "本周AI论文合集直击大模型与Agent落地的各类隐蔽痛点，或许可以帮你规避不少隐藏陷阱。包含修正缩放定律、大幅降低预训练测算成本的新公式，也曝光了推理轨迹窃取、心智病毒传播等新兴的安全风险。此外还解析了提示词恶性膨胀、上下文压缩丢失约束、底层架构暗藏缺陷等工程难题。做Agent、大模型研发的开发者们可以借鉴下！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-17T08:07:50.244717Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-17T08:07:50.244717Z",
+      "latest_at": "2026-08-17T08:07:50.244717Z",
+      "primary_item": {
+        "id": "97d3ec9e967f81286c3aaab38967ea39494d3974",
+        "title": "Agent频繁出现虚假完成、遗忘规则的问题，往往不是模型不行，而是运行框架Harness设计的不足。这篇文章结合DoorDash、OpenAI、Anthropic的实战案例，拆解了循环控制、工具权限、记忆管理、崩溃恢复、安全边界、任务验收六大关键设计维度。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-08-16",
+        "source_name": "WaytoAGI"
       }
     },
     {
@@ -900,15 +1040,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5799,
-      "importance": 0.5799,
-      "importance_score": 0.5799,
+      "score": 0.5773,
+      "importance": 0.5773,
+      "importance_score": 0.5773,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9117,
+        "recency": 0.8974,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1017,15 +1157,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5786,
-      "importance": 0.5786,
-      "importance_score": 0.5786,
+      "score": 0.5761,
+      "importance": 0.5761,
+      "importance_score": 0.5761,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9047,
+        "recency": 0.8905,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1134,15 +1274,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5757,
-      "importance": 0.5757,
-      "importance_score": 0.5757,
+      "score": 0.5732,
+      "importance": 0.5732,
+      "importance_score": 0.5732,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8884,
+        "recency": 0.8745,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1160,26 +1300,26 @@
       }
     },
     {
-      "story_id": "story_ef461b3789bf",
-      "title": "AI 凭视觉线索锁定拍照地点：87%-91% 识别率，删掉 GPS 也没用",
-      "url": "https://www.aibase.com/news/30372",
-      "primary_url": "https://www.aibase.com/news/30372",
+      "story_id": "story_2dc2c342cc6e",
+      "title": "马斯克xAI再陷舆论漩涡：女子指控继父利用Grok篡改童年照生成数千张露骨图",
+      "url": "https://www.aibase.com/news/30381",
+      "primary_url": "https://www.aibase.com/news/30381",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5d106922063c8c89baf6048988737b7ac90bb0aa",
-          "title": "AI 凭视觉线索锁定拍照地点：87%-91% 识别率，删掉 GPS 也没用",
-          "url": "https://www.aibase.com/news/30372",
+          "id": "bb4493b9431303acde27dc9fba69c46346f3a562",
+          "title": "马斯克xAI再陷舆论漩涡：女子指控继父利用Grok篡改童年照生成数千张露骨图",
+          "url": "https://www.aibase.com/news/30381",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-17T01:27:08.014203Z"
+          "published_at": "2026-08-17T02:44:49.164708Z"
         },
         {
-          "id": "7c8afc6e6c61a203c6bd707be1fa953e89c7f369",
-          "title": "AI 凭视觉线索锁定拍照地点：87%-91% 识别率，删掉 GPS 也没用",
-          "url": "https://www.aibase.com/zh/news/30372",
+          "id": "31c807e0cf6face605c509ffd0d9434f87d72fb7",
+          "title": "马斯克 xAI 再陷舆论漩涡：女子指控继父利用 Grok 篡改童年照生成数千张露骨图",
+          "url": "https://www.aibase.com/zh/news/30381",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1193,18 +1333,18 @@
       ],
       "items": [
         {
-          "id": "5d106922063c8c89baf6048988737b7ac90bb0aa",
-          "title": "AI 凭视觉线索锁定拍照地点：87%-91% 识别率，删掉 GPS 也没用",
-          "url": "https://www.aibase.com/news/30372",
+          "id": "bb4493b9431303acde27dc9fba69c46346f3a562",
+          "title": "马斯克xAI再陷舆论漩涡：女子指控继父利用Grok篡改童年照生成数千张露骨图",
+          "url": "https://www.aibase.com/news/30381",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-17T01:27:08.014203Z"
+          "published_at": "2026-08-17T02:44:49.164708Z"
         },
         {
-          "id": "7c8afc6e6c61a203c6bd707be1fa953e89c7f369",
-          "title": "AI 凭视觉线索锁定拍照地点：87%-91% 识别率，删掉 GPS 也没用",
-          "url": "https://www.aibase.com/zh/news/30372",
+          "id": "31c807e0cf6face605c509ffd0d9434f87d72fb7",
+          "title": "马斯克 xAI 再陷舆论漩涡：女子指控继父利用 Grok 篡改童年照生成数千张露骨图",
+          "url": "https://www.aibase.com/zh/news/30381",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1213,15 +1353,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7787,
-      "importance": 0.7787,
-      "importance_score": 0.7787,
+      "score": 0.7791,
+      "importance": 0.7791,
+      "importance_score": 0.7791,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9225,
+        "recency": 0.9252,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1230,14 +1370,112 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-17T01:27:08.014203Z",
+      "earliest_at": "2026-08-17T02:44:49.164708Z",
       "latest_at": "2026-08-17T02:44:49.164708Z",
       "primary_item": {
-        "id": "5d106922063c8c89baf6048988737b7ac90bb0aa",
-        "title": "AI 凭视觉线索锁定拍照地点：87%-91% 识别率，删掉 GPS 也没用",
-        "url": "https://www.aibase.com/news/30372",
+        "id": "bb4493b9431303acde27dc9fba69c46346f3a562",
+        "title": "马斯克xAI再陷舆论漩涡：女子指控继父利用Grok篡改童年照生成数千张露骨图",
+        "url": "https://www.aibase.com/news/30381",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a24a68501133",
+      "title": "独家：消息人士称，Anthropic的IPO估值取决于2028年1900亿至2000亿美元的营收预测",
+      "url": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15",
+      "primary_url": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15",
+      "source": "www.reuters.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3cd1a21a0381b863c975bd0379c951e969c173cc",
+          "title": "独家：消息人士称，Anthropic的IPO估值取决于2028年1900亿至2000亿美元的营收预测",
+          "url": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T07:18:02.590000Z"
+        },
+        {
+          "id": "4831da02cbb52ec2f0c55d62ce4d7a77787209d6",
+          "title": "Anthropic IPO 估值取决于 2028 年 190-200B 美元的收入预测 / Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+          "url": "https://news.ycombinator.com/item?id=49323620",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T21:47:00.221000Z"
+        },
+        {
+          "id": "2f43a5313ed0a40a14815edf8d40f7bb186012ea",
+          "title": "独家：消息人士称，Anthropic的IPO估值取决于2028年1900亿至2000亿美元的营收预测 / Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+          "url": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T21:00:25Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "3cd1a21a0381b863c975bd0379c951e969c173cc",
+          "title": "独家：消息人士称，Anthropic的IPO估值取决于2028年1900亿至2000亿美元的营收预测",
+          "url": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T07:18:02.590000Z"
+        },
+        {
+          "id": "4831da02cbb52ec2f0c55d62ce4d7a77787209d6",
+          "title": "Anthropic IPO 估值取决于 2028 年 190-200B 美元的收入预测 / Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+          "url": "https://news.ycombinator.com/item?id=49323620",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T21:47:00.221000Z"
+        },
+        {
+          "id": "2f43a5313ed0a40a14815edf8d40f7bb186012ea",
+          "title": "独家：消息人士称，Anthropic的IPO估值取决于2028年1900亿至2000亿美元的营收预测 / Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+          "url": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T21:00:25Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5687,
+      "importance": 0.5687,
+      "importance_score": 0.5687,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9881,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T21:00:25Z",
+      "latest_at": "2026-08-17T07:18:02.590000Z",
+      "primary_item": {
+        "id": "3cd1a21a0381b863c975bd0379c951e969c173cc",
+        "title": "独家：消息人士称，Anthropic的IPO估值取决于2028年1900亿至2000亿美元的营收预测",
+        "url": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15",
+        "source": "www.reuters.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1267,18 +1505,18 @@
           "published_at": "2026-08-16T22:49:08.009000Z"
         },
         {
-          "id": "fb3aff81886c46f144c2b18e40f262795b2a1808",
+          "id": "63ccfe6f157fcc1e9c61323b7a4d1c177e548fd0",
           "title": "年轻人对AI首席执行官的憎恶之深，简直令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
           "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-16T21:34:06Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "futurism.com",
         "hackernews"
       ],
@@ -1302,26 +1540,26 @@
           "published_at": "2026-08-16T22:49:08.009000Z"
         },
         {
-          "id": "fb3aff81886c46f144c2b18e40f262795b2a1808",
+          "id": "63ccfe6f157fcc1e9c61323b7a4d1c177e548fd0",
           "title": "年轻人对AI首席执行官的憎恶之深，简直令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
           "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-16T21:34:06Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.562,
-      "importance": 0.562,
-      "importance_score": 0.562,
+      "score": 0.5593,
+      "importance": 0.5593,
+      "importance_score": 0.5593,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9512,
+        "recency": 0.9363,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1336,185 +1574,6 @@
         "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
         "source": "futurism.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7ec51ac786a3",
-      "title": "英伟达大幅削减了其可能为OpenAI基础设施提供的融资担保额度",
-      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-      "primary_url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-      "source": "www.reuters.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "6962d16e18858c5af97e060c22654b99471b85d1",
-          "title": "英伟达大幅削减了其可能为OpenAI基础设施提供的融资担保额度",
-          "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T01:58:00.413000Z"
-        },
-        {
-          "id": "457b877e8c2046c0acb3f6e23fde3cbb21883c40",
-          "title": "英伟达大幅削减了其可能为OpenAI基础设施提供的融资担保额度 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-          "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "b1183d5a3643a41d2541bcd015a4fb8d11502f76",
-          "title": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-          "url": "https://news.ycombinator.com/item?id=49323686",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T21:47:00.221000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Readhub · AI",
-        "hackernews",
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "6962d16e18858c5af97e060c22654b99471b85d1",
-          "title": "英伟达大幅削减了其可能为OpenAI基础设施提供的融资担保额度",
-          "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T01:58:00.413000Z"
-        },
-        {
-          "id": "457b877e8c2046c0acb3f6e23fde3cbb21883c40",
-          "title": "英伟达大幅削减了其可能为OpenAI基础设施提供的融资担保额度 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-          "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "b1183d5a3643a41d2541bcd015a4fb8d11502f76",
-          "title": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-          "url": "https://news.ycombinator.com/item?id=49323686",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T21:47:00.221000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5581,
-      "importance": 0.5581,
-      "importance_score": 0.5581,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9294,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T21:47:00.221000Z",
-      "latest_at": "2026-08-17T01:58:00.413000Z",
-      "primary_item": {
-        "id": "6962d16e18858c5af97e060c22654b99471b85d1",
-        "title": "英伟达大幅削减了其可能为OpenAI基础设施提供的融资担保额度",
-        "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-        "source": "www.reuters.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_82762d6fd591",
-      "title": "美团全员\"养虾\"曾日烧千万：王莆中复盘 AI 变革，CatPaw 终跑通",
-      "url": "https://www.aibase.com/news/30367",
-      "primary_url": "https://www.aibase.com/news/30367",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9c00aa497067e8d58911f47c56ccb3034af8e050",
-          "title": "美团全员\"养虾\"曾日烧千万：王莆中复盘 AI 变革，CatPaw 终跑通",
-          "url": "https://www.aibase.com/news/30367",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T01:27:08.014203Z"
-        },
-        {
-          "id": "9ef56ca133992447f422bb86db349ff3dd5801a5",
-          "title": "美团全员「养虾」曾日烧千万：王莆中复盘 AI 变革，CatPaw 终跑通",
-          "url": "https://www.aibase.com/zh/news/30367",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "9c00aa497067e8d58911f47c56ccb3034af8e050",
-          "title": "美团全员\"养虾\"曾日烧千万：王莆中复盘 AI 变革，CatPaw 终跑通",
-          "url": "https://www.aibase.com/news/30367",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T01:27:08.014203Z"
-        },
-        {
-          "id": "9ef56ca133992447f422bb86db349ff3dd5801a5",
-          "title": "美团全员「养虾」曾日烧千万：王莆中复盘 AI 变革，CatPaw 终跑通",
-          "url": "https://www.aibase.com/zh/news/30367",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7787,
-      "importance": 0.7787,
-      "importance_score": 0.7787,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9225,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T01:27:08.014203Z",
-      "latest_at": "2026-08-17T01:27:08.014203Z",
-      "primary_item": {
-        "id": "9c00aa497067e8d58911f47c56ccb3034af8e050",
-        "title": "美团全员\"养虾\"曾日烧千万：王莆中复盘 AI 变革，CatPaw 终跑通",
-        "url": "https://www.aibase.com/news/30367",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1590,15 +1649,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5387,
-      "importance": 0.5387,
-      "importance_score": 0.5387,
+      "score": 0.5364,
+      "importance": 0.5364,
+      "importance_score": 0.5364,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8218,
+        "recency": 0.8089,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1616,179 +1675,84 @@
       }
     },
     {
-      "story_id": "story_5783dcb24fd8",
-      "title": "[程序员] 以后是否会因为 Ai 谷电出现非本地时区上班的公司",
-      "url": "https://www.v2ex.com/t/1234908",
-      "primary_url": "https://www.v2ex.com/t/1234908",
-      "source": "V2EX (创意工作者社区)",
-      "source_name": "Info Flow",
+      "story_id": "story_ef461b3789bf",
+      "title": "AI 凭视觉线索锁定拍照地点：87%-91% 识别率，删掉 GPS 也没用",
+      "url": "https://www.aibase.com/news/30372",
+      "primary_url": "https://www.aibase.com/news/30372",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "8c765c7a0f939fc2d31202fabf536c4bd20a352b",
-          "title": "[程序员] 以后是否会因为 Ai 谷电出现非本地时区上班的公司",
-          "url": "https://www.v2ex.com/t/1234908",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-17T02:41:42Z"
+          "id": "5d106922063c8c89baf6048988737b7ac90bb0aa",
+          "title": "AI 凭视觉线索锁定拍照地点：87%-91% 识别率，删掉 GPS 也没用",
+          "url": "https://www.aibase.com/news/30372",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T01:27:08.014203Z"
         },
         {
-          "id": "8d5dffa397a543b8d622707db1ec5cd809d9ddee",
-          "title": "[职场话题] 以后是否会因为 Ai 谷电出现非本地时区上班的公司",
-          "url": "https://www.v2ex.com/t/1234908",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-17T02:41:42Z"
+          "id": "7c8afc6e6c61a203c6bd707be1fa953e89c7f369",
+          "title": "AI 凭视觉线索锁定拍照地点：87%-91% 识别率，删掉 GPS 也没用",
+          "url": "https://www.aibase.com/zh/news/30372",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "V2EX (创意工作者社区)"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "8c765c7a0f939fc2d31202fabf536c4bd20a352b",
-          "title": "[程序员] 以后是否会因为 Ai 谷电出现非本地时区上班的公司",
-          "url": "https://www.v2ex.com/t/1234908",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-17T02:41:42Z"
+          "id": "5d106922063c8c89baf6048988737b7ac90bb0aa",
+          "title": "AI 凭视觉线索锁定拍照地点：87%-91% 识别率，删掉 GPS 也没用",
+          "url": "https://www.aibase.com/news/30372",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T01:27:08.014203Z"
         },
         {
-          "id": "8d5dffa397a543b8d622707db1ec5cd809d9ddee",
-          "title": "[职场话题] 以后是否会因为 Ai 谷电出现非本地时区上班的公司",
-          "url": "https://www.v2ex.com/t/1234908",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-17T02:41:42Z"
+          "id": "7c8afc6e6c61a203c6bd707be1fa953e89c7f369",
+          "title": "AI 凭视觉线索锁定拍照地点：87%-91% 识别率，删掉 GPS 也没用",
+          "url": "https://www.aibase.com/zh/news/30372",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5349,
-      "importance": 0.5349,
-      "importance_score": 0.5349,
-      "importance_label": "值得关注",
+      "score": 0.7761,
+      "importance": 0.7761,
+      "importance_score": 0.7761,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9392,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9081,
         "story_heat": 0.25
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-17T02:41:42Z",
-      "latest_at": "2026-08-17T02:41:42Z",
+      "earliest_at": "2026-08-17T01:27:08.014203Z",
+      "latest_at": "2026-08-17T02:44:49.164708Z",
       "primary_item": {
-        "id": "8c765c7a0f939fc2d31202fabf536c4bd20a352b",
-        "title": "[程序员] 以后是否会因为 Ai 谷电出现非本地时区上班的公司",
-        "url": "https://www.v2ex.com/t/1234908",
-        "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_eb6ce119e52b",
-      "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
-      "url": "https://news.ycombinator.com/item?id=49319814",
-      "primary_url": "https://news.ycombinator.com/item?id=49319814",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
-          "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
-          "url": "https://news.ycombinator.com/item?id=49319814",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T15:12:34.771000Z"
-        },
-        {
-          "id": "62946e9bde0730530a87360708e79ba18ebea3d9",
-          "title": "Show HN: 一款所有用户共享记忆的公共人工智能",
-          "url": "https://wildstatic.com",
-          "source": "wildstatic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T13:26:06.243000Z"
-        },
-        {
-          "id": "4f2d6bb5582107dcd0855ca467ac6c2ca9a911d3",
-          "title": "Show HN: 一款所有用户共享记忆的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
-          "url": "https://wildstatic.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T13:21:45Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "wildstatic.com"
-      ],
-      "items": [
-        {
-          "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
-          "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
-          "url": "https://news.ycombinator.com/item?id=49319814",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T15:12:34.771000Z"
-        },
-        {
-          "id": "62946e9bde0730530a87360708e79ba18ebea3d9",
-          "title": "Show HN: 一款所有用户共享记忆的公共人工智能",
-          "url": "https://wildstatic.com",
-          "source": "wildstatic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T13:26:06.243000Z"
-        },
-        {
-          "id": "4f2d6bb5582107dcd0855ca467ac6c2ca9a911d3",
-          "title": "Show HN: 一款所有用户共享记忆的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
-          "url": "https://wildstatic.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T13:21:45Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.534,
-      "importance": 0.534,
-      "importance_score": 0.534,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7957,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T13:21:45Z",
-      "latest_at": "2026-08-16T15:12:34.771000Z",
-      "primary_item": {
-        "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
-        "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
-        "url": "https://news.ycombinator.com/item?id=49319814",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "5d106922063c8c89baf6048988737b7ac90bb0aa",
+        "title": "AI 凭视觉线索锁定拍照地点：87%-91% 识别率，删掉 GPS 也没用",
+        "url": "https://www.aibase.com/news/30372",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
