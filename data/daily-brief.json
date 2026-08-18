@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T04:38:58.680999Z",
+  "generated_at": "2026-08-18T05:32:52.747528Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8537,
-      "importance": 0.8537,
-      "importance_score": 0.8537,
+      "score": 0.8516,
+      "importance": 0.8516,
+      "importance_score": 0.8516,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9115,
+        "recency": 0.8998,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -157,15 +157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8383,
-      "importance": 0.8383,
-      "importance_score": 0.8383,
+      "score": 0.8363,
+      "importance": 0.8363,
+      "importance_score": 0.8363,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8797,
+        "recency": 0.8683,
         "story_heat": 0.0
       },
       "category": "official",
@@ -181,88 +181,6 @@
         "title": "相同的集群，利用率增加了 33 个点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
         "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
         "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f137d9ea2f9f",
-      "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
-      "url": "https://openai.com/index/the-defenders-window",
-      "primary_url": "https://openai.com/index/the-defenders-window",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9163f70edad4cc1828e92c7e823a607aad5512f0",
-          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
-          "url": "https://openai.com/index/the-defenders-window",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T05:30:00Z"
-        },
-        {
-          "id": "9575a034f19954426ba1d1e0ddeff1f6cab41ea5",
-          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
-          "url": "https://openai.com/index/the-defenders-window",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T05:30:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      ],
-      "items": [
-        {
-          "id": "9163f70edad4cc1828e92c7e823a607aad5512f0",
-          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
-          "url": "https://openai.com/index/the-defenders-window",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T05:30:00Z"
-        },
-        {
-          "id": "9575a034f19954426ba1d1e0ddeff1f6cab41ea5",
-          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
-          "url": "https://openai.com/index/the-defenders-window",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T05:30:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8259,
-      "importance": 0.8259,
-      "importance_score": 0.8259,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7158,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T05:30:00Z",
-      "latest_at": "2026-08-17T05:30:00Z",
-      "primary_item": {
-        "id": "9163f70edad4cc1828e92c7e823a607aad5512f0",
-        "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
-        "url": "https://openai.com/index/the-defenders-window",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -301,15 +219,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8139,
-      "importance": 0.8139,
-      "importance_score": 0.8139,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.833,
+        "recency": 0.8223,
         "story_heat": 0.0
       },
       "category": "official",
@@ -477,15 +395,15 @@
       ],
       "item_count": 7,
       "duplicate_count": 7,
-      "score": 0.8407,
-      "importance": 0.8407,
-      "importance_score": 0.8407,
+      "score": 0.8387,
+      "importance": 0.8387,
+      "importance_score": 0.8387,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.867,
+        "recency": 0.8558,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -539,15 +457,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8056,
-      "importance": 0.8056,
-      "importance_score": 0.8056,
+      "score": 0.8039,
+      "importance": 0.8039,
+      "importance_score": 0.8039,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7422,
+        "recency": 0.7326,
         "story_heat": 0.0
       },
       "category": "official",
@@ -620,15 +538,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7904,
-      "importance": 0.7904,
-      "importance_score": 0.7904,
+      "score": 0.7881,
+      "importance": 0.7881,
+      "importance_score": 0.7881,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9878,
+        "recency": 0.9751,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -701,15 +619,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7703,
-      "importance": 0.7703,
-      "importance_score": 0.7703,
+      "score": 0.7685,
+      "importance": 0.7685,
+      "importance_score": 0.7685,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7929,
+        "recency": 0.7827,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -726,68 +644,6 @@
         "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
         "source": "NVIDIA Blog（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ad5623d5cc70",
-      "title": "OpenAI 加入 PORTS-Pike 项目 / OpenAI joins PORTS-Pike project",
-      "url": "https://openai.com/index/openai-joins-ports-pike-project",
-      "primary_url": "https://openai.com/index/openai-joins-ports-pike-project",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "56b86347d148780724bfa2fb4adea8f45cdf3e76",
-          "title": "OpenAI 加入 PORTS-Pike 项目 / OpenAI joins PORTS-Pike project",
-          "url": "https://openai.com/index/openai-joins-ports-pike-project",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T05:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "56b86347d148780724bfa2fb4adea8f45cdf3e76",
-          "title": "OpenAI 加入 PORTS-Pike 项目 / OpenAI joins PORTS-Pike project",
-          "url": "https://openai.com/index/openai-joins-ports-pike-project",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T05:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7999,
-      "importance": 0.7999,
-      "importance_score": 0.7999,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7107,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T05:00:00Z",
-      "latest_at": "2026-08-17T05:00:00Z",
-      "primary_item": {
-        "id": "56b86347d148780724bfa2fb4adea8f45cdf3e76",
-        "title": "OpenAI 加入 PORTS-Pike 项目 / OpenAI joins PORTS-Pike project",
-        "url": "https://openai.com/index/openai-joins-ports-pike-project",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -843,15 +699,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7615,
-      "importance": 0.7615,
-      "importance_score": 0.7615,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.794,
+        "recency": 0.7837,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -924,15 +780,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7904,
-      "importance": 0.7904,
-      "importance_score": 0.7904,
+      "score": 0.7881,
+      "importance": 0.7881,
+      "importance_score": 0.7881,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9878,
+        "recency": 0.9751,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -986,15 +842,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
+      "score": 0.7507,
+      "importance": 0.7507,
+      "importance_score": 0.7507,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9346,
+        "recency": 0.9226,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1104,15 +960,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8109,
-      "importance": 0.8109,
-      "importance_score": 0.8109,
+      "score": 0.8089,
+      "importance": 0.8089,
+      "importance_score": 0.8089,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8571,
+        "recency": 0.846,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1166,15 +1022,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7454,
-      "importance": 0.7454,
-      "importance_score": 0.7454,
+      "score": 0.7432,
+      "importance": 0.7432,
+      "importance_score": 0.7432,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9266,
+        "recency": 0.9147,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1226,15 +1082,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.733,
-      "importance": 0.733,
-      "importance_score": 0.733,
+      "score": 0.7312,
+      "importance": 0.7312,
+      "importance_score": 0.7312,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7911,
+        "recency": 0.7809,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1305,15 +1161,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7904,
-      "importance": 0.7904,
-      "importance_score": 0.7904,
+      "score": 0.7881,
+      "importance": 0.7881,
+      "importance_score": 0.7881,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9878,
+        "recency": 0.9751,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1385,15 +1241,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7874,
-      "importance": 0.7874,
-      "importance_score": 0.7874,
+      "score": 0.7852,
+      "importance": 0.7852,
+      "importance_score": 0.7852,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9713,
+        "recency": 0.9588,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1466,15 +1322,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7874,
-      "importance": 0.7874,
-      "importance_score": 0.7874,
+      "score": 0.7852,
+      "importance": 0.7852,
+      "importance_score": 0.7852,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9713,
+        "recency": 0.9588,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1566,15 +1422,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6451,
-      "importance": 0.6451,
-      "importance_score": 0.6451,
+      "score": 0.6432,
+      "importance": 0.6432,
+      "importance_score": 0.6432,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8408,
+        "recency": 0.83,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1735,15 +1591,15 @@
       ],
       "item_count": 7,
       "duplicate_count": 7,
-      "score": 0.6403,
-      "importance": 0.6403,
-      "importance_score": 0.6403,
+      "score": 0.6383,
+      "importance": 0.6383,
+      "importance_score": 0.6383,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8393,
+        "recency": 0.8285,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1758,6 +1614,166 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-08-17",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_7279deb93600",
+      "title": "Reddit测试AI视频功能，将文本帖子转为音视频内容",
+      "url": "https://www.aibase.com/news/30419",
+      "primary_url": "https://www.aibase.com/news/30419",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b008d6862fe519efe75eabc5f3a3e28222cd89f0",
+          "title": "Reddit测试AI视频功能，将文本帖子转为音视频内容",
+          "url": "https://www.aibase.com/news/30419",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T02:37:56.770077Z"
+        },
+        {
+          "id": "d8276d6f8365437ea00af6756b3cc8a806566649",
+          "title": "Reddit 测试 AI 视频功能，将文本帖子转为音视频内容",
+          "url": "https://www.aibase.com/zh/news/30419",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "b008d6862fe519efe75eabc5f3a3e28222cd89f0",
+          "title": "Reddit测试AI视频功能，将文本帖子转为音视频内容",
+          "url": "https://www.aibase.com/news/30419",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T02:37:56.770077Z"
+        },
+        {
+          "id": "d8276d6f8365437ea00af6756b3cc8a806566649",
+          "title": "Reddit 测试 AI 视频功能，将文本帖子转为音视频内容",
+          "url": "https://www.aibase.com/zh/news/30419",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7852,
+      "importance": 0.7852,
+      "importance_score": 0.7852,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9588,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T02:37:56.770077Z",
+      "latest_at": "2026-08-18T03:47:57.749898Z",
+      "primary_item": {
+        "id": "b008d6862fe519efe75eabc5f3a3e28222cd89f0",
+        "title": "Reddit测试AI视频功能，将文本帖子转为音视频内容",
+        "url": "https://www.aibase.com/news/30419",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_4f997d6e653c",
+      "title": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / AirTag reveals how Amazon destroys rare books for AI training",
+      "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
+      "primary_url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
+      "source": "The Decoder AI News",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "63e2d32b79587da8f62d11f0db26a7a216b91ec7",
+          "title": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / AirTag reveals how Amazon destroys rare books for AI training",
+          "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-17T14:43:04Z"
+        },
+        {
+          "id": "df7ad8dd677c794ee98f871b87fc348ed89665c6",
+          "title": "Apple AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / Apple AirTag reveals how Amazon destroys rare books for AI training",
+          "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-17T17:55:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "The Decoder AI News"
+      ],
+      "items": [
+        {
+          "id": "63e2d32b79587da8f62d11f0db26a7a216b91ec7",
+          "title": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / AirTag reveals how Amazon destroys rare books for AI training",
+          "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-17T14:43:04Z"
+        },
+        {
+          "id": "df7ad8dd677c794ee98f871b87fc348ed89665c6",
+          "title": "Apple AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / Apple AirTag reveals how Amazon destroys rare books for AI training",
+          "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-17T17:55:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6141,
+      "importance": 0.6141,
+      "importance_score": 0.6141,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.8072,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-17T14:43:04Z",
+      "latest_at": "2026-08-17T17:55:50Z",
+      "primary_item": {
+        "id": "63e2d32b79587da8f62d11f0db26a7a216b91ec7",
+        "title": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / AirTag reveals how Amazon destroys rare books for AI training",
+        "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
+        "source": "The Decoder AI News",
+        "source_name": "Curated Media"
       }
     }
   ]
