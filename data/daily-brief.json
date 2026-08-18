@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T05:32:52.747528Z",
+  "generated_at": "2026-08-18T06:49:41.471509Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8516,
-      "importance": 0.8516,
-      "importance_score": 0.8516,
+      "score": 0.8486,
+      "importance": 0.8486,
+      "importance_score": 0.8486,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8998,
+        "recency": 0.8833,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -157,15 +157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8363,
-      "importance": 0.8363,
-      "importance_score": 0.8363,
+      "score": 0.8334,
+      "importance": 0.8334,
+      "importance_score": 0.8334,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8683,
+        "recency": 0.8524,
         "story_heat": 0.0
       },
       "category": "official",
@@ -219,15 +219,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.8093,
+      "importance": 0.8093,
+      "importance_score": 0.8093,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8223,
+        "recency": 0.8072,
         "story_heat": 0.0
       },
       "category": "official",
@@ -395,15 +395,15 @@
       ],
       "item_count": 7,
       "duplicate_count": 7,
-      "score": 0.8387,
-      "importance": 0.8387,
-      "importance_score": 0.8387,
+      "score": 0.8358,
+      "importance": 0.8358,
+      "importance_score": 0.8358,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8558,
+        "recency": 0.8402,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -457,15 +457,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8039,
-      "importance": 0.8039,
-      "importance_score": 0.8039,
+      "score": 0.8015,
+      "importance": 0.8015,
+      "importance_score": 0.8015,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7326,
+        "recency": 0.7192,
         "story_heat": 0.0
       },
       "category": "official",
@@ -485,26 +485,26 @@
       }
     },
     {
-      "story_id": "story_80f87858c9c7",
-      "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-      "url": "https://www.aibase.com/news/30426",
-      "primary_url": "https://www.aibase.com/news/30426",
+      "story_id": "story_18f01657010d",
+      "title": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+      "url": "https://www.aibase.com/news/30429",
+      "primary_url": "https://www.aibase.com/news/30429",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "48f4b70d03ab350b265876c89f22187a5f1e8baa",
-          "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-          "url": "https://www.aibase.com/news/30426",
+          "id": "e32729d5292817c9c557c76fc9fdaad1bf706caf",
+          "title": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+          "url": "https://www.aibase.com/news/30429",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T03:47:57.749898Z"
+          "published_at": "2026-08-18T06:49:41.471509Z"
         },
         {
-          "id": "9825ec55a77981fd99da5bb06dfcce5b6e6c8ae2",
-          "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-          "url": "https://www.aibase.com/zh/news/30426",
+          "id": "33db18a733972cd9fecc2b14db4df86ee77bb97d",
+          "title": "AI 版权危机升级：独立音乐出版商起诉 Anthropic 与 Suno，索赔或超 10 亿美元",
+          "url": "https://www.aibase.com/zh/news/30429",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -518,18 +518,18 @@
       ],
       "items": [
         {
-          "id": "48f4b70d03ab350b265876c89f22187a5f1e8baa",
-          "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-          "url": "https://www.aibase.com/news/30426",
+          "id": "e32729d5292817c9c557c76fc9fdaad1bf706caf",
+          "title": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+          "url": "https://www.aibase.com/news/30429",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T03:47:57.749898Z"
+          "published_at": "2026-08-18T06:49:41.471509Z"
         },
         {
-          "id": "9825ec55a77981fd99da5bb06dfcce5b6e6c8ae2",
-          "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-          "url": "https://www.aibase.com/zh/news/30426",
+          "id": "33db18a733972cd9fecc2b14db4df86ee77bb97d",
+          "title": "AI 版权危机升级：独立音乐出版商起诉 Anthropic 与 Suno，索赔或超 10 亿美元",
+          "url": "https://www.aibase.com/zh/news/30429",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -538,15 +538,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7881,
-      "importance": 0.7881,
-      "importance_score": 0.7881,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9751,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -555,12 +555,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T03:47:57.749898Z",
-      "latest_at": "2026-08-18T04:38:58.680999Z",
+      "earliest_at": "2026-08-18T06:49:41.471509Z",
+      "latest_at": "2026-08-18T06:49:41.471509Z",
       "primary_item": {
-        "id": "48f4b70d03ab350b265876c89f22187a5f1e8baa",
-        "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-        "url": "https://www.aibase.com/news/30426",
+        "id": "e32729d5292817c9c557c76fc9fdaad1bf706caf",
+        "title": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+        "url": "https://www.aibase.com/news/30429",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -619,15 +619,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7685,
-      "importance": 0.7685,
-      "importance_score": 0.7685,
+      "score": 0.7659,
+      "importance": 0.7659,
+      "importance_score": 0.7659,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7827,
+        "recency": 0.7684,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -699,15 +699,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7597,
-      "importance": 0.7597,
-      "importance_score": 0.7597,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7837,
+        "recency": 0.7694,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -727,26 +727,26 @@
       }
     },
     {
-      "story_id": "story_1bbf8c8dfb76",
-      "title": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
-      "url": "https://www.aibase.com/news/30425",
-      "primary_url": "https://www.aibase.com/news/30425",
+      "story_id": "story_80f87858c9c7",
+      "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
+      "url": "https://www.aibase.com/news/30426",
+      "primary_url": "https://www.aibase.com/news/30426",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "72d49b34813673901937a3d3c2c713f703fc79a5",
-          "title": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
-          "url": "https://www.aibase.com/news/30425",
+          "id": "48f4b70d03ab350b265876c89f22187a5f1e8baa",
+          "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
+          "url": "https://www.aibase.com/news/30426",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-18T03:47:57.749898Z"
         },
         {
-          "id": "9918c1521cd2db22d4c58b6de2e078f566168a11",
-          "title": "企业微信 5.0.10 打通 AI Agent，十大办公能力全面开放",
-          "url": "https://www.aibase.com/zh/news/30425",
+          "id": "9825ec55a77981fd99da5bb06dfcce5b6e6c8ae2",
+          "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
+          "url": "https://www.aibase.com/zh/news/30426",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -760,18 +760,18 @@
       ],
       "items": [
         {
-          "id": "72d49b34813673901937a3d3c2c713f703fc79a5",
-          "title": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
-          "url": "https://www.aibase.com/news/30425",
+          "id": "48f4b70d03ab350b265876c89f22187a5f1e8baa",
+          "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
+          "url": "https://www.aibase.com/news/30426",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-18T03:47:57.749898Z"
         },
         {
-          "id": "9918c1521cd2db22d4c58b6de2e078f566168a11",
-          "title": "企业微信 5.0.10 打通 AI Agent，十大办公能力全面开放",
-          "url": "https://www.aibase.com/zh/news/30425",
+          "id": "9825ec55a77981fd99da5bb06dfcce5b6e6c8ae2",
+          "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
+          "url": "https://www.aibase.com/zh/news/30426",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -780,15 +780,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7881,
-      "importance": 0.7881,
-      "importance_score": 0.7881,
+      "score": 0.7849,
+      "importance": 0.7849,
+      "importance_score": 0.7849,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9751,
+        "recency": 0.9572,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -798,11 +798,11 @@
         "high_importance"
       ],
       "earliest_at": "2026-08-18T03:47:57.749898Z",
-      "latest_at": "2026-08-18T03:47:57.749898Z",
+      "latest_at": "2026-08-18T04:38:58.680999Z",
       "primary_item": {
-        "id": "72d49b34813673901937a3d3c2c713f703fc79a5",
-        "title": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
-        "url": "https://www.aibase.com/news/30425",
+        "id": "48f4b70d03ab350b265876c89f22187a5f1e8baa",
+        "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
+        "url": "https://www.aibase.com/news/30426",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -842,21 +842,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
+      "score": 0.7476,
+      "importance": 0.7476,
+      "importance_score": 0.7476,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9226,
+        "recency": 0.9057,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-17T23:58:00Z",
       "latest_at": "2026-08-17T23:58:00Z",
@@ -960,15 +959,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8089,
-      "importance": 0.8089,
-      "importance_score": 0.8089,
+      "score": 0.8061,
+      "importance": 0.8061,
+      "importance_score": 0.8061,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.846,
+        "recency": 0.8305,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1022,15 +1021,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7432,
-      "importance": 0.7432,
-      "importance_score": 0.7432,
+      "score": 0.7402,
+      "importance": 0.7402,
+      "importance_score": 0.7402,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9147,
+        "recency": 0.8979,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1082,15 +1081,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7312,
-      "importance": 0.7312,
-      "importance_score": 0.7312,
+      "score": 0.7286,
+      "importance": 0.7286,
+      "importance_score": 0.7286,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7809,
+        "recency": 0.7666,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1105,6 +1104,87 @@
         "url": "https://www.ithome.com/0/990/812.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1bbf8c8dfb76",
+      "title": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
+      "url": "https://www.aibase.com/news/30425",
+      "primary_url": "https://www.aibase.com/news/30425",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "72d49b34813673901937a3d3c2c713f703fc79a5",
+          "title": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
+          "url": "https://www.aibase.com/news/30425",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T03:47:57.749898Z"
+        },
+        {
+          "id": "9918c1521cd2db22d4c58b6de2e078f566168a11",
+          "title": "企业微信 5.0.10 打通 AI Agent，十大办公能力全面开放",
+          "url": "https://www.aibase.com/zh/news/30425",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "72d49b34813673901937a3d3c2c713f703fc79a5",
+          "title": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
+          "url": "https://www.aibase.com/news/30425",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T03:47:57.749898Z"
+        },
+        {
+          "id": "9918c1521cd2db22d4c58b6de2e078f566168a11",
+          "title": "企业微信 5.0.10 打通 AI Agent，十大办公能力全面开放",
+          "url": "https://www.aibase.com/zh/news/30425",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7849,
+      "importance": 0.7849,
+      "importance_score": 0.7849,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9572,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T03:47:57.749898Z",
+      "latest_at": "2026-08-18T03:47:57.749898Z",
+      "primary_item": {
+        "id": "72d49b34813673901937a3d3c2c713f703fc79a5",
+        "title": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
+        "url": "https://www.aibase.com/news/30425",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1161,15 +1241,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7881,
-      "importance": 0.7881,
-      "importance_score": 0.7881,
+      "score": 0.7849,
+      "importance": 0.7849,
+      "importance_score": 0.7849,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9751,
+        "recency": 0.9572,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1241,15 +1321,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7852,
-      "importance": 0.7852,
-      "importance_score": 0.7852,
+      "score": 0.782,
+      "importance": 0.782,
+      "importance_score": 0.782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9588,
+        "recency": 0.9412,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1264,87 +1344,6 @@
         "id": "ef250e6e4bd7f172750528a8de2ed0ac6b5ea11d",
         "title": "AI自动化初创公司Relay倒闭，员工加入谷歌Chrome团队",
         "url": "https://www.aibase.com/news/30416",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6d8daf7a3425",
-      "title": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
-      "url": "https://www.aibase.com/news/30421",
-      "primary_url": "https://www.aibase.com/news/30421",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "da43e6c6e104ea4b1e1c1aae04e23b67c8315033",
-          "title": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
-          "url": "https://www.aibase.com/news/30421",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T02:37:56.770077Z"
-        },
-        {
-          "id": "9c350683ffd84e383ae3b612f188808bb966ea7b",
-          "title": "ChatGPT macOS 新增「计算机历史」功能，可记录用户工作轨迹",
-          "url": "https://www.aibase.com/zh/news/30421",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "da43e6c6e104ea4b1e1c1aae04e23b67c8315033",
-          "title": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
-          "url": "https://www.aibase.com/news/30421",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T02:37:56.770077Z"
-        },
-        {
-          "id": "9c350683ffd84e383ae3b612f188808bb966ea7b",
-          "title": "ChatGPT macOS 新增「计算机历史」功能，可记录用户工作轨迹",
-          "url": "https://www.aibase.com/zh/news/30421",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7852,
-      "importance": 0.7852,
-      "importance_score": 0.7852,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9588,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T02:37:56.770077Z",
-      "latest_at": "2026-08-18T03:47:57.749898Z",
-      "primary_item": {
-        "id": "da43e6c6e104ea4b1e1c1aae04e23b67c8315033",
-        "title": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
-        "url": "https://www.aibase.com/news/30421",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1422,15 +1421,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6432,
-      "importance": 0.6432,
-      "importance_score": 0.6432,
+      "score": 0.6404,
+      "importance": 0.6404,
+      "importance_score": 0.6404,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.83,
+        "recency": 0.8148,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1591,15 +1590,15 @@
       ],
       "item_count": 7,
       "duplicate_count": 7,
-      "score": 0.6383,
-      "importance": 0.6383,
-      "importance_score": 0.6383,
+      "score": 0.6356,
+      "importance": 0.6356,
+      "importance_score": 0.6356,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8285,
+        "recency": 0.8133,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1617,26 +1616,26 @@
       }
     },
     {
-      "story_id": "story_7279deb93600",
-      "title": "Reddit测试AI视频功能，将文本帖子转为音视频内容",
-      "url": "https://www.aibase.com/news/30419",
-      "primary_url": "https://www.aibase.com/news/30419",
+      "story_id": "story_6d8daf7a3425",
+      "title": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
+      "url": "https://www.aibase.com/news/30421",
+      "primary_url": "https://www.aibase.com/news/30421",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b008d6862fe519efe75eabc5f3a3e28222cd89f0",
-          "title": "Reddit测试AI视频功能，将文本帖子转为音视频内容",
-          "url": "https://www.aibase.com/news/30419",
+          "id": "da43e6c6e104ea4b1e1c1aae04e23b67c8315033",
+          "title": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
+          "url": "https://www.aibase.com/news/30421",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-18T02:37:56.770077Z"
         },
         {
-          "id": "d8276d6f8365437ea00af6756b3cc8a806566649",
-          "title": "Reddit 测试 AI 视频功能，将文本帖子转为音视频内容",
-          "url": "https://www.aibase.com/zh/news/30419",
+          "id": "9c350683ffd84e383ae3b612f188808bb966ea7b",
+          "title": "ChatGPT macOS 新增「计算机历史」功能，可记录用户工作轨迹",
+          "url": "https://www.aibase.com/zh/news/30421",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1650,18 +1649,18 @@
       ],
       "items": [
         {
-          "id": "b008d6862fe519efe75eabc5f3a3e28222cd89f0",
-          "title": "Reddit测试AI视频功能，将文本帖子转为音视频内容",
-          "url": "https://www.aibase.com/news/30419",
+          "id": "da43e6c6e104ea4b1e1c1aae04e23b67c8315033",
+          "title": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
+          "url": "https://www.aibase.com/news/30421",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-18T02:37:56.770077Z"
         },
         {
-          "id": "d8276d6f8365437ea00af6756b3cc8a806566649",
-          "title": "Reddit 测试 AI 视频功能，将文本帖子转为音视频内容",
-          "url": "https://www.aibase.com/zh/news/30419",
+          "id": "9c350683ffd84e383ae3b612f188808bb966ea7b",
+          "title": "ChatGPT macOS 新增「计算机历史」功能，可记录用户工作轨迹",
+          "url": "https://www.aibase.com/zh/news/30421",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1670,15 +1669,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7852,
-      "importance": 0.7852,
-      "importance_score": 0.7852,
+      "score": 0.782,
+      "importance": 0.782,
+      "importance_score": 0.782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9588,
+        "recency": 0.9412,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1690,9 +1689,9 @@
       "earliest_at": "2026-08-18T02:37:56.770077Z",
       "latest_at": "2026-08-18T03:47:57.749898Z",
       "primary_item": {
-        "id": "b008d6862fe519efe75eabc5f3a3e28222cd89f0",
-        "title": "Reddit测试AI视频功能，将文本帖子转为音视频内容",
-        "url": "https://www.aibase.com/news/30419",
+        "id": "da43e6c6e104ea4b1e1c1aae04e23b67c8315033",
+        "title": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
+        "url": "https://www.aibase.com/news/30421",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1751,15 +1750,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6141,
-      "importance": 0.6141,
-      "importance_score": 0.6141,
+      "score": 0.6114,
+      "importance": 0.6114,
+      "importance_score": 0.6114,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8072,
+        "recency": 0.7924,
         "story_heat": 0.25
       },
       "category": "watch",
