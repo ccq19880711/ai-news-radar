@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T08:42:19.014415Z",
+  "generated_at": "2026-08-20T09:38:04.494103Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.867,
-      "importance": 0.867,
-      "importance_score": 0.867,
+      "score": 0.8652,
+      "importance": 0.8652,
+      "importance_score": 0.8652,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7612,
+        "recency": 0.7511,
         "story_heat": 0.5
       },
       "category": "official",
@@ -158,15 +158,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8447,
-      "importance": 0.8447,
-      "importance_score": 0.8447,
+      "score": 0.8427,
+      "importance": 0.8427,
+      "importance_score": 0.8427,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8204,
+        "recency": 0.8095,
         "story_heat": 0.25
       },
       "category": "official",
@@ -221,15 +221,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8172,
-      "importance": 0.8172,
-      "importance_score": 0.8172,
+      "score": 0.8153,
+      "importance": 0.8153,
+      "importance_score": 0.8153,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8068,
+        "recency": 0.7961,
         "story_heat": 0.0
       },
       "category": "official",
@@ -283,15 +283,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8164,
-      "importance": 0.8164,
-      "importance_score": 0.8164,
+      "score": 0.8143,
+      "importance": 0.8143,
+      "importance_score": 0.8143,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8464,
+        "recency": 0.8351,
         "story_heat": 0.0
       },
       "category": "official",
@@ -345,15 +345,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8117,
-      "importance": 0.8117,
-      "importance_score": 0.8117,
+      "score": 0.8097,
+      "importance": 0.8097,
+      "importance_score": 0.8097,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8204,
+        "recency": 0.8095,
         "story_heat": 0.0
       },
       "category": "official",
@@ -426,15 +426,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7901,
-      "importance": 0.7901,
-      "importance_score": 0.7901,
+      "score": 0.7877,
+      "importance": 0.7877,
+      "importance_score": 0.7877,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9859,
+        "recency": 0.9728,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -488,15 +488,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7993,
-      "importance": 0.7993,
-      "importance_score": 0.7993,
+      "score": 0.7975,
+      "importance": 0.7975,
+      "importance_score": 0.7975,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7518,
+        "recency": 0.7418,
         "story_heat": 0.0
       },
       "category": "official",
@@ -569,15 +569,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
+      "score": 0.7641,
+      "importance": 0.7641,
+      "importance_score": 0.7641,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8531,
+        "recency": 0.8417,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -650,15 +650,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7879,
-      "importance": 0.7879,
-      "importance_score": 0.7879,
+      "score": 0.7855,
+      "importance": 0.7855,
+      "importance_score": 0.7855,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9738,
+        "recency": 0.9608,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -712,15 +712,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.744,
-      "importance": 0.744,
-      "importance_score": 0.744,
+      "score": 0.7419,
+      "importance": 0.7419,
+      "importance_score": 0.7419,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8856,
+        "recency": 0.8738,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -772,15 +772,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7361,
-      "importance": 0.7361,
-      "importance_score": 0.7361,
+      "score": 0.7341,
+      "importance": 0.7341,
+      "importance_score": 0.7341,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8081,
+        "recency": 0.7973,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -794,66 +794,6 @@
         "title": "Stripe 收购 OpenRouter：构建 AI 智能交换网络",
         "url": "https://www.a16z.news/p/openrouter-and-stripe-the-intelligence",
         "source": "a16z：News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_44c5c213e88d",
-      "title": "FastMetal 让 Mac 本地 30 秒生成视频",
-      "url": "https://x.com/haoailab/status/2090177721913770407",
-      "primary_url": "https://x.com/haoailab/status/2090177721913770407",
-      "source": "X：Sky Computing Lab (@haoailab)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f39e84d55e2bb334bb0b2696037ba29ac1d75047",
-          "title": "FastMetal 让 Mac 本地 30 秒生成视频",
-          "url": "https://x.com/haoailab/status/2090177721913770407",
-          "source": "X：Sky Computing Lab (@haoailab)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-19T20:42:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Sky Computing Lab (@haoailab)"
-      ],
-      "items": [
-        {
-          "id": "f39e84d55e2bb334bb0b2696037ba29ac1d75047",
-          "title": "FastMetal 让 Mac 本地 30 秒生成视频",
-          "url": "https://x.com/haoailab/status/2090177721913770407",
-          "source": "X：Sky Computing Lab (@haoailab)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-19T20:42:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.736,
-      "importance": 0.736,
-      "importance_score": 0.736,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.841,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-19T20:42:57Z",
-      "latest_at": "2026-08-19T20:42:57Z",
-      "primary_item": {
-        "id": "f39e84d55e2bb334bb0b2696037ba29ac1d75047",
-        "title": "FastMetal 让 Mac 本地 30 秒生成视频",
-        "url": "https://x.com/haoailab/status/2090177721913770407",
-        "source": "X：Sky Computing Lab (@haoailab)",
         "source_name": "AI HOT"
       }
     },
@@ -892,15 +832,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.736,
-      "importance": 0.736,
-      "importance_score": 0.736,
+      "score": 0.7341,
+      "importance": 0.7341,
+      "importance_score": 0.7341,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8079,
+        "recency": 0.7972,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -914,6 +854,66 @@
         "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法",
         "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
         "source": "LMSYS：Blog（Chatbot Arena 团队）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_44c5c213e88d",
+      "title": "FastMetal 让 Mac 本地 30 秒生成视频",
+      "url": "https://x.com/haoailab/status/2090177721913770407",
+      "primary_url": "https://x.com/haoailab/status/2090177721913770407",
+      "source": "X：Sky Computing Lab (@haoailab)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f39e84d55e2bb334bb0b2696037ba29ac1d75047",
+          "title": "FastMetal 让 Mac 本地 30 秒生成视频",
+          "url": "https://x.com/haoailab/status/2090177721913770407",
+          "source": "X：Sky Computing Lab (@haoailab)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T20:42:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Sky Computing Lab (@haoailab)"
+      ],
+      "items": [
+        {
+          "id": "f39e84d55e2bb334bb0b2696037ba29ac1d75047",
+          "title": "FastMetal 让 Mac 本地 30 秒生成视频",
+          "url": "https://x.com/haoailab/status/2090177721913770407",
+          "source": "X：Sky Computing Lab (@haoailab)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T20:42:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.734,
+      "importance": 0.734,
+      "importance_score": 0.734,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8298,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-19T20:42:57Z",
+      "latest_at": "2026-08-19T20:42:57Z",
+      "primary_item": {
+        "id": "f39e84d55e2bb334bb0b2696037ba29ac1d75047",
+        "title": "FastMetal 让 Mac 本地 30 秒生成视频",
+        "url": "https://x.com/haoailab/status/2090177721913770407",
+        "source": "X：Sky Computing Lab (@haoailab)",
         "source_name": "AI HOT"
       }
     },
@@ -971,15 +971,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7879,
-      "importance": 0.7879,
-      "importance_score": 0.7879,
+      "score": 0.7855,
+      "importance": 0.7855,
+      "importance_score": 0.7855,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9738,
+        "recency": 0.9608,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1052,15 +1052,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7879,
-      "importance": 0.7879,
-      "importance_score": 0.7879,
+      "score": 0.7855,
+      "importance": 0.7855,
+      "importance_score": 0.7855,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9738,
+        "recency": 0.9608,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1133,15 +1133,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7804,
-      "importance": 0.7804,
-      "importance_score": 0.7804,
+      "score": 0.7781,
+      "importance": 0.7781,
+      "importance_score": 0.7781,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.932,
+        "recency": 0.9196,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1267,15 +1267,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6346,
-      "importance": 0.6346,
-      "importance_score": 0.6346,
+      "score": 0.6326,
+      "importance": 0.6326,
+      "importance_score": 0.6326,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8075,
+        "recency": 0.7968,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1346,15 +1346,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7775,
-      "importance": 0.7775,
-      "importance_score": 0.7775,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9163,
+        "recency": 0.9041,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1427,15 +1427,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7746,
-      "importance": 0.7746,
-      "importance_score": 0.7746,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9001,
+        "recency": 0.8881,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1455,84 +1455,101 @@
       }
     },
     {
-      "story_id": "story_9056fd88eba8",
-      "title": "亚马逊Alexa+免费登陆Fire TV，AI助手覆盖更多电视设备",
-      "url": "https://www.aibase.com/news/30482",
-      "primary_url": "https://www.aibase.com/news/30482",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_a6781ae1d97f",
+      "title": "请不要粘贴AI生成的内容",
+      "url": "https://dontpastetheai.com",
+      "primary_url": "https://dontpastetheai.com",
+      "source": "dontpastetheai.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "ad5ad36b30f8fbd277152d637afc8c39e4df9a22",
-          "title": "亚马逊Alexa+免费登陆Fire TV，AI助手覆盖更多电视设备",
-          "url": "https://www.aibase.com/news/30482",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T01:24:47.061877Z"
+          "id": "132dfe0439518720d544f0d1e85d9f268c16eb39",
+          "title": "请不要粘贴AI生成的内容",
+          "url": "https://dontpastetheai.com",
+          "source": "dontpastetheai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-20T09:26:10.003000Z"
         },
         {
-          "id": "9745ac23457d358f5fede13eb96fb0bdddafb510",
-          "title": "亚马逊 Alexa+ 免费登陆 Fire TV，AI 助手覆盖更多电视设备",
-          "url": "https://www.aibase.com/zh/news/30482",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "14c4f74bdc0da7fa9e4d7c6d1a1ef8cf759279d7",
+          "title": "请不要粘贴AI / Don't Paste the AI, please",
+          "url": "https://news.ycombinator.com/item?id=49371857",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-20T08:42:58.111000Z"
+        },
+        {
+          "id": "b6f7bc7997292509751cecb729085e02b469d495",
+          "title": "请不要粘贴AI生成的内容 / Don't Paste the AI, please",
+          "url": "https://dontpastetheai.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-20T08:20:44Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "Hacker News (黑客新闻)",
+        "dontpastetheai.com",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "ad5ad36b30f8fbd277152d637afc8c39e4df9a22",
-          "title": "亚马逊Alexa+免费登陆Fire TV，AI助手覆盖更多电视设备",
-          "url": "https://www.aibase.com/news/30482",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T01:24:47.061877Z"
+          "id": "132dfe0439518720d544f0d1e85d9f268c16eb39",
+          "title": "请不要粘贴AI生成的内容",
+          "url": "https://dontpastetheai.com",
+          "source": "dontpastetheai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-20T09:26:10.003000Z"
         },
         {
-          "id": "9745ac23457d358f5fede13eb96fb0bdddafb510",
-          "title": "亚马逊 Alexa+ 免费登陆 Fire TV，AI 助手覆盖更多电视设备",
-          "url": "https://www.aibase.com/zh/news/30482",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "14c4f74bdc0da7fa9e4d7c6d1a1ef8cf759279d7",
+          "title": "请不要粘贴AI / Don't Paste the AI, please",
+          "url": "https://news.ycombinator.com/item?id=49371857",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-20T08:42:58.111000Z"
+        },
+        {
+          "id": "b6f7bc7997292509751cecb729085e02b469d495",
+          "title": "请不要粘贴AI生成的内容 / Don't Paste the AI, please",
+          "url": "https://dontpastetheai.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-20T08:20:44Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7746,
-      "importance": 0.7746,
-      "importance_score": 0.7746,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5703,
+      "importance": 0.5703,
+      "importance_score": 0.5703,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9001,
-        "story_heat": 0.25
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9971,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-20T01:24:47.061877Z",
-      "latest_at": "2026-08-20T02:39:09.728468Z",
+      "earliest_at": "2026-08-20T08:20:44Z",
+      "latest_at": "2026-08-20T09:26:10.003000Z",
       "primary_item": {
-        "id": "ad5ad36b30f8fbd277152d637afc8c39e4df9a22",
-        "title": "亚马逊Alexa+免费登陆Fire TV，AI助手覆盖更多电视设备",
-        "url": "https://www.aibase.com/news/30482",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "132dfe0439518720d544f0d1e85d9f268c16eb39",
+        "title": "请不要粘贴AI生成的内容",
+        "url": "https://dontpastetheai.com",
+        "source": "dontpastetheai.com",
+        "source_name": "Buzzing"
       }
     }
   ]
