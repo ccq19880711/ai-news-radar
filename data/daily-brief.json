@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T17:24:02.914604Z",
+  "generated_at": "2026-08-22T17:48:00.928891Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7565,
-      "importance": 0.7565,
-      "importance_score": 0.7565,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9552,
+        "recency": 0.9497,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -118,15 +118,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7079,
-      "importance": 0.7079,
-      "importance_score": 0.7079,
+      "score": 0.7072,
+      "importance": 0.7072,
+      "importance_score": 0.7072,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.713,
+        "recency": 0.7089,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -360,15 +360,15 @@
       ],
       "item_count": 11,
       "duplicate_count": 11,
-      "score": 0.6751,
-      "importance": 0.6751,
-      "importance_score": 0.6751,
+      "score": 0.6741,
+      "importance": 0.6741,
+      "importance_score": 0.6741,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 0.9867,
+        "recency": 0.981,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -439,15 +439,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5733,
-      "importance": 0.5733,
-      "importance_score": 0.5733,
+      "score": 0.5724,
+      "importance": 0.5724,
+      "importance_score": 0.5724,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.8868,
+        "recency": 0.8817,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -537,15 +537,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5627,
-      "importance": 0.5627,
-      "importance_score": 0.5627,
+      "score": 0.5617,
+      "importance": 0.5617,
+      "importance_score": 0.5617,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9551,
+        "recency": 0.9496,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -560,85 +560,6 @@
         "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_80d4d98280b4",
-      "title": "新的MCP路线图",
-      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-      "primary_url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-      "source": "blog.modelcontextprotocol.io",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "4a6634b6d5a9ea7db1689332343baee2481ebb88",
-          "title": "新的MCP路线图",
-          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-          "source": "blog.modelcontextprotocol.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T17:09:20.269000Z"
-        },
-        {
-          "id": "2c1e9731c14806fd8df67cf5fe114b79125c2987",
-          "title": "新的MCP路线图 / The New MCP Roadmap",
-          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T13:31:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "blog.modelcontextprotocol.io"
-      ],
-      "items": [
-        {
-          "id": "4a6634b6d5a9ea7db1689332343baee2481ebb88",
-          "title": "新的MCP路线图",
-          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-          "source": "blog.modelcontextprotocol.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T17:09:20.269000Z"
-        },
-        {
-          "id": "2c1e9731c14806fd8df67cf5fe114b79125c2987",
-          "title": "新的MCP路线图 / The New MCP Roadmap",
-          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T13:31:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9965,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T13:31:34Z",
-      "latest_at": "2026-08-22T17:09:20.269000Z",
-      "primary_item": {
-        "id": "4a6634b6d5a9ea7db1689332343baee2481ebb88",
-        "title": "新的MCP路线图",
-        "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-        "source": "blog.modelcontextprotocol.io",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -695,15 +616,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
+      "score": 0.5442,
+      "importance": 0.5442,
+      "importance_score": 0.5442,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9969,
+        "recency": 0.9912,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -718,6 +639,85 @@
         "url": "https://news.ycombinator.com/item?id=49401229",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_80d4d98280b4",
+      "title": "新的MCP路线图",
+      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+      "primary_url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+      "source": "blog.modelcontextprotocol.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "4a6634b6d5a9ea7db1689332343baee2481ebb88",
+          "title": "新的MCP路线图",
+          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+          "source": "blog.modelcontextprotocol.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T17:09:20.269000Z"
+        },
+        {
+          "id": "2c1e9731c14806fd8df67cf5fe114b79125c2987",
+          "title": "新的MCP路线图 / The New MCP Roadmap",
+          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T13:31:34Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "blog.modelcontextprotocol.io"
+      ],
+      "items": [
+        {
+          "id": "4a6634b6d5a9ea7db1689332343baee2481ebb88",
+          "title": "新的MCP路线图",
+          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+          "source": "blog.modelcontextprotocol.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T17:09:20.269000Z"
+        },
+        {
+          "id": "2c1e9731c14806fd8df67cf5fe114b79125c2987",
+          "title": "新的MCP路线图 / The New MCP Roadmap",
+          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T13:31:34Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5441,
+      "importance": 0.5441,
+      "importance_score": 0.5441,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9907,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T13:31:34Z",
+      "latest_at": "2026-08-22T17:09:20.269000Z",
+      "primary_item": {
+        "id": "4a6634b6d5a9ea7db1689332343baee2481ebb88",
+        "title": "新的MCP路线图",
+        "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+        "source": "blog.modelcontextprotocol.io",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -773,15 +773,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5449,
-      "importance": 0.5449,
-      "importance_score": 0.5449,
+      "score": 0.5438,
+      "importance": 0.5438,
+      "importance_score": 0.5438,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9947,
+        "recency": 0.989,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -851,15 +851,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5445,
-      "importance": 0.5445,
-      "importance_score": 0.5445,
+      "score": 0.5434,
+      "importance": 0.5434,
+      "importance_score": 0.5434,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9926,
+        "recency": 0.9869,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -930,15 +930,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5431,
-      "importance": 0.5431,
-      "importance_score": 0.5431,
+      "score": 0.5421,
+      "importance": 0.5421,
+      "importance_score": 0.5421,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9851,
+        "recency": 0.9794,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1009,15 +1009,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5407,
-      "importance": 0.5407,
-      "importance_score": 0.5407,
+      "score": 0.5397,
+      "importance": 0.5397,
+      "importance_score": 0.5397,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9719,
+        "recency": 0.9664,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1088,15 +1088,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5361,
-      "importance": 0.5361,
-      "importance_score": 0.5361,
+      "score": 0.5351,
+      "importance": 0.5351,
+      "importance_score": 0.5351,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9461,
+        "recency": 0.9407,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1167,15 +1167,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5342,
-      "importance": 0.5342,
-      "importance_score": 0.5342,
+      "score": 0.5332,
+      "importance": 0.5332,
+      "importance_score": 0.5332,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9356,
+        "recency": 0.9302,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1245,15 +1245,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5272,
-      "importance": 0.5272,
-      "importance_score": 0.5272,
+      "score": 0.5262,
+      "importance": 0.5262,
+      "importance_score": 0.5262,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8965,
+        "recency": 0.8913,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1324,15 +1324,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5082,
-      "importance": 0.5082,
-      "importance_score": 0.5082,
+      "score": 0.5073,
+      "importance": 0.5073,
+      "importance_score": 0.5073,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7909,
+        "recency": 0.7863,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1403,15 +1403,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5361,
-      "importance": 0.5361,
-      "importance_score": 0.5361,
+      "score": 0.5351,
+      "importance": 0.5351,
+      "importance_score": 0.5351,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9461,
+        "recency": 0.9407,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1482,15 +1482,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4979,
-      "importance": 0.4979,
-      "importance_score": 0.4979,
+      "score": 0.4972,
+      "importance": 0.4972,
+      "importance_score": 0.4972,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7342,
+        "recency": 0.7299,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1561,15 +1561,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4956,
-      "importance": 0.4956,
-      "importance_score": 0.4956,
+      "score": 0.4949,
+      "importance": 0.4949,
+      "importance_score": 0.4949,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7211,
+        "recency": 0.7169,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1640,15 +1640,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.522,
-      "importance": 0.522,
-      "importance_score": 0.522,
+      "score": 0.5211,
+      "importance": 0.5211,
+      "importance_score": 0.5211,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8677,
+        "recency": 0.8627,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1719,15 +1719,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5202,
-      "importance": 0.5202,
-      "importance_score": 0.5202,
+      "score": 0.5193,
+      "importance": 0.5193,
+      "importance_score": 0.5193,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8579,
+        "recency": 0.853,
         "story_heat": 0.25
       },
       "category": "watch",
