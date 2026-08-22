@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T14:25:04.612411Z",
+  "generated_at": "2026-08-22T14:49:38.585995Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8024,
-      "importance": 0.8024,
-      "importance_score": 0.8024,
+      "score": 0.8017,
+      "importance": 0.8017,
+      "importance_score": 0.8017,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7247,
+        "recency": 0.7204,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8023,
-      "importance": 0.8023,
-      "importance_score": 0.8023,
+      "score": 0.8016,
+      "importance": 0.8016,
+      "importance_score": 0.8016,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7241,
+        "recency": 0.7198,
         "story_heat": 0.0
       },
       "category": "official",
@@ -128,65 +128,64 @@
       }
     },
     {
-      "story_id": "story_6a6b96aef3de",
-      "title": "用于管理被阻止用户的更好工具 / Better tools for managing blocked users",
-      "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
-      "primary_url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_cce47fff342d",
+      "title": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚\"冰丝带\"，666 支队伍竞技 51 赛项",
+      "url": "https://www.ithome.com/0/993/105.htm",
+      "primary_url": "https://www.ithome.com/0/993/105.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "cc44bb73c911c9a40dc2229a9e642db5b83bc00f",
-          "title": "用于管理被阻止用户的更好工具 / Better tools for managing blocked users",
-          "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-21T14:43:36Z"
+          "id": "cf06efb34986b9d10c8d4ad2b59712ed0f1fdc9c",
+          "title": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚\"冰丝带\"，666 支队伍竞技 51 赛项",
+          "url": "https://www.ithome.com/0/993/105.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-22T14:13:48Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "cc44bb73c911c9a40dc2229a9e642db5b83bc00f",
-          "title": "用于管理被阻止用户的更好工具 / Better tools for managing blocked users",
-          "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-21T14:43:36Z"
+          "id": "cf06efb34986b9d10c8d4ad2b59712ed0f1fdc9c",
+          "title": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚\"冰丝带\"，666 支队伍竞技 51 赛项",
+          "url": "https://www.ithome.com/0/993/105.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-22T14:13:48Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7918,
-      "importance": 0.7918,
-      "importance_score": 0.7918,
-      "importance_label": "官方更新",
+      "score": 0.7631,
+      "importance": 0.7631,
+      "importance_score": 0.7631,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7103,
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9914,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-21T14:43:36Z",
-      "latest_at": "2026-08-21T14:43:36Z",
+      "earliest_at": "2026-08-22T14:13:48Z",
+      "latest_at": "2026-08-22T14:13:48Z",
       "primary_item": {
-        "id": "cc44bb73c911c9a40dc2229a9e642db5b83bc00f",
-        "title": "用于管理被阻止用户的更好工具 / Better tools for managing blocked users",
-        "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "cf06efb34986b9d10c8d4ad2b59712ed0f1fdc9c",
+        "title": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚\"冰丝带\"，666 支队伍竞技 51 赛项",
+        "url": "https://www.ithome.com/0/993/105.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -243,15 +242,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7136,
-      "importance": 0.7136,
-      "importance_score": 0.7136,
+      "score": 0.7128,
+      "importance": 0.7128,
+      "importance_score": 0.7128,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7444,
+        "recency": 0.74,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -394,15 +393,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6344,
-      "importance": 0.6344,
-      "importance_score": 0.6344,
+      "score": 0.6336,
+      "importance": 0.6336,
+      "importance_score": 0.6336,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 0.7606,
+        "recency": 0.7561,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -473,15 +472,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5804,
-      "importance": 0.5804,
-      "importance_score": 0.5804,
+      "score": 0.5794,
+      "importance": 0.5794,
+      "importance_score": 0.5794,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9259,
+        "recency": 0.9204,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -589,15 +588,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5512,
-      "importance": 0.5512,
-      "importance_score": 0.5512,
+      "score": 0.5504,
+      "importance": 0.5504,
+      "importance_score": 0.5504,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7521,
+        "recency": 0.7477,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -706,15 +705,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5487,
-      "importance": 0.5487,
-      "importance_score": 0.5487,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7385,
+        "recency": 0.7342,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -729,6 +728,85 @@
         "url": "https://canews24.online/?p=71",
         "source": "canews24.online",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_f5886f0c0a05",
+      "title": "“亲手为自己的职业掘墓”：好莱坞创意工作者正训练人工智能来取代他们的工作 / Digging the grave of my job: Hollywood creatives training AI to do their jobs",
+      "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+      "primary_url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "1fcaa887e5d59edfbbabed5b57999b2ee355d456",
+          "title": "“亲手为自己的职业掘墓”：好莱坞创意工作者正训练人工智能来取代他们的工作 / Digging the grave of my job: Hollywood creatives training AI to do their jobs",
+          "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T14:13:05Z"
+        },
+        {
+          "id": "6b5323f77928ec0afca9261f89039277b620693a",
+          "title": "“亲手为自己的职业掘墓”：好莱坞创意工作者正训练人工智能来取代他们的工作",
+          "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T06:29:39.085000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "www.theguardian.com"
+      ],
+      "items": [
+        {
+          "id": "1fcaa887e5d59edfbbabed5b57999b2ee355d456",
+          "title": "“亲手为自己的职业掘墓”：好莱坞创意工作者正训练人工智能来取代他们的工作 / Digging the grave of my job: Hollywood creatives training AI to do their jobs",
+          "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T14:13:05Z"
+        },
+        {
+          "id": "6b5323f77928ec0afca9261f89039277b620693a",
+          "title": "“亲手为自己的职业掘墓”：好莱坞创意工作者正训练人工智能来取代他们的工作",
+          "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T06:29:39.085000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5442,
+      "importance": 0.5442,
+      "importance_score": 0.5442,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9912,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T06:29:39.085000Z",
+      "latest_at": "2026-08-22T14:13:05Z",
+      "primary_item": {
+        "id": "1fcaa887e5d59edfbbabed5b57999b2ee355d456",
+        "title": "“亲手为自己的职业掘墓”：好莱坞创意工作者正训练人工智能来取代他们的工作 / Digging the grave of my job: Hollywood creatives training AI to do their jobs",
+        "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -785,15 +863,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5436,
-      "importance": 0.5436,
-      "importance_score": 0.5436,
+      "score": 0.5426,
+      "importance": 0.5426,
+      "importance_score": 0.5426,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9878,
+        "recency": 0.982,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -864,15 +942,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5416,
-      "importance": 0.5416,
-      "importance_score": 0.5416,
+      "score": 0.5406,
+      "importance": 0.5406,
+      "importance_score": 0.5406,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9768,
+        "recency": 0.971,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -887,6 +965,84 @@
         "url": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News",
         "source_name": "TechURLs"
+      }
+    },
+    {
+      "story_id": "story_9de8e8e603c4",
+      "title": "Z80 – 1970 年代的微处理器仍然活跃 (2021) / Z80 – The 1970s Microprocessor Still Alive (2021)",
+      "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+      "primary_url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "73a3b6e5d65b15e1d7866fa88a3b6e787e570d0d",
+          "title": "Z80 – 1970 年代的微处理器仍然活跃 (2021) / Z80 – The 1970s Microprocessor Still Alive (2021)",
+          "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-22T09:49:57Z"
+        },
+        {
+          "id": "308d117682d313457f5e94defbd66fe6a142f9b3",
+          "title": "Z80——20 世纪 70 年代的微处理器仍然活跃 / Z80–The 1970s Microprocessor Still Alive",
+          "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-22T09:49:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "73a3b6e5d65b15e1d7866fa88a3b6e787e570d0d",
+          "title": "Z80 – 1970 年代的微处理器仍然活跃 (2021) / Z80 – The 1970s Microprocessor Still Alive (2021)",
+          "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-22T09:49:57Z"
+        },
+        {
+          "id": "308d117682d313457f5e94defbd66fe6a142f9b3",
+          "title": "Z80——20 世纪 70 年代的微处理器仍然活跃 / Z80–The 1970s Microprocessor Still Alive",
+          "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-22T09:49:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5333,
+      "importance": 0.5333,
+      "importance_score": 0.5333,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9304,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T09:49:57Z",
+      "latest_at": "2026-08-22T09:49:57Z",
+      "primary_item": {
+        "id": "73a3b6e5d65b15e1d7866fa88a3b6e787e570d0d",
+        "title": "Z80 – 1970 年代的微处理器仍然活跃 (2021) / Z80 – The 1970s Microprocessor Still Alive (2021)",
+        "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -943,15 +1099,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5289,
-      "importance": 0.5289,
-      "importance_score": 0.5289,
+      "score": 0.5279,
+      "importance": 0.5279,
+      "importance_score": 0.5279,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9059,
+        "recency": 0.9006,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1041,15 +1197,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5242,
-      "importance": 0.5242,
-      "importance_score": 0.5242,
+      "score": 0.5234,
+      "importance": 0.5234,
+      "importance_score": 0.5234,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7413,
+        "recency": 0.7369,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1120,15 +1276,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5156,
-      "importance": 0.5156,
-      "importance_score": 0.5156,
+      "score": 0.5147,
+      "importance": 0.5147,
+      "importance_score": 0.5147,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8321,
+        "recency": 0.8272,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1199,15 +1355,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5144,
-      "importance": 0.5144,
-      "importance_score": 0.5144,
+      "score": 0.5136,
+      "importance": 0.5136,
+      "importance_score": 0.5136,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8257,
+        "recency": 0.8208,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1278,15 +1434,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5436,
-      "importance": 0.5436,
-      "importance_score": 0.5436,
+      "score": 0.5426,
+      "importance": 0.5426,
+      "importance_score": 0.5426,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9878,
+        "recency": 0.982,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1357,15 +1513,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5055,
-      "importance": 0.5055,
-      "importance_score": 0.5055,
+      "score": 0.5047,
+      "importance": 0.5047,
+      "importance_score": 0.5047,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7764,
+        "recency": 0.7718,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1436,15 +1592,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5038,
-      "importance": 0.5038,
-      "importance_score": 0.5038,
+      "score": 0.503,
+      "importance": 0.503,
+      "importance_score": 0.503,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7665,
+        "recency": 0.7619,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1515,15 +1671,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5013,
-      "importance": 0.5013,
-      "importance_score": 0.5013,
+      "score": 0.5005,
+      "importance": 0.5005,
+      "importance_score": 0.5005,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7528,
+        "recency": 0.7484,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1538,163 +1694,6 @@
         "url": "https://ryelang.org/blog/posts/war-is-not-god-neither-is-ai",
         "source": "ryelang.org",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_63b27a9d3c69",
-      "title": "OTel 进展不顺（我还为此做了一份电子表格） / OTel isn't going well (and I made a spreadsheet about it)",
-      "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it",
-      "primary_url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "f7fed9e746113066d50fcb035ed27cf0608dca1a",
-          "title": "OTel 进展不顺（我还为此做了一份电子表格） / OTel isn't going well (and I made a spreadsheet about it)",
-          "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T17:45:41Z"
-        },
-        {
-          "id": "0f98061e6e6c5a27390b07c9cd8447d5ec59edd2",
-          "title": "OTel 进展不顺（我还为此做了一份电子表格） / OTel isn’t going well",
-          "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T17:45:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "f7fed9e746113066d50fcb035ed27cf0608dca1a",
-          "title": "OTel 进展不顺（我还为此做了一份电子表格） / OTel isn't going well (and I made a spreadsheet about it)",
-          "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T17:45:41Z"
-        },
-        {
-          "id": "0f98061e6e6c5a27390b07c9cd8447d5ec59edd2",
-          "title": "OTel 进展不顺（我还为此做了一份电子表格） / OTel isn’t going well",
-          "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T17:45:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4994,
-      "importance": 0.4994,
-      "importance_score": 0.4994,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7421,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-21T17:45:41Z",
-      "latest_at": "2026-08-21T17:45:41Z",
-      "primary_item": {
-        "id": "f7fed9e746113066d50fcb035ed27cf0608dca1a",
-        "title": "OTel 进展不顺（我还为此做了一份电子表格） / OTel isn't going well (and I made a spreadsheet about it)",
-        "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_c302d2d33537",
-      "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
-      "url": "https://news.ycombinator.com/item?id=49396590",
-      "primary_url": "https://news.ycombinator.com/item?id=49396590",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "4652cf50d0631148283dcab33b554933ca36e4da",
-          "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
-          "url": "https://news.ycombinator.com/item?id=49396590",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T06:47:16.452000Z"
-        },
-        {
-          "id": "a386741b6b65c710ba3ac756f3a4d056f1e175e0",
-          "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
-          "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-22T04:33:06Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "4652cf50d0631148283dcab33b554933ca36e4da",
-          "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
-          "url": "https://news.ycombinator.com/item?id=49396590",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T06:47:16.452000Z"
-        },
-        {
-          "id": "a386741b6b65c710ba3ac756f3a4d056f1e175e0",
-          "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
-          "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-22T04:33:06Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.527,
-      "importance": 0.527,
-      "importance_score": 0.527,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8957,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T04:33:06Z",
-      "latest_at": "2026-08-22T06:47:16.452000Z",
-      "primary_item": {
-        "id": "4652cf50d0631148283dcab33b554933ca36e4da",
-        "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
-        "url": "https://news.ycombinator.com/item?id=49396590",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     }
   ]
