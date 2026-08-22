@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T01:23:59.204699Z",
+  "generated_at": "2026-08-22T02:36:25.809088Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8294,
-      "importance": 0.8294,
-      "importance_score": 0.8294,
+      "score": 0.8267,
+      "importance": 0.8267,
+      "importance_score": 0.8267,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8746,
+        "recency": 0.8595,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8123,
-      "importance": 0.8123,
-      "importance_score": 0.8123,
+      "score": 0.8098,
+      "importance": 0.8098,
+      "importance_score": 0.8098,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.824,
+        "recency": 0.8098,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8293,
-      "importance": 0.8293,
-      "importance_score": 0.8293,
+      "score": 0.8266,
+      "importance": 0.8266,
+      "importance_score": 0.8266,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8738,
+        "recency": 0.8587,
         "story_heat": 0.0
       },
       "category": "official",
@@ -262,15 +262,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7631,
+      "importance": 0.7631,
+      "importance_score": 0.7631,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7941,
+        "recency": 0.7804,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -324,15 +324,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8183,
-      "importance": 0.8183,
-      "importance_score": 0.8183,
+      "score": 0.8156,
+      "importance": 0.8156,
+      "importance_score": 0.8156,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8572,
+        "recency": 0.8423,
         "story_heat": 0.0
       },
       "category": "official",
@@ -405,15 +405,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7568,
-      "importance": 0.7568,
-      "importance_score": 0.7568,
+      "score": 0.7543,
+      "importance": 0.7543,
+      "importance_score": 0.7543,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8009,
+        "recency": 0.787,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -467,15 +467,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7443,
-      "importance": 0.7443,
-      "importance_score": 0.7443,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.854,
+        "recency": 0.8393,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -527,15 +527,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7395,
-      "importance": 0.7395,
-      "importance_score": 0.7395,
+      "score": 0.7371,
+      "importance": 0.7371,
+      "importance_score": 0.7371,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.794,
+        "recency": 0.7803,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -587,15 +587,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7342,
-      "importance": 0.7342,
-      "importance_score": 0.7342,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8979,
+        "recency": 0.8824,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -647,15 +647,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7291,
-      "importance": 0.7291,
-      "importance_score": 0.7291,
+      "score": 0.7265,
+      "importance": 0.7265,
+      "importance_score": 0.7265,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8363,
+        "recency": 0.8218,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -726,15 +726,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7568,
-      "importance": 0.7568,
-      "importance_score": 0.7568,
+      "score": 0.7543,
+      "importance": 0.7543,
+      "importance_score": 0.7543,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8009,
+        "recency": 0.787,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -807,15 +807,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
+      "score": 0.7385,
+      "importance": 0.7385,
+      "importance_score": 0.7385,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8983,
+        "recency": 0.8828,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -887,15 +887,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7549,
-      "importance": 0.7549,
-      "importance_score": 0.7549,
+      "score": 0.7525,
+      "importance": 0.7525,
+      "importance_score": 0.7525,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7907,
+        "recency": 0.777,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -912,66 +912,6 @@
         "url": "https://www.aibase.com/news/30533",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_604e4dc00459",
-      "title": "Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%",
-      "url": "https://www.lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell",
-      "primary_url": "https://www.lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "340f16af643dfae465b99366c133369fcb22c060",
-          "title": "Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%",
-          "url": "https://www.lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-21T17:56:25.415000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LMSYS：Blog（Chatbot Arena 团队）"
-      ],
-      "items": [
-        {
-          "id": "340f16af643dfae465b99366c133369fcb22c060",
-          "title": "Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%",
-          "url": "https://www.lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-21T17:56:25.415000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7222,
-      "importance": 0.7222,
-      "importance_score": 0.7222,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.63,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8979,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-21T17:56:25.415000Z",
-      "latest_at": "2026-08-21T17:56:25.415000Z",
-      "primary_item": {
-        "id": "340f16af643dfae465b99366c133369fcb22c060",
-        "title": "Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%",
-        "url": "https://www.lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1028,15 +968,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.779,
+        "recency": 0.7655,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1180,15 +1120,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6627,
-      "importance": 0.6627,
-      "importance_score": 0.6627,
+      "score": 0.6599,
+      "importance": 0.6599,
+      "importance_score": 0.6599,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 0.9179,
+        "recency": 0.9021,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1259,15 +1199,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.779,
+        "recency": 0.7655,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1340,22 +1280,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7668,
+        "recency": 0.7535,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-21T07:00:39.640177Z",
       "latest_at": "2026-08-21T07:00:39.640177Z",
@@ -1368,79 +1307,80 @@
       }
     },
     {
-      "story_id": "story_994c1fd4a5ed",
-      "title": "Vercel v0 API 正式发布：支持 MCP、流式响应和自动部署",
-      "url": "https://www.infoq.cn/article/v44qVA7JeYOckqlztLMP",
-      "primary_url": "https://www.infoq.cn/article/v44qVA7JeYOckqlztLMP",
+      "story_id": "story_a9995d3107e3",
+      "title": "JetBrains详细阐述了控制AI支出快速增长的首批举措",
+      "url": "https://www.infoq.cn/article/CQhb4TOREpEZshtqWZMy",
+      "primary_url": "https://www.infoq.cn/article/CQhb4TOREpEZshtqWZMy",
       "source": "InfoQ CN",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "4c686fbba1c040ac661aabfe40840c8ae63b724b",
-          "title": "Vercel Zero 引发争议：AI 时代真的需要一门新语言吗？",
-          "url": "https://www.infoq.cn/article/v44qVA7JeYOckqlztLMP",
+          "id": "aee8139f3320651905a74a2fc2db02beeb142608",
+          "title": "JetBrains详细阐述了控制AI支出快速增长的首批举措",
+          "url": "https://www.infoq.cn/article/CQhb4TOREpEZshtqWZMy",
           "source": "InfoQ CN",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-21T14:25:00Z"
+          "published_at": "2026-08-22T09:05:00Z"
         },
         {
-          "id": "d5cc880b27e8dc62374d619508bfbdb1beed17d3",
-          "title": "Vercel v0 API 正式发布：支持 MCP、流式响应和自动部署",
-          "url": "https://www.infoq.cn/article/v44qVA7JeYOckqlztLMP",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-21T14:25:00Z"
+          "id": "1d7077290e129a86c14c5d0e9194150333a9bd8c",
+          "title": "JetBrains 公布控制 AI 支出快速增长的首批举措",
+          "url": "https://www.infoq.cn/article/CQhb4TOREpEZshtqWZMy",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "InfoQ CN"
+        "InfoQ CN",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "4c686fbba1c040ac661aabfe40840c8ae63b724b",
-          "title": "Vercel Zero 引发争议：AI 时代真的需要一门新语言吗？",
-          "url": "https://www.infoq.cn/article/v44qVA7JeYOckqlztLMP",
+          "id": "aee8139f3320651905a74a2fc2db02beeb142608",
+          "title": "JetBrains详细阐述了控制AI支出快速增长的首批举措",
+          "url": "https://www.infoq.cn/article/CQhb4TOREpEZshtqWZMy",
           "source": "InfoQ CN",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-21T14:25:00Z"
+          "published_at": "2026-08-22T09:05:00Z"
         },
         {
-          "id": "d5cc880b27e8dc62374d619508bfbdb1beed17d3",
-          "title": "Vercel v0 API 正式发布：支持 MCP、流式响应和自动部署",
-          "url": "https://www.infoq.cn/article/v44qVA7JeYOckqlztLMP",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-21T14:25:00Z"
+          "id": "1d7077290e129a86c14c5d0e9194150333a9bd8c",
+          "title": "JetBrains 公布控制 AI 支出快速增长的首批举措",
+          "url": "https://www.infoq.cn/article/CQhb4TOREpEZshtqWZMy",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.584,
-      "importance": 0.584,
-      "importance_score": 0.584,
+      "score": 0.5937,
+      "importance": 0.5937,
+      "importance_score": 0.5937,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5112,
+        "editorial": 0.4824,
         "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.8533,
+        "ai_relevance": 0.67,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-21T14:25:00Z",
-      "latest_at": "2026-08-21T14:25:00Z",
+      "earliest_at": "2026-08-22T02:36:25.809088Z",
+      "latest_at": "2026-08-22T09:05:00Z",
       "primary_item": {
-        "id": "d5cc880b27e8dc62374d619508bfbdb1beed17d3",
-        "title": "Vercel v0 API 正式发布：支持 MCP、流式响应和自动部署",
-        "url": "https://www.infoq.cn/article/v44qVA7JeYOckqlztLMP",
+        "id": "aee8139f3320651905a74a2fc2db02beeb142608",
+        "title": "JetBrains详细阐述了控制AI支出快速增长的首批举措",
+        "url": "https://www.infoq.cn/article/CQhb4TOREpEZshtqWZMy",
         "source": "InfoQ CN",
         "source_name": "OPML RSS"
       }
@@ -1481,19 +1421,19 @@
           "published_at": "2026-08-21T16:27:52Z"
         },
         {
-          "id": "fa15cfb99a8bff4e0ce4825f6aec20eac4d02f1e",
+          "id": "6f0736b2d5d48e16d13b5bebe74c2284c0ab9137",
           "title": "构建一个（几乎）完全自托管、沙盒、代理的软件工厂 / Building an (almost) fully self-hosted, sandboxed, agentic software factory",
           "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-21T16:27:52Z"
         }
       ],
       "source_count": 4,
       "source_names": [
         "Hacker News",
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1525,26 +1465,26 @@
           "published_at": "2026-08-21T16:27:52Z"
         },
         {
-          "id": "fa15cfb99a8bff4e0ce4825f6aec20eac4d02f1e",
+          "id": "6f0736b2d5d48e16d13b5bebe74c2284c0ab9137",
           "title": "构建一个（几乎）完全自托管、沙盒、代理的软件工厂 / Building an (almost) fully self-hosted, sandboxed, agentic software factory",
           "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-21T16:27:52Z"
         }
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5792,
-      "importance": 0.5792,
-      "importance_score": 0.5792,
+      "score": 0.5764,
+      "importance": 0.5764,
+      "importance_score": 0.5764,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9076,
+        "recency": 0.892,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1559,6 +1499,123 @@
         "url": "https://news.ycombinator.com/item?id=49390463",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_edbcb2faff40",
+      "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+      "url": "https://canews24.online/?p=71",
+      "primary_url": "https://canews24.online/?p=71",
+      "source": "canews24.online",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ff26426a8adb8ff4a7c31a6ac9149850259a2625",
+          "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+          "url": "https://canews24.online/?p=71",
+          "source": "canews24.online",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T17:25:45.772000Z"
+        },
+        {
+          "id": "a06a40f4ba95423013d77e6aca040dac3e57e8f5",
+          "title": "研究显示，人工智能将家庭作业成绩提高了 18%，但考试成绩却下降了 20% / AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+          "url": "https://news.ycombinator.com/item?id=49389565",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-21T16:38:55.973000Z"
+        },
+        {
+          "id": "b3cf7db966841b278a436f05c884dd38384c456c",
+          "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20% / AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+          "url": "https://canews24.online/?p=71",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T15:25:42Z"
+        },
+        {
+          "id": "551bbf42d27367ceb414677e5bb42f35ebc915b3",
+          "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20% / AI boosted homework scores, then exam scores dropped: Study",
+          "url": "https://canews24.online/?p=71",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-21T15:25:42Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "canews24.online",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ff26426a8adb8ff4a7c31a6ac9149850259a2625",
+          "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+          "url": "https://canews24.online/?p=71",
+          "source": "canews24.online",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T17:25:45.772000Z"
+        },
+        {
+          "id": "a06a40f4ba95423013d77e6aca040dac3e57e8f5",
+          "title": "研究显示，人工智能将家庭作业成绩提高了 18%，但考试成绩却下降了 20% / AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+          "url": "https://news.ycombinator.com/item?id=49389565",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-21T16:38:55.973000Z"
+        },
+        {
+          "id": "b3cf7db966841b278a436f05c884dd38384c456c",
+          "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20% / AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+          "url": "https://canews24.online/?p=71",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T15:25:42Z"
+        },
+        {
+          "id": "551bbf42d27367ceb414677e5bb42f35ebc915b3",
+          "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20% / AI boosted homework scores, then exam scores dropped: Study",
+          "url": "https://canews24.online/?p=71",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-21T15:25:42Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5735,
+      "importance": 0.5735,
+      "importance_score": 0.5735,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8759,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-21T15:25:42Z",
+      "latest_at": "2026-08-21T17:25:45.772000Z",
+      "primary_item": {
+        "id": "ff26426a8adb8ff4a7c31a6ac9149850259a2625",
+        "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+        "url": "https://canews24.online/?p=71",
+        "source": "canews24.online",
+        "source_name": "Buzzing"
       }
     }
   ]
