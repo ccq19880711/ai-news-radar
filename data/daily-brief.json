@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T14:49:38.585995Z",
+  "generated_at": "2026-08-22T15:24:43.257478Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8017,
-      "importance": 0.8017,
-      "importance_score": 0.8017,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7204,
+        "recency": 0.7144,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8016,
-      "importance": 0.8016,
-      "importance_score": 0.8016,
+      "score": 0.8005,
+      "importance": 0.8005,
+      "importance_score": 0.8005,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7198,
+        "recency": 0.7138,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9914,
+        "recency": 0.9831,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -242,15 +242,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7128,
-      "importance": 0.7128,
-      "importance_score": 0.7128,
+      "score": 0.7117,
+      "importance": 0.7117,
+      "importance_score": 0.7117,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.74,
+        "recency": 0.7338,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -393,15 +393,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6336,
-      "importance": 0.6336,
-      "importance_score": 0.6336,
+      "score": 0.6325,
+      "importance": 0.6325,
+      "importance_score": 0.6325,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 0.7561,
+        "recency": 0.7498,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -472,15 +472,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5794,
-      "importance": 0.5794,
-      "importance_score": 0.5794,
+      "score": 0.578,
+      "importance": 0.578,
+      "importance_score": 0.578,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9204,
+        "recency": 0.9127,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -588,15 +588,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5504,
-      "importance": 0.5504,
-      "importance_score": 0.5504,
+      "score": 0.5492,
+      "importance": 0.5492,
+      "importance_score": 0.5492,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7477,
+        "recency": 0.7414,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -705,15 +705,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5468,
+      "importance": 0.5468,
+      "importance_score": 0.5468,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7342,
+        "recency": 0.728,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -784,15 +784,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5442,
-      "importance": 0.5442,
-      "importance_score": 0.5442,
+      "score": 0.5427,
+      "importance": 0.5427,
+      "importance_score": 0.5427,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9912,
+        "recency": 0.9829,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -863,15 +863,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5426,
-      "importance": 0.5426,
-      "importance_score": 0.5426,
+      "score": 0.5411,
+      "importance": 0.5411,
+      "importance_score": 0.5411,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.982,
+        "recency": 0.9737,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -942,15 +942,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5406,
-      "importance": 0.5406,
-      "importance_score": 0.5406,
+      "score": 0.5391,
+      "importance": 0.5391,
+      "importance_score": 0.5391,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.971,
+        "recency": 0.9629,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1020,15 +1020,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5333,
-      "importance": 0.5333,
-      "importance_score": 0.5333,
+      "score": 0.5319,
+      "importance": 0.5319,
+      "importance_score": 0.5319,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9304,
+        "recency": 0.9226,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1099,15 +1099,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5279,
-      "importance": 0.5279,
-      "importance_score": 0.5279,
+      "score": 0.5265,
+      "importance": 0.5265,
+      "importance_score": 0.5265,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9006,
+        "recency": 0.893,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1122,104 +1122,6 @@
         "url": "https://news.pedaily.cn/202608/567987.shtml",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_4602d0d95525",
-      "title": "《重罪法庭》：化身AI，犯下罪行",
-      "url": "https://www.felonybench.com",
-      "primary_url": "https://www.felonybench.com",
-      "source": "www.felonybench.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ddd6e334a8b3f38442661fb4ce11133e87d99813",
-          "title": "《重罪法庭》：化身AI，犯下罪行",
-          "url": "https://www.felonybench.com",
-          "source": "www.felonybench.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T17:41:21.638000Z"
-        },
-        {
-          "id": "f31d7a39b22c90d6a854312f0ff5d3eff5bfa676",
-          "title": "《重罪法庭》：化身AI，犯下罪行 / Felony Bench: Be AI, Do Crime",
-          "url": "https://www.felonybench.com",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-21T17:23:02Z"
-        },
-        {
-          "id": "34912ed560261d4c64f01895b5a3a0e3a461089d",
-          "title": "《重罪法庭》：化身AI，犯下罪行 / Felony Bench",
-          "url": "https://www.felonybench.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T15:17:04Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Lobsters (技术社区)",
-        "www.felonybench.com"
-      ],
-      "items": [
-        {
-          "id": "ddd6e334a8b3f38442661fb4ce11133e87d99813",
-          "title": "《重罪法庭》：化身AI，犯下罪行",
-          "url": "https://www.felonybench.com",
-          "source": "www.felonybench.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T17:41:21.638000Z"
-        },
-        {
-          "id": "f31d7a39b22c90d6a854312f0ff5d3eff5bfa676",
-          "title": "《重罪法庭》：化身AI，犯下罪行 / Felony Bench: Be AI, Do Crime",
-          "url": "https://www.felonybench.com",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-21T17:23:02Z"
-        },
-        {
-          "id": "34912ed560261d4c64f01895b5a3a0e3a461089d",
-          "title": "《重罪法庭》：化身AI，犯下罪行 / Felony Bench",
-          "url": "https://www.felonybench.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T15:17:04Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5234,
-      "importance": 0.5234,
-      "importance_score": 0.5234,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7369,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-21T15:17:04Z",
-      "latest_at": "2026-08-21T17:41:21.638000Z",
-      "primary_item": {
-        "id": "ddd6e334a8b3f38442661fb4ce11133e87d99813",
-        "title": "《重罪法庭》：化身AI，犯下罪行",
-        "url": "https://www.felonybench.com",
-        "source": "www.felonybench.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1276,15 +1178,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5147,
-      "importance": 0.5147,
-      "importance_score": 0.5147,
+      "score": 0.5134,
+      "importance": 0.5134,
+      "importance_score": 0.5134,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8272,
+        "recency": 0.8202,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1355,15 +1257,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5136,
-      "importance": 0.5136,
-      "importance_score": 0.5136,
+      "score": 0.5123,
+      "importance": 0.5123,
+      "importance_score": 0.5123,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8208,
+        "recency": 0.8139,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1434,15 +1336,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5426,
-      "importance": 0.5426,
-      "importance_score": 0.5426,
+      "score": 0.5411,
+      "importance": 0.5411,
+      "importance_score": 0.5411,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.982,
+        "recency": 0.9737,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1513,15 +1415,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5047,
-      "importance": 0.5047,
-      "importance_score": 0.5047,
+      "score": 0.5036,
+      "importance": 0.5036,
+      "importance_score": 0.5036,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7718,
+        "recency": 0.7653,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1592,15 +1494,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.503,
-      "importance": 0.503,
-      "importance_score": 0.503,
+      "score": 0.5018,
+      "importance": 0.5018,
+      "importance_score": 0.5018,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7619,
+        "recency": 0.7555,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1671,15 +1573,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5005,
-      "importance": 0.5005,
-      "importance_score": 0.5005,
+      "score": 0.4994,
+      "importance": 0.4994,
+      "importance_score": 0.4994,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7484,
+        "recency": 0.7421,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1693,6 +1595,85 @@
         "title": "战争不是神，人工智能也不是",
         "url": "https://ryelang.org/blog/posts/war-is-not-god-neither-is-ai",
         "source": "ryelang.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_4602d0d95525",
+      "title": "《重罪法庭》：化身AI，犯下罪行",
+      "url": "https://www.felonybench.com",
+      "primary_url": "https://www.felonybench.com",
+      "source": "www.felonybench.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ddd6e334a8b3f38442661fb4ce11133e87d99813",
+          "title": "《重罪法庭》：化身AI，犯下罪行",
+          "url": "https://www.felonybench.com",
+          "source": "www.felonybench.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T17:41:21.638000Z"
+        },
+        {
+          "id": "f31d7a39b22c90d6a854312f0ff5d3eff5bfa676",
+          "title": "《重罪法庭》：化身AI，犯下罪行 / Felony Bench: Be AI, Do Crime",
+          "url": "https://www.felonybench.com",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-21T17:23:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "www.felonybench.com"
+      ],
+      "items": [
+        {
+          "id": "ddd6e334a8b3f38442661fb4ce11133e87d99813",
+          "title": "《重罪法庭》：化身AI，犯下罪行",
+          "url": "https://www.felonybench.com",
+          "source": "www.felonybench.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T17:41:21.638000Z"
+        },
+        {
+          "id": "f31d7a39b22c90d6a854312f0ff5d3eff5bfa676",
+          "title": "《重罪法庭》：化身AI，犯下罪行 / Felony Bench: Be AI, Do Crime",
+          "url": "https://www.felonybench.com",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-21T17:23:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4973,
+      "importance": 0.4973,
+      "importance_score": 0.4973,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7307,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-21T17:23:02Z",
+      "latest_at": "2026-08-21T17:41:21.638000Z",
+      "primary_item": {
+        "id": "ddd6e334a8b3f38442661fb4ce11133e87d99813",
+        "title": "《重罪法庭》：化身AI，犯下罪行",
+        "url": "https://www.felonybench.com",
+        "source": "www.felonybench.com",
         "source_name": "Buzzing"
       }
     }
