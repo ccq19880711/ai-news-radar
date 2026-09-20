@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T01:27:34.010870Z",
+  "generated_at": "2026-09-20T06:52:05.669798Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8538,
-      "importance": 0.8538,
-      "importance_score": 0.8538,
+      "score": 0.8405,
+      "importance": 0.8405,
+      "importance_score": 0.8405,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9787,
+        "recency": 0.9052,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -123,26 +123,26 @@
       }
     },
     {
-      "story_id": "story_b3979943cd11",
-      "title": "TypeSafe AI发布Jev:不生成文本的Transformer模型，主打低成本决策",
-      "url": "https://www.aibase.com/news/31171",
-      "primary_url": "https://www.aibase.com/news/31171",
+      "story_id": "story_824dc89c2827",
+      "title": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
+      "url": "https://www.aibase.com/news/31192",
+      "primary_url": "https://www.aibase.com/news/31192",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ec2faddda3fa70b09be81824374afe8a54f71b11",
-          "title": "TypeSafe AI发布Jev:不生成文本的Transformer模型，主打低成本决策",
-          "url": "https://www.aibase.com/news/31171",
+          "id": "82999d0580f5197438f19f75ca06160e51996b3c",
+          "title": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
+          "url": "https://www.aibase.com/news/31192",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T01:27:34.010870Z"
+          "published_at": "2026-09-20T06:52:05.669798Z"
         },
         {
-          "id": "e213580d787b6f66c6f356fbcf8f7bab294dcf9b",
-          "title": "TypeSafe AI 发布 Jev：不生成文本的 Transformer 模型，主打低成本决策",
-          "url": "https://www.aibase.com/zh/news/31171",
+          "id": "28ea54d764a02b9c3aeee195be4c670fea0c09cf",
+          "title": "B 站上线「AI 无限竞技场」测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
+          "url": "https://www.aibase.com/zh/news/31192",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -156,18 +156,18 @@
       ],
       "items": [
         {
-          "id": "ec2faddda3fa70b09be81824374afe8a54f71b11",
-          "title": "TypeSafe AI发布Jev:不生成文本的Transformer模型，主打低成本决策",
-          "url": "https://www.aibase.com/news/31171",
+          "id": "82999d0580f5197438f19f75ca06160e51996b3c",
+          "title": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
+          "url": "https://www.aibase.com/news/31192",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T01:27:34.010870Z"
+          "published_at": "2026-09-20T06:52:05.669798Z"
         },
         {
-          "id": "e213580d787b6f66c6f356fbcf8f7bab294dcf9b",
-          "title": "TypeSafe AI 发布 Jev：不生成文本的 Transformer 模型，主打低成本决策",
-          "url": "https://www.aibase.com/zh/news/31171",
+          "id": "28ea54d764a02b9c3aeee195be4c670fea0c09cf",
+          "title": "B 站上线「AI 无限竞技场」测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
+          "url": "https://www.aibase.com/zh/news/31192",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -193,256 +193,315 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-20T01:27:34.010870Z",
-      "latest_at": "2026-09-20T01:27:34.010870Z",
+      "earliest_at": "2026-09-20T06:52:05.669798Z",
+      "latest_at": "2026-09-20T06:52:05.669798Z",
       "primary_item": {
-        "id": "ec2faddda3fa70b09be81824374afe8a54f71b11",
-        "title": "TypeSafe AI发布Jev:不生成文本的Transformer模型，主打低成本决策",
-        "url": "https://www.aibase.com/news/31171",
+        "id": "82999d0580f5197438f19f75ca06160e51996b3c",
+        "title": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
+        "url": "https://www.aibase.com/news/31192",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_c834c1232b76",
-      "title": "WSJ 报道：Gemini 在 Irregular 网络安全评测中越出测试环境并入侵三家公司",
-      "url": "https://x.com/haider1/status/2101187073990611232",
-      "primary_url": "https://x.com/haider1/status/2101187073990611232",
-      "source": "X：Haider (@haider1)",
+      "story_id": "story_8905851ba602",
+      "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
+      "url": "https://www.aibase.com/news/31189",
+      "primary_url": "https://www.aibase.com/news/31189",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6dc2e713e964392dd9302c202f330a7e09070e0a",
+          "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
+          "url": "https://www.aibase.com/news/31189",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T06:52:05.669798Z"
+        },
+        {
+          "id": "c2f016ed45cebd8c13aacc4dc3a10d8e051b000e",
+          "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
+          "url": "https://www.aibase.com/zh/news/31189",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "6dc2e713e964392dd9302c202f330a7e09070e0a",
+          "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
+          "url": "https://www.aibase.com/news/31189",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T06:52:05.669798Z"
+        },
+        {
+          "id": "c2f016ed45cebd8c13aacc4dc3a10d8e051b000e",
+          "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
+          "url": "https://www.aibase.com/zh/news/31189",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T06:52:05.669798Z",
+      "latest_at": "2026-09-20T06:52:05.669798Z",
+      "primary_item": {
+        "id": "6dc2e713e964392dd9302c202f330a7e09070e0a",
+        "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
+        "url": "https://www.aibase.com/news/31189",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488120&idx=1&sn=8ba9ac7f0b36682d6262290677c665da",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488120&idx=1&sn=8ba9ac7f0b36682d6262290677c665da",
+      "source": "公众号：阶跃星辰（Step）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b7be25af0c2acab7857d209435467e836f1230c1",
-          "title": "WSJ 报道：Gemini 在 Irregular 网络安全评测中越出测试环境并入侵三家公司",
-          "url": "https://x.com/haider1/status/2101187073990611232",
-          "source": "X：Haider (@haider1)",
+          "id": "c3244cdb51a60dc3ca1678706b35a50a4ea63696",
+          "title": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488120&idx=1&sn=8ba9ac7f0b36682d6262290677c665da",
+          "source": "公众号：阶跃星辰（Step）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-19T05:50:11Z"
+          "published_at": "2026-09-20T02:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Haider (@haider1)"
+        "公众号：阶跃星辰（Step）"
       ],
       "items": [
         {
-          "id": "b7be25af0c2acab7857d209435467e836f1230c1",
-          "title": "WSJ 报道：Gemini 在 Irregular 网络安全评测中越出测试环境并入侵三家公司",
-          "url": "https://x.com/haider1/status/2101187073990611232",
-          "source": "X：Haider (@haider1)",
+          "id": "c3244cdb51a60dc3ca1678706b35a50a4ea63696",
+          "title": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488120&idx=1&sn=8ba9ac7f0b36682d6262290677c665da",
+          "source": "公众号：阶跃星辰（Step）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-19T05:50:11Z"
+          "published_at": "2026-09-20T02:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7532,
-      "importance": 0.7532,
-      "importance_score": 0.7532,
+      "score": 0.7374,
+      "importance": 0.7374,
+      "importance_score": 0.7374,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.82,
+        "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7532,
+        "recency": 0.9321,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-19T05:50:11Z",
-      "latest_at": "2026-09-19T05:50:11Z",
+      "earliest_at": "2026-09-20T02:00:00Z",
+      "latest_at": "2026-09-20T02:00:00Z",
       "primary_item": {
-        "id": "b7be25af0c2acab7857d209435467e836f1230c1",
-        "title": "WSJ 报道：Gemini 在 Irregular 网络安全评测中越出测试环境并入侵三家公司",
-        "url": "https://x.com/haider1/status/2101187073990611232",
-        "source": "X：Haider (@haider1)",
+        "id": "c3244cdb51a60dc3ca1678706b35a50a4ea63696",
+        "title": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488120&idx=1&sn=8ba9ac7f0b36682d6262290677c665da",
+        "source": "公众号：阶跃星辰（Step）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_f2196aa6a37c",
-      "title": "千问发布Qwen3.8-LiveTranslate:同传延迟降至2.3秒，还能保留你的音色",
-      "url": "https://www.aibase.com/news/31174",
-      "primary_url": "https://www.aibase.com/news/31174",
+      "story_id": "story_ab083c078ed1",
+      "title": "中国电信开源 Xing4.0-29B-A4B：从昇腾芯片到框架全栈国产，消费级显卡也能跑长上下文",
+      "url": "https://www.aibase.com/news/31179",
+      "primary_url": "https://www.aibase.com/news/31179",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c385cf016a8f470ca0e920e51110cef78249059c",
-          "title": "千问发布Qwen3.8-LiveTranslate:同传延迟降至2.3秒，还能保留你的音色",
-          "url": "https://www.aibase.com/news/31174",
+          "id": "7f44ad952779b57076d0d3086a2e67e45fcba1ba",
+          "title": "中国电信开源 Xing4.0-29B-A4B：从昇腾芯片到框架全栈国产，消费级显卡也能跑长上下文",
+          "url": "https://www.aibase.com/news/31179",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T01:27:34.010870Z"
+          "published_at": "2026-09-20T06:52:05.669798Z"
+        },
+        {
+          "id": "cf50111df169db69802f9d2b372218404d29031a",
+          "title": "中国电信开源 Xing4.0-29B-A4B：从昇腾芯片到框架全栈国产，消费级显卡也能跑长上下文",
+          "url": "https://www.aibase.com/zh/news/31179",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "c385cf016a8f470ca0e920e51110cef78249059c",
-          "title": "千问发布Qwen3.8-LiveTranslate:同传延迟降至2.3秒，还能保留你的音色",
-          "url": "https://www.aibase.com/news/31174",
+          "id": "7f44ad952779b57076d0d3086a2e67e45fcba1ba",
+          "title": "中国电信开源 Xing4.0-29B-A4B：从昇腾芯片到框架全栈国产，消费级显卡也能跑长上下文",
+          "url": "https://www.aibase.com/news/31179",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T01:27:34.010870Z"
+          "published_at": "2026-09-20T06:52:05.669798Z"
+        },
+        {
+          "id": "cf50111df169db69802f9d2b372218404d29031a",
+          "title": "中国电信开源 Xing4.0-29B-A4B：从昇腾芯片到框架全栈国产，消费级显卡也能跑长上下文",
+          "url": "https://www.aibase.com/zh/news/31179",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.0
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-20T01:27:34.010870Z",
-      "latest_at": "2026-09-20T01:27:34.010870Z",
+      "earliest_at": "2026-09-20T06:52:05.669798Z",
+      "latest_at": "2026-09-20T06:52:05.669798Z",
       "primary_item": {
-        "id": "c385cf016a8f470ca0e920e51110cef78249059c",
-        "title": "千问发布Qwen3.8-LiveTranslate:同传延迟降至2.3秒，还能保留你的音色",
-        "url": "https://www.aibase.com/news/31174",
+        "id": "7f44ad952779b57076d0d3086a2e67e45fcba1ba",
+        "title": "中国电信开源 Xing4.0-29B-A4B：从昇腾芯片到框架全栈国产，消费级显卡也能跑长上下文",
+        "url": "https://www.aibase.com/news/31179",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_be62fdeb0511",
-      "title": "智谱AI回应ZCode代码上传争议:已修复漏洞，将开源代码库",
-      "url": "https://www.aibase.com/news/31173",
-      "primary_url": "https://www.aibase.com/news/31173",
+      "story_id": "story_d4ffa5ac4a50",
+      "title": "谷歌升级AI助手CC:支持最多6名家庭成员协同管理",
+      "url": "https://www.aibase.com/news/31177",
+      "primary_url": "https://www.aibase.com/news/31177",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "87681bbdb6c16ec52e9a9ff497afdcb436b77311",
-          "title": "智谱AI回应ZCode代码上传争议:已修复漏洞，将开源代码库",
-          "url": "https://www.aibase.com/news/31173",
+          "id": "90dc7d78cd38b5a9f1bd2327375070d2b4083743",
+          "title": "谷歌升级AI助手CC:支持最多6名家庭成员协同管理",
+          "url": "https://www.aibase.com/news/31177",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T01:27:34.010870Z"
+          "published_at": "2026-09-20T06:52:05.669798Z"
+        },
+        {
+          "id": "00c7d00f4fbcba2a4131dbcfd8624eabc59dfb3c",
+          "title": "谷歌升级 AI 助手 CC：支持最多 6 名家庭成员协同管理",
+          "url": "https://www.aibase.com/zh/news/31177",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "87681bbdb6c16ec52e9a9ff497afdcb436b77311",
-          "title": "智谱AI回应ZCode代码上传争议:已修复漏洞，将开源代码库",
-          "url": "https://www.aibase.com/news/31173",
+          "id": "90dc7d78cd38b5a9f1bd2327375070d2b4083743",
+          "title": "谷歌升级AI助手CC:支持最多6名家庭成员协同管理",
+          "url": "https://www.aibase.com/news/31177",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T01:27:34.010870Z"
+          "published_at": "2026-09-20T06:52:05.669798Z"
+        },
+        {
+          "id": "00c7d00f4fbcba2a4131dbcfd8624eabc59dfb3c",
+          "title": "谷歌升级 AI 助手 CC：支持最多 6 名家庭成员协同管理",
+          "url": "https://www.aibase.com/zh/news/31177",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.0
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-20T01:27:34.010870Z",
-      "latest_at": "2026-09-20T01:27:34.010870Z",
+      "earliest_at": "2026-09-20T06:52:05.669798Z",
+      "latest_at": "2026-09-20T06:52:05.669798Z",
       "primary_item": {
-        "id": "87681bbdb6c16ec52e9a9ff497afdcb436b77311",
-        "title": "智谱AI回应ZCode代码上传争议:已修复漏洞，将开源代码库",
-        "url": "https://www.aibase.com/news/31173",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f7b6bcfb1354",
-      "title": "谷歌Gemini测试中入侵3家公司，首次被确认自主突破测试环境",
-      "url": "https://www.aibase.com/news/31172",
-      "primary_url": "https://www.aibase.com/news/31172",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8c015fb43a465907d7b81b3eb4a915723758cb06",
-          "title": "谷歌Gemini测试中入侵3家公司，首次被确认自主突破测试环境",
-          "url": "https://www.aibase.com/news/31172",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T01:27:34.010870Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8c015fb43a465907d7b81b3eb4a915723758cb06",
-          "title": "谷歌Gemini测试中入侵3家公司，首次被确认自主突破测试环境",
-          "url": "https://www.aibase.com/news/31172",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T01:27:34.010870Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T01:27:34.010870Z",
-      "latest_at": "2026-09-20T01:27:34.010870Z",
-      "primary_item": {
-        "id": "8c015fb43a465907d7b81b3eb4a915723758cb06",
-        "title": "谷歌Gemini测试中入侵3家公司，首次被确认自主突破测试环境",
-        "url": "https://www.aibase.com/news/31172",
+        "id": "90dc7d78cd38b5a9f1bd2327375070d2b4083743",
+        "title": "谷歌升级AI助手CC:支持最多6名家庭成员协同管理",
+        "url": "https://www.aibase.com/news/31177",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -554,15 +613,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6755,
-      "importance": 0.6755,
-      "importance_score": 0.6755,
+      "score": 0.6627,
+      "importance": 0.6627,
+      "importance_score": 0.6627,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4968,
         "source_tier": 0.54,
         "ai_relevance": 0.69,
-        "recency": 0.9424,
+        "recency": 0.8716,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -577,6 +636,87 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-09-19",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_b3979943cd11",
+      "title": "TypeSafe AI发布Jev:不生成文本的Transformer模型，主打低成本决策",
+      "url": "https://www.aibase.com/news/31171",
+      "primary_url": "https://www.aibase.com/news/31171",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ec2faddda3fa70b09be81824374afe8a54f71b11",
+          "title": "TypeSafe AI发布Jev:不生成文本的Transformer模型，主打低成本决策",
+          "url": "https://www.aibase.com/news/31171",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T01:27:34.010870Z"
+        },
+        {
+          "id": "e213580d787b6f66c6f356fbcf8f7bab294dcf9b",
+          "title": "TypeSafe AI 发布 Jev：不生成文本的 Transformer 模型，主打低成本决策",
+          "url": "https://www.aibase.com/zh/news/31171",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "ec2faddda3fa70b09be81824374afe8a54f71b11",
+          "title": "TypeSafe AI发布Jev:不生成文本的Transformer模型，主打低成本决策",
+          "url": "https://www.aibase.com/news/31171",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T01:27:34.010870Z"
+        },
+        {
+          "id": "e213580d787b6f66c6f356fbcf8f7bab294dcf9b",
+          "title": "TypeSafe AI 发布 Jev：不生成文本的 Transformer 模型，主打低成本决策",
+          "url": "https://www.aibase.com/zh/news/31171",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7791,
+      "importance": 0.7791,
+      "importance_score": 0.7791,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9249,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T01:27:34.010870Z",
+      "latest_at": "2026-09-20T01:27:34.010870Z",
+      "primary_item": {
+        "id": "ec2faddda3fa70b09be81824374afe8a54f71b11",
+        "title": "TypeSafe AI发布Jev:不生成文本的Transformer模型，主打低成本决策",
+        "url": "https://www.aibase.com/news/31171",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -632,15 +772,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.635,
-      "importance": 0.635,
-      "importance_score": 0.635,
+      "score": 0.6225,
+      "importance": 0.6225,
+      "importance_score": 0.6225,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.9237,
+        "recency": 0.8543,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -655,6 +795,67 @@
         "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
         "source": "TechCrunch AI",
         "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_c211068ff11f",
+      "title": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
+      "url": "https://www.aibase.com/news/31180",
+      "primary_url": "https://www.aibase.com/news/31180",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "97e0cc0aad5b39188ac19fd105397fe1e9575784",
+          "title": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
+          "url": "https://www.aibase.com/news/31180",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T06:52:05.669798Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "97e0cc0aad5b39188ac19fd105397fe1e9575784",
+          "title": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
+          "url": "https://www.aibase.com/news/31180",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T06:52:05.669798Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T06:52:05.669798Z",
+      "latest_at": "2026-09-20T06:52:05.669798Z",
+      "primary_item": {
+        "id": "97e0cc0aad5b39188ac19fd105397fe1e9575784",
+        "title": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
+        "url": "https://www.aibase.com/news/31180",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -767,15 +968,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6073,
-      "importance": 0.6073,
-      "importance_score": 0.6073,
+      "score": 0.5948,
+      "importance": 0.5948,
+      "importance_score": 0.5948,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.925,
+        "recency": 0.8555,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -790,6 +991,128 @@
         "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
         "source": "erichgrunewald.substack.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_779300c8fa00",
+      "title": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
+      "url": "https://www.aibase.com/news/31193",
+      "primary_url": "https://www.aibase.com/news/31193",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a8bc0ebee88f1fa467aeb606ca5bdce3fbd99513",
+          "title": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
+          "url": "https://www.aibase.com/news/31193",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T06:52:05.669798Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a8bc0ebee88f1fa467aeb606ca5bdce3fbd99513",
+          "title": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
+          "url": "https://www.aibase.com/news/31193",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T06:52:05.669798Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T06:52:05.669798Z",
+      "latest_at": "2026-09-20T06:52:05.669798Z",
+      "primary_item": {
+        "id": "a8bc0ebee88f1fa467aeb606ca5bdce3fbd99513",
+        "title": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
+        "url": "https://www.aibase.com/news/31193",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f983adbde42c",
+      "title": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
+      "url": "https://www.aibase.com/news/31184",
+      "primary_url": "https://www.aibase.com/news/31184",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d90342d5cace8758cb65582174d867ec5a6896f2",
+          "title": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
+          "url": "https://www.aibase.com/news/31184",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T06:52:05.669798Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d90342d5cace8758cb65582174d867ec5a6896f2",
+          "title": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
+          "url": "https://www.aibase.com/news/31184",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T06:52:05.669798Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T06:52:05.669798Z",
+      "latest_at": "2026-09-20T06:52:05.669798Z",
+      "primary_item": {
+        "id": "d90342d5cace8758cb65582174d867ec5a6896f2",
+        "title": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
+        "url": "https://www.aibase.com/news/31184",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -865,15 +1188,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.567,
-      "importance": 0.567,
-      "importance_score": 0.567,
+      "score": 0.5537,
+      "importance": 0.5537,
+      "importance_score": 0.5537,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9787,
+        "recency": 0.9052,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -891,119 +1214,143 @@
       }
     },
     {
-      "story_id": "story_e396d52dd138",
-      "title": "GPT-6 Astra 破解了一段一战时期的德国无线电密文",
-      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-      "primary_url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-      "source": "www.prinzai.com",
-      "source_name": "Buzzing",
+      "story_id": "story_774f7412d1a3",
+      "title": "比亚迪大幅降低电动汽车价格，成为澳大利亚最便宜的汽车[视频] / BYD Slashes Price of Electric Car and Becomes Cheapest in Australia [video]",
+      "url": "https://www.youtube.com/watch?v=IQrnGK5FZXI",
+      "primary_url": "https://www.youtube.com/watch?v=IQrnGK5FZXI",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "28d9a65889651f285954e18c9bbd8757e98c89e7",
-          "title": "GPT-6 Astra 破解了一段一战时期的德国无线电密文",
-          "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-          "source": "www.prinzai.com",
+          "id": "27b952bed470e590361211f95fe267238ccb5220",
+          "title": "比亚迪大幅降低电动汽车价格，成为澳大利亚最便宜的汽车[视频] / BYD Slashes Price of Electric Car and Becomes Cheapest in Australia [video]",
+          "url": "https://www.youtube.com/watch?v=IQrnGK5FZXI",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-20T04:46:34Z"
+        },
+        {
+          "id": "3b7e8fa322752fa8252be48aa6dc55ca90f7c09e",
+          "title": "人工智能与科学的核心悖论 陶哲轩",
+          "url": "https://www.youtube.com/watch?v=svl_1upFpQo",
+          "source": "www.youtube.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-19T09:35:29.529000Z"
-        },
-        {
-          "id": "8f2fc72a05349797767433d6f72282035e29c1ba",
-          "title": "GPT-6 Astra 破解了一项第一次世界大战时期的德国无线电密码",
-          "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-          "source": "www.prinzai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T08:48:31.301000Z"
-        },
-        {
-          "id": "5554cc43df3aa86a2db48a542e7c070b41cee04d",
-          "title": "GPT-6 Astra 破解了一项第一次世界大战时期的德国无线电密码 / GPT-6 Astra Solves a WWI German Radio Cipher",
-          "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-19T08:44:38Z"
-        },
-        {
-          "id": "c980aa8d16aa46580af8e3e9dda7898b2847becb",
-          "title": "GPT-6 Astra 破解了第一次世界大战德国无线电密码 / GPT-6 Astra Solves a WWI German Radio Cipher",
-          "url": "https://news.ycombinator.com/item?id=49763987",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T06:41:44Z"
+          "published_at": "2026-09-19T17:10:46.255000Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 2,
       "source_names": [
-        "Lobsters (技术社区)",
-        "hackernews",
-        "www.prinzai.com"
+        "Hacker News · 24h最热",
+        "www.youtube.com"
       ],
       "items": [
         {
-          "id": "28d9a65889651f285954e18c9bbd8757e98c89e7",
-          "title": "GPT-6 Astra 破解了一段一战时期的德国无线电密文",
-          "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-          "source": "www.prinzai.com",
+          "id": "27b952bed470e590361211f95fe267238ccb5220",
+          "title": "比亚迪大幅降低电动汽车价格，成为澳大利亚最便宜的汽车[视频] / BYD Slashes Price of Electric Car and Becomes Cheapest in Australia [video]",
+          "url": "https://www.youtube.com/watch?v=IQrnGK5FZXI",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-20T04:46:34Z"
+        },
+        {
+          "id": "3b7e8fa322752fa8252be48aa6dc55ca90f7c09e",
+          "title": "人工智能与科学的核心悖论 陶哲轩",
+          "url": "https://www.youtube.com/watch?v=svl_1upFpQo",
+          "source": "www.youtube.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-19T09:35:29.529000Z"
-        },
-        {
-          "id": "8f2fc72a05349797767433d6f72282035e29c1ba",
-          "title": "GPT-6 Astra 破解了一项第一次世界大战时期的德国无线电密码",
-          "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-          "source": "www.prinzai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T08:48:31.301000Z"
-        },
-        {
-          "id": "5554cc43df3aa86a2db48a542e7c070b41cee04d",
-          "title": "GPT-6 Astra 破解了一项第一次世界大战时期的德国无线电密码 / GPT-6 Astra Solves a WWI German Radio Cipher",
-          "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-19T08:44:38Z"
-        },
-        {
-          "id": "c980aa8d16aa46580af8e3e9dda7898b2847becb",
-          "title": "GPT-6 Astra 破解了第一次世界大战德国无线电密码 / GPT-6 Astra Solves a WWI German Radio Cipher",
-          "url": "https://news.ycombinator.com/item?id=49763987",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T06:41:44Z"
+          "published_at": "2026-09-19T17:10:46.255000Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5589,
-      "importance": 0.5589,
-      "importance_score": 0.5589,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5404,
+      "importance": 0.5404,
+      "importance_score": 0.5404,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7952,
-        "story_heat": 0.75
+        "recency": 0.9702,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-19T06:41:44Z",
-      "latest_at": "2026-09-19T09:35:29.529000Z",
+      "earliest_at": "2026-09-19T17:10:46.255000Z",
+      "latest_at": "2026-09-20T04:46:34Z",
       "primary_item": {
-        "id": "28d9a65889651f285954e18c9bbd8757e98c89e7",
-        "title": "GPT-6 Astra 破解了一段一战时期的德国无线电密文",
-        "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-        "source": "www.prinzai.com",
-        "source_name": "Buzzing"
+        "id": "27b952bed470e590361211f95fe267238ccb5220",
+        "title": "比亚迪大幅降低电动汽车价格，成为澳大利亚最便宜的汽车[视频] / BYD Slashes Price of Electric Car and Becomes Cheapest in Australia [video]",
+        "url": "https://www.youtube.com/watch?v=IQrnGK5FZXI",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_b6719a7d10d6",
+      "title": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
+      "url": "https://www.aibase.com/news/31191",
+      "primary_url": "https://www.aibase.com/news/31191",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "153c2fdd94c035054d3218ec0941a6dd0e4421f5",
+          "title": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
+          "url": "https://www.aibase.com/news/31191",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T06:52:05.669798Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "153c2fdd94c035054d3218ec0941a6dd0e4421f5",
+          "title": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
+          "url": "https://www.aibase.com/news/31191",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T06:52:05.669798Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T06:52:05.669798Z",
+      "latest_at": "2026-09-20T06:52:05.669798Z",
+      "primary_item": {
+        "id": "153c2fdd94c035054d3218ec0941a6dd0e4421f5",
+        "title": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
+        "url": "https://www.aibase.com/news/31191",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1060,15 +1407,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.54,
-      "importance": 0.54,
-      "importance_score": 0.54,
+      "score": 0.5269,
+      "importance": 0.5269,
+      "importance_score": 0.5269,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9678,
+        "recency": 0.8951,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1139,15 +1486,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5396,
-      "importance": 0.5396,
-      "importance_score": 0.5396,
+      "score": 0.5266,
+      "importance": 0.5266,
+      "importance_score": 0.5266,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9657,
+        "recency": 0.8931,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1237,15 +1584,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5366,
-      "importance": 0.5366,
-      "importance_score": 0.5366,
+      "score": 0.5257,
+      "importance": 0.5257,
+      "importance_score": 0.5257,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8102,
+        "recency": 0.7494,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1263,495 +1610,100 @@
       }
     },
     {
-      "story_id": "story_463a0b9aa5fb",
-      "title": "特朗普宣布成立新的“人工智能部队”，但表示不会“扼杀”人工智能",
-      "url": "https://www.businessinsider.com/trump-ai-regulation-slowdown-anthropic-dario-amodei-9-2026",
-      "primary_url": "https://www.businessinsider.com/trump-ai-regulation-slowdown-anthropic-dario-amodei-9-2026",
-      "source": "www.businessinsider.com",
+      "story_id": "story_1fc5f06ab4e0",
+      "title": "GPT-6 Astra 破解了一段一战时期的德国无线电密文",
+      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "primary_url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "source": "www.prinzai.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "53306148fad96c787350bde3be395b68157eb325",
-          "title": "特朗普宣布成立新的“人工智能部队”，但表示不会“扼杀”人工智能",
-          "url": "https://www.businessinsider.com/trump-ai-regulation-slowdown-anthropic-dario-amodei-9-2026",
-          "source": "www.businessinsider.com",
+          "id": "28d9a65889651f285954e18c9bbd8757e98c89e7",
+          "title": "GPT-6 Astra 破解了一段一战时期的德国无线电密文",
+          "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+          "source": "www.prinzai.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-19T19:17:30.608000Z"
+          "published_at": "2026-09-19T09:35:29.529000Z"
         },
         {
-          "id": "98e83d041767650dfe10435cae0895570c83fa9e",
-          "title": "特朗普宣布成立新的“人工智能部队”，但表示不会“扼杀”人工智能 / Trump announces a new 'AI Force,' but says he will not 'stifle' AI",
-          "url": "https://www.businessinsider.com/trump-ai-regulation-slowdown-anthropic-dario-amodei-9-2026",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T18:52:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "53306148fad96c787350bde3be395b68157eb325",
-          "title": "特朗普宣布成立新的“人工智能部队”，但表示不会“扼杀”人工智能",
-          "url": "https://www.businessinsider.com/trump-ai-regulation-slowdown-anthropic-dario-amodei-9-2026",
-          "source": "www.businessinsider.com",
+          "id": "8f2fc72a05349797767433d6f72282035e29c1ba",
+          "title": "GPT-6 Astra 破解了一项第一次世界大战时期的德国无线电密码",
+          "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+          "source": "www.prinzai.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-19T19:17:30.608000Z"
+          "published_at": "2026-09-19T08:48:31.301000Z"
         },
         {
-          "id": "98e83d041767650dfe10435cae0895570c83fa9e",
-          "title": "特朗普宣布成立新的“人工智能部队”，但表示不会“扼杀”人工智能 / Trump announces a new 'AI Force,' but says he will not 'stifle' AI",
-          "url": "https://www.businessinsider.com/trump-ai-regulation-slowdown-anthropic-dario-amodei-9-2026",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T18:52:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5305,
-      "importance": 0.5305,
-      "importance_score": 0.5305,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9148,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-19T18:52:13Z",
-      "latest_at": "2026-09-19T19:17:30.608000Z",
-      "primary_item": {
-        "id": "53306148fad96c787350bde3be395b68157eb325",
-        "title": "特朗普宣布成立新的“人工智能部队”，但表示不会“扼杀”人工智能",
-        "url": "https://www.businessinsider.com/trump-ai-regulation-slowdown-anthropic-dario-amodei-9-2026",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_e403cb300475",
-      "title": "特朗普表示将任命一位新的人工智能顾问，但未透露具体细节",
-      "url": "https://www.reuters.com/world/us/trump-says-he-will-create-ai-force-name-ai-czar-2026-09-19",
-      "primary_url": "https://www.reuters.com/world/us/trump-says-he-will-create-ai-force-name-ai-czar-2026-09-19",
-      "source": "www.reuters.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "660f66ef26dc8e08163f421da906dfa09e3ee2a3",
-          "title": "特朗普表示将任命一位新的人工智能顾问，但未透露具体细节",
-          "url": "https://www.reuters.com/world/us/trump-says-he-will-create-ai-force-name-ai-czar-2026-09-19",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T18:45:41.673000Z"
-        },
-        {
-          "id": "93245eaeb53f1ad8622af2a3f83bf25dece5eb94",
-          "title": "特朗普表示将组建“人工智能部队”，并任命人工智能沙皇",
-          "url": "https://www.reuters.com/world/us/trump-says-he-will-create-ai-force-name-ai-czar-2026-09-19",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T17:26:16.848000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "660f66ef26dc8e08163f421da906dfa09e3ee2a3",
-          "title": "特朗普表示将任命一位新的人工智能顾问，但未透露具体细节",
-          "url": "https://www.reuters.com/world/us/trump-says-he-will-create-ai-force-name-ai-czar-2026-09-19",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T18:45:41.673000Z"
-        },
-        {
-          "id": "93245eaeb53f1ad8622af2a3f83bf25dece5eb94",
-          "title": "特朗普表示将组建“人工智能部队”，并任命人工智能沙皇",
-          "url": "https://www.reuters.com/world/us/trump-says-he-will-create-ai-force-name-ai-czar-2026-09-19",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T17:26:16.848000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5292,
-      "importance": 0.5292,
-      "importance_score": 0.5292,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9078,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-19T17:26:16.848000Z",
-      "latest_at": "2026-09-19T18:45:41.673000Z",
-      "primary_item": {
-        "id": "660f66ef26dc8e08163f421da906dfa09e3ee2a3",
-        "title": "特朗普表示将任命一位新的人工智能顾问，但未透露具体细节",
-        "url": "https://www.reuters.com/world/us/trump-says-he-will-create-ai-force-name-ai-czar-2026-09-19",
-        "source": "www.reuters.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_371dbe4be68c",
-      "title": "谷歌Gemini AI在安全测试中入侵了三家公司 / Google's Gemini AI hacked three companies in security test",
-      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
-      "primary_url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "02a77b856526ddf769de7bb3a56d4e7ff33fe7fe",
-          "title": "谷歌Gemini AI在安全测试中入侵了三家公司 / Google's Gemini AI hacked three companies in security test",
-          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-19T06:09:23Z"
-        },
-        {
-          "id": "04365d101e4dedcb90aa24e8be378ba01f1113fd",
-          "title": "谷歌的Gemini AI在安全测试中攻破了三家公司的系统",
-          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T04:35:37.974000Z"
-        },
-        {
-          "id": "9bd7371c70addd76ddfa999e87bd0eb688774983",
-          "title": "谷歌的Gemini AI在安全测试中攻破了三家公司的系统 / Google's Gemini AI hacked three companies in security test",
-          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T04:27:11Z"
+          "id": "5554cc43df3aa86a2db48a542e7c070b41cee04d",
+          "title": "GPT-6 Astra 破解了一项第一次世界大战时期的德国无线电密码 / GPT-6 Astra Solves a WWI German Radio Cipher",
+          "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-19T08:44:38Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "BBC News",
-        "Hacker News · 24h最热",
-        "www.bbc.co.uk"
+        "Lobsters (技术社区)",
+        "www.prinzai.com"
       ],
       "items": [
         {
-          "id": "02a77b856526ddf769de7bb3a56d4e7ff33fe7fe",
-          "title": "谷歌Gemini AI在安全测试中入侵了三家公司 / Google's Gemini AI hacked three companies in security test",
-          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-19T06:09:23Z"
-        },
-        {
-          "id": "04365d101e4dedcb90aa24e8be378ba01f1113fd",
-          "title": "谷歌的Gemini AI在安全测试中攻破了三家公司的系统",
-          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
+          "id": "28d9a65889651f285954e18c9bbd8757e98c89e7",
+          "title": "GPT-6 Astra 破解了一段一战时期的德国无线电密文",
+          "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+          "source": "www.prinzai.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-19T04:35:37.974000Z"
+          "published_at": "2026-09-19T09:35:29.529000Z"
         },
         {
-          "id": "9bd7371c70addd76ddfa999e87bd0eb688774983",
-          "title": "谷歌的Gemini AI在安全测试中攻破了三家公司的系统 / Google's Gemini AI hacked three companies in security test",
-          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T04:27:11Z"
+          "id": "8f2fc72a05349797767433d6f72282035e29c1ba",
+          "title": "GPT-6 Astra 破解了一项第一次世界大战时期的德国无线电密码",
+          "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+          "source": "www.prinzai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T08:48:31.301000Z"
+        },
+        {
+          "id": "5554cc43df3aa86a2db48a542e7c070b41cee04d",
+          "title": "GPT-6 Astra 破解了一项第一次世界大战时期的德国无线电密码 / GPT-6 Astra Solves a WWI German Radio Cipher",
+          "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-19T08:44:38Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.527,
-      "importance": 0.527,
-      "importance_score": 0.527,
+      "score": 0.5232,
+      "importance": 0.5232,
+      "importance_score": 0.5232,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7567,
+        "recency": 0.7355,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-19T04:27:11Z",
-      "latest_at": "2026-09-19T06:09:23Z",
+      "earliest_at": "2026-09-19T08:44:38Z",
+      "latest_at": "2026-09-19T09:35:29.529000Z",
       "primary_item": {
-        "id": "02a77b856526ddf769de7bb3a56d4e7ff33fe7fe",
-        "title": "谷歌Gemini AI在安全测试中入侵了三家公司 / Google's Gemini AI hacked three companies in security test",
-        "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_ff70dfe1c386",
-      "title": "人工智能是一场精英犯罪浪潮",
-      "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
-      "primary_url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
-      "source": "www.thebignewsletter.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2f287611e1178ca3ddc645e7da82eac119e5fa5a",
-          "title": "人工智能是一场精英犯罪浪潮",
-          "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
-          "source": "www.thebignewsletter.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T15:52:36.202000Z"
-        },
-        {
-          "id": "af9f6001be9762b3b9f8b973740682dfeeb50aa3",
-          "title": "人工智能是一场精英犯罪浪潮 / AI Is an Elite Crime Spree",
-          "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-19T15:44:52Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "www.thebignewsletter.com"
-      ],
-      "items": [
-        {
-          "id": "2f287611e1178ca3ddc645e7da82eac119e5fa5a",
-          "title": "人工智能是一场精英犯罪浪潮",
-          "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
-          "source": "www.thebignewsletter.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T15:52:36.202000Z"
-        },
-        {
-          "id": "af9f6001be9762b3b9f8b973740682dfeeb50aa3",
-          "title": "人工智能是一场精英犯罪浪潮 / AI Is an Elite Crime Spree",
-          "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-19T15:44:52Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5225,
-      "importance": 0.5225,
-      "importance_score": 0.5225,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8708,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-19T15:44:52Z",
-      "latest_at": "2026-09-19T15:52:36.202000Z",
-      "primary_item": {
-        "id": "2f287611e1178ca3ddc645e7da82eac119e5fa5a",
-        "title": "人工智能是一场精英犯罪浪潮",
-        "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
-        "source": "www.thebignewsletter.com",
+        "id": "28d9a65889651f285954e18c9bbd8757e98c89e7",
+        "title": "GPT-6 Astra 破解了一段一战时期的德国无线电密文",
+        "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+        "source": "www.prinzai.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_688095cc71b0",
-      "title": "yynxxxxx /      Codex-X",
-      "url": "https://github.com/yynxxxxx/Codex-X",
-      "primary_url": "https://github.com/yynxxxxx/Codex-X",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "93ef558d0222ef4bc787d656db823d16b6583d28",
-          "title": "yynxxxxx /      Codex-X",
-          "url": "https://github.com/yynxxxxx/Codex-X",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T12:01:36.082000Z"
-        },
-        {
-          "id": "d9da796f1c62b6b34933b021370fb8b6d4ab33b2",
-          "title": "yynxxxxx / Codex-X",
-          "url": "https://github.com/yynxxxxx/Codex-X",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "93ef558d0222ef4bc787d656db823d16b6583d28",
-          "title": "yynxxxxx /      Codex-X",
-          "url": "https://github.com/yynxxxxx/Codex-X",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T12:01:36.082000Z"
-        },
-        {
-          "id": "d9da796f1c62b6b34933b021370fb8b6d4ab33b2",
-          "title": "yynxxxxx / Codex-X",
-          "url": "https://github.com/yynxxxxx/Codex-X",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5141,
-      "importance": 0.5141,
-      "importance_score": 0.5141,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8237,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-19T12:00:40.323403Z",
-      "latest_at": "2026-09-19T12:01:36.082000Z",
-      "primary_item": {
-        "id": "93ef558d0222ef4bc787d656db823d16b6583d28",
-        "title": "yynxxxxx /      Codex-X",
-        "url": "https://github.com/yynxxxxx/Codex-X",
-        "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_37bc23116d40",
-      "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
-      "url": "https://www.qbitai.com/2026/09/492429.html",
-      "primary_url": "https://www.qbitai.com/2026/09/492429.html",
-      "source": "量子位 · 每日最新",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "3d59718e631cf96f9e4c623caf6837f9e945cc20",
-          "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
-          "url": "https://www.qbitai.com/2026/09/492429.html",
-          "source": "量子位 · 每日最新",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "1c7803b3c13dc3507007b17a84584a320ada79bd",
-          "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
-          "url": "https://www.huxiu.com/article/4892463.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-19T06:43:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "虎嗅 (Huxiu)",
-        "量子位 · 每日最新"
-      ],
-      "items": [
-        {
-          "id": "3d59718e631cf96f9e4c623caf6837f9e945cc20",
-          "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
-          "url": "https://www.qbitai.com/2026/09/492429.html",
-          "source": "量子位 · 每日最新",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "1c7803b3c13dc3507007b17a84584a320ada79bd",
-          "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
-          "url": "https://www.huxiu.com/article/4892463.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-19T06:43:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.514,
-      "importance": 0.514,
-      "importance_score": 0.514,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8235,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-19T06:43:23Z",
-      "latest_at": "2026-09-19T12:00:40.323403Z",
-      "primary_item": {
-        "id": "3d59718e631cf96f9e4c623caf6837f9e945cc20",
-        "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
-        "url": "https://www.qbitai.com/2026/09/492429.html",
-        "source": "量子位 · 每日最新",
-        "source_name": "TopHub"
       }
     }
   ]
