@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T20:26:26.533332Z",
+  "generated_at": "2026-10-02T00:05:25.138904Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8488,
-      "importance": 0.8488,
-      "importance_score": 0.8488,
+      "score": 0.8397,
+      "importance": 0.8397,
+      "importance_score": 0.8397,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9821,
+        "recency": 0.9317,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8465,
-      "importance": 0.8465,
-      "importance_score": 0.8465,
+      "score": 0.8379,
+      "importance": 0.8379,
+      "importance_score": 0.8379,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9248,
+        "recency": 0.8773,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8433,
-      "importance": 0.8433,
-      "importance_score": 0.8433,
+      "score": 0.8345,
+      "importance": 0.8345,
+      "importance_score": 0.8345,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9515,
+        "recency": 0.9027,
         "story_heat": 0.0
       },
       "category": "official",
@@ -186,68 +186,6 @@
         "title": "The eternal complement",
         "url": "https://openai.com/index/the-eternal-complement",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_91992ed9f82d",
-      "title": "Codex CLI 0.160.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "50178a3a79848cac2d6d54e21d710e40b8ffd343",
-          "title": "Codex CLI 0.160.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "50178a3a79848cac2d6d54e21d710e40b8ffd343",
-          "title": "Codex CLI 0.160.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.82,
-      "importance": 0.82,
-      "importance_score": 0.82,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7444,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T00:00:00Z",
-      "latest_at": "2026-10-01T00:00:00Z",
-      "primary_item": {
-        "id": "50178a3a79848cac2d6d54e21d710e40b8ffd343",
-        "title": "Codex CLI 0.160.0",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -286,15 +224,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8487,
-      "importance": 0.8487,
-      "importance_score": 0.8487,
+      "score": 0.8396,
+      "importance": 0.8396,
+      "importance_score": 0.8396,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9816,
+        "recency": 0.9312,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,15 +286,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8408,
-      "importance": 0.8408,
-      "importance_score": 0.8408,
+      "score": 0.8322,
+      "importance": 0.8322,
+      "importance_score": 0.8322,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9379,
+        "recency": 0.8897,
         "story_heat": 0.0
       },
       "category": "official",
@@ -429,15 +367,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7872,
-      "importance": 0.7872,
-      "importance_score": 0.7872,
+      "score": 0.779,
+      "importance": 0.779,
+      "importance_score": 0.779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8865,
+        "recency": 0.841,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -457,21 +395,21 @@
       }
     },
     {
-      "story_id": "story_1d7c1228c839",
-      "title": "Accessibility statements highlighted on repository overview",
-      "url": "https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview",
-      "primary_url": "https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview",
+      "story_id": "story_65858f5c8d43",
+      "title": "Rate limits for private vulnerability reports",
+      "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
+      "primary_url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f3074555f3facc02020dd6d7e8ef078c96c866f9",
-          "title": "Accessibility statements highlighted on repository overview",
-          "url": "https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview",
+          "id": "147a12f68e228f02b3cdd09aa33db76f7995db74",
+          "title": "Rate limits for private vulnerability reports",
+          "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T19:04:32Z"
+          "published_at": "2026-10-01T19:57:39Z"
         }
       ],
       "source_count": 1,
@@ -480,26 +418,26 @@
       ],
       "items": [
         {
-          "id": "f3074555f3facc02020dd6d7e8ef078c96c866f9",
-          "title": "Accessibility statements highlighted on repository overview",
-          "url": "https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview",
+          "id": "147a12f68e228f02b3cdd09aa33db76f7995db74",
+          "title": "Rate limits for private vulnerability reports",
+          "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T19:04:32Z"
+          "published_at": "2026-10-01T19:57:39Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8405,
-      "importance": 0.8405,
-      "importance_score": 0.8405,
+      "score": 0.8336,
+      "importance": 0.8336,
+      "importance_score": 0.8336,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9805,
+        "recency": 0.9421,
         "story_heat": 0.0
       },
       "category": "official",
@@ -508,14 +446,258 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-01T19:04:32Z",
-      "latest_at": "2026-10-01T19:04:32Z",
+      "earliest_at": "2026-10-01T19:57:39Z",
+      "latest_at": "2026-10-01T19:57:39Z",
       "primary_item": {
-        "id": "f3074555f3facc02020dd6d7e8ef078c96c866f9",
-        "title": "Accessibility statements highlighted on repository overview",
-        "url": "https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview",
+        "id": "147a12f68e228f02b3cdd09aa33db76f7995db74",
+        "title": "Rate limits for private vulnerability reports",
+        "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_50566681553e",
+      "title": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑",
+      "url": "https://x.com/OpenRouter/status/2105759062835220852",
+      "primary_url": "https://x.com/OpenRouter/status/2105759062835220852",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6d02910a0b7262c57072a618a4e45ae6373272ea",
+          "title": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑",
+          "url": "https://x.com/OpenRouter/status/2105759062835220852",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T20:37:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenRouter (@OpenRouter)"
+      ],
+      "items": [
+        {
+          "id": "6d02910a0b7262c57072a618a4e45ae6373272ea",
+          "title": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑",
+          "url": "https://x.com/OpenRouter/status/2105759062835220852",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T20:37:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7588,
+      "importance": 0.7588,
+      "importance_score": 0.7588,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9512,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T20:37:38Z",
+      "latest_at": "2026-10-01T20:37:38Z",
+      "primary_item": {
+        "id": "6d02910a0b7262c57072a618a4e45ae6373272ea",
+        "title": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑",
+        "url": "https://x.com/OpenRouter/status/2105759062835220852",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9506769ef6ff",
+      "title": "Suno 推出 Speech beta：语音与背景音乐一体生成",
+      "url": "https://suno.com/blog/introducing-speech-beta",
+      "primary_url": "https://suno.com/blog/introducing-speech-beta",
+      "source": "Suno：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b92d0a2b80504ddfece5e27a9fb7a8a3e4918ef4",
+          "title": "Suno 推出 Speech beta：语音与背景音乐一体生成",
+          "url": "https://suno.com/blog/introducing-speech-beta",
+          "source": "Suno：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T20:35:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Suno：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "b92d0a2b80504ddfece5e27a9fb7a8a3e4918ef4",
+          "title": "Suno 推出 Speech beta：语音与背景音乐一体生成",
+          "url": "https://suno.com/blog/introducing-speech-beta",
+          "source": "Suno：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T20:35:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7557,
+      "importance": 0.7557,
+      "importance_score": 0.7557,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9506,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T20:35:00Z",
+      "latest_at": "2026-10-01T20:35:00Z",
+      "primary_item": {
+        "id": "b92d0a2b80504ddfece5e27a9fb7a8a3e4918ef4",
+        "title": "Suno 推出 Speech beta：语音与背景音乐一体生成",
+        "url": "https://suno.com/blog/introducing-speech-beta",
+        "source": "Suno：Blog（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e2222d31e665",
+      "title": "Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型",
+      "url": "https://x.com/ArtificialAnlys/status/2105790682376065463",
+      "primary_url": "https://x.com/ArtificialAnlys/status/2105790682376065463",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8e18fbe70daa6a142ef1934895750767f733646e",
+          "title": "Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型",
+          "url": "https://x.com/ArtificialAnlys/status/2105790682376065463",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T22:43:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Artificial Analysis (@ArtificialAnlys)"
+      ],
+      "items": [
+        {
+          "id": "8e18fbe70daa6a142ef1934895750767f733646e",
+          "title": "Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型",
+          "url": "https://x.com/ArtificialAnlys/status/2105790682376065463",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T22:43:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9804,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T22:43:17Z",
+      "latest_at": "2026-10-01T22:43:17Z",
+      "primary_item": {
+        "id": "8e18fbe70daa6a142ef1934895750767f733646e",
+        "title": "Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型",
+        "url": "https://x.com/ArtificialAnlys/status/2105790682376065463",
+        "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_04d4b4f4e20c",
+      "title": "FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成",
+      "url": "https://x.com/krea_ai/status/2105769469880799716",
+      "primary_url": "https://x.com/krea_ai/status/2105769469880799716",
+      "source": "X：Krea AI (@krea_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f61f78ecb87af9a364695b370713ab95021622b4",
+          "title": "FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成",
+          "url": "https://x.com/krea_ai/status/2105769469880799716",
+          "source": "X：Krea AI (@krea_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T21:18:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Krea AI (@krea_ai)"
+      ],
+      "items": [
+        {
+          "id": "f61f78ecb87af9a364695b370713ab95021622b4",
+          "title": "FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成",
+          "url": "https://x.com/krea_ai/status/2105769469880799716",
+          "source": "X：Krea AI (@krea_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T21:18:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7515,
+      "importance": 0.7515,
+      "importance_score": 0.7515,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9607,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T21:18:59Z",
+      "latest_at": "2026-10-01T21:18:59Z",
+      "primary_item": {
+        "id": "f61f78ecb87af9a364695b370713ab95021622b4",
+        "title": "FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成",
+        "url": "https://x.com/krea_ai/status/2105769469880799716",
+        "source": "X：Krea AI (@krea_ai)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -553,21 +735,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7555,
-      "importance": 0.7555,
-      "importance_score": 0.7555,
+      "score": 0.7467,
+      "importance": 0.7467,
+      "importance_score": 0.7467,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9495,
+        "recency": 0.9007,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-01T16:51:02Z",
       "latest_at": "2026-10-01T16:51:02Z",
@@ -577,6 +758,68 @@
         "url": "https://x.com/arena/status/2105702037849841954",
         "source": "X：Arena (@arena)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_eebe7e321dec",
+      "title": "Structured forms for private vulnerability reports",
+      "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+      "primary_url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ca059e6628b728224f13fba9352e61a9969427d2",
+          "title": "Structured forms for private vulnerability reports",
+          "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T19:57:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ca059e6628b728224f13fba9352e61a9969427d2",
+          "title": "Structured forms for private vulnerability reports",
+          "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T19:57:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8336,
+      "importance": 0.8336,
+      "importance_score": 0.8336,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9421,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T19:57:28Z",
+      "latest_at": "2026-10-01T19:57:28Z",
+      "primary_item": {
+        "id": "ca059e6628b728224f13fba9352e61a9969427d2",
+        "title": "Structured forms for private vulnerability reports",
+        "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -614,15 +857,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7499,
-      "importance": 0.7499,
-      "importance_score": 0.7499,
+      "score": 0.7411,
+      "importance": 0.7411,
+      "importance_score": 0.7411,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9519,
+        "recency": 0.903,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -636,128 +879,6 @@
         "title": "LangChain 讲解如何在 Agent Harness 中构建模型路由器",
         "url": "https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness",
         "source": "LangChain：Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_11541a89b22f",
-      "title": "Actions retention now covers checks, runs, and statuses",
-      "url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
-      "primary_url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bd680e642074865eae97e27770212465ae6180e3",
-          "title": "Actions retention now covers checks, runs, and statuses",
-          "url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T17:59:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "bd680e642074865eae97e27770212465ae6180e3",
-          "title": "Actions retention now covers checks, runs, and statuses",
-          "url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T17:59:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8378,
-      "importance": 0.8378,
-      "importance_score": 0.8378,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9653,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T17:59:54Z",
-      "latest_at": "2026-10-01T17:59:54Z",
-      "primary_item": {
-        "id": "bd680e642074865eae97e27770212465ae6180e3",
-        "title": "Actions retention now covers checks, runs, and statuses",
-        "url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_3118c72789f3",
-      "title": "Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI",
-      "url": "https://x.com/ClaudeDevs/status/2105721434807083061",
-      "primary_url": "https://x.com/ClaudeDevs/status/2105721434807083061",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7db0975ce244f1da554a8f5de278328282e7d7a1",
-          "title": "Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI",
-          "url": "https://x.com/ClaudeDevs/status/2105721434807083061",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T18:08:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Claude Devs (@ClaudeDevs)"
-      ],
-      "items": [
-        {
-          "id": "7db0975ce244f1da554a8f5de278328282e7d7a1",
-          "title": "Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI",
-          "url": "https://x.com/ClaudeDevs/status/2105721434807083061",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T18:08:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7467,
-      "importance": 0.7467,
-      "importance_score": 0.7467,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9673,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-01T18:08:07Z",
-      "latest_at": "2026-10-01T18:08:07Z",
-      "primary_item": {
-        "id": "7db0975ce244f1da554a8f5de278328282e7d7a1",
-        "title": "Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI",
-        "url": "https://x.com/ClaudeDevs/status/2105721434807083061",
-        "source": "X：Claude Devs (@ClaudeDevs)",
         "source_name": "AI HOT"
       }
     },
@@ -796,15 +917,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7464,
-      "importance": 0.7464,
-      "importance_score": 0.7464,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8322,
+        "recency": 0.7895,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -818,6 +939,66 @@
         "title": "UC Berkeley 团队用 AI Agent 审计 13 个基准，发现 45 个无需解题的满分作弊方案",
         "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks",
         "source": "Berkeley RDI：Blog（AI 安全与评测）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3118c72789f3",
+      "title": "Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI",
+      "url": "https://x.com/ClaudeDevs/status/2105721434807083061",
+      "primary_url": "https://x.com/ClaudeDevs/status/2105721434807083061",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7db0975ce244f1da554a8f5de278328282e7d7a1",
+          "title": "Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI",
+          "url": "https://x.com/ClaudeDevs/status/2105721434807083061",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T18:08:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Claude Devs (@ClaudeDevs)"
+      ],
+      "items": [
+        {
+          "id": "7db0975ce244f1da554a8f5de278328282e7d7a1",
+          "title": "Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI",
+          "url": "https://x.com/ClaudeDevs/status/2105721434807083061",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T18:08:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7378,
+      "importance": 0.7378,
+      "importance_score": 0.7378,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9176,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-01T18:08:07Z",
+      "latest_at": "2026-10-01T18:08:07Z",
+      "primary_item": {
+        "id": "7db0975ce244f1da554a8f5de278328282e7d7a1",
+        "title": "Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI",
+        "url": "https://x.com/ClaudeDevs/status/2105721434807083061",
+        "source": "X：Claude Devs (@ClaudeDevs)",
         "source_name": "AI HOT"
       }
     },
@@ -875,15 +1056,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7441,
-      "importance": 0.7441,
-      "importance_score": 0.7441,
+      "score": 0.7367,
+      "importance": 0.7367,
+      "importance_score": 0.7367,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7972,
+        "recency": 0.7562,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -898,66 +1079,6 @@
         "title": "ChatGPT 现可直接构建并部署 MCP 服务器",
         "url": "https://x.com/thsottiaux/status/2105519215092584786",
         "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8f584ffddbc7",
-      "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
-      "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
-      "primary_url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "73f55d5d3ab47ca86895e3f210b1ab06ec1d8be2",
-          "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
-          "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T21:09:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "73f55d5d3ab47ca86895e3f210b1ab06ec1d8be2",
-          "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
-          "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T21:09:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7372,
-      "importance": 0.7372,
-      "importance_score": 0.7372,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7145,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-30T21:09:24Z",
-      "latest_at": "2026-09-30T21:09:24Z",
-      "primary_item": {
-        "id": "73f55d5d3ab47ca86895e3f210b1ab06ec1d8be2",
-        "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
-        "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
-        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -996,15 +1117,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7349,
-      "importance": 0.7349,
-      "importance_score": 0.7349,
+      "score": 0.7268,
+      "importance": 0.7268,
+      "importance_score": 0.7268,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8852,
+        "recency": 0.8398,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1056,21 +1177,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
+      "score": 0.7458,
+      "importance": 0.7458,
+      "importance_score": 0.7458,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9789,
+        "recency": 0.9287,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-01T18:57:58Z",
       "latest_at": "2026-10-01T18:57:58Z",
@@ -1083,141 +1203,21 @@
       }
     },
     {
-      "story_id": "story_7b0443d9889b",
-      "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
-      "url": "https://modal.com/blog/modal-clusters-generally-available",
-      "primary_url": "https://modal.com/blog/modal-clusters-generally-available",
-      "source": "Modal 官方工程博客（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "10475e511695c99db79c08d74b401b4da02fb238",
-          "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
-          "url": "https://modal.com/blog/modal-clusters-generally-available",
-          "source": "Modal 官方工程博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Modal 官方工程博客（RSS）"
-      ],
-      "items": [
-        {
-          "id": "10475e511695c99db79c08d74b401b4da02fb238",
-          "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
-          "url": "https://modal.com/blog/modal-clusters-generally-available",
-          "source": "Modal 官方工程博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7224,
-      "importance": 0.7224,
-      "importance_score": 0.7224,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8322,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-01T07:43:19.740204Z",
-      "latest_at": "2026-10-01T07:43:19.740204Z",
-      "primary_item": {
-        "id": "10475e511695c99db79c08d74b401b4da02fb238",
-        "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
-        "url": "https://modal.com/blog/modal-clusters-generally-available",
-        "source": "Modal 官方工程博客（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ee61659f9646",
-      "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效",
-      "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
-      "primary_url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
-      "source": "Ethan Mollick：One Useful Thing（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f4d1bb95b4c1c4ef480458a314e5f4cdd932b05f",
-          "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效",
-          "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
-          "source": "Ethan Mollick：One Useful Thing（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T10:54:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Ethan Mollick：One Useful Thing（RSS）"
-      ],
-      "items": [
-        {
-          "id": "f4d1bb95b4c1c4ef480458a314e5f4cdd932b05f",
-          "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效",
-          "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
-          "source": "Ethan Mollick：One Useful Thing（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T10:54:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7204,
-      "importance": 0.7204,
-      "importance_score": 0.7204,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.64,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8713,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-01T10:54:12Z",
-      "latest_at": "2026-10-01T10:54:12Z",
-      "primary_item": {
-        "id": "f4d1bb95b4c1c4ef480458a314e5f4cdd932b05f",
-        "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效",
-        "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
-        "source": "Ethan Mollick：One Useful Thing（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e9f82fa22589",
-      "title": "Code coverage uploads no longer fail CI for new branches",
-      "url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
-      "primary_url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
+      "story_id": "story_90b9985c3923",
+      "title": "Dynamic workflows in Copilot CLI and the Copilot app",
+      "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "08ac06ec77af73913bce3f0971b90477a877cc42",
-          "title": "Code coverage uploads no longer fail CI for new branches",
-          "url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
+          "id": "d8368277fa437aacb740cd4f8390b9eacc5c78de",
+          "title": "Dynamic workflows in Copilot CLI and the Copilot app",
+          "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T16:49:05Z"
+          "published_at": "2026-10-01T16:30:10Z"
         }
       ],
       "source_count": 1,
@@ -1226,26 +1226,26 @@
       ],
       "items": [
         {
-          "id": "08ac06ec77af73913bce3f0971b90477a877cc42",
-          "title": "Code coverage uploads no longer fail CI for new branches",
-          "url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
+          "id": "d8368277fa437aacb740cd4f8390b9eacc5c78de",
+          "title": "Dynamic workflows in Copilot CLI and the Copilot app",
+          "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T16:49:05Z"
+          "published_at": "2026-10-01T16:30:10Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8348,
-      "importance": 0.8348,
-      "importance_score": 0.8348,
+      "score": 0.8333,
+      "importance": 0.8333,
+      "importance_score": 0.8333,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.949,
+        "ai_relevance": 0.91,
+        "recency": 0.8962,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1254,12 +1254,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-01T16:49:05Z",
-      "latest_at": "2026-10-01T16:49:05Z",
+      "earliest_at": "2026-10-01T16:30:10Z",
+      "latest_at": "2026-10-01T16:30:10Z",
       "primary_item": {
-        "id": "08ac06ec77af73913bce3f0971b90477a877cc42",
-        "title": "Code coverage uploads no longer fail CI for new branches",
-        "url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
+        "id": "d8368277fa437aacb740cd4f8390b9eacc5c78de",
+        "title": "Dynamic workflows in Copilot CLI and the Copilot app",
+        "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
